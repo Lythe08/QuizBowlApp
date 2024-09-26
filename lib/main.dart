@@ -2,7 +2,7 @@ import 'package:english_words/english_words.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-//Written by Lysander Pineapple 
+//Written by Lysander Pineapple
 
 void main() {
   runApp(MyApp());
@@ -38,7 +38,7 @@ class MyAppState extends ChangeNotifier {
 
   var favorites = <WordPair>[];
 
-  void toggleFavorite(){
+  void toggleFavorite() {
     if (favorites.contains(current)) {
       favorites.remove(current);
     } else {
@@ -87,8 +87,9 @@ class MyHomePage extends StatelessWidget {
   }
 }
 
-
 class GeneratorPage extends StatelessWidget {
+  final _textController = TextEditingController();
+
   @override
   Widget build(BuildContext context) {
     var appState = context.watch<MyAppState>();
@@ -105,6 +106,17 @@ class GeneratorPage extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
+          TextField(
+            controller: _textController,
+            decoration: InputDecoration(
+                hintText: 'Sigma Freud',
+                border: const OutlineInputBorder(),
+                suffixIcon: IconButton(
+                    onPressed: () {
+                      _textController.clear();
+                    },
+                    icon: Icon(Icons.clear))),
+          ),
           BigCard(pair: pair),
           SizedBox(height: 10),
           Row(
@@ -157,7 +169,7 @@ class BigCard extends StatelessWidget {
           pair.asLowerCase,
           style: style,
           semanticsLabel: "${pair.first} ${pair.second}",
-          ),
+        ),
       ),
     );
   }
