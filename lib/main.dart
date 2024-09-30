@@ -89,6 +89,7 @@ class MyHomePage extends StatelessWidget {
 
 class GeneratorPage extends StatelessWidget {
   final _textController = TextEditingController();
+  String userInput = "";
 
   @override
   Widget build(BuildContext context) {
@@ -138,17 +139,15 @@ class GeneratorPage extends StatelessWidget {
                     },
                     icon: Icon(Icons.clear))),
           ),
-          Row(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              ElevatedButton(
-                onPressed: () {
-                  print("buzzed");
-                },
-                child: Text('Buzz'),
-              ),
-            ]
-          ),
+          Row(mainAxisSize: MainAxisSize.min, children: [
+            ElevatedButton(
+              onPressed: () {
+                userInput = _textController.text;
+                print("buzzed");
+              },
+              child: Text('Buzz'),
+            ),
+          ]),
         ],
       ),
     );
