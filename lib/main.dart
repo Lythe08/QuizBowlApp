@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
     return ChangeNotifierProvider(
       create: (context) => MyAppState(),
       child: MaterialApp(
-        title: 'Quiz Bowl App',
+        title: 'Trivia Practice',
         theme: ThemeData(
           useMaterial3: true,
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.cyan.shade400),
@@ -106,17 +106,6 @@ class GeneratorPage extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          TextField(
-            controller: _textController,
-            decoration: InputDecoration(
-                hintText: 'Sigma Freud',
-                border: const OutlineInputBorder(),
-                suffixIcon: IconButton(
-                    onPressed: () {
-                      _textController.clear();
-                    },
-                    icon: Icon(Icons.clear))),
-          ),
           BigCard(pair: pair),
           SizedBox(height: 10),
           Row(
@@ -137,6 +126,28 @@ class GeneratorPage extends StatelessWidget {
                 child: Text('Next'),
               ),
             ],
+          ),
+          TextField(
+            controller: _textController,
+            decoration: InputDecoration(
+                hintText: 'Answer',
+                border: const OutlineInputBorder(),
+                suffixIcon: IconButton(
+                    onPressed: () {
+                      _textController.clear();
+                    },
+                    icon: Icon(Icons.clear))),
+          ),
+          Row(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              ElevatedButton(
+                onPressed: () {
+                  print("buzzed");
+                },
+                child: Text('Buzz'),
+              ),
+            ]
           ),
         ],
       ),
