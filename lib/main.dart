@@ -1,5 +1,6 @@
 import 'package:english_words/english_words.dart';
 import 'package:flutter/material.dart';
+import 'package:google_nav_bar/google_nav_bar.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'dart:convert';
@@ -78,35 +79,58 @@ class _MyHomePageState extends State<MyHomePage> {
     return LayoutBuilder(builder: (context, constraints) {
       return Scaffold(
         body: Row(
-          children: [
-            SafeArea(
-              child: NavigationRail(
-                extended: false,
-                destinations: [
-                  NavigationRailDestination(
-                    icon: Icon(Icons.home),
-                    label: Text('Home'),
-                  ),
-                  NavigationRailDestination(
-                    icon: Icon(Icons.favorite),
-                    label: Text('Favorites'),
-                  ),
-                ],
-                selectedIndex: selectedIndex,
-                onDestinationSelected: (value) {
-                  setState(() {
-                    selectedIndex = value;
-                  });
-                },
-              ),
+          // children: [
+          //   SafeArea(
+          //     child: NavigationRail(
+          //       extended: false,
+          //       destinations: [
+          //         NavigationRailDestination(
+          //           icon: Icon(Icons.home),
+          //           label: Text('Home'),
+          //         ),
+          //         NavigationRailDestination(
+          //           icon: Icon(Icons.favorite),
+          //           label: Text('Favorites'),
+          //         ),
+          //       ],
+          //       selectedIndex: selectedIndex,
+          //       onDestinationSelected: (value) {
+          //         setState(() {
+          //           selectedIndex = value;
+          //         });
+          //       },
+          //     ),
+          //   ),
+          //   Expanded(
+          //     child: Container(
+          //       color: Theme.of(context).colorScheme.primaryContainer,
+          //       child: page,
+          //     ),
+          //   ),
+          // ],
+        ),
+        bottomNavigationBar: Container(
+          color: Colors.black,
+          child: Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 15.0, vertical: 2.0),
+            child: GNav(
+              backgroundColor: Colors.black,
+              color: Theme.of(context).colorScheme.primaryContainer,
+              activeColor: Colors.white,
+              padding: EdgeInsets.all(16),
+              onTabChange: (index) {
+                print(index);
+                setState(() {
+                  selectedIndex = index;
+                });
+              },
+              tabs: const [
+                GButton(icon: Icons.home),
+                GButton(icon: Icons.favorite_border),
+                GButton(icon: Icons.settings),
+              ],
             ),
-            Expanded(
-              child: Container(
-                color: Theme.of(context).colorScheme.primaryContainer,
-                child: page,
-              ),
-            ),
-          ],
+          ),
         ),
       );
     });
