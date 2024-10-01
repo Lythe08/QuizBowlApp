@@ -1,6 +1,8 @@
 import 'package:english_words/english_words.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:flutter/services.dart' show rootBundle;
+import 'dart:convert';
 
 //Written by Lysander Pineapple
 
@@ -57,7 +59,13 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   var selectedIndex = 0;
-  
+
+  @override
+  void initState() {
+    super.initState();
+    loadJsonAsset();
+  }
+
   @override
   Widget build(BuildContext context) {
     Widget page;
@@ -108,8 +116,17 @@ class _MyHomePageState extends State<MyHomePage> {
       );
     });
   }
-}
 
+  var jsonData;
+  Future<void> loadJsonAsset() async {
+    final String jsonString = await rootBundle.loadString('assets/data.json');
+    var data = jsonDecode(jsonString);
+    setState(() {
+      jsonData = data;
+    });
+    //print(jsonData);
+  }
+}
 
 class GeneratorPage extends StatelessWidget {
   final _textController = TextEditingController();
@@ -215,9 +232,7 @@ class FavoritesPage extends StatelessWidget {
     var appState = context.watch<MyAppState>();
 
     if (appState.favorites.isEmpty) {
-      return Center(
-        child: Text('No favorites yet.')
-      );
+      return Center(child: Text('No favorites yet.'));
     }
 
     return ListView(
@@ -226,7 +241,7 @@ class FavoritesPage extends StatelessWidget {
           padding: EdgeInsets.all(20),
           child: Text('You have ${appState.favorites.length} favorites:'),
         ),
-        for (var pair in appState.favorites) 
+        for (var pair in appState.favorites)
           ListTile(
             leading: Icon(Icons.favorite),
             title: Text(pair.asLowerCase),
