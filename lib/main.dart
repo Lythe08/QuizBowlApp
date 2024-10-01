@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    print("Sigma freud");
     return ChangeNotifierProvider(
       create: (context) => MyAppState(),
       child: MaterialApp(
@@ -61,13 +62,8 @@ class _MyHomePageState extends State<MyHomePage> {
   var selectedIndex = 0;
 
   @override
-  void initState() {
-    super.initState();
-    loadJsonAsset();
-  }
-
-  @override
   Widget build(BuildContext context) {
+    loadJsonAsset();
     Widget page;
     switch (selectedIndex) {
       case 0:
@@ -79,7 +75,6 @@ class _MyHomePageState extends State<MyHomePage> {
       default:
         throw UnimplementedError('no widget for $selectedIndex');
     }
-
     return LayoutBuilder(builder: (context, constraints) {
       return Scaffold(
         body: Row(
@@ -121,10 +116,15 @@ class _MyHomePageState extends State<MyHomePage> {
   Future<void> loadJsonAsset() async {
     final String jsonString = await rootBundle.loadString('assets/data.json');
     var data = jsonDecode(jsonString);
+    final Map dataList = jsonDecode(jsonString);
     setState(() {
       jsonData = data;
     });
-    //print(jsonData);
+    var tossups = dataList["tossups"];
+    var question = tossups[0];
+    var questionText = question["question"];
+    var answer = question["answer_sanitized"];
+    print(answer);
   }
 }
 
