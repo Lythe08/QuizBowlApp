@@ -114,10 +114,10 @@ class _MyHomePageState extends State<MyHomePage> {
         bottomNavigationBar: Container(
           color: Colors.black,
           child: Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 15.0, vertical: 2.0),
+            padding: const EdgeInsets.symmetric(horizontal: 40.0, vertical: 2.0),
             child: GNav(
               backgroundColor: Colors.black,
-              color: Theme.of(context).colorScheme.primaryContainer,
+              color: Colors.grey[600],
               activeColor: Colors.white,
               padding: EdgeInsets.all(16),
               onTabChange: (index) {
@@ -128,7 +128,7 @@ class _MyHomePageState extends State<MyHomePage> {
               },
               tabs: const [
                 GButton(icon: Icons.home),
-                GButton(icon: Icons.favorite_border),
+                GButton(icon: Icons.grade),
                 GButton(icon: Icons.settings),
               ],
             ),
@@ -165,9 +165,9 @@ class GeneratorPage extends StatelessWidget {
 
     IconData icon;
     if (appState.favorites.contains(pair)) {
-      icon = Icons.favorite;
+      icon = Icons.turned_in;
     } else {
-      icon = Icons.favorite_border;
+      icon = Icons.turned_in_not;
     }
 
     return Center(
@@ -184,7 +184,7 @@ class GeneratorPage extends StatelessWidget {
                   appState.toggleFavorite();
                 },
                 icon: Icon(icon),
-                label: Text('Like'),
+                label: Text('Save'),
               ),
               SizedBox(width: 10),
               ElevatedButton(
@@ -199,6 +199,7 @@ class GeneratorPage extends StatelessWidget {
             controller: _textController,
             decoration: InputDecoration(
                 hintText: 'Answer',
+                contentPadding: EdgeInsets.symmetric(horizontal: 10.0),
                 border: const OutlineInputBorder(),
                 suffixIcon: IconButton(
                     onPressed: () {
@@ -258,14 +259,14 @@ class FavoritesPage extends StatelessWidget {
     var appState = context.watch<MyAppState>();
 
     if (appState.favorites.isEmpty) {
-      return Center(child: Text('No favorites yet.'));
+      return Center(child: Text('No saved questions yet.'));
     }
 
     return ListView(
       children: [
         Padding(
           padding: EdgeInsets.all(20),
-          child: Text('You have ${appState.favorites.length} favorites:'),
+          child: Text('You have ${appState.favorites.length} saved questions:'),
         ),
         for (var pair in appState.favorites)
           ListTile(
