@@ -81,7 +81,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return LayoutBuilder(builder: (context, constraints) {
       return Scaffold(
         body: Row(
-          // children: [
+          children: [
           //   SafeArea(
           //     child: NavigationRail(
           //       extended: false,
@@ -103,13 +103,13 @@ class _MyHomePageState extends State<MyHomePage> {
           //       },
           //     ),
           //   ),
-          //   Expanded(
-          //     child: Container(
-          //       color: Theme.of(context).colorScheme.primaryContainer,
-          //       child: page,
-          //     ),
-          //   ),
-          // ],
+            Expanded(
+              child: Container(
+                color: Theme.of(context).colorScheme.primaryContainer,
+                child: page,
+              ),
+            ),
+          ],
         ),
         bottomNavigationBar: Container(
           color: Colors.black,
