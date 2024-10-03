@@ -73,6 +73,8 @@ class _MyHomePageState extends State<MyHomePage> {
       case 1:
         page = FavoritesPage();
         break;
+      case 2:
+        page = Placeholder();
       default:
         throw UnimplementedError('no widget for $selectedIndex');
     }
