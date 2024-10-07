@@ -8,6 +8,7 @@ import 'dart:convert';
 //Written by Lysander Pineapple
 
 void main() {
+  loadJsonAsset();
   runApp(MyApp());
 }
 
@@ -16,7 +17,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    print("Sigma freud");
     return ChangeNotifierProvider(
       create: (context) => MyAppState(),
       child: MaterialApp(
@@ -81,27 +81,6 @@ class _MyHomePageState extends State<MyHomePage> {
       return Scaffold(
         body: Row(
           children: [
-            //   SafeArea(
-            //     child: NavigationRail(
-            //       extended: false,
-            //       destinations: [
-            //         NavigationRailDestination(
-            //           icon: Icon(Icons.home),
-            //           label: Text('Home'),
-            //         ),
-            //         NavigationRailDestination(
-            //           icon: Icon(Icons.favorite),
-            //           label: Text('Favorites'),
-            //         ),
-            //       ],
-            //       selectedIndex: selectedIndex,
-            //       onDestinationSelected: (value) {
-            //         setState(() {
-            //           selectedIndex = value;
-            //         });
-            //       },
-            //     ),
-            //   ),
             Expanded(
               child: Container(
                 color: Theme.of(context).colorScheme.primaryContainer,
@@ -145,7 +124,6 @@ class GeneratorPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    loadJsonAsset();
     var appState = context.watch<MyAppState>();
     var pair = appState.current;
 
@@ -160,7 +138,7 @@ class GeneratorPage extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          BigCard(q: tossups[0]["question"]),
+          Question(q: tossups[0]["question"]),
           SizedBox(height: 10),
           Row(
             mainAxisSize: MainAxisSize.min,
@@ -210,22 +188,12 @@ class GeneratorPage extends StatelessWidget {
 
 // ...
 
-class BigCard extends StatelessWidget {
-  const BigCard({required this.q
-      // super.key,
-      // required this.pair,
-      });
-
-  // final WordPair pair;
+class Question extends StatelessWidget {
+  const Question({required this.q});
   final String q;
 
   @override
   Widget build(BuildContext context) {
-    final theme = Theme.of(context);
-    final style = theme.textTheme.displayMedium!.copyWith(
-      color: theme.colorScheme.onPrimary,
-    );
-
     return Text(
       q,
       style: TextStyle(height: 5, fontSize: 10),
