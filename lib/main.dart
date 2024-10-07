@@ -228,7 +228,7 @@ class BigCard extends StatelessWidget {
 
     return Text(
       q,
-      style: style,
+      style: TextStyle(height: 5, fontSize: 10),
       semanticsLabel: "q",
     );
   }
