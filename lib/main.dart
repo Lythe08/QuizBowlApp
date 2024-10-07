@@ -64,7 +64,6 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   Widget build(BuildContext context) {
-    loadJsonAsset();
     Widget page;
     switch (selectedIndex) {
       case 0:
@@ -82,27 +81,27 @@ class _MyHomePageState extends State<MyHomePage> {
       return Scaffold(
         body: Row(
           children: [
-          //   SafeArea(
-          //     child: NavigationRail(
-          //       extended: false,
-          //       destinations: [
-          //         NavigationRailDestination(
-          //           icon: Icon(Icons.home),
-          //           label: Text('Home'),
-          //         ),
-          //         NavigationRailDestination(
-          //           icon: Icon(Icons.favorite),
-          //           label: Text('Favorites'),
-          //         ),
-          //       ],
-          //       selectedIndex: selectedIndex,
-          //       onDestinationSelected: (value) {
-          //         setState(() {
-          //           selectedIndex = value;
-          //         });
-          //       },
-          //     ),
-          //   ),
+            //   SafeArea(
+            //     child: NavigationRail(
+            //       extended: false,
+            //       destinations: [
+            //         NavigationRailDestination(
+            //           icon: Icon(Icons.home),
+            //           label: Text('Home'),
+            //         ),
+            //         NavigationRailDestination(
+            //           icon: Icon(Icons.favorite),
+            //           label: Text('Favorites'),
+            //         ),
+            //       ],
+            //       selectedIndex: selectedIndex,
+            //       onDestinationSelected: (value) {
+            //         setState(() {
+            //           selectedIndex = value;
+            //         });
+            //       },
+            //     ),
+            //   ),
             Expanded(
               child: Container(
                 color: Theme.of(context).colorScheme.primaryContainer,
@@ -114,7 +113,8 @@ class _MyHomePageState extends State<MyHomePage> {
         bottomNavigationBar: Container(
           color: Colors.black,
           child: Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 40.0, vertical: 2.0),
+            padding:
+                const EdgeInsets.symmetric(horizontal: 40.0, vertical: 2.0),
             child: GNav(
               backgroundColor: Colors.black,
               color: Colors.grey[600],
@@ -137,21 +137,6 @@ class _MyHomePageState extends State<MyHomePage> {
       );
     });
   }
-
-  var jsonData;
-  Future<void> loadJsonAsset() async {
-    final String jsonString = await rootBundle.loadString('assets/data.json');
-    var data = jsonDecode(jsonString);
-    final Map dataList = jsonDecode(jsonString);
-    setState(() {
-      jsonData = data;
-    });
-    var tossups = dataList["tossups"];
-    var question = tossups[0];
-    var questionText = question["question"];
-    var answer = question["answer_sanitized"];
-    print(answer);
-  }
 }
 
 class GeneratorPage extends StatelessWidget {
@@ -160,6 +145,7 @@ class GeneratorPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    loadJsonAsset();
     var appState = context.watch<MyAppState>();
     var pair = appState.current;
 
@@ -174,7 +160,7 @@ class GeneratorPage extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          BigCard(pair: pair),
+          BigCard(q: tossups[0]["question"]),
           SizedBox(height: 10),
           Row(
             mainAxisSize: MainAxisSize.min,
@@ -189,7 +175,7 @@ class GeneratorPage extends StatelessWidget {
               SizedBox(width: 10),
               ElevatedButton(
                 onPressed: () {
-                  appState.getNext();
+                  // appState.getNext();
                 },
                 child: Text('Next'),
               ),
@@ -225,12 +211,13 @@ class GeneratorPage extends StatelessWidget {
 // ...
 
 class BigCard extends StatelessWidget {
-  const BigCard({
-    super.key,
-    required this.pair,
-  });
+  const BigCard({required this.q
+      // super.key,
+      // required this.pair,
+      });
 
-  final WordPair pair;
+  // final WordPair pair;
+  final String q;
 
   @override
   Widget build(BuildContext context) {
@@ -239,16 +226,10 @@ class BigCard extends StatelessWidget {
       color: theme.colorScheme.onPrimary,
     );
 
-    return Card(
-      color: theme.colorScheme.primary,
-      child: Padding(
-        padding: const EdgeInsets.all(5),
-        child: Text(
-          pair.asLowerCase,
-          style: style,
-          semanticsLabel: "${pair.first} ${pair.second}",
-        ),
-      ),
+    return Text(
+      q,
+      style: style,
+      semanticsLabel: "q",
     );
   }
 }
@@ -276,4 +257,15 @@ class FavoritesPage extends StatelessWidget {
       ],
     );
   }
+}
+
+var tossups;
+Future<void> loadJsonAsset() async {
+  final String jsonString = await rootBundle.loadString('assets/data.json');
+  final Map dataList = jsonDecode(jsonString);
+  tossups = dataList["tossups"];
+  var question = tossups[0];
+  var questionText = question["question"];
+  var answer = question["answer_sanitized"];
+  print(answer);
 }
