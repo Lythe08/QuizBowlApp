@@ -185,9 +185,15 @@ class _GeneratorPageState extends State<GeneratorPage> {
             ElevatedButton(
               onPressed: () {
                 userInput = _textController.text;
-                print("buzzed");
+                //check if in answer
+                var answer = Question.tossups[0]["answer_sanitized"].toLowerCase();
+                print(answer);
+                print(userInput);
+                RegExp userAnswer = RegExp(userInput.toLowerCase());
+                RegExpMatch? match = userAnswer.firstMatch(answer);
+                print(match![0]);
               },
-              child: Text('Buzz'),
+              child: Text('Submit'),
             ),
           ]),
         ],
