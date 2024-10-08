@@ -4,12 +4,14 @@ import 'package:google_nav_bar/google_nav_bar.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'dart:convert';
+import 'dart:math';
 
 //Written by Lysander Pineapple
 
 void main() {
-  loadJsonAsset();
+  // Question.loadJsonAsset();
   runApp(MyApp());
+  Question.loadJsonAsset();
 }
 
 class MyApp extends StatelessWidget {
@@ -118,8 +120,14 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 
-class GeneratorPage extends StatelessWidget {
+class GeneratorPage extends StatefulWidget {
+  @override
+  State<GeneratorPage> createState() => _GeneratorPageState();
+}
+
+class _GeneratorPageState extends State<GeneratorPage> {
   final _textController = TextEditingController();
+  String questionText = "";
   String userInput = "";
 
   @override
@@ -138,7 +146,7 @@ class GeneratorPage extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Question(q: tossups[0]["question"]),
+          Question(question: questionText),
           SizedBox(height: 10),
           Row(
             mainAxisSize: MainAxisSize.min,
@@ -153,7 +161,9 @@ class GeneratorPage extends StatelessWidget {
               SizedBox(width: 10),
               ElevatedButton(
                 onPressed: () {
-                  // appState.getNext();
+                  setState(() {
+                    questionText = Question.getRandomQuestion();
+                  });
                 },
                 child: Text('Next'),
               ),
@@ -188,14 +198,32 @@ class GeneratorPage extends StatelessWidget {
 
 // ...
 
-class Question extends StatelessWidget {
-  const Question({required this.q});
-  final String q;
+class Question extends StatefulWidget {
+  static dynamic tossups = null;
+  static var rng = Random();
+  String question;
+  Question({required this.question});
 
+  @override
+  State<Question> createState() => _QuestionState();
+
+  static String getRandomQuestion() {
+    return tossups[rng.nextInt(200)]["question"];
+  }
+
+  static void loadJsonAsset() async {
+    final String jsonString = await rootBundle.loadString('assets/data.json');
+    final Map dataList = jsonDecode(jsonString);
+    tossups = dataList["tossups"];
+    // return tossups;
+  }
+}
+
+class _QuestionState extends State<Question> {
   @override
   Widget build(BuildContext context) {
     return Text(
-      q,
+      widget.question,
       style: TextStyle(height: 5, fontSize: 10),
       semanticsLabel: "q",
     );
@@ -225,15 +253,4 @@ class FavoritesPage extends StatelessWidget {
       ],
     );
   }
-}
-
-var tossups;
-Future<void> loadJsonAsset() async {
-  final String jsonString = await rootBundle.loadString('assets/data.json');
-  final Map dataList = jsonDecode(jsonString);
-  tossups = dataList["tossups"];
-  var question = tossups[0];
-  var questionText = question["question"];
-  var answer = question["answer_sanitized"];
-  print(answer);
 }
