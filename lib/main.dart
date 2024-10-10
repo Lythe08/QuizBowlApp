@@ -1,5 +1,5 @@
 import 'dart:math';
-
+import 'dart:async';
 import 'package:english_words/english_words.dart';
 import 'package:flutter/material.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
@@ -132,6 +132,9 @@ class _GeneratorPageState extends State<GeneratorPage> {
   dynamic questionStuff = null;
   String questionText = "";
   String userInput = "";
+  String displayedText = "";
+  int currentWordIndex = 0;
+  Timer? _timer;
 
   @override
   Widget build(BuildContext context) {
@@ -149,7 +152,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Question(question: questionText),
+          Question(question: displayedText),
           SizedBox(height: 10),
           Row(
             mainAxisSize: MainAxisSize.min,
@@ -167,6 +170,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
                   setState(() {
                     questionStuff = Question.getRandomQuestion();
                     questionText = questionStuff["question"];
+                    startTyping();
                   });
                 },
                 child: Text('Next'),
@@ -198,33 +202,44 @@ class _GeneratorPageState extends State<GeneratorPage> {
                 RegExpMatch? match = userAnswer.firstMatch(lowerAnswer);
                 if (match?[0] != null) {
                   print('match in regexp');
-                  var splitAnswer = userInput.toLowerCase().split(' '); //list of words in user answer
-                  var splitCorrect = lowerAnswer.split(' '); //list of words in correct ansewr
+                  var splitAnswer = userInput
+                      .toLowerCase()
+                      .split(' '); //list of words in user answer
+                  var splitCorrect =
+                      lowerAnswer.split(' '); //list of words in correct ansewr
 
-                  var indexList = []; //list of indices in splitCorrect where 1st string in splitAnswer matches string in splitCorrect
+                  var indexList =
+                      []; //list of indices in splitCorrect where 1st string in splitAnswer matches string in splitCorrect
                   for (int i = 0; i < splitCorrect.length; i++) {
                     if (splitCorrect[i] == splitAnswer[0]) indexList.add(i);
                   }
                   if (splitAnswer.length == 1) {
-                    if (indexList.length > 0) print("answer is correct!");
-                    else print("answer is incorrect!");
-                  }
-                  else {
+                    if (indexList.length > 0)
+                      print("answer is correct!");
+                    else
+                      print("answer is incorrect!");
+                  } else {
                     var allCorrect = true;
                     int numCorrect = 0;
-                    for (int k = 0; k < indexList.length; k++) {//going through each index where user's 1st string matches string in answer
-                      for (int l = 1; l < splitAnswer.length; l++) { //going through user answer strings
+                    for (int k = 0; k < indexList.length; k++) {
+                      //going through each index where user's 1st string matches string in answer
+                      for (int l = 1; l < splitAnswer.length; l++) {
+                        //going through user answer strings
                         //checking with corresponding following string in correct answer
-                        if (splitAnswer[l] != splitCorrect[k+l]) allCorrect = false;
+                        if (splitAnswer[l] != splitCorrect[k + l])
+                          allCorrect = false;
                       }
-                      if (allCorrect) numCorrect++; //if all strings in user answer match strings in correct strings
+                      if (allCorrect)
+                        numCorrect++; //if all strings in user answer match strings in correct strings
                       allCorrect = true; //reset
                     }
-                    if (numCorrect > 0) print("CORRECT ANSWER!");
-                    else print("WRONG");
+                    if (numCorrect > 0)
+                      print("CORRECT ANSWER!");
+                    else
+                      print("WRONG");
                   }
-                }
-                else print('no match in regexp');
+                } else
+                  print('no match in regexp');
               },
               child: Text('Submit'),
             ),
@@ -232,6 +247,22 @@ class _GeneratorPageState extends State<GeneratorPage> {
         ],
       ),
     );
+  }
+
+  void startTyping() {
+    List<String> words = questionText.split(' ');
+
+    _timer = Timer.periodic(Duration(milliseconds: 500), (timer) {
+      if (currentWordIndex < words.length) {
+        setState(() {
+          displayedText +=
+              (currentWordIndex == 0 ? "" : " ") + words[currentWordIndex];
+          currentWordIndex++;
+        });
+      } else {
+        _timer?.cancel(); // Stop the timer once all words are displayed
+      }
+    });
   }
 }
 
