@@ -1,3 +1,5 @@
+import 'dart:math';
+
 import 'package:english_words/english_words.dart';
 import 'package:flutter/material.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
@@ -127,6 +129,7 @@ class GeneratorPage extends StatefulWidget {
 
 class _GeneratorPageState extends State<GeneratorPage> {
   final _textController = TextEditingController();
+  dynamic questionStuff = null;
   String questionText = "";
   String userInput = "";
 
@@ -162,7 +165,8 @@ class _GeneratorPageState extends State<GeneratorPage> {
               ElevatedButton(
                 onPressed: () {
                   setState(() {
-                    questionText = Question.getRandomQuestion();
+                    questionStuff = Question.getRandomQuestion();
+                    questionText = questionStuff["question"];
                   });
                 },
                 child: Text('Next'),
@@ -186,12 +190,41 @@ class _GeneratorPageState extends State<GeneratorPage> {
               onPressed: () {
                 userInput = _textController.text;
                 //check if in answer
-                var answer = Question.tossups[0]["answer_sanitized"].toLowerCase();
+                var answer = questionStuff["answer_sanitized"];
+                var lowerAnswer = answer.toLowerCase();
                 print(answer);
                 print(userInput);
                 RegExp userAnswer = RegExp(userInput.toLowerCase());
-                RegExpMatch? match = userAnswer.firstMatch(answer);
-                print(match![0]);
+                RegExpMatch? match = userAnswer.firstMatch(lowerAnswer);
+                if (match?[0] != null) {
+                  print('match in regexp');
+                  var splitAnswer = userInput.toLowerCase().split(' '); //list of words in user answer
+                  var splitCorrect = lowerAnswer.split(' '); //list of words in correct ansewr
+
+                  var indexList = []; //list of indices in splitCorrect where 1st string in splitAnswer matches string in splitCorrect
+                  for (int i = 0; i < splitCorrect.length; i++) {
+                    if (splitCorrect[i] == splitAnswer[0]) indexList.add(i);
+                  }
+                  if (splitAnswer.length == 1) {
+                    if (indexList.length > 0) print("answer is correct!");
+                    else print("answer is incorrect!");
+                  }
+                  else {
+                    var allCorrect = true;
+                    int numCorrect = 0;
+                    for (int k = 0; k < indexList.length; k++) {//going through each index where user's 1st string matches string in answer
+                      for (int l = 1; l < splitAnswer.length; l++) { //going through user answer strings
+                        //checking with corresponding following string in correct answer
+                        if (splitAnswer[l] != splitCorrect[k+l]) allCorrect = false;
+                      }
+                      if (allCorrect) numCorrect++; //if all strings in user answer match strings in correct strings
+                      allCorrect = true; //reset
+                    }
+                    if (numCorrect > 0) print("CORRECT ANSWER!");
+                    else print("WRONG");
+                  }
+                }
+                else print('no match in regexp');
               },
               child: Text('Submit'),
             ),
@@ -213,8 +246,8 @@ class Question extends StatefulWidget {
   @override
   State<Question> createState() => _QuestionState();
 
-  static String getRandomQuestion() {
-    return tossups[rng.nextInt(200)]["question"];
+  static Map getRandomQuestion() {
+    return tossups[rng.nextInt(200)];
   }
 
   static void loadJsonAsset() async {
