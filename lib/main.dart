@@ -252,14 +252,27 @@ class _GeneratorPageState extends State<GeneratorPage> {
   void startTyping() {
     List<String> words = questionText.split(' ');
 
-    _timer = Timer.periodic(Duration(milliseconds: 500), (timer) {
+    _timer = Timer.periodic(Duration(milliseconds: 100), (timer) {
       if (currentWordIndex < words.length) {
         setState(() {
+          if (words[currentWordIndex].contains("<") ||
+              words[currentWordIndex].contains(">")) {
+            words[currentWordIndex] =
+                words[currentWordIndex].replaceAll("</b>", "");
+            words[currentWordIndex] =
+                words[currentWordIndex].replaceAll("<b>", "");
+            words[currentWordIndex] =
+                words[currentWordIndex].replaceAll("</i>", "");
+            words[currentWordIndex] =
+                words[currentWordIndex].replaceAll("<i>", "");
+          }
           displayedText +=
               (currentWordIndex == 0 ? "" : " ") + words[currentWordIndex];
           currentWordIndex++;
         });
       } else {
+        displayedText = "";
+        currentWordIndex = 0;
         _timer?.cancel(); // Stop the timer once all words are displayed
       }
     });
