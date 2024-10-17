@@ -171,6 +171,9 @@ class _GeneratorPageState extends State<GeneratorPage> {
                   setState(() {
                     questionStuff = Question.getRandomQuestion();
                     questionText = questionStuff["question"];
+                    _timer?.cancel();
+                    displayedText = "";
+                    currentWordIndex = 0;
                     startTyping();
                   });
                 },
@@ -253,7 +256,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
   void startTyping() {
     List<String> words = questionText.split(' ');
 
-    _timer = Timer.periodic(Duration(milliseconds: 100), (timer) {
+    _timer = Timer.periodic(Duration(milliseconds: 125), (timer) {
       if (currentWordIndex < words.length) {
         setState(() {
           if (words[currentWordIndex].contains("<") ||
@@ -306,10 +309,12 @@ class Question extends StatefulWidget {
 class _QuestionState extends State<Question> {
   @override
   Widget build(BuildContext context) {
-    return Text(
-      widget.question,
-      style: TextStyle(height: 5, fontSize: 10),
-      semanticsLabel: "q",
+    return Padding(
+      padding: const EdgeInsets.all(20.0),
+      child: Text(
+        widget.question,
+        style: TextStyle(height: 2.5, fontSize: 13.0),
+      ),
     );
   }
 }
