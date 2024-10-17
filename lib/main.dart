@@ -194,48 +194,47 @@ class _GeneratorPageState extends State<GeneratorPage> {
                 var lowerAnswer = answer.toLowerCase();
                 print(answer);
                 print(userInput);
-                RegExp userAnswer = RegExp(userInput.toLowerCase());
-                RegExpMatch? match = userAnswer.firstMatch(lowerAnswer);
-                if (match?[0] != null) {
-                  print('match in regexp');
-                  var splitAnswer = userInput
-                      .toLowerCase()
-                      .split(' '); //list of words in user answer
-                  var splitCorrect =
-                      lowerAnswer.split(' '); //list of words in correct ansewr
+                
+                var splitAnswer = userInput
+                    .toLowerCase()
+                    .split(' '); //list of words in user answer
+                var splitCorrect =
+                    lowerAnswer.split(' '); //list of words in correct ansewr
 
-                  var indexList =
-                      []; //list of indices in splitCorrect where 1st string in splitAnswer matches string in splitCorrect
-                  for (int i = 0; i < splitCorrect.length; i++) {
-                    if (splitCorrect[i] == splitAnswer[0]) indexList.add(i);
-                  }
-                  if (splitAnswer.length == 1) {
-                    if (indexList.length > 0)
-                      print("answer is correct!");
-                    else
-                      print("answer is incorrect!");
-                  } else {
-                    var allCorrect = true;
-                    int numCorrect = 0;
-                    for (int k = 0; k < indexList.length; k++) {
-                      //going through each index where user's 1st string matches string in answer
-                      for (int l = 1; l < splitAnswer.length; l++) {
-                        //going through user answer strings
-                        //checking with corresponding following string in correct answer
-                        if (splitAnswer[l] != splitCorrect[k + l])
-                          allCorrect = false;
-                      }
-                      if (allCorrect)
-                        numCorrect++; //if all strings in user answer match strings in correct strings
-                      allCorrect = true; //reset
+                var indexList =
+                    []; //list of indices in splitCorrect where 1st string in splitAnswer matches string in splitCorrect
+                for (int i = 0; i < splitCorrect.length; i++) {
+                  if (splitCorrect[i] == splitAnswer[0]) indexList.add(i);
+                }
+                if (splitAnswer.length == 1) {
+                  if (indexList.length > 0)
+                    print("answer is correct!");
+                  else
+                    print("answer is incorrect!");
+                } else {
+                  var correct = true;
+                  int numCorrect = 0;
+                  for (int k = 0; k < indexList.length; k++) {
+                    //going through each index where user's 1st string matches string in answer
+                    for (int l = 1; l < splitAnswer.length; l++) {
+                      var comparison = TermSimilarity(splitAnswer[l], splitCorrect[k+l]);
+                      if (comparison.editSimilarity > 1) correct = false;
+                      // //going through user answer strings
+                      // //checking with corresponding following string in correct answer
+                      // if (splitAnswer[l] != splitCorrect[k + l])
+                      //   allCorrect = false;
+
                     }
-                    if (numCorrect > 0)
-                      print("CORRECT ANSWER!");
-                    else
-                      print("WRONG");
+                    if (correct)
+                      numCorrect++; //if all strings in user answer match strings in correct strings
+                    correct = true; //reset
                   }
-                } else
-                  print('no match in regexp');
+                  print(numCorrect);
+                  if (numCorrect == splitAnswer.length)
+                    print("CORRECT ANSWER!");
+                  else
+                    print("WRONG");
+                }
               },
               child: Text('Submit'),
             ),
