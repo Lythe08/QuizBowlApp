@@ -38,20 +38,13 @@ class MyApp extends StatelessWidget {
 }
 
 class MyAppState extends ChangeNotifier {
-  var current = WordPair.random();
+  var favorites = [];
 
-  void getNext() {
-    current = WordPair.random();
-    notifyListeners();
-  }
-
-  var favorites = <WordPair>[];
-
-  void toggleFavorite() {
-    if (favorites.contains(current)) {
-      favorites.remove(current);
+  void toggleFavorite(int add) {
+    if (favorites.contains(add)) {
+      favorites.remove(add);
     } else {
-      favorites.add(current);
+      favorites.add(add);
     }
     notifyListeners();
   }
@@ -140,14 +133,13 @@ class _GeneratorPageState extends State<GeneratorPage> {
   @override
   Widget build(BuildContext context) {
     var appState = context.watch<MyAppState>();
-    var pair = appState.current;
 
     IconData icon;
-    if (appState.favorites.contains(pair)) {
-      icon = Icons.turned_in;
-    } else {
-      icon = Icons.turned_in_not;
-    }
+    // if (appState.favorites.contains(pair)) {
+    //   icon = Icons.turned_in;
+    // } else {
+    //   icon = Icons.turned_in_not;
+    // }
 
     return Center(
       child: Column(
@@ -160,9 +152,9 @@ class _GeneratorPageState extends State<GeneratorPage> {
             children: [
               ElevatedButton.icon(
                 onPressed: () {
-                  appState.toggleFavorite();
+                  appState.toggleFavorite(0);
                 },
-                icon: Icon(icon),
+                // icon: Icon(icon),
                 label: Text('Save'),
               ),
               SizedBox(width: 10),
