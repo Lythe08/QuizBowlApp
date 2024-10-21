@@ -194,6 +194,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
                 var lowerAnswer = answer.toLowerCase();
                 print(answer);
                 print(userInput);
+                int numCorrect = 0;
                 
                 var splitAnswer = userInput
                     .toLowerCase()
@@ -204,37 +205,37 @@ class _GeneratorPageState extends State<GeneratorPage> {
                 var indexList =
                     []; //list of indices in splitCorrect where 1st string in splitAnswer matches string in splitCorrect
                 for (int i = 0; i < splitCorrect.length; i++) {
-                  if (splitCorrect[i] == splitAnswer[0]) indexList.add(i);
+                  var comparison = TermSimilarity(splitAnswer[0], splitCorrect[i]);
+                  print("edit distance for correct answer index $i:");
+                  print(comparison.editDistance/splitAnswer[0].length);
+                  if (comparison.editDistance/splitAnswer[0].length <= .25) indexList.add(i);
                 }
-                if (splitAnswer.length == 1) {
-                  if (indexList.length > 0)
-                    print("answer is correct!");
-                  else
-                    print("answer is incorrect!");
-                } else {
-                  var correct = true;
-                  int numCorrect = 0;
-                  for (int k = 0; k < indexList.length; k++) {
-                    //going through each index where user's 1st string matches string in answer
-                    for (int l = 1; l < splitAnswer.length; l++) {
-                      var comparison = TermSimilarity(splitAnswer[l], splitCorrect[k+l]);
-                      if (comparison.editSimilarity > 1) correct = false;
-                      // //going through user answer strings
-                      // //checking with corresponding following string in correct answer
-                      // if (splitAnswer[l] != splitCorrect[k + l])
-                      //   allCorrect = false;
 
-                    }
+                var correct;
+                for (int k = 0; k < indexList.length; k++) { //going through each index where user's 1st string matches string in answer
+                  print("index in outer loop: $k");
+                  for (int l = 0; l < splitAnswer.length; l++) { //goes through the list of users answer string
+                    var comparison = TermSimilarity(splitAnswer[l], splitCorrect[indexList[k]+l]);
+                    print("edit distance for user input index $l:");
+                    print(comparison.editDistance/splitAnswer[l].length);
+                    print("user input: ${splitAnswer[l]} || correct: ${splitCorrect[indexList[k]+l]}");
+                    if (comparison.editDistance/splitAnswer[l].length > .25) correct = false;
+                    else correct = true;
+                    // //going through user answer strings
+                    // //checking with corresponding following string in correct answer
+                    // if (splitAnswer[l] != splitCorrect[k + l])
+                    //   allCorrect = false;
+
                     if (correct)
                       numCorrect++; //if all strings in user answer match strings in correct strings
                     correct = true; //reset
                   }
-                  print(numCorrect);
-                  if (numCorrect == splitAnswer.length)
-                    print("CORRECT ANSWER!");
-                  else
-                    print("WRONG");
                 }
+                print(numCorrect);
+                if (numCorrect >= splitAnswer.length)
+                  print("CORRECT ANSWER!");
+                else
+                  print("WRONG");
               },
               child: Text('Submit'),
             ),
