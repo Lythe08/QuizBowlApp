@@ -129,6 +129,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
   String displayedText = "";
   int currentWordIndex = 0;
   Timer? _timer;
+  Color buttonColor = Colors.white;
 
   @override
   Widget build(BuildContext context) {
@@ -161,6 +162,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
               ElevatedButton(
                 onPressed: () {
                   setState(() {
+                    buttonColor = Colors.white;
                     questionStuff = Question.getRandomQuestion();
                     questionText = questionStuff["question"];
                     _timer?.cancel();
@@ -187,6 +189,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
           ),
           Row(mainAxisSize: MainAxisSize.min, children: [
             ElevatedButton(
+              style: ElevatedButton.styleFrom(backgroundColor: buttonColor),
               onPressed: () {
                 userInput = _textController.text;
                 //check if in answer
@@ -195,7 +198,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
                 print(answer);
                 print(userInput);
                 int numCorrect = 0;
-                
+
                 var splitAnswer = userInput
                     .toLowerCase()
                     .split(' '); //list of words in user answer
@@ -205,22 +208,30 @@ class _GeneratorPageState extends State<GeneratorPage> {
                 var indexList =
                     []; //list of indices in splitCorrect where 1st string in splitAnswer matches string in splitCorrect
                 for (int i = 0; i < splitCorrect.length; i++) {
-                  var comparison = TermSimilarity(splitAnswer[0], splitCorrect[i]);
+                  var comparison =
+                      TermSimilarity(splitAnswer[0], splitCorrect[i]);
                   print("edit distance for correct answer index $i:");
-                  print(comparison.editDistance/splitAnswer[0].length);
-                  if (comparison.editDistance/splitAnswer[0].length <= .25) indexList.add(i);
+                  print(comparison.editDistance / splitAnswer[0].length);
+                  if (comparison.editDistance / splitAnswer[0].length <= .25)
+                    indexList.add(i);
                 }
 
                 var correct;
-                for (int k = 0; k < indexList.length; k++) { //going through each index where user's 1st string matches string in answer
+                for (int k = 0; k < indexList.length; k++) {
+                  //going through each index where user's 1st string matches string in answer
                   print("index in outer loop: $k");
-                  for (int l = 0; l < splitAnswer.length; l++) { //goes through the list of users answer string
-                    var comparison = TermSimilarity(splitAnswer[l], splitCorrect[indexList[k]+l]);
+                  for (int l = 0; l < splitAnswer.length; l++) {
+                    //goes through the list of users answer string
+                    var comparison = TermSimilarity(
+                        splitAnswer[l], splitCorrect[indexList[k] + l]);
                     print("edit distance for user input index $l:");
-                    print(comparison.editDistance/splitAnswer[l].length);
-                    print("user input: ${splitAnswer[l]} || correct: ${splitCorrect[indexList[k]+l]}");
-                    if (comparison.editDistance/splitAnswer[l].length > .25) correct = false;
-                    else correct = true;
+                    print(comparison.editDistance / splitAnswer[l].length);
+                    print(
+                        "user input: ${splitAnswer[l]} || correct: ${splitCorrect[indexList[k] + l]}");
+                    if (comparison.editDistance / splitAnswer[l].length > .25)
+                      correct = false;
+                    else
+                      correct = true;
                     // //going through user answer strings
                     // //checking with corresponding following string in correct answer
                     // if (splitAnswer[l] != splitCorrect[k + l])
@@ -232,10 +243,19 @@ class _GeneratorPageState extends State<GeneratorPage> {
                   }
                 }
                 print(numCorrect);
-                if (numCorrect >= splitAnswer.length)
+                if (numCorrect >= splitAnswer.length) {
                   print("CORRECT ANSWER!");
-                else
+                  setState(() {
+                    buttonColor = Colors.green;
+                    _textController.clear();
+                  });
+                } else {
                   print("WRONG");
+                  setState(() {
+                    buttonColor = Colors.red;
+                    _textController.clear();
+                  });
+                }
               },
               child: Text('Submit'),
             ),
