@@ -126,10 +126,26 @@ class _GeneratorPageState extends State<GeneratorPage> {
   dynamic questionStuff = null;
   String questionText = "";
   String userInput = "";
-  String displayedText = "";
+  String _displayedText = "";
   int currentWordIndex = 0;
   Timer? _timer;
   Color buttonColor = Colors.white;
+  final FocusNode _focusNode = FocusNode();
+
+  @override
+  void initState() {
+    super.initState();
+    // Add a listener to detect when the text field gains or loses focus
+    _focusNode.addListener(() {
+      if (_focusNode.hasFocus) {
+        print("in focus");
+        _timer?.cancel();
+      } else {
+        startTyping();
+        print("not focus");
+      }
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -146,7 +162,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Question(question: displayedText),
+          Question(question: _displayedText),
           SizedBox(height: 10),
           Row(
             mainAxisSize: MainAxisSize.min,
@@ -166,7 +182,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
                     questionStuff = Question.getRandomQuestion();
                     questionText = questionStuff["question"];
                     _timer?.cancel();
-                    displayedText = "";
+                    _displayedText = "";
                     currentWordIndex = 0;
                     startTyping();
                   });
@@ -177,6 +193,10 @@ class _GeneratorPageState extends State<GeneratorPage> {
           ),
           TextField(
             controller: _textController,
+            // focusNode: _focusNode,
+            // onTap: () {
+            //   print("sigma");
+            // },
             decoration: InputDecoration(
                 hintText: 'Answer',
                 contentPadding: EdgeInsets.symmetric(horizontal: 10.0),
@@ -252,7 +272,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
                 } else {
                   print("WRONG");
                   setState(() {
-                    buttonColor = Colors.red;
+                    buttonColor = const Color.fromRGBO(244, 67, 54, 1);
                     _textController.clear();
                   });
                 }
@@ -282,12 +302,12 @@ class _GeneratorPageState extends State<GeneratorPage> {
             words[currentWordIndex] =
                 words[currentWordIndex].replaceAll("<i>", "");
           }
-          displayedText +=
+          _displayedText +=
               (currentWordIndex == 0 ? "" : " ") + words[currentWordIndex];
           currentWordIndex++;
         });
       } else {
-        displayedText = "";
+        // _displayedText = "";
         currentWordIndex = 0;
         _timer?.cancel(); // Stop the timer once all words are displayed
       }
