@@ -178,13 +178,19 @@ class _GeneratorPageState extends State<GeneratorPage> {
               ElevatedButton(
                 onPressed: () {
                   setState(() {
-                    buttonColor = Colors.white;
-                    questionStuff = Question.getRandomQuestion();
-                    questionText = questionStuff["question"];
-                    _timer?.cancel();
-                    _displayedText = "";
-                    currentWordIndex = 0;
-                    startTyping();
+                    if (buttonColor == Colors.red) {
+                      _timer?.cancel();
+                      _displayedText = questionStuff["answer_sanitized"];
+                      buttonColor = Colors.white;
+                    } else {
+                      buttonColor = Colors.white;
+                      questionStuff = Question.getRandomQuestion();
+                      questionText = questionStuff["question"];
+                      _timer?.cancel();
+                      _displayedText = "";
+                      currentWordIndex = 0;
+                      startTyping();
+                    }
                   });
                 },
                 child: Text('Next'),
@@ -193,10 +199,6 @@ class _GeneratorPageState extends State<GeneratorPage> {
           ),
           TextField(
             controller: _textController,
-            // focusNode: _focusNode,
-            // onTap: () {
-            //   print("sigma");
-            // },
             decoration: InputDecoration(
                 hintText: 'Answer',
                 contentPadding: EdgeInsets.symmetric(horizontal: 10.0),
@@ -272,7 +274,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
                 } else {
                   print("WRONG");
                   setState(() {
-                    buttonColor = const Color.fromRGBO(244, 67, 54, 1);
+                    buttonColor = Colors.red;
                     _textController.clear();
                   });
                 }
