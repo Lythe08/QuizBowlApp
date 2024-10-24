@@ -40,11 +40,11 @@ class MyApp extends StatelessWidget {
 class MyAppState extends ChangeNotifier {
   var favorites = [];
 
-  void toggleFavorite(int add) {
-    if (favorites.contains(add)) {
-      favorites.remove(add);
+  void toggleFavorite(dynamic stuff) {
+    if (favorites.contains(stuff)) {
+      favorites.remove(stuff);
     } else {
-      favorites.add(add);
+      favorites.add(stuff);
     }
     notifyListeners();
   }
@@ -152,11 +152,11 @@ class _GeneratorPageState extends State<GeneratorPage> {
     var appState = context.watch<MyAppState>();
 
     IconData icon;
-    // if (appState.favorites.contains(pair)) {
-    //   icon = Icons.turned_in;
-    // } else {
-    //   icon = Icons.turned_in_not;
-    // }
+    if (appState.favorites.contains(questionStuff)) {
+      icon = Icons.turned_in;
+    } else {
+      icon = Icons.turned_in_not;
+    }
 
     return Center(
       child: Column(
@@ -169,7 +169,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
             children: [
               ElevatedButton.icon(
                 onPressed: () {
-                  appState.toggleFavorite(0);
+                  appState.toggleFavorite(questionStuff);
                 },
                 // icon: Icon(icon),
                 label: Text('Save'),
@@ -263,7 +263,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
                   }
                 }
                 print(numCorrect);
-                if (numCorrect >= splitAnswer.length) {
+                if (numCorrect >= splitAnswer.length*.75) {
                   print("CORRECT ANSWER!");
                   setState(() {
                     buttonColor = Colors.green;
@@ -353,6 +353,24 @@ class _QuestionState extends State<Question> {
 
 class FavoritesPage extends StatelessWidget {
   @override
+
+  static String sanitizeQuestion(dynamic question) {
+    List<String> words = question["question"].split(' ');
+    String text = "";
+    for (int currentWordIndex = 0; currentWordIndex < words.length; currentWordIndex++) {
+      if (words[currentWordIndex].contains("<") || words[currentWordIndex].contains(">")) {
+            words[currentWordIndex] = words[currentWordIndex].replaceAll("</b>", "");
+            words[currentWordIndex] = words[currentWordIndex].replaceAll("<b>", "");
+            words[currentWordIndex] = words[currentWordIndex].replaceAll("</i>", "");
+            words[currentWordIndex] = words[currentWordIndex].replaceAll("<i>", "");
+          }
+          text +=
+              (currentWordIndex == 0 ? "" : " ") + words[currentWordIndex];
+          currentWordIndex++;
+    }
+    return text;
+  }
+
   Widget build(BuildContext context) {
     var appState = context.watch<MyAppState>();
 
@@ -360,17 +378,20 @@ class FavoritesPage extends StatelessWidget {
       return Center(child: Text('No saved questions yet.'));
     }
 
+
     return ListView(
       children: [
         Padding(
           padding: EdgeInsets.all(20),
           child: Text('You have ${appState.favorites.length} saved questions:'),
         ),
-        for (var pair in appState.favorites)
+        for (dynamic question in appState.favorites) 
           ListTile(
             leading: Icon(Icons.favorite),
-            title: Text(pair.asLowerCase),
+            title: Text(sanitizeQuestion(question)),
+            subtitle: Text(question["answer_sanitized"]),
           ),
+          
       ],
     );
   }
