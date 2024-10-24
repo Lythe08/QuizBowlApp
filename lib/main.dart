@@ -131,6 +131,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
   Timer? _timer;
   Color buttonColor = Colors.white;
   final FocusNode _focusNode = FocusNode();
+  int points = 0;
 
   @override
   void initState() {
@@ -266,16 +267,18 @@ class _GeneratorPageState extends State<GeneratorPage> {
                   }
                 }
                 print(numCorrect);
-                if (numCorrect >= splitAnswer.length*.75) {
+                if (numCorrect >= splitAnswer.length * .75) {
                   print("CORRECT ANSWER!");
                   setState(() {
                     buttonColor = Colors.green;
+                    points += 10;
                     _textController.clear();
                   });
                 } else {
                   print("WRONG");
                   setState(() {
                     buttonColor = Colors.red;
+                    if (points >= 1) points -= 1;
                     _textController.clear();
                   });
                 }
@@ -356,18 +359,23 @@ class _QuestionState extends State<Question> {
 
 class FavoritesPage extends StatelessWidget {
   @override
-
   static String sanitizeQuestion(dynamic question) {
     List<String> words = question["question"].split(' ');
     String text = "";
-    for (int currentWordIndex = 0; currentWordIndex < words.length; currentWordIndex++) {
-      if (words[currentWordIndex].contains("<") || words[currentWordIndex].contains(">")) {
-            words[currentWordIndex] = words[currentWordIndex].replaceAll("</b>", "");
-            words[currentWordIndex] = words[currentWordIndex].replaceAll("<b>", "");
-            words[currentWordIndex] = words[currentWordIndex].replaceAll("</i>", "");
-            words[currentWordIndex] = words[currentWordIndex].replaceAll("<i>", "");
+    for (int currentWordIndex = 0;
+        currentWordIndex < words.length;
+        currentWordIndex++) {
+      if (words[currentWordIndex].contains("<") ||
+          words[currentWordIndex].contains(">")) {
+        words[currentWordIndex] =
+            words[currentWordIndex].replaceAll("</b>", "");
+        words[currentWordIndex] = words[currentWordIndex].replaceAll("<b>", "");
+        words[currentWordIndex] =
+            words[currentWordIndex].replaceAll("</i>", "");
+        words[currentWordIndex] = words[currentWordIndex].replaceAll("<i>", "");
       }
       text += (currentWordIndex == 0 ? "" : " ") + words[currentWordIndex];
+      currentWordIndex++;
     }
     return text;
   }
@@ -379,20 +387,19 @@ class FavoritesPage extends StatelessWidget {
       return Center(child: Text('No saved questions yet.'));
     }
 
-
     return ListView(
       children: [
         Padding(
           padding: EdgeInsets.all(10),
-          child: Text('Saved Questions:', style: TextStyle(height: 3.0, fontSize: 20)),
+          child: Text('Saved Questions:',
+              style: TextStyle(height: 3.0, fontSize: 20)),
         ),
-        for (dynamic question in appState.favorites) 
+        for (dynamic question in appState.favorites)
           ListTile(
             title: Text(question["answer_sanitized"]),
             contentPadding: EdgeInsets.all(10),
             subtitle: Text(sanitizeQuestion(question)),
           ),
-          
       ],
     );
   }
