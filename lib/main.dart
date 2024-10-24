@@ -363,10 +363,8 @@ class FavoritesPage extends StatelessWidget {
             words[currentWordIndex] = words[currentWordIndex].replaceAll("<b>", "");
             words[currentWordIndex] = words[currentWordIndex].replaceAll("</i>", "");
             words[currentWordIndex] = words[currentWordIndex].replaceAll("<i>", "");
-          }
-          text +=
-              (currentWordIndex == 0 ? "" : " ") + words[currentWordIndex];
-          currentWordIndex++;
+      }
+      text += (currentWordIndex == 0 ? "" : " ") + words[currentWordIndex];
     }
     return text;
   }
@@ -382,14 +380,14 @@ class FavoritesPage extends StatelessWidget {
     return ListView(
       children: [
         Padding(
-          padding: EdgeInsets.all(20),
-          child: Text('You have ${appState.favorites.length} saved questions:'),
+          padding: EdgeInsets.all(10),
+          child: Text('Saved Questions:', style: TextStyle(height: 3.0, fontSize: 20)),
         ),
         for (dynamic question in appState.favorites) 
           ListTile(
-            leading: Icon(Icons.favorite),
-            title: Text(sanitizeQuestion(question)),
-            subtitle: Text(question["answer_sanitized"]),
+            title: Text(question["answer_sanitized"]),
+            contentPadding: EdgeInsets.all(10),
+            subtitle: Text(sanitizeQuestion(question)),
           ),
           
       ],
