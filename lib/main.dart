@@ -339,26 +339,6 @@ class Question extends StatefulWidget {
     tossups = dataList["tossups"];
     // return tossups;
   }
-
-  static void loadJsonAssets() {
-    // Specify the path to the JSON file
-    const filePath = 'assets/data.json';
-
-    // Read the file synchronously
-    try {
-      final file = File(filePath);
-      final contents =
-          file.readAsStringSync(); // Read file synchronously as a string
-
-      // Parse the JSON content
-      final Map jsonData = jsonDecode(contents);
-
-      // Print or use the JSON data
-      tossups = jsonData["tossups"];
-    } catch (e) {
-      print('Error reading JSON file: $e');
-    }
-  }
 }
 
 class _QuestionState extends State<Question> {
