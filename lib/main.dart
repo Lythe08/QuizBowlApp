@@ -1,3 +1,4 @@
+import 'dart:io';
 import 'dart:math';
 import 'dart:async';
 import 'package:english_words/english_words.dart';
@@ -12,7 +13,6 @@ import 'dart:math';
 //Written by Lysander Pineapple
 
 void main() {
-  // Question.loadJsonAsset();
   runApp(MyApp());
   Question.loadJsonAsset();
 }
@@ -180,7 +180,8 @@ class _GeneratorPageState extends State<GeneratorPage> {
                   setState(() {
                     if (buttonColor == Colors.red) {
                       _timer?.cancel();
-                      _displayedText = questionStuff["answer_sanitized"];
+                      _displayedText =
+                          '${"Correct Answer: "}, ${questionStuff["answer_sanitized"]}';
                       buttonColor = Colors.white;
                     } else {
                       buttonColor = Colors.white;
@@ -337,6 +338,26 @@ class Question extends StatefulWidget {
     final Map dataList = jsonDecode(jsonString);
     tossups = dataList["tossups"];
     // return tossups;
+  }
+
+  static void loadJsonAssets() {
+    // Specify the path to the JSON file
+    const filePath = 'assets/data.json';
+
+    // Read the file synchronously
+    try {
+      final file = File(filePath);
+      final contents =
+          file.readAsStringSync(); // Read file synchronously as a string
+
+      // Parse the JSON content
+      final Map jsonData = jsonDecode(contents);
+
+      // Print or use the JSON data
+      tossups = jsonData["tossups"];
+    } catch (e) {
+      print('Error reading JSON file: $e');
+    }
   }
 }
 
