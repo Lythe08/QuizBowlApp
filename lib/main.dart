@@ -50,6 +50,21 @@ class MyAppState extends ChangeNotifier {
   }
 }
 
+class SettingsPage extends StatelessWidget {
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: Row(
+        children: [
+          Expanded(
+            child: Container(
+              color: Theme.of(context).colorScheme.primaryContainer,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
 // ...
 
 class MyHomePage extends StatefulWidget {
@@ -71,7 +86,7 @@ class _MyHomePageState extends State<MyHomePage> {
         page = FavoritesPage();
         break;
       case 2:
-        page = Placeholder();
+        page = SettingsPage();
       default:
         throw UnimplementedError('no widget for $selectedIndex');
     }
@@ -159,135 +174,156 @@ class _GeneratorPageState extends State<GeneratorPage> {
       icon = Icons.turned_in_not;
     }
 
-    return Center(
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Question(question: _displayedText),
-          SizedBox(height: 10),
-          Row(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              ElevatedButton.icon(
-                onPressed: () {
-                  appState.toggleFavorite(questionStuff);
-                },
-                // icon: Icon(icon),
-                label: Text('Save'),
-              ),
-              SizedBox(width: 10),
-              ElevatedButton(
-                onPressed: () {
-                  setState(() {
-                    if (buttonColor == Colors.red) {
-                      _timer?.cancel();
-                      _displayedText =
-                          '${"Correct Answer: "}, ${questionStuff["answer_sanitized"]}';
-                      buttonColor = Colors.white;
-                    } else {
-                      buttonColor = Colors.white;
-                      questionStuff = Question.getRandomQuestion();
-                      questionText = questionStuff["question"];
-                      _timer?.cancel();
-                      _displayedText = "";
-                      currentWordIndex = 0;
-                      startTyping();
-                    }
-                  });
-                },
-                child: Text('Next'),
-              ),
-            ],
-          ),
-          TextField(
-            controller: _textController,
-            decoration: InputDecoration(
-                hintText: 'Answer',
-                contentPadding: EdgeInsets.symmetric(horizontal: 10.0),
-                border: const OutlineInputBorder(),
-                suffixIcon: IconButton(
-                    onPressed: () {
-                      _textController.clear();
-                    },
-                    icon: Icon(Icons.clear))),
-          ),
-          Row(mainAxisSize: MainAxisSize.min, children: [
-            ElevatedButton(
-              style: ElevatedButton.styleFrom(backgroundColor: buttonColor),
-              onPressed: () {
-                userInput = _textController.text;
-                //check if in answer
-                var answer = questionStuff["answer_sanitized"];
-                var lowerAnswer = answer.toLowerCase();
-                print(answer);
-                print(userInput);
-                int numCorrect = 0;
-
-                var splitAnswer = userInput
-                    .toLowerCase()
-                    .split(' '); //list of words in user answer
-                var splitCorrect =
-                    lowerAnswer.split(' '); //list of words in correct ansewr
-
-                var indexList =
-                    []; //list of indices in splitCorrect where 1st string in splitAnswer matches string in splitCorrect
-                for (int i = 0; i < splitCorrect.length; i++) {
-                  var comparison =
-                      TermSimilarity(splitAnswer[0], splitCorrect[i]);
-                  print("edit distance for correct answer index $i:");
-                  print(comparison.editDistance / splitAnswer[0].length);
-                  if (comparison.editDistance / splitAnswer[0].length <= .25)
-                    indexList.add(i);
-                }
-
-                var correct;
-                for (int k = 0; k < indexList.length; k++) {
-                  //going through each index where user's 1st string matches string in answer
-                  print("index in outer loop: $k");
-                  for (int l = 0; l < splitAnswer.length; l++) {
-                    //goes through the list of users answer string
-                    var comparison = TermSimilarity(
-                        splitAnswer[l], splitCorrect[indexList[k] + l]);
-                    print("edit distance for user input index $l:");
-                    print(comparison.editDistance / splitAnswer[l].length);
-                    print(
-                        "user input: ${splitAnswer[l]} || correct: ${splitCorrect[indexList[k] + l]}");
-                    if (comparison.editDistance / splitAnswer[l].length > .25)
-                      correct = false;
-                    else
-                      correct = true;
-                    // //going through user answer strings
-                    // //checking with corresponding following string in correct answer
-                    // if (splitAnswer[l] != splitCorrect[k + l])
-                    //   allCorrect = false;
-
-                    if (correct)
-                      numCorrect++; //if all strings in user answer match strings in correct strings
-                    correct = true; //reset
-                  }
-                }
-                print(numCorrect);
-                if (numCorrect >= splitAnswer.length * .75) {
-                  print("CORRECT ANSWER!");
-                  setState(() {
-                    buttonColor = Colors.green;
-                    points += 10;
-                    _textController.clear();
-                  });
-                } else {
-                  print("WRONG");
-                  setState(() {
-                    buttonColor = Colors.red;
-                    if (points >= 1) points -= 1;
-                    _textController.clear();
-                  });
-                }
-              },
-              child: Text('Submit'),
+    return Stack(
+      children: [
+        Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Question(question: _displayedText),
+            SizedBox(height: 10),
+            Row(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                ElevatedButton.icon(
+                  onPressed: () {
+                    appState.toggleFavorite(questionStuff);
+                  },
+                  // icon: Icon(icon),
+                  label: Text('Save'),
+                ),
+                SizedBox(width: 10),
+                ElevatedButton(
+                  onPressed: () {
+                    setState(() {
+                      if (buttonColor == Colors.red) {
+                        _timer?.cancel();
+                        _displayedText =
+                            '${"Correct Answer: "}, ${questionStuff["answer_sanitized"]}';
+                        buttonColor = Colors.white;
+                      } else {
+                        buttonColor = Colors.white;
+                        questionStuff = Question.getRandomQuestion();
+                        questionText = questionStuff["question"];
+                        _timer?.cancel();
+                        _displayedText = "";
+                        currentWordIndex = 0;
+                        startTyping();
+                      }
+                    });
+                  },
+                  child: Text('Next'),
+                ),
+              ],
             ),
-          ]),
-        ],
-      ),
+            TextField(
+              controller: _textController,
+              decoration: InputDecoration(
+                  hintText: 'Answer',
+                  contentPadding: EdgeInsets.symmetric(horizontal: 10.0),
+                  border: const OutlineInputBorder(),
+                  suffixIcon: IconButton(
+                      onPressed: () {
+                        _textController.clear();
+                      },
+                      icon: Icon(Icons.clear))),
+            ),
+            Row(mainAxisSize: MainAxisSize.min, children: [
+              ElevatedButton(
+                style: ElevatedButton.styleFrom(backgroundColor: buttonColor),
+                onPressed: () {
+                  userInput = _textController.text;
+                  //check if in answer
+                  var answer = questionStuff["answer_sanitized"];
+                  var lowerAnswer = answer.toLowerCase();
+                  print(answer);
+                  print(userInput);
+                  int numCorrect = 0;
+
+                  var splitAnswer = userInput
+                      .toLowerCase()
+                      .split(' '); //list of words in user answer
+                  var splitCorrect =
+                      lowerAnswer.split(' '); //list of words in correct ansewr
+
+                  var indexList =
+                      []; //list of indices in splitCorrect where 1st string in splitAnswer matches string in splitCorrect
+                  for (int i = 0; i < splitCorrect.length; i++) {
+                    var comparison =
+                        TermSimilarity(splitAnswer[0], splitCorrect[i]);
+                    print("edit distance for correct answer index $i:");
+                    print(comparison.editDistance / splitAnswer[0].length);
+                    if (comparison.editDistance / splitAnswer[0].length <= .25)
+                      indexList.add(i);
+                  }
+
+                  var correct;
+                  for (int k = 0; k < indexList.length; k++) {
+                    //going through each index where user's 1st string matches string in answer
+                    print("index in outer loop: $k");
+                    for (int l = 0; l < splitAnswer.length; l++) {
+                      //goes through the list of users answer string
+                      var comparison = TermSimilarity(
+                          splitAnswer[l], splitCorrect[indexList[k] + l]);
+                      print("edit distance for user input index $l:");
+                      print(comparison.editDistance / splitAnswer[l].length);
+                      print(
+                          "user input: ${splitAnswer[l]} || correct: ${splitCorrect[indexList[k] + l]}");
+                      if (comparison.editDistance / splitAnswer[l].length > .25)
+                        correct = false;
+                      else
+                        correct = true;
+                      // //going through user answer strings
+                      // //checking with corresponding following string in correct answer
+                      // if (splitAnswer[l] != splitCorrect[k + l])
+                      //   allCorrect = false;
+
+                      if (correct)
+                        numCorrect++; //if all strings in user answer match strings in correct strings
+                      correct = true; //reset
+                    }
+                  }
+                  print(numCorrect);
+                  if (numCorrect >= splitAnswer.length * .75) {
+                    print("CORRECT ANSWER!");
+                    setState(() {
+                      buttonColor = Colors.green;
+                      points += 10;
+                      _textController.clear();
+                    });
+                  } else {
+                    print("WRONG");
+                    setState(() {
+                      buttonColor = Colors.red;
+                      if (points >= 1) points -= 1;
+                      _textController.clear();
+                    });
+                  }
+                },
+                child: Text('Submit'),
+              ),
+            ]),
+          ],
+        ),
+        Positioned(
+          top: 20,
+          right: 20,
+          child: Container(
+            padding: EdgeInsets.all(10),
+            decoration: BoxDecoration(
+              color: Colors.blueAccent,
+              borderRadius: BorderRadius.circular(10),
+            ),
+            child: Text(
+              'Points: ${points}',
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: 18,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+          ),
+        ),
+      ],
     );
   }
 
