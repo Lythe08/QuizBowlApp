@@ -13,7 +13,12 @@ import 'dart:math';
 //Written by Lysander Pineapple
 
 void main() {
-  runApp(MyApp());
+  runApp(
+    ChangeNotifierProvider(
+      create: (context) => SettingsModel(),
+      child: MyApp(),
+    ),
+  );
   Question.loadJsonAsset();
 }
 
@@ -51,18 +56,84 @@ class MyAppState extends ChangeNotifier {
 }
 
 class SettingsPage extends StatelessWidget {
+  @override
   Widget build(BuildContext context) {
+    final settings = context.watch<SettingsModel>();
+
     return Scaffold(
-      body: Row(
+      appBar: AppBar(title: Text('Settings')),
+      body: ListView(
+        padding: EdgeInsets.all(16.0),
         children: [
-          Expanded(
-            child: Container(
-              color: Theme.of(context).colorScheme.primaryContainer,
+          // Toggle Dark Mode Switch
+          ListTile(
+            title: Text('Dark Mode'),
+            trailing: Switch(
+              value: settings.darkMode,
+              onChanged: (value) {
+                settings.setDarkMode(value);
+              },
+            ),
+          ),
+
+          Divider(),
+
+          // Slider for Text Size
+          ListTile(
+            title: Text('Text Size'),
+            subtitle: Slider(
+              value: settings.textSize,
+              min: 10.0,
+              max: 30.0,
+              divisions: 20,
+              label: '${settings.textSize.round()}',
+              onChanged: (value) {
+                settings.setTextSize(value);
+              },
+            ),
+          ),
+
+          Divider(),
+
+          // Toggle Notifications
+          ListTile(
+            title: Text('Notifications'),
+            trailing: Switch(
+              value: settings.notificationsEnabled,
+              onChanged: (value) {
+                settings.setNotificationsEnabled(value);
+              },
             ),
           ),
         ],
       ),
     );
+  }
+}
+
+// Settings Model to manage state within the session
+class SettingsModel with ChangeNotifier {
+  bool _darkMode = false;
+  double _textSize = 16.0;
+  bool _notificationsEnabled = true;
+
+  bool get darkMode => _darkMode;
+  double get textSize => _textSize;
+  bool get notificationsEnabled => _notificationsEnabled;
+
+  void setDarkMode(bool value) {
+    _darkMode = value;
+    notifyListeners();
+  }
+
+  void setTextSize(double value) {
+    _textSize = value;
+    notifyListeners();
+  }
+
+  void setNotificationsEnabled(bool value) {
+    _notificationsEnabled = value;
+    notifyListeners();
   }
 }
 // ...
