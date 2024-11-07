@@ -22,8 +22,17 @@ void main() {
   Question.loadJsonAsset();
 }
 
-class MyApp extends StatelessWidget {
+class MyApp extends StatefulWidget {
   const MyApp({super.key});
+
+  @override
+  State<MyApp> createState() => _MyAppState();
+}
+
+class _MyAppState extends State<MyApp> {
+  dynamic colorScheme = ColorScheme.fromSeed(seedColor: Colors.cyan.shade400);
+  dynamic darkScheme = ColorScheme.dark(secondary: Colors.cyan.shade400);
+  dynamic color = ColorScheme.fromSeed(seedColor: Colors.cyan.shade400);
 
   @override
   Widget build(BuildContext context) {
@@ -33,7 +42,7 @@ class MyApp extends StatelessWidget {
         title: 'Trivia Practice',
         theme: ThemeData(
           useMaterial3: true,
-          colorScheme: ColorScheme.fromSeed(seedColor: Colors.cyan.shade400),
+          colorScheme: color,
         ),
         home: MyHomePage(),
         debugShowCheckedModeBanner: false,
@@ -218,6 +227,11 @@ class _GeneratorPageState extends State<GeneratorPage> {
   Color buttonColor = Colors.white;
   final FocusNode _focusNode = FocusNode();
   int points = 0;
+  @override
+  void dispose() {
+    _timer?.cancel();
+    super.dispose();
+  }
 
   @override
   void initState() {
@@ -225,11 +239,9 @@ class _GeneratorPageState extends State<GeneratorPage> {
     // Add a listener to detect when the text field gains or loses focus
     _focusNode.addListener(() {
       if (_focusNode.hasFocus) {
-        print("in focus");
         _timer?.cancel();
       } else {
         startTyping();
-        print("not focus");
       }
     });
   }
@@ -287,6 +299,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
               ],
             ),
             TextField(
+              focusNode: _focusNode,
               controller: _textController,
               decoration: InputDecoration(
                   hintText: 'Answer',
@@ -421,7 +434,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
         });
       } else {
         // _displayedText = "";
-        currentWordIndex = 0;
+        // currentWordIndex = 0;
         _timer?.cancel(); // Stop the timer once all words are displayed
       }
     });
