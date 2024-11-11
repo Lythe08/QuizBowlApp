@@ -30,19 +30,21 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  dynamic colorScheme = ColorScheme.fromSeed(seedColor: Colors.cyan.shade400);
-  dynamic darkScheme = ColorScheme.dark(secondary: Colors.cyan.shade400);
+  dynamic colorScheme = ColorScheme.fromSeed(seedColor: const Color.fromRGBO(102, 187, 106, 1));
+  dynamic darkScheme = ColorScheme.fromSeed(seedColor: const Color.fromRGBO(102, 187, 106, 1), brightness: Brightness.dark);
   dynamic color = ColorScheme.fromSeed(seedColor: Colors.cyan.shade400);
 
   @override
   Widget build(BuildContext context) {
+    final settings = context.watch<SettingsModel>();
+
     return ChangeNotifierProvider(
       create: (context) => MyAppState(),
       child: MaterialApp(
         title: 'Trivia Practice',
         theme: ThemeData(
           useMaterial3: true,
-          colorScheme: color,
+          colorScheme: settings.darkMode ? darkScheme : colorScheme,
         ),
         home: MyHomePage(),
         debugShowCheckedModeBanner: false,
