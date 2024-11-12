@@ -30,8 +30,8 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  dynamic colorScheme = ColorScheme.fromSeed(seedColor: const Color.fromRGBO(102, 187, 106, 1));
-  dynamic darkScheme = ColorScheme.fromSeed(seedColor: const Color.fromRGBO(102, 187, 106, 1), brightness: Brightness.dark);
+  dynamic colorScheme = ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 52, 193, 221));
+  dynamic darkScheme = ColorScheme.fromSeed(seedColor: const Color.fromRGBO(255, 52, 193, 221), brightness: Brightness.dark);
   dynamic color = ColorScheme.fromSeed(seedColor: Colors.cyan.shade400);
 
   @override
