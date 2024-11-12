@@ -70,6 +70,7 @@ class SettingsPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final settings = context.watch<SettingsModel>();
+    final appthingy = context.watch<MyAppState>();
 
     return Scaffold(
       appBar: AppBar(title: Text('Settings')),
