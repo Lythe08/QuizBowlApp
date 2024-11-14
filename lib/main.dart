@@ -266,8 +266,9 @@ class _GeneratorPageState extends State<GeneratorPage> {
         Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
+            Padding(padding: EdgeInsets.fromLTRB(0, 30.0, 0, 0)),
             SizedBox(
-              height: 400.0,
+              height: 350.0,
               width: 750.0,
               child: SingleChildScrollView(child: Question(question: _displayedText)),
             ),
