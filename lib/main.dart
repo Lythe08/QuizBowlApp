@@ -20,7 +20,7 @@ void main() {
       child: MyApp(),
     ),
   );
-  Question.loadJsonAsset();
+  Question.loadJsonAsset("data");
 }
 
 class MyApp extends StatefulWidget {
@@ -31,8 +31,11 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  dynamic colorScheme = ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 52, 193, 221));
-  dynamic darkScheme = ColorScheme.fromSeed(seedColor: const Color.fromRGBO(255, 52, 193, 221), brightness: Brightness.dark);
+  dynamic colorScheme =
+      ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 52, 193, 221));
+  dynamic darkScheme = ColorScheme.fromSeed(
+      seedColor: const Color.fromRGBO(255, 52, 193, 221),
+      brightness: Brightness.dark);
   dynamic color = ColorScheme.fromSeed(seedColor: Colors.cyan.shade400);
 
   @override
@@ -67,11 +70,56 @@ class MyAppState extends ChangeNotifier {
   }
 }
 
+class CheckboxExample extends StatefulWidget {
+  final String displayedText;
+  final SettingsModel settings;
+  final int index;
+  CheckboxExample(
+      {required this.displayedText,
+      required this.settings,
+      required this.index,
+      super.key});
+  @override
+  State<CheckboxExample> createState() => _CheckboxExampleState();
+}
+
+class _CheckboxExampleState extends State<CheckboxExample> {
+  bool isChecked = false;
+
+  @override
+  Widget build(BuildContext context) {
+    Color getColor(Set<WidgetState> states) {
+      const Set<WidgetState> interactiveStates = <WidgetState>{
+        WidgetState.pressed,
+        WidgetState.hovered,
+        WidgetState.focused,
+      };
+      if (states.any(interactiveStates.contains)) {
+        return Colors.blue;
+      }
+      return Colors.red;
+    }
+
+    return Row(children: [
+      Checkbox(
+        checkColor: Colors.white,
+        fillColor: WidgetStateProperty.resolveWith(getColor),
+        value: isChecked,
+        onChanged: (bool? value) {
+          setState(() {
+            isChecked = value!;
+          });
+        },
+      ),
+      Text(widget.displayedText)
+    ]);
+  }
+}
+
 class SettingsPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final settings = context.watch<SettingsModel>();
-    final appthingy = context.watch<MyAppState>();
 
     return Scaffold(
       appBar: AppBar(title: Text('Settings')),
@@ -107,17 +155,19 @@ class SettingsPage extends StatelessWidget {
           ),
 
           Divider(),
-
-          // Toggle Notifications
-          ListTile(
-            title: Text('Notifications'),
-            trailing: Switch(
-              value: settings.notificationsEnabled,
-              onChanged: (value) {
-                settings.setNotificationsEnabled(value);
-              },
-            ),
+          CheckboxExample(
+            displayedText: "Religion",
+            settings: settings,
+            index: 0,
           ),
+
+          Divider(),
+          ElevatedButton(
+            onPressed: () {
+              Question.loadJsonAsset("data");
+            },
+            child: Text("Update"),
+          )
         ],
       ),
     );
@@ -129,6 +179,11 @@ class SettingsModel with ChangeNotifier {
   bool _darkMode = false;
   double _textSize = 16.0;
   bool _notificationsEnabled = true;
+  List<bool> catSelected = [
+    false,
+    false,
+    false
+  ]; //Religion, Sigma, Sigma, Sigma, Sigma
 
   bool get darkMode => _darkMode;
   double get textSize => _textSize;
@@ -144,8 +199,8 @@ class SettingsModel with ChangeNotifier {
     notifyListeners();
   }
 
-  void setNotificationsEnabled(bool value) {
-    _notificationsEnabled = value;
+  void setSelected(int value, bool selected) {
+    catSelected[value] = selected;
     notifyListeners();
   }
 }
@@ -280,7 +335,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
                   onPressed: () {
                     appState.toggleFavorite(questionStuff);
                   },
-                  // icon: Icon(icon),
+                  icon: Icon(icon),
                   label: Text('Save'),
                 ),
                 SizedBox(width: 10),
@@ -465,8 +520,8 @@ class Question extends StatefulWidget {
     return tossups[rng.nextInt(200)];
   }
 
-  static void loadJsonAsset() async {
-    final String jsonString = await rootBundle.loadString('assets/data.json');
+  static void loadJsonAsset(String path) async {
+    final String jsonString = await rootBundle.loadString('assets/$path.json');
     final Map dataList = jsonDecode(jsonString);
     tossups = dataList["tossups"];
     // return tossups;
