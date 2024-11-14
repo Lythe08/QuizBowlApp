@@ -20,7 +20,7 @@ void main() {
       child: MyApp(),
     ),
   );
-  Question.loadJsonAsset("data");
+  Question.loadJsonAsset(["data"]);
 }
 
 class MyApp extends StatefulWidget {
@@ -108,6 +108,7 @@ class _CheckboxExampleState extends State<CheckboxExample> {
         onChanged: (bool? value) {
           setState(() {
             isChecked = value!;
+            widget.settings.setSelected(widget.index, value);
           });
         },
       ),
@@ -149,7 +150,7 @@ class SettingsPage extends StatelessWidget {
               divisions: 20,
               label: '${_fsize.round()}',
               onChanged: (value) {
-                _fsize=value;
+                _fsize = value;
               },
             ),
           ),
@@ -164,7 +165,7 @@ class SettingsPage extends StatelessWidget {
           Divider(),
           ElevatedButton(
             onPressed: () {
-              Question.loadJsonAsset("data");
+              Question.loadJsonAsset(settings.getSelected());
             },
             child: Text("Update"),
           )
@@ -179,11 +180,8 @@ class SettingsModel with ChangeNotifier {
   bool _darkMode = false;
   double _textSize = 16.0;
   bool _notificationsEnabled = true;
-  List<bool> catSelected = [
-    false,
-    false,
-    false
-  ]; //Religion, Sigma, Sigma, Sigma, Sigma
+  final List<String> categories = ["data", "sigma", "sigma"];
+  List<String> catSelected = ["data"];
 
   bool get darkMode => _darkMode;
   double get textSize => _textSize;
@@ -200,8 +198,15 @@ class SettingsModel with ChangeNotifier {
   }
 
   void setSelected(int value, bool selected) {
-    catSelected[value] = selected;
+    catSelected.remove(categories[value]);
+    if (selected) {
+      catSelected.add(categories[value]);
+    }
     notifyListeners();
+  }
+
+  List<String> getSelected() {
+    return catSelected;
   }
 }
 // ...
@@ -325,7 +330,8 @@ class _GeneratorPageState extends State<GeneratorPage> {
             SizedBox(
               height: 350.0,
               width: 750.0,
-              child: SingleChildScrollView(child: Question(question: _displayedText)),
+              child: SingleChildScrollView(
+                  child: Question(question: _displayedText)),
             ),
             SizedBox(height: 10),
             Row(
@@ -386,13 +392,13 @@ class _GeneratorPageState extends State<GeneratorPage> {
                   print(answer);
                   print(userInput);
                   int numCorrect = 0;
-        
+
                   var splitAnswer = userInput
                       .toLowerCase()
                       .split(' '); //list of words in user answer
                   var splitCorrect =
                       lowerAnswer.split(' '); //list of words in correct ansewr
-        
+
                   var indexList =
                       []; //list of indices in splitCorrect where 1st string in splitAnswer matches string in splitCorrect
                   for (int i = 0; i < splitCorrect.length; i++) {
@@ -403,7 +409,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
                     if (comparison.editDistance / splitAnswer[0].length <= .25)
                       indexList.add(i);
                   }
-        
+
                   var correct;
                   for (int k = 0; k < indexList.length; k++) {
                     //going through each index where user's 1st string matches string in answer
@@ -424,7 +430,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
                       // //checking with corresponding following string in correct answer
                       // if (splitAnswer[l] != splitCorrect[k + l])
                       //   allCorrect = false;
-        
+
                       if (correct)
                         numCorrect++; //if all strings in user answer match strings in correct strings
                       correct = true; //reset
@@ -520,11 +526,14 @@ class Question extends StatefulWidget {
     return tossups[rng.nextInt(200)];
   }
 
-  static void loadJsonAsset(String path) async {
-    final String jsonString = await rootBundle.loadString('assets/$path.json');
-    final Map dataList = jsonDecode(jsonString);
-    tossups = dataList["tossups"];
-    // return tossups;
+  static void loadJsonAsset(List<String> list) async {
+    for (int i = 0; i < list.length; i++) {
+      String path = list[i];
+      final String jsonString =
+          await rootBundle.loadString('assets/$path.json');
+      final Map dataList = jsonDecode(jsonString);
+      tossups = dataList["tossups"];
+    }
   }
 }
 
