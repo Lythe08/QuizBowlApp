@@ -12,6 +12,7 @@ import 'dart:math';
 
 //Written by Lysander Pineapple
 
+double _fsize = 16.0;
 void main() {
   runApp(
     ChangeNotifierProvider(
@@ -94,13 +95,13 @@ class SettingsPage extends StatelessWidget {
           ListTile(
             title: Text('Text Size'),
             subtitle: Slider(
-              value: settings.textSize,
+              value: _fsize,
               min: 10.0,
               max: 30.0,
               divisions: 20,
-              label: '${settings.textSize.round()}',
+              label: '${_fsize.round()}',
               onChanged: (value) {
-                settings.setTextSize(value);
+                _fsize=value;
               },
             ),
           ),
@@ -265,7 +266,11 @@ class _GeneratorPageState extends State<GeneratorPage> {
         Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Question(question: _displayedText),
+            SizedBox(
+              height: 400.0,
+              width: 750.0,
+              child: SingleChildScrollView(child: Question(question: _displayedText)),
+            ),
             SizedBox(height: 10),
             Row(
               mainAxisSize: MainAxisSize.min,
@@ -325,13 +330,13 @@ class _GeneratorPageState extends State<GeneratorPage> {
                   print(answer);
                   print(userInput);
                   int numCorrect = 0;
-
+        
                   var splitAnswer = userInput
                       .toLowerCase()
                       .split(' '); //list of words in user answer
                   var splitCorrect =
                       lowerAnswer.split(' '); //list of words in correct ansewr
-
+        
                   var indexList =
                       []; //list of indices in splitCorrect where 1st string in splitAnswer matches string in splitCorrect
                   for (int i = 0; i < splitCorrect.length; i++) {
@@ -342,7 +347,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
                     if (comparison.editDistance / splitAnswer[0].length <= .25)
                       indexList.add(i);
                   }
-
+        
                   var correct;
                   for (int k = 0; k < indexList.length; k++) {
                     //going through each index where user's 1st string matches string in answer
@@ -363,7 +368,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
                       // //checking with corresponding following string in correct answer
                       // if (splitAnswer[l] != splitCorrect[k + l])
                       //   allCorrect = false;
-
+        
                       if (correct)
                         numCorrect++; //if all strings in user answer match strings in correct strings
                       correct = true; //reset
@@ -474,7 +479,7 @@ class _QuestionState extends State<Question> {
       padding: const EdgeInsets.all(20.0),
       child: Text(
         widget.question,
-        style: TextStyle(height: 2.5, fontSize: 13.0),
+        style: TextStyle(height: 2.5, fontSize: _fsize),
       ),
     );
   }
