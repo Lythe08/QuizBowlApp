@@ -1,0 +1,611 @@
+{
+    "tossups": [
+        {
+            "_id": "666dc6c59f7c4cfdbd67847e",
+            "question": "<b>This architect’s book </b><i><b>Autobiography of an Idea</b></i><b> ends with a description of a series of concentric arches called the Golden Door. A tripartite building now named for this architect was the first to feature large windows flanked by double hung windows and a rounded, cast-iron entrance. This architect frequently used Syrian arches and entwined Celtic patterns, the latter of which appears interlaced with bull’s eye windows on a brewery office building. Buffalo’s (*)</b> Guaranty Building uses terracotta to replace the brick that Dankmar Adler and this architect used for a steel-framed skyscraper. Frank Lloyd Wright was an apprentice under, for 10 points, what architect of the Wainwright Building who used the mantra “form follows function?”",
+            "question_sanitized": "This architect's book Autobiography of an Idea ends with a description of a series of concentric arches called the Golden Door. A tripartite building now named for this architect was the first to feature large windows flanked by double hung windows and a rounded, cast-iron entrance. This architect frequently used Syrian arches and entwined Celtic patterns, the latter of which appears interlaced with bull's eye windows on a brewery office building. Buffalo's (*) Guaranty Building uses terracotta to replace the brick that Dankmar Adler and this architect used for a steel-framed skyscraper. Frank Lloyd Wright was an apprentice under, for 10 points, what architect of the Wainwright Building who used the mantra \"form follows function?\"",
+            "answer": "Louis <b><u>Sullivan</u></b> [or Louis Henry <b><u>Sullivan</u></b>; accept <b><u>Sullivan</u></b> Center]",
+            "answer_sanitized": "Louis Sullivan [or Louis Henry Sullivan; accept Sullivan Center]",
+            "updatedAt": "2024-06-15T16:52:21.091Z",
+            "category": "Fine Arts",
+            "subcategory": "Other Fine Arts",
+            "alternate_subcategory": "Architecture",
+            "number": 11,
+            "createdAt": "2024-06-15T16:52:21.091Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd678473",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678481",
+            "question": "<b></b><i><b>Composer and type of piece required.</b></i><b> The composer of these orchestral pieces cheekily suggested seven “recipes” for writing them, such as avoiding it altogether or plagiarizing yourself, like when he twice copied from </b><i><b>Aureliano in Palmira</b></i><b>. One of these pieces from 1816 features the eighth note phrase </b>[read slowly]<b> “three pick up Bs, then C, B” and its composer’s namesake “crescendo.” After a storm is depicted in one of these pieces, the English horn and flute play a (*)</b> <i>ranz des vaches</i> (“rahn deh VAHSH”). The most frequently excerpted section from <i>The Thieving Magpie</i> is one of these works, as is one that ends with a lively “March of the Swiss Soldiers” often used to depict galloping horses. For 10 points, name these orchestral pieces that open <i>William Tell</i> and <i>The Barber of Seville</i>.",
+            "question_sanitized": "Composer and type of piece required. The composer of these orchestral pieces cheekily suggested seven \"recipes\" for writing them, such as avoiding it altogether or plagiarizing yourself, like when he twice copied from Aureliano in Palmira. One of these pieces from 1816 features the eighth note phrase [read slowly] \"three pick up Bs, then C, B\" and its composer's namesake \"crescendo.\" After a storm is depicted in one of these pieces, the English horn and flute play a (*) ranz des vaches (\"rahn deh VAHSH\"). The most frequently excerpted section from The Thieving Magpie is one of these works, as is one that ends with a lively \"March of the Swiss Soldiers\" often used to depict galloping horses. For 10 points, name these orchestral pieces that open William Tell and The Barber of Seville.",
+            "answer": "<b><u>overture</u></b>s by Gioachino <b><u>Rossini</u></b> [prompt on <u>Rossini operas</u> by asking “what purely orchestral works from them?”; prompt on <u>overture</u>s by asking “by which composer?”; prompt on <i>William Tell</i> <u>Overture</u> or <i>Guillaume Tell</i> <u>Overture</u> or <u>overture</u> to <i>The Barber of Seville</i> or <u>overture</u> to <i>Il barbiere di Siviglia</i> by asking “by which composer?”]",
+            "answer_sanitized": "overtures by Gioachino Rossini [prompt on Rossini operas by asking \"what purely orchestral works from them?\"; prompt on overtures by asking \"by which composer?\"; prompt on William Tell Overture or Guillaume Tell Overture or overture to The Barber of Seville or overture to Il barbiere di Siviglia by asking \"by which composer?\"]",
+            "updatedAt": "2024-06-15T16:52:21.091Z",
+            "category": "Fine Arts",
+            "subcategory": "Auditory Fine Arts",
+            "number": 14,
+            "createdAt": "2024-06-15T16:52:21.091Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd678473",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678487",
+            "question": "<b>A 2016 exhibition of this artist’s “Visions of Genius” at the Noordbrabants Museum authenticated a depiction of St. Anthony separated from a funnel by a river. The burning of this artist’s hometown may have inspired several blackened buildings in the background of his paintings. This artist depicted a man dropping coins into a chest as a skeleton pokes through a door and points a silver arrow at a man in bed. Joan Miró’s </b><i><b>The Tilled Field</b></i><b> was inspired by a painting by this artist in which (*)</b> birds appear gifting strawberries. This artist may have depicted himself as a pale white “tree man” who appears below a knife squished by two ears in a chaotic “Hell scene.” For 10 points, name this Dutch artist of <i>The Garden of Earthly Delights</i>.",
+            "question_sanitized": "A 2016 exhibition of this artist's \"Visions of Genius\" at the Noordbrabants Museum authenticated a depiction of St. Anthony separated from a funnel by a river. The burning of this artist's hometown may have inspired several blackened buildings in the background of his paintings. This artist depicted a man dropping coins into a chest as a skeleton pokes through a door and points a silver arrow at a man in bed. Joan Miro's The Tilled Field was inspired by a painting by this artist in which (*) birds appear gifting strawberries. This artist may have depicted himself as a pale white \"tree man\" who appears below a knife squished by two ears in a chaotic \"Hell scene.\" For 10 points, name this Dutch artist of The Garden of Earthly Delights.",
+            "answer": "Hieronymus <b><u>Bosch</u></b> [or Jheronimus <b><u>Bosch</u></b> or Jheronimus <b><u>van Aken</u></b>]",
+            "answer_sanitized": "Hieronymus Bosch [or Jheronimus Bosch or Jheronimus van Aken]",
+            "updatedAt": "2024-06-15T16:52:21.092Z",
+            "category": "Fine Arts",
+            "subcategory": "Visual Fine Arts",
+            "number": 20,
+            "createdAt": "2024-06-15T16:52:21.092Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd678473",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd67849f",
+            "question": "<b>Artists from this modern-day country mass-produced artworks dubbed “Madonneri” that inspired a Giovanni Bellini painting of a baby Christ with a golden apple. A “shadow painter” from this country prefigured Italian chiaroscuro with his dark shading. An artist </b>[emphasize] <i><b>born</b></i><b> in this modern-day country may have inspired the layout of </b><i><b>Les Demoiselles d’Avignon</b></i> (“lay duh-mwah-ZELL dah-veen-YON”) <b>with a painting depicting flailing nudes behind an outstretched St. John. That artist born in this country depicted (*)</b> Saints Stephen and Augustine carrying the body of a local official as his soul rises to heaven in another painting. For 10 points, Spanish friends of the creator of <i>The Opening of the Fifth Seal</i> and <i>The Burial of the Count of Orgaz</i> nicknamed him for being from what country?",
+            "question_sanitized": "Artists from this modern-day country mass-produced artworks dubbed \"Madonneri\" that inspired a Giovanni Bellini painting of a baby Christ with a golden apple. A \"shadow painter\" from this country prefigured Italian chiaroscuro with his dark shading. An artist [emphasize] born in this modern-day country may have inspired the layout of Les Demoiselles d'Avignon (\"lay duh-mwah-ZELL dah-veen-YON\") with a painting depicting flailing nudes behind an outstretched St. John. That artist born in this country depicted (*) Saints Stephen and Augustine carrying the body of a local official as his soul rises to heaven in another painting. For 10 points, Spanish friends of the creator of The Opening of the Fifth Seal and The Burial of the Count of Orgaz nicknamed him for being from what country?",
+            "answer": "<b><u>Greece</u></b> [or <b><u>Hellas</u></b>; or the <b><u>Hellenic</u></b> Republic; prompt El <u>Greco</u>] (The second line is Apollodorus.)",
+            "answer_sanitized": "Greece [or Hellas; or the Hellenic Republic; prompt El Greco] (The second line is Apollodorus.)",
+            "updatedAt": "2024-06-15T16:52:21.337Z",
+            "category": "Fine Arts",
+            "subcategory": "Visual Fine Arts",
+            "number": 1,
+            "createdAt": "2024-06-15T16:52:21.337Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67849e",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784a8",
+            "question": "<b>This film features split-second flashes of a make-up test for its lead actress with a pale face and red eyes. A scene in this film of a woman walking home is set to Mike Oldfield’s song “Tubular Bells.”</b> <b>The painting </b><i><b>Empire of Light</b></i><b> inspired a scene in this film in which a character played by Max von Sydow is illuminated under a street light. The author of this film’s source novel, William Blatty, chose its director (*)</b> William Friedkin. In this film’s finale, Damien throws himself out a window and down a flight of stairs to his death. Priests in this film chant “The power of Christ compels you!” at Pazuzu, a spirit who spins Regan’s head backward. For 10 points, name this 1973 film about a girl possessed by a demon.",
+            "question_sanitized": "This film features split-second flashes of a make-up test for its lead actress with a pale face and red eyes. A scene in this film of a woman walking home is set to Mike Oldfield's song \"Tubular Bells.\" The painting Empire of Light inspired a scene in this film in which a character played by Max von Sydow is illuminated under a street light. The author of this film's source novel, William Blatty, chose its director (*) William Friedkin. In this film's finale, Damien throws himself out a window and down a flight of stairs to his death. Priests in this film chant \"The power of Christ compels you!\" at Pazuzu, a spirit who spins Regan's head backward. For 10 points, name this 1973 film about a girl possessed by a demon.",
+            "answer": "<i>The</i> <i><b><u>Exorcist</u></b></i>",
+            "answer_sanitized": "The Exorcist",
+            "updatedAt": "2024-06-15T16:52:21.338Z",
+            "category": "Fine Arts",
+            "subcategory": "Other Fine Arts",
+            "alternate_subcategory": "Film",
+            "number": 10,
+            "createdAt": "2024-06-15T16:52:21.338Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67849e",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784aa",
+            "question": "<b>In this piece’s romantic third movement, the clarinet and flute play rising and falling 26- and 32-note tuplets. This piece opens with the low brass playing a stern fortissimo theme starting with the notes “E, down to B, D” that is later tamed by the other main theme. Cellos play wide arpeggios to emulate rocking waves in this piece’s last movement, which depicts a festival and (*)</b> shipwreck. The harp accompanies a sinuous, triplet-based, high violin solo in a theme representing this piece’s title character. For 10 points, “The Young Prince and the Young Princess” and “The Sea and Sinbad’s Ship” are movements of what symphonic suite by Nikolai Rimsky-Korsakov titled for the narrator of the <i>Arabian Nights</i>?",
+            "question_sanitized": "In this piece's romantic third movement, the clarinet and flute play rising and falling 26- and 32-note tuplets. This piece opens with the low brass playing a stern fortissimo theme starting with the notes \"E, down to B, D\" that is later tamed by the other main theme. Cellos play wide arpeggios to emulate rocking waves in this piece's last movement, which depicts a festival and (*) shipwreck. The harp accompanies a sinuous, triplet-based, high violin solo in a theme representing this piece's title character. For 10 points, \"The Young Prince and the Young Princess\" and \"The Sea and Sinbad's Ship\" are movements of what symphonic suite by Nikolai Rimsky-Korsakov titled for the narrator of the Arabian Nights?",
+            "answer": "<i><b><u>Scheherazade</u></b></i> (“sheh-HAIR-uh-zahd”)",
+            "answer_sanitized": "Scheherazade (\"sheh-HAIR-uh-zahd\")",
+            "updatedAt": "2024-06-15T16:52:21.339Z",
+            "category": "Fine Arts",
+            "subcategory": "Auditory Fine Arts",
+            "number": 12,
+            "createdAt": "2024-06-15T16:52:21.339Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67849e",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784ce",
+            "question": "<b></b><i><b>Note to moderators: read answerline carefully.</b></i><b> An “ancient” type of these instruments employed in </b><i><b>gagaku</b></i><b> ensembles has a size of 1.8 namesake units and was adapted from the Chinese </b><i><b>xiāo</b></i> (“shyao”)<b>. The third movement of the </b><i><b>Yellow River Piano Concerto</b></i><b> begins with a solo for one of these instruments, whose thin membrane gives it a distinctive buzzing sound. Unlike the </b><i><b>dízi</b></i> (“DEE-zeh”)<b>, the (*)</b> <i>shakuhachi</i> is an end-blown type of these instruments. They’re not clarinets, but Theobald Boehm developed the key system for this instrument’s Western concert type. The “vessel” type of these instruments is exemplified by the ocarina. Many of these instruments are made of bamboo and may be vertical or transverse. For 10 points, name these woodwind instruments related to the piccolo.",
+            "question_sanitized": "Note to moderators: read answerline carefully. An \"ancient\" type of these instruments employed in gagaku ensembles has a size of 1.8 namesake units and was adapted from the Chinese xiao (\"shyao\"). The third movement of the Yellow River Piano Concerto begins with a solo for one of these instruments, whose thin membrane gives it a distinctive buzzing sound. Unlike the dizi (\"DEE-zeh\"), the (*) shakuhachi is an end-blown type of these instruments. They're not clarinets, but Theobald Boehm developed the key system for this instrument's Western concert type. The \"vessel\" type of these instruments is exemplified by the ocarina. Many of these instruments are made of bamboo and may be vertical or transverse. For 10 points, name these woodwind instruments related to the piccolo.",
+            "answer": "<b><u>flute</u></b> [accept vessel <b><u>flute</u></b>s or concert <b><u>flute</u></b>s; accept <i><b><u>shakuhachi</u></b></i> before read and prompt after; accept <i><b><u>dízi</u></b></i> before read and prompt after; prompt on <u>woodwind</u>]",
+            "answer_sanitized": "flute [accept vessel flutes or concert flutes; accept shakuhachi before read and prompt after; accept dizi before read and prompt after; prompt on woodwind]",
+            "updatedAt": "2024-06-15T16:52:21.512Z",
+            "category": "Fine Arts",
+            "subcategory": "Auditory Fine Arts",
+            "number": 5,
+            "createdAt": "2024-06-15T16:52:21.512Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784c9",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784d5",
+            "question": "<b>A player of this instrument composed “Davenport Blues,” and played an influential solo on the Trumbauer Orchestra’s version of “Singin’ the Blues.”</b> <b>The leaders of ODJB and the Creole Jazz Band played this instrument, the smallest to use a device named for Paddy Harmon. This instrument plays an 11-second cadenza at the start of “West End Blues.” A player of this instrument led ensembles that</b> <b>recorded (*)</b> “Potato Head Blues” and “Heebie Jeebies.” King Oliver mentored a player of this instrument who recorded with the Hot Five and Seven and was nicknamed “Satchmo.” For 10 points, name this instrument played by Louis Armstrong.",
+            "question_sanitized": "A player of this instrument composed \"Davenport Blues,\" and played an influential solo on the Trumbauer Orchestra's version of \"Singin' the Blues.\" The leaders of ODJB and the Creole Jazz Band played this instrument, the smallest to use a device named for Paddy Harmon. This instrument plays an 11-second cadenza at the start of \"West End Blues.\" A player of this instrument led ensembles that recorded (*) \"Potato Head Blues\" and \"Heebie Jeebies.\" King Oliver mentored a player of this instrument who recorded with the Hot Five and Seven and was nicknamed \"Satchmo.\" For 10 points, name this instrument played by Louis Armstrong.",
+            "answer": "B-flat <b><u>trumpet</u></b> [accept <b><u>cornet</u></b>]",
+            "answer_sanitized": "B-flat trumpet [accept cornet]",
+            "updatedAt": "2024-06-15T16:52:21.513Z",
+            "category": "Fine Arts",
+            "subcategory": "Auditory Fine Arts",
+            "alternate_subcategory": "Jazz",
+            "number": 12,
+            "createdAt": "2024-06-15T16:52:21.513Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784c9",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784d9",
+            "question": "<b>A 700-gigapixel image of this painting was published after a live-streamed restoration of it was completed under the leadership of Taco Dibbits in 2020. In 1975, a teacher slashed this painting, damaging a depiction of a man in it wearing yellow. A shield in this painting lists eighteen men who are represented elsewhere by a pistol called a </b><i><b>klover</b></i><b>. To fit into a city hall in 1715, this painting had its edges trimmed, damaging a (*)</b> drummer who appears in front of a dog. The removal of a dark varnish from this painting illuminated a blue and yellow flag and a girl carrying a chicken. The Rijksmuseum’s (“RIKES-museum”) centerpiece is, for 10 points, what group portrait of a militia by Rembrandt?",
+            "question_sanitized": "A 700-gigapixel image of this painting was published after a live-streamed restoration of it was completed under the leadership of Taco Dibbits in 2020. In 1975, a teacher slashed this painting, damaging a depiction of a man in it wearing yellow. A shield in this painting lists eighteen men who are represented elsewhere by a pistol called a klover. To fit into a city hall in 1715, this painting had its edges trimmed, damaging a (*) drummer who appears in front of a dog. The removal of a dark varnish from this painting illuminated a blue and yellow flag and a girl carrying a chicken. The Rijksmuseum's (\"RIKES-museum\") centerpiece is, for 10 points, what group portrait of a militia by Rembrandt?",
+            "answer": "<i>The</i> <i><b><u>Night Watch</u></b></i> [or <i>De</i> <i><b><u>Nachtwacht</u></b></i>; accept Operation <b><u>Night Watch</u></b>; or The Shooting <b><u>Company</u></b> of Frans Banning <b><u>Cocq</u></b>; or <i>Militia</i> <i><b><u>Company</u></b> of District II under the Command of Captain Frans Banninck</i> <i><b><u>Cocq</u></b></i>]",
+            "answer_sanitized": "The Night Watch [or De Nachtwacht; accept Operation Night Watch; or The Shooting Company of Frans Banning Cocq; or Militia Company of District II under the Command of Captain Frans Banninck Cocq]",
+            "updatedAt": "2024-06-15T16:52:21.513Z",
+            "category": "Fine Arts",
+            "subcategory": "Visual Fine Arts",
+            "number": 16,
+            "createdAt": "2024-06-15T16:52:21.513Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784c9",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784fc",
+            "question": "<b>Queen Victoria’s preference for the No. 7 size of these tools led to Winsor & Newton’s Series 7 line of them. The monk Philibert names a flat type of these tools with a round tip. The principle of </b><i><b>gǔfǎ</b></i><b>, or “bone method,” is central to using Chinese ones of these tools, which are held upright. Prized examples of these tools are made from kolinsky sable. These tools may be used in conjunction with an offset, diamond-shaped (*)</b> knife to employ the contrasting techniques of <i>impasto</i> and <i>sfumato</i>. This tool is used to apply gold leaf in gilding by harnessing static electricity. A ferrule secures the handle of this tool to a tuft of fur. For 10 points, pens and what tools are used in Chinese calligraphy because their bristles hold ink?",
+            "question_sanitized": "Queen Victoria's preference for the No. 7 size of these tools led to Winsor & Newton's Series 7 line of them. The monk Philibert names a flat type of these tools with a round tip. The principle of gufa, or \"bone method,\" is central to using Chinese ones of these tools, which are held upright. Prized examples of these tools are made from kolinsky sable. These tools may be used in conjunction with an offset, diamond-shaped (*) knife to employ the contrasting techniques of impasto and sfumato. This tool is used to apply gold leaf in gilding by harnessing static electricity. A ferrule secures the handle of this tool to a tuft of fur. For 10 points, pens and what tools are used in Chinese calligraphy because their bristles hold ink?",
+            "answer": "paint<b><u>brush</u></b>es [or <b><u>brush</u></b>es; accept <b><u>máobǐ</u></b> or ink <b><u>brush</u></b>; prompt on <u>bǐ</u>; reject “gāngbĭ” or “pen”]",
+            "answer_sanitized": "paintbrushes [or brushes; accept maobi or ink brush; prompt on bi; reject \"gangbi\" or \"pen\"]",
+            "updatedAt": "2024-06-15T16:52:21.687Z",
+            "category": "Fine Arts",
+            "subcategory": "Visual Fine Arts",
+            "number": 8,
+            "createdAt": "2024-06-15T16:52:21.687Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784f4",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678501",
+            "question": "<b>A 2010 album by Elīna Garanča </b>(“ga-RAHN-cha”)<b> is named for this piece, which was based on a piece by Sebastián Iradier </b>(“ee-rahd-YAIR”)<b> that the composer mistook for a folk song. Dorothy Dandridge’s character sings an adaptation of this piece called “Dat’s Love” in a movie musical titled for that character with the surname “Jones.”In this piece, the cellos play an ostinato on the rhythm </b>[read slowly] <b>“dotted eighth, sixteenth, eighth, eighth” before the singer enters on a (*)</b> chromatically descending melody. The singer repeats the warning, “If I love you, beware!” in this aria while outside of a cigarette factory, during which she tosses a flower to Don José (“joh-ZAY”). This aria compares love to a rebellious bird. For 10 points, give this aria named for a Cuban dance, sung by Carmen.",
+            "question_sanitized": "A 2010 album by Elina Garanca (\"ga-RAHN-cha\") is named for this piece, which was based on a piece by Sebastian Iradier (\"ee-rahd-YAIR\") that the composer mistook for a folk song. Dorothy Dandridge's character sings an adaptation of this piece called \"Dat's Love\" in a movie musical titled for that character with the surname \"Jones.\"In this piece, the cellos play an ostinato on the rhythm [read slowly] \"dotted eighth, sixteenth, eighth, eighth\" before the singer enters on a (*) chromatically descending melody. The singer repeats the warning, \"If I love you, beware!\" in this aria while outside of a cigarette factory, during which she tosses a flower to Don Jose (\"joh-ZAY\"). This aria compares love to a rebellious bird. For 10 points, give this aria named for a Cuban dance, sung by Carmen.",
+            "answer": "<b><u>Habanera</u></b> from <i>Carmen</i> [or “<b><u>L</u><u>’</u><u>amour est un oiseau rebelle</u></b>”; accept “<b><u>Love is a rebellious bird</u></b>” before “rebellious” is read; prompt on <i><u>Carmen</u></i> or <i><u>Carmen Jones</u></i> before read] (The movie musical is <i>Carmen Jones</i>.)",
+            "answer_sanitized": "Habanera from Carmen [or \"L'amour est un oiseau rebelle\"; accept \"Love is a rebellious bird\" before \"rebellious\" is read; prompt on Carmen or Carmen Jones before read] (The movie musical is Carmen Jones.)",
+            "updatedAt": "2024-06-15T16:52:21.688Z",
+            "category": "Fine Arts",
+            "subcategory": "Other Fine Arts",
+            "alternate_subcategory": "Opera",
+            "number": 13,
+            "createdAt": "2024-06-15T16:52:21.688Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784f4",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678506",
+            "question": "<b>The soloist in this composer’s first cello concerto enters with the melody</b> [read slowly] <b>“G, F-flat, up to C-flat, long B-flat,” which he transposed and quoted in a later string quartet. This composer’s first violin concerto consists of a nocturne, scherzo </b>(“SCAIR-tzo”)<b>, passacaglia </b>(“pahss-uh-CALL-ya”)<b>, and burlesque. This composer wrote his second piano concerto in F major for his son Maxim. While staying in Dresden to write the score to the film </b><i><b>Five Days, Five Nights,</b></i><b> this composer wrote a C minor (*)</b> string quartet, his eighth, which he dedicated “to the victims of fascism and the war.” This composer wrote an “invasion theme” for his seventh symphony. For 10 points, the cryptogram D-S-C-H represents what composer of the Leningrad Symphony?",
+            "question_sanitized": "The soloist in this composer's first cello concerto enters with the melody [read slowly] \"G, F-flat, up to C-flat, long B-flat,\" which he transposed and quoted in a later string quartet. This composer's first violin concerto consists of a nocturne, scherzo (\"SCAIR-tzo\"), passacaglia (\"pahss-uh-CALL-ya\"), and burlesque. This composer wrote his second piano concerto in F major for his son Maxim. While staying in Dresden to write the score to the film Five Days, Five Nights, this composer wrote a C minor (*) string quartet, his eighth, which he dedicated \"to the victims of fascism and the war.\" This composer wrote an \"invasion theme\" for his seventh symphony. For 10 points, the cryptogram D-S-C-H represents what composer of the Leningrad Symphony?",
+            "answer": "Dmitri <b><u>Shostakovich</u></b> [or Dmitri Dmitriyevich <b><u>Shostakovich</u></b>; prompt on <u>Shosty</u>]",
+            "answer_sanitized": "Dmitri Shostakovich [or Dmitri Dmitriyevich Shostakovich; prompt on Shosty]",
+            "updatedAt": "2024-06-15T16:52:21.688Z",
+            "category": "Fine Arts",
+            "subcategory": "Auditory Fine Arts",
+            "number": 18,
+            "createdAt": "2024-06-15T16:52:21.688Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784f4",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678524",
+            "question": "<b>One piece of this type uses the </b><i><b>soggetto cavato</b></i><b> technique to map an Italian phrase meaning “let me do it” to the solfège </b>(“SOUL-fezh”)<b> syllables “La sol fa re mi.” A 1917 Hans Pfitzner opera dramatizes the events surrounding a type of these works “without a name.” The oldest complete one of these pieces by a single composer was written by Guillaume de Machaut </b>(“ghee-OHM de muh-SHOW”)<b>. The cantus firmus “L’homme armé”</b> (“LOHM ar-MAY”)<b> was used in two works of this type by (*)</b> Josquin des Prez (“joe-SCAN deh PRAY”). According to legend, a ban on polyphony (“puh-LIF-uh-nee”) was avoided after Palestrina wrote a piece of this type named for Pope Marcellus II that contains a two-movement Agnus Dei and opens with a Kyrie (“KEE-ree-ay”). For 10 points, name these choral settings of the liturgy of the Eucharist.",
+            "question_sanitized": "One piece of this type uses the soggetto cavato technique to map an Italian phrase meaning \"let me do it\" to the solfege (\"SOUL-fezh\") syllables \"La sol fa re mi.\" A 1917 Hans Pfitzner opera dramatizes the events surrounding a type of these works \"without a name.\" The oldest complete one of these pieces by a single composer was written by Guillaume de Machaut (\"ghee-OHM de muh-SHOW\"). The cantus firmus \"L'homme arme\" (\"LOHM ar-MAY\") was used in two works of this type by (*) Josquin des Prez (\"joe-SCAN deh PRAY\"). According to legend, a ban on polyphony (\"puh-LIF-uh-nee\") was avoided after Palestrina wrote a piece of this type named for Pope Marcellus II that contains a two-movement Agnus Dei and opens with a Kyrie (\"KEE-ree-ay\"). For 10 points, name these choral settings of the liturgy of the Eucharist.",
+            "answer": "<b><u>mass</u></b> [or <i><b><u>missa</u></b></i>; accept <i><b><u>missa</u></b> sine nomine</i>; reject “requiem mass”] (The Italian phrase is “Lascia fare mi.” The Pfitzner opera is <i>Palestrina</i>.)",
+            "answer_sanitized": "mass [or missa; accept missa sine nomine; reject \"requiem mass\"] (The Italian phrase is \"Lascia fare mi.\" The Pfitzner opera is Palestrina.)",
+            "updatedAt": "2024-06-15T16:52:21.853Z",
+            "category": "Fine Arts",
+            "subcategory": "Auditory Fine Arts",
+            "number": 5,
+            "createdAt": "2024-06-15T16:52:21.853Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67851f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd67852f",
+            "question": "<b>25 paintings attributed to this artist exhibited at the Orlando Museum of Art were proven to be forgeries. Annina Nosei gave this artist studio space in the basement of her gallery. A drawing by this artist depicts the words “GOD” and “LAW” below a dollar sign. Contemporaries of this artist such as Julian Schnabel are interviewed in a documentary subtitled </b><i><b>The Radiant Child</b></i><b>. Many of this artist’s early works made in collaboration with (*)</b> Al Diaz feature a prominent copyright symbol. In 2017, a Japanese billionaire paid $110 million for an untitled Neo-Expressionist painting of a black skull by this artist. This artist used the tag SAMO (“same-oh”) for many of his early works. For 10 points, name this pioneer of fine-art graffiti who died at 27 of a heroin overdose.",
+            "question_sanitized": "25 paintings attributed to this artist exhibited at the Orlando Museum of Art were proven to be forgeries. Annina Nosei gave this artist studio space in the basement of her gallery. A drawing by this artist depicts the words \"GOD\" and \"LAW\" below a dollar sign. Contemporaries of this artist such as Julian Schnabel are interviewed in a documentary subtitled The Radiant Child. Many of this artist's early works made in collaboration with (*) Al Diaz feature a prominent copyright symbol. In 2017, a Japanese billionaire paid $110 million for an untitled Neo-Expressionist painting of a black skull by this artist. This artist used the tag SAMO (\"same-oh\") for many of his early works. For 10 points, name this pioneer of fine-art graffiti who died at 27 of a heroin overdose.",
+            "answer": "Jean-Michel <b><u>Basquiat</u></b> [prompt on <b><u>SAMO</u></b> before mentioned]",
+            "answer_sanitized": "Jean-Michel Basquiat [prompt on SAMO before mentioned]",
+            "updatedAt": "2024-06-15T16:52:21.854Z",
+            "category": "Fine Arts",
+            "subcategory": "Visual Fine Arts",
+            "number": 16,
+            "createdAt": "2024-06-15T16:52:21.854Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67851f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd678556",
+            "question": "<b>Thomas Fearnley and Charles Cope were among those who painted this short artist standing on benches on “Varnishing Days,”</b> <b>on which he completed paintings just before they were exhibited. The first volume of John Ruskin’s </b><i><b>Modern Painters</b></i><b> championed this artist over the Old Masters. This artist donated two paintings on the condition that they be hung beside works by Claude Lorrain, who inspired his seascape (*)</b> <i>Dido Building Carthage</i>. Events on the <i>Zong</i> inspired a painting by this artist in which chains and drowning limbs emerge from the sea. In another painting by this artist, a blurry rabbit dashes across a bridge as a train approaches. For 10 points, name this British painter of <i>The Slave Ship</i> and <i>Rain, Steam, and Speed</i>.",
+            "question_sanitized": "Thomas Fearnley and Charles Cope were among those who painted this short artist standing on benches on \"Varnishing Days,\" on which he completed paintings just before they were exhibited. The first volume of John Ruskin's Modern Painters championed this artist over the Old Masters. This artist donated two paintings on the condition that they be hung beside works by Claude Lorrain, who inspired his seascape (*) Dido Building Carthage. Events on the Zong inspired a painting by this artist in which chains and drowning limbs emerge from the sea. In another painting by this artist, a blurry rabbit dashes across a bridge as a train approaches. For 10 points, name this British painter of The Slave Ship and Rain, Steam, and Speed.",
+            "answer": "J. M. W. <b><u>Turner</u></b> [or Joseph Mallord William <b><u>Turner</u></b>]",
+            "answer_sanitized": "J. M. W. Turner [or Joseph Mallord William Turner]",
+            "updatedAt": "2024-06-15T16:52:22.020Z",
+            "category": "Fine Arts",
+            "subcategory": "Visual Fine Arts",
+            "number": 12,
+            "createdAt": "2024-06-15T16:52:22.020Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67854a",
+                "name": "06",
+                "number": 6
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd67855e",
+            "question": "<b>This instrument plays a languid melody representing a lazy layabout in the Preludio of Heitor Villa-Lobos’s </b>(“VEE-yah LOH-bohsh’s”)<b> second </b><i><b>Bachiana Brasileira</b></i> (“bah-kee-AH-nuh brah-see-LAY-ruh”)<b>. Sigurd Raschèr’s virtuosity on this instrument inspired Jacques Ibert’s </b>(“ee-BAIR”) <i><b>Concertino da Camera</b></i><b>. A solo for this instrument begins “Waltz No. 2” from Shostakovich’s first </b><i><b>Suite for Variety Orchestra</b></i><b>. After a G-sharp minor bassoon solo in 6/8 </b>(“six eight”)<b> time, this instrument plays the melody in (*)</b> Maurice Ravel’s orchestration of “The Old Castle” from <i>Pictures at an Exhibition</i>. Created by a Belgian inventor in the mid-1800s, this instrument comes in a tenor version in B-flat and a more common E-flat alto version. For 10 points, name this woodwind instrument made of brass.",
+            "question_sanitized": "This instrument plays a languid melody representing a lazy layabout in the Preludio of Heitor Villa-Lobos's (\"VEE-yah LOH-bohsh's\") second Bachiana Brasileira (\"bah-kee-AH-nuh brah-see-LAY-ruh\"). Sigurd Rascher's virtuosity on this instrument inspired Jacques Ibert's (\"ee-BAIR\") Concertino da Camera. A solo for this instrument begins \"Waltz No. 2\" from Shostakovich's first Suite for Variety Orchestra. After a G-sharp minor bassoon solo in 6/8 (\"six eight\") time, this instrument plays the melody in (*) Maurice Ravel's orchestration of \"The Old Castle\" from Pictures at an Exhibition. Created by a Belgian inventor in the mid-1800s, this instrument comes in a tenor version in B-flat and a more common E-flat alto version. For 10 points, name this woodwind instrument made of brass.",
+            "answer": "<b><u>sax</u></b>ophone [accept tenor <b><u>sax</u></b>ophone; accept alto <b><u>sax</u></b>ophone]",
+            "answer_sanitized": "saxophone [accept tenor saxophone; accept alto saxophone]",
+            "updatedAt": "2024-06-15T16:52:22.020Z",
+            "category": "Fine Arts",
+            "subcategory": "Auditory Fine Arts",
+            "number": 20,
+            "createdAt": "2024-06-15T16:52:22.020Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67854a",
+                "name": "06",
+                "number": 6
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd67857b",
+            "question": "<b>J. R. Monterose and Jackie McLean use their saxophones to imitate foghorns and cars on this musician’s cover of Gershwin’s “A Foggy Day.” That song appears on a 1956 album by this musician whose cover depicts a white, orange, and black humanoid figure. Long, one-chord vamps performed by this musician’s Jazz Workshop were developed into tracks like (*)</b> “Haitian Fight Song.” An album by this artist is titled after the original scientific name of Java Man. This musician, who titled one album after his last name five times, included “Fables of Faubus” on a 1959 album that also contains an elegy to Lester Young titled “Goodbye Pork Pie Hat.” For 10 points, name this eccentric jazz bassist that recorded an album titled “[him] Ah Um.”",
+            "question_sanitized": "J. R. Monterose and Jackie McLean use their saxophones to imitate foghorns and cars on this musician's cover of Gershwin's \"A Foggy Day.\" That song appears on a 1956 album by this musician whose cover depicts a white, orange, and black humanoid figure. Long, one-chord vamps performed by this musician's Jazz Workshop were developed into tracks like (*) \"Haitian Fight Song.\" An album by this artist is titled after the original scientific name of Java Man. This musician, who titled one album after his last name five times, included \"Fables of Faubus\" on a 1959 album that also contains an elegy to Lester Young titled \"Goodbye Pork Pie Hat.\" For 10 points, name this eccentric jazz bassist that recorded an album titled \"[him] Ah Um.\"",
+            "answer": "Charles <b><u>Mingu</u><u>s</u></b> [or Charles <b><u>Mingus</u></b> Jr.]",
+            "answer_sanitized": "Charles Mingus [or Charles Mingus Jr.]",
+            "updatedAt": "2024-06-15T16:52:22.189Z",
+            "category": "Fine Arts",
+            "subcategory": "Auditory Fine Arts",
+            "alternate_subcategory": "Jazz",
+            "number": 6,
+            "createdAt": "2024-06-15T16:52:22.189Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd678575",
+                "name": "07",
+                "number": 7
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd678580",
+            "question": "<b>A best-selling 1989 recording of these pieces was by the “punk,” foot-stamping classical musician Nigel Kennedy. In 2012, Daniel Hope premiered a “recomposed” version of these pieces by Max Richter. The philosopher Jean-Jacques Rousseau transcribed one of these pieces for solo flute. In the third of these pieces, the harpsichord depicts dancing (*)</b> drunkards who fall asleep. The first of these pieces features a two-note viola motif representing a barking dog, and the second ends with a thunderstorm, as described in their accompanying sonnets. The first third of <i>The Contest Between Harmony and Invention</i> comprises, for 10 points, what set of violin concertos by Antonio Vivaldi that include “Autumn” and “Spring”?",
+            "question_sanitized": "A best-selling 1989 recording of these pieces was by the \"punk,\" foot-stamping classical musician Nigel Kennedy. In 2012, Daniel Hope premiered a \"recomposed\" version of these pieces by Max Richter. The philosopher Jean-Jacques Rousseau transcribed one of these pieces for solo flute. In the third of these pieces, the harpsichord depicts dancing (*) drunkards who fall asleep. The first of these pieces features a two-note viola motif representing a barking dog, and the second ends with a thunderstorm, as described in their accompanying sonnets. The first third of The Contest Between Harmony and Invention comprises, for 10 points, what set of violin concertos by Antonio Vivaldi that include \"Autumn\" and \"Spring\"?",
+            "answer": "<i>The</i> <i><b><u>Four Seasons</u></b></i> [or <i>Le</i> <i><b><u>quattro stagioni</u></b></i>; prompt on <u>Vivaldi violin concertos</u>; prompt on <i>The</i> <i><u>Contest Between Harmony and Invention</u></i> or <i>Il</i> <i><u>cimento dell’armonia e dell’inventione</u></i> before read]",
+            "answer_sanitized": "The Four Seasons [or Le quattro stagioni; prompt on Vivaldi violin concertos; prompt on The Contest Between Harmony and Invention or Il cimento dell'armonia e dell'inventione before read]",
+            "updatedAt": "2024-06-15T16:52:22.189Z",
+            "category": "Fine Arts",
+            "subcategory": "Auditory Fine Arts",
+            "number": 11,
+            "createdAt": "2024-06-15T16:52:22.189Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd678575",
+                "name": "07",
+                "number": 7
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd678589",
+            "question": "<b>One artist added mica powder to this technique so his paintings of “beautiful” women viewing themselves in mirrors would sparkle. In the 1700s, colorful “brocade pictures” using this technique depicted newspaper scenes. Small rectangles appeared on a “key” object used in this technique to line up colors. An artwork created through this technique depicts the dark peak of a mountain by fading (*) </b>Prussian blue dyes. A disc-like tool called a <i>baren</i> is pressed against <i>washi</i> paper in a style of this technique called <i>mokuhanga</i>. <i>Ukiyo-e</i> artworks like Hokusai’s <i>Thirty-Six Views of Mount Fuji</i> were made using, for 10 points, what technique in which a design is chiseled into a namesake material then pressed into an artwork?",
+            "question_sanitized": "One artist added mica powder to this technique so his paintings of \"beautiful\" women viewing themselves in mirrors would sparkle. In the 1700s, colorful \"brocade pictures\" using this technique depicted newspaper scenes. Small rectangles appeared on a \"key\" object used in this technique to line up colors. An artwork created through this technique depicts the dark peak of a mountain by fading (*) Prussian blue dyes. A disc-like tool called a baren is pressed against washi paper in a style of this technique called mokuhanga. Ukiyo-e artworks like Hokusai's Thirty-Six Views of Mount Fuji were made using, for 10 points, what technique in which a design is chiseled into a namesake material then pressed into an artwork?",
+            "answer": "wood<b><u>block</u></b> <b><u>print</u></b>ing [accept <i><b><u>mokuhanga</u></b></i> until read; prompt on <u>print</u>ing; prompt on wood<u>block</u>s or wood<u>cut</u>s or <u>wood</u>; prompt on <i><u>ukiyo-e</u></i> or <i><u>Ōkubi-e</u></i> with “What technique was used to make those artworks?”] (The lead-in is about Utamaro.)",
+            "answer_sanitized": "woodblock printing [accept mokuhanga until read; prompt on printing; prompt on woodblocks or woodcuts or wood; prompt on ukiyo-e or Okubi-e with \"What technique was used to make those artworks?\"] (The lead-in is about Utamaro.)",
+            "updatedAt": "2024-06-15T16:52:22.189Z",
+            "category": "Fine Arts",
+            "subcategory": "Visual Fine Arts",
+            "number": 20,
+            "createdAt": "2024-06-15T16:52:22.189Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd678575",
+                "name": "07",
+                "number": 7
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd6785a4",
+            "question": "<b>Jim Marshall gained fame for photographing people in this profession, including one in Monterey,</b> <b>California lighting an object on fire.</b> <b>William Gottlieb is best known for photographing members of this profession. Harry Benson photographed a group of people in this profession having a pillow fight. One person in this profession flips his middle finger to the camera in a photo of him taken in San Quentin Prison. On the day a member of this profession (*)</b> died, Annie Leibovitz photographed him naked cuddling his wife. A Volkswagen can be seen in the background of a photograph of four people in this profession crossing a street. For 10 points, name this occupation of those photographed on stage at Woodstock.",
+            "question_sanitized": "Jim Marshall gained fame for photographing people in this profession, including one in Monterey, California lighting an object on fire. William Gottlieb is best known for photographing members of this profession. Harry Benson photographed a group of people in this profession having a pillow fight. One person in this profession flips his middle finger to the camera in a photo of him taken in San Quentin Prison. On the day a member of this profession (*) died, Annie Leibovitz photographed him naked cuddling his wife. A Volkswagen can be seen in the background of a photograph of four people in this profession crossing a street. For 10 points, name this occupation of those photographed on stage at Woodstock.",
+            "answer": "<b><u>musician</u></b> [accept any answer indicating people who play <b><u>music</u></b>; accept <b><u>guitarist</u></b> or <b><u>guitar player</u></b>; accept <b><u>singer</u></b>; accept <b><u>rockstar</u></b>; accept rock <b><u>musician</u></b>; accept <b><u>band</u></b> musicians or members; accept <b><u>jazz</u></b> musician or artist; prompt on <u>artist</u>; prompt on <u>actor</u> by asking “what other profession was that person most famous for?”]",
+            "answer_sanitized": "musician [accept any answer indicating people who play music; accept guitarist or guitar player; accept singer; accept rockstar; accept rock musician; accept band musicians or members; accept jazz musician or artist; prompt on artist; prompt on actor by asking \"what other profession was that person most famous for?\"]",
+            "updatedAt": "2024-06-15T16:52:22.353Z",
+            "category": "Fine Arts",
+            "subcategory": "Visual Fine Arts",
+            "number": 4,
+            "createdAt": "2024-06-15T16:52:22.353Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd6785a0",
+                "name": "08",
+                "number": 8
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd6785a8",
+            "question": "<b>In 1991, Sherrie Levine created a bronze copy of this artwork subtitled “Madonna.” Glyn Thompson has argued that an object in this artwork had to have been created in Philadelphia and should be attributed to Baroness Elsa von Freytag-Loringhoven. This work was called a cross between “a Buddha and a Veiled Woman” in a photo of it by Alfred Stieglitz. In contrast to claims made in the 1960s, this artwork was likely not based on an object purchased from the J . L. (*)</b> Mott Iron Works. Despite rules accepting all submissions, this work was not displayed at a 1917 exhibition of the Society of Independent Artists. This work is signed “R. Mutt.” For 10 points, name this readymade attributed to Marcel Duchamp, adapted from a urinal.",
+            "question_sanitized": "In 1991, Sherrie Levine created a bronze copy of this artwork subtitled \"Madonna.\" Glyn Thompson has argued that an object in this artwork had to have been created in Philadelphia and should be attributed to Baroness Elsa von Freytag-Loringhoven. This work was called a cross between \"a Buddha and a Veiled Woman\" in a photo of it by Alfred Stieglitz. In contrast to claims made in the 1960s, this artwork was likely not based on an object purchased from the J . L. (*) Mott Iron Works. Despite rules accepting all submissions, this work was not displayed at a 1917 exhibition of the Society of Independent Artists. This work is signed \"R. Mutt.\" For 10 points, name this readymade attributed to Marcel Duchamp, adapted from a urinal.",
+            "answer": "<i><b><u>Fountain</u></b></i>",
+            "answer_sanitized": "Fountain",
+            "updatedAt": "2024-06-15T16:52:22.353Z",
+            "category": "Fine Arts",
+            "subcategory": "Visual Fine Arts",
+            "number": 8,
+            "createdAt": "2024-06-15T16:52:22.353Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd6785a0",
+                "name": "08",
+                "number": 8
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd6785ac",
+            "question": "<b>One piece of this type opens with the melody</b> [read slowly] <b>“long D, down to G, D, long E-flat” and features a “Scotch snap” rhythm in its second movement scherzo. A six movement work of this type was inspired by a folk genre that suddenly shifts from melancholy to exuberance. Clara Schumann’s Opus 17 is a G minor work of this type. One piece of this type got its nickname because its eerie Largo movement reminded Carl Czerny </b>(“CHAIR-nee”)<b> of Hamlet’s father. Antonín Dvořák’s </b>(“duh-VOR-zhahk’s”)<b> fourth work of this type is subtitled (*)</b> “Dumky.” A Beethoven work of this type is nicknamed for its dedicatee, Rudolf of Austria. “Ghost” and “Archduke” are, for 10 points, what type of piece written for an ensemble of violin, cello, and a namesake keyboard instrument?",
+            "question_sanitized": "One piece of this type opens with the melody [read slowly] \"long D, down to G, D, long E-flat\" and features a \"Scotch snap\" rhythm in its second movement scherzo. A six movement work of this type was inspired by a folk genre that suddenly shifts from melancholy to exuberance. Clara Schumann's Opus 17 is a G minor work of this type. One piece of this type got its nickname because its eerie Largo movement reminded Carl Czerny (\"CHAIR-nee\") of Hamlet's father. Antonin Dvorak's (\"duh-VOR-zhahk's\") fourth work of this type is subtitled (*) \"Dumky.\" A Beethoven work of this type is nicknamed for its dedicatee, Rudolf of Austria. \"Ghost\" and \"Archduke\" are, for 10 points, what type of piece written for an ensemble of violin, cello, and a namesake keyboard instrument?",
+            "answer": "<b><u>piano trio</u></b> [prompt on <u>trio</u>]",
+            "answer_sanitized": "piano trio [prompt on trio]",
+            "updatedAt": "2024-06-15T16:52:22.353Z",
+            "category": "Fine Arts",
+            "subcategory": "Auditory Fine Arts",
+            "number": 12,
+            "createdAt": "2024-06-15T16:52:22.353Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd6785a0",
+                "name": "08",
+                "number": 8
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd6785cd",
+            "question": "<b>Players of this instrument may practice exercises by Mauro Giuliani and Matteo Carcassi and use p-i-m-a notation. This instrument plays both arpeggios and a tremolo melody in a solo piece titled for “Memories of” a certain palace. The Nokia ringtone was excerpted from a piece for this instrument called </b><i><b>Gran Vals</b></i><b> written by Francisco Tárrega. This instrument is the soloist in (*)</b> Joaquín Rodrigo’s <i>Concierto de Aranjuez</i> (“con-see-AIR-toh day ar-AHN-hwayz”), which was often performed by Andrés Segovia. Players of this instrument may learn how to read tab notation and chord charts. For 10 points, name this six-stringed instrument often strummed in flamenco music.",
+            "question_sanitized": "Players of this instrument may practice exercises by Mauro Giuliani and Matteo Carcassi and use p-i-m-a notation. This instrument plays both arpeggios and a tremolo melody in a solo piece titled for \"Memories of\" a certain palace. The Nokia ringtone was excerpted from a piece for this instrument called Gran Vals written by Francisco Tarrega. This instrument is the soloist in (*) Joaquin Rodrigo's Concierto de Aranjuez (\"con-see-AIR-toh day ar-AHN-hwayz\"), which was often performed by Andres Segovia. Players of this instrument may learn how to read tab notation and chord charts. For 10 points, name this six-stringed instrument often strummed in flamenco music.",
+            "answer": "<b><u>guitar</u></b> [accept specific examples such as classical <b><u>guitar</u></b>, acoustic <b><u>guitar</u></b>, or flamenco <b><u>guitar</u></b>] (The second line is <i>Recuerdos de la Alhambra</i>.)",
+            "answer_sanitized": "guitar [accept specific examples such as classical guitar, acoustic guitar, or flamenco guitar] (The second line is Recuerdos de la Alhambra.)",
+            "updatedAt": "2024-06-15T16:52:22.518Z",
+            "category": "Fine Arts",
+            "subcategory": "Auditory Fine Arts",
+            "number": 2,
+            "createdAt": "2024-06-15T16:52:22.518Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd6785cb",
+                "name": "09",
+                "number": 9
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd6785d0",
+            "question": "<b>In a painting inspired by a magazine, an artist performs this action as his lover Peter Schlesinger, wearing a pink suit jacket, looks down. In an 1885 painting, an artist controversially depicted himself in the bottom right corner performing this action alongside his students. A person performing this action is represented by a white blotch of paint behind a protruding yellow (*) </b>rectangle, in front of palm trees and an empty director’s chair, in a painting by David Hockney. A boy stands on a stone wall and watches as young men perform this action in a Thomas Eakins painting. For 10 points, a Georges Seurat painting depicts boys performing what action along the Seine “at Asnières (“ahn-yair”)?”",
+            "question_sanitized": "In a painting inspired by a magazine, an artist performs this action as his lover Peter Schlesinger, wearing a pink suit jacket, looks down. In an 1885 painting, an artist controversially depicted himself in the bottom right corner performing this action alongside his students. A person performing this action is represented by a white blotch of paint behind a protruding yellow (*) rectangle, in front of palm trees and an empty director's chair, in a painting by David Hockney. A boy stands on a stone wall and watches as young men perform this action in a Thomas Eakins painting. For 10 points, a Georges Seurat painting depicts boys performing what action along the Seine \"at Asnieres (\"ahn-yair\")?\"",
+            "answer": "<b><u>swim</u></b>ming [or word forms such as having a <b><u>swim</u></b>; accept <i>The</i> <i><b><u>Swim</u></b>ming Hole</i>; accept synonyms such as <b><u>bath</u></b>ing; accept <i><b><u>Bath</u></b>ers at Asnières</i> or <i>Une</i> <i><b><u>Baignade</u></b>, Asnières</i>; accept having a <b><u>dip</u></b>; accept <b><u>float</u></b>ing or <b><u>wading</u></b>; accept <b><u>diving</u></b> or <b><u>jumping into a pool</u></b> or <b><u>jumping into water</u></b>; prompt on <u>jump</u>ing; prompt on <u>splash</u>ing; prompt on being <u>naked</u> or <u>nude</u>] (The first painting is Hockney’s <i>Portrait of an Artist (Pool with Two Figures)</i>. Hockney’s other painting clued is <i>A Bigger Splash</i>.)",
+            "answer_sanitized": "swimming [or word forms such as having a swim; accept The Swimming Hole; accept synonyms such as bathing; accept Bathers at Asnieres or Une Baignade, Asnieres; accept having a dip; accept floating or wading; accept diving or jumping into a pool or jumping into water; prompt on jumping; prompt on splashing; prompt on being naked or nude] (The first painting is Hockney's Portrait of an Artist (Pool with Two Figures). Hockney's other painting clued is A Bigger Splash.)",
+            "updatedAt": "2024-06-15T16:52:22.518Z",
+            "category": "Fine Arts",
+            "subcategory": "Visual Fine Arts",
+            "number": 5,
+            "createdAt": "2024-06-15T16:52:22.518Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd6785cb",
+                "name": "09",
+                "number": 9
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd6785fa",
+            "question": "<b>Birgit Nilsson</b> (“BEER-ghit NIL-son”)<b> sang the role of one of these people on three landmark recordings conducted by Georg Solti</b> (“George SHOL-tee”)<b>. These characters are represented by a 9/8</b> (“nine-eight”)<b> brass motif outlining B minor arpeggios and repeatedly cry “Hojotoho!”</b> (“HO-yo-toh-HO”)<b>. After her father bids her a tender farewell, one of these people is put to a magic (*)</b> sleep as part of her punishment for disobeying him by helping Siegmund (“ZEEG-munt”) fight Hunding. After becoming mortal, one of these characters dies in her Immolation Scene. One of these daughters of Wotan (“VOH-tahn”) wears a winged helmet and titles the second opera in the Ring Cycle. For 10 points, Brünnhilde (“broon-HILL-duh”) is what type of being who titles an operatic excerpt by Wagner about their “ride”?",
+            "question_sanitized": "Birgit Nilsson (\"BEER-ghit NIL-son\") sang the role of one of these people on three landmark recordings conducted by Georg Solti (\"George SHOL-tee\"). These characters are represented by a 9/8 (\"nine-eight\") brass motif outlining B minor arpeggios and repeatedly cry \"Hojotoho!\" (\"HO-yo-toh-HO\"). After her father bids her a tender farewell, one of these people is put to a magic (*) sleep as part of her punishment for disobeying him by helping Siegmund (\"ZEEG-munt\") fight Hunding. After becoming mortal, one of these characters dies in her Immolation Scene. One of these daughters of Wotan (\"VOH-tahn\") wears a winged helmet and titles the second opera in the Ring Cycle. For 10 points, Brunnhilde (\"broon-HILL-duh\") is what type of being who titles an operatic excerpt by Wagner about their \"ride\"?",
+            "answer": "<b><u>Valkyrie</u></b>s [or <b><u>Walküre</u></b>n; accept <b><u>shieldmaiden</u></b>; accept <i>Die</i> <i><b><u>Walküre</u></b></i>; accept “Ride of the <b><u>Valkyries</u></b>” or <i><b><u>Walküren</u></b>ritt</i> or <i>Ritt der</i> <i><b><u>Walküren</u></b></i>]",
+            "answer_sanitized": "Valkyries [or Walkuren; accept shieldmaiden; accept Die Walkure; accept \"Ride of the Valkyries\" or Walkurenritt or Ritt der Walkuren]",
+            "updatedAt": "2024-06-15T16:52:22.680Z",
+            "category": "Fine Arts",
+            "subcategory": "Other Fine Arts",
+            "alternate_subcategory": "Opera",
+            "number": 4,
+            "createdAt": "2024-06-15T16:52:22.680Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd6785f6",
+                "name": "10",
+                "number": 10
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        }
+    ],
+    "bonuses": []
+}

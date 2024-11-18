@@ -1,0 +1,605 @@
+{
+    "tossups": [
+        {
+            "_id": "666dc6c59f7c4cfdbd6784d1",
+            "question": "<b>Peter Hessler’s book </b><i><b>The Buried</b></i><b> profiles this city’s informal </b><i><b>zabaleen</b></i><b> garbage collectors. In the 1920s, a houseboat in this city’s Kit Kat neighborhood owned by diva Mounira al-Mahdia hosted cabinet meetings. Overcrowding in this city has spurred one government to build the Iconic Tower in a new planned city called the New Administrative Capital. Many of this city’s embassies are located in an “old” section that emerged from the city of (*)</b> Fustat. A series of 2011 protests occurred around this capital city’s Tahrir Square. A river divides this city from the four million residents of the city of Giza. For 10 points, name this city, the most populous on the Nile and capital of Egypt.",
+            "question_sanitized": "Peter Hessler's book The Buried profiles this city's informal zabaleen garbage collectors. In the 1920s, a houseboat in this city's Kit Kat neighborhood owned by diva Mounira al-Mahdia hosted cabinet meetings. Overcrowding in this city has spurred one government to build the Iconic Tower in a new planned city called the New Administrative Capital. Many of this city's embassies are located in an \"old\" section that emerged from the city of (*) Fustat. A series of 2011 protests occurred around this capital city's Tahrir Square. A river divides this city from the four million residents of the city of Giza. For 10 points, name this city, the most populous on the Nile and capital of Egypt.",
+            "answer": "<b><u>Cairo</u></b> [accept Greater <b><u>Cairo</u></b>; prompt on <u>Fustat</u> until read]",
+            "answer_sanitized": "Cairo [accept Greater Cairo; prompt on Fustat until read]",
+            "updatedAt": "2024-06-15T16:52:21.513Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 8,
+            "createdAt": "2024-06-15T16:52:21.513Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784c9",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678526",
+            "question": "<b>Black specks characterize the PGI bananas grown on Fyffes plantations in this archipelago, whose port city of Arguineguin </b>(“ar-GEEN-ee-GEEN”)<b> has become an ad hoc camp for migrants. Apollo 17 astronauts trained near the Fire Mountains in Timanfaya National Park in this archipelago, which is the most populous archipelago in Macaronesia</b> (“mah-cah-ro-NEE-shuh”)<b>. In a 2019 Romanian film, mobsters travel to this archipelago to learn (*)</b> “silbo,” a whistle language used by its indigenous Guanche people. Half of this archipelago is governed by the province of Las Palmas. These islands south of the Madeira Islands were the last Old World stopping point on Columbus’s voyages. For 10 points, Tenerife is part of what Spanish-controlled islands off the northwest African coast?",
+            "question_sanitized": "Black specks characterize the PGI bananas grown on Fyffes plantations in this archipelago, whose port city of Arguineguin (\"ar-GEEN-ee-GEEN\") has become an ad hoc camp for migrants. Apollo 17 astronauts trained near the Fire Mountains in Timanfaya National Park in this archipelago, which is the most populous archipelago in Macaronesia (\"mah-cah-ro-NEE-shuh\"). In a 2019 Romanian film, mobsters travel to this archipelago to learn (*) \"silbo,\" a whistle language used by its indigenous Guanche people. Half of this archipelago is governed by the province of Las Palmas. These islands south of the Madeira Islands were the last Old World stopping point on Columbus's voyages. For 10 points, Tenerife is part of what Spanish-controlled islands off the northwest African coast?",
+            "answer": "<b><u>Canary</u></b> Islands [or Islas <b><u>Canarias</u></b>; accept <b><u>Canaries</u></b>; prompt on <u>Spain</u> or the <u>Atlantic</u> before “Madeira Islands” is read]",
+            "answer_sanitized": "Canary Islands [or Islas Canarias; accept Canaries; prompt on Spain or the Atlantic before \"Madeira Islands\" is read]",
+            "updatedAt": "2024-06-15T16:52:21.853Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 7,
+            "createdAt": "2024-06-15T16:52:21.853Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67851f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd678577",
+            "question": "<b>This country’s resilience is often symbolized by a war-damaged modernist cinema in the Martyrs’ Square region of its capital nicknamed The Egg. When the only major landfill in this country shut down in the 2010s, garbage piled high in its Chouf Mountains. The medieval Castle of Gibelet is a tourist attraction in a port city in this country that lends its name to the Greek word for (*)</b> papyrus. A 700-year-old mummy nicknamed Yasmine was originally from this modern day country’s Maronite community. This country, whose city of Byblos was once a Phoenician hub, has a flag that depicts one of its historically important cedar trees. For 10 points, name this Middle Eastern country with capital at Beirut.",
+            "question_sanitized": "This country's resilience is often symbolized by a war-damaged modernist cinema in the Martyrs' Square region of its capital nicknamed The Egg. When the only major landfill in this country shut down in the 2010s, garbage piled high in its Chouf Mountains. The medieval Castle of Gibelet is a tourist attraction in a port city in this country that lends its name to the Greek word for (*) papyrus. A 700-year-old mummy nicknamed Yasmine was originally from this modern day country's Maronite community. This country, whose city of Byblos was once a Phoenician hub, has a flag that depicts one of its historically important cedar trees. For 10 points, name this Middle Eastern country with capital at Beirut.",
+            "answer": "<b><u>Lebanon</u></b> [or Republic of <b><u>Lebanon</u></b>; or <b><u>Lebanese Republic</u></b>]",
+            "answer_sanitized": "Lebanon [or Republic of Lebanon; or Lebanese Republic]",
+            "updatedAt": "2024-06-15T16:52:22.189Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 2,
+            "createdAt": "2024-06-15T16:52:22.189Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd678575",
+                "name": "07",
+                "number": 7
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd6785d2",
+            "question": "<b>Medieval residents of this city climbed greased Cuccagna </b>(“coo-KAHN-yah”)<b> trees to reach a stuffed bird during its Feast of the Roast Pig. A statue of Neptune in this city’s Piazza Maggiore </b>(“mah-JOR-ay”) <b>inspired the logo of one of its major car companies. Mundinus inaugurated this city’s tradition of public dissections, which were often accompanied by music. This city is home to the headquarters of Maserati and Lamborghini. Flat tagliatelle </b>(“tah-lee-ah-TELL-ay”) <b>pasta often accompanies this city’s namesake (*)</b> meat-based sauce. Umberto Eco established the “Anthropology of the West” in this European city at the oldest continuously-operating university in the world. The capital of Emilia-Romagna is, for 10 points, what Italian city that names a type of ground pork sausage?",
+            "question_sanitized": "Medieval residents of this city climbed greased Cuccagna (\"coo-KAHN-yah\") trees to reach a stuffed bird during its Feast of the Roast Pig. A statue of Neptune in this city's Piazza Maggiore (\"mah-JOR-ay\") inspired the logo of one of its major car companies. Mundinus inaugurated this city's tradition of public dissections, which were often accompanied by music. This city is home to the headquarters of Maserati and Lamborghini. Flat tagliatelle (\"tah-lee-ah-TELL-ay\") pasta often accompanies this city's namesake (*) meat-based sauce. Umberto Eco established the \"Anthropology of the West\" in this European city at the oldest continuously-operating university in the world. The capital of Emilia-Romagna is, for 10 points, what Italian city that names a type of ground pork sausage?",
+            "answer": "<b><u>Bologna</u></b> [accept the University of <b><u>Bologna</u></b>; accept Sant’Agata <b><u>Bolognese</u></b>; accept beef <b><u>bolognese</u></b> or <b><u>Bolognese</u></b> sauce; prompt on <u>Sant’Agata</u>; prompt on <u>baloney</u> with “what city is that named for?”] (Baloney was the American pronunciation of the city for several decades.)",
+            "answer_sanitized": "Bologna [accept the University of Bologna; accept Sant'Agata Bolognese; accept beef bolognese or Bolognese sauce; prompt on Sant'Agata; prompt on baloney with \"what city is that named for?\"] (Baloney was the American pronunciation of the city for several decades.)",
+            "updatedAt": "2024-06-15T16:52:22.518Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 7,
+            "createdAt": "2024-06-15T16:52:22.518Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd6785cb",
+                "name": "09",
+                "number": 9
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd6785ff",
+            "question": "<b>Purpose-built facilities for this activity often have features named for the Hubba Hideout in San Francisco. 92-year-old master planner Edmund Bacon engaged in this activity to protest Mayor John Street’s crackdown on this activity in Philadelphia’s LOVE Park. Alvar Aalto’s design for kidney-shaped pools inadvertently provided for the (*)</b> “vert” form of this activity in Southern California. People engage in this activity at the converted Church of Saint Barbara in Oviedo, Spain thanks to extensions for wall riding. A Marc Vallée photobook documents obstacles placed on rails to discourage grinding in this activity. For 10 points, name this activity, whose namesake “parks” let participants practice their kickflips.",
+            "question_sanitized": "Purpose-built facilities for this activity often have features named for the Hubba Hideout in San Francisco. 92-year-old master planner Edmund Bacon engaged in this activity to protest Mayor John Street's crackdown on this activity in Philadelphia's LOVE Park. Alvar Aalto's design for kidney-shaped pools inadvertently provided for the (*) \"vert\" form of this activity in Southern California. People engage in this activity at the converted Church of Saint Barbara in Oviedo, Spain thanks to extensions for wall riding. A Marc Vallee photobook documents obstacles placed on rails to discourage grinding in this activity. For 10 points, name this activity, whose namesake \"parks\" let participants practice their kickflips.",
+            "answer": "<b><u>skateboarding</u></b> [prompt on <u>skating</u> or extreme <u>sport</u>s; reject “roller skating” or “rollerblading” or “inline skating”]",
+            "answer_sanitized": "skateboarding [prompt on skating or extreme sports; reject \"roller skating\" or \"rollerblading\" or \"inline skating\"]",
+            "updatedAt": "2024-06-15T16:52:22.681Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 9,
+            "createdAt": "2024-06-15T16:52:22.681Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd6785f6",
+                "name": "10",
+                "number": 10
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd678651",
+            "question": "<b>This state’s waterfall-rich Arbuckle Mountains are home to the largest Christian youth camp in the US. It’s not Kansas, but in 1907 the American Bison Society shipped 15 bison to a refuge in this state’s Wichita Mountains. A college town in this state is home to the NWS’s Storm Prediction Center. In 2014, this state had twice as many earthquakes as California due to “wastewater disposal” from the (*)</b> fracking industry. This state’s northeastern Green Country contains part of the Will Rogers Turnpike as well as the city of Tahlequah, where road signs use a syllabary invented by Sequoyah. This state houses the headquarters of the Cherokee Nation. For 10 points, name this state home to the oil boom town of Tulsa.",
+            "question_sanitized": "This state's waterfall-rich Arbuckle Mountains are home to the largest Christian youth camp in the US. It's not Kansas, but in 1907 the American Bison Society shipped 15 bison to a refuge in this state's Wichita Mountains. A college town in this state is home to the NWS's Storm Prediction Center. In 2014, this state had twice as many earthquakes as California due to \"wastewater disposal\" from the (*) fracking industry. This state's northeastern Green Country contains part of the Will Rogers Turnpike as well as the city of Tahlequah, where road signs use a syllabary invented by Sequoyah. This state houses the headquarters of the Cherokee Nation. For 10 points, name this state home to the oil boom town of Tulsa.",
+            "answer": "<b><u>Oklahoma</u></b> [or <b><u>OK</u></b>]",
+            "answer_sanitized": "Oklahoma [or OK]",
+            "updatedAt": "2024-06-15T16:52:23.010Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 5,
+            "createdAt": "2024-06-15T16:52:23.010Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd67864c",
+                "name": "12",
+                "number": 12
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd678661",
+            "question": "<b>In a publicity campaign for this park, Chief Three Bears set up camp on the roof of the McAlpin Hotel in New York. Thomas D. McMahon’s Swiss-style hotel on the east shore of Swiftcurrent Lake in this park was commissioned by Louis W. Hill, a leader of the Great Northern Railway. Numerous hairpin turns are characteristic of the (*)</b> Going-to-the-Sun Road that traverses this park and crosses the Continental Divide via Logan Pass. This national park is the closest to the ski town of Whitefish. Photos taken over nine decades show the retreat of the Grinnell example of this park’s namesake features. For 10 points, name this national park in Montana named for some rapidly disappearing ice caps.",
+            "question_sanitized": "In a publicity campaign for this park, Chief Three Bears set up camp on the roof of the McAlpin Hotel in New York. Thomas D. McMahon's Swiss-style hotel on the east shore of Swiftcurrent Lake in this park was commissioned by Louis W. Hill, a leader of the Great Northern Railway. Numerous hairpin turns are characteristic of the (*) Going-to-the-Sun Road that traverses this park and crosses the Continental Divide via Logan Pass. This national park is the closest to the ski town of Whitefish. Photos taken over nine decades show the retreat of the Grinnell example of this park's namesake features. For 10 points, name this national park in Montana named for some rapidly disappearing ice caps.",
+            "answer": "<b><u>Glacier</u></b> National Park [reject “Glacier Bay” or “Glacier Bay National Park”]",
+            "answer_sanitized": "Glacier National Park [reject \"Glacier Bay\" or \"Glacier Bay National Park\"]",
+            "updatedAt": "2024-06-15T16:52:23.010Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 21,
+            "createdAt": "2024-06-15T16:52:23.010Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd67864c",
+                "name": "12",
+                "number": 12
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd67867b",
+            "question": "<b>White borax islands break up the otherwise red landscape of this country’s Laguna Colorada, home to a population of James’s flamingos. Hikers along this country’s Valle de Las Animas get a great view of Mount Illimani. Ferries in this country connect the towns of San Pedro and San Pablo via the Strait of Tiquina. 300 drivers per year used to perish on this country’s (*)</b> North Yungas Death Road connecting Coroico to a capital with an extensive cable car system. Two million tons of lithium was recently found in a giant salt flat in this country’s Potosí region. This country’s Altiplano region is home to the southeastern part of Lake Titicaca. For 10 points, name this country with administrative capital at La Paz.",
+            "question_sanitized": "White borax islands break up the otherwise red landscape of this country's Laguna Colorada, home to a population of James's flamingos. Hikers along this country's Valle de Las Animas get a great view of Mount Illimani. Ferries in this country connect the towns of San Pedro and San Pablo via the Strait of Tiquina. 300 drivers per year used to perish on this country's (*) North Yungas Death Road connecting Coroico to a capital with an extensive cable car system. Two million tons of lithium was recently found in a giant salt flat in this country's Potosi region. This country's Altiplano region is home to the southeastern part of Lake Titicaca. For 10 points, name this country with administrative capital at La Paz.",
+            "answer": "<b><u>Bolivia</u></b> [or Plurinational State of <b><u>Bolivia</u></b>; or Estado Plurinacional de <b><u>Bolivia</u></b>]",
+            "answer_sanitized": "Bolivia [or Plurinational State of Bolivia; or Estado Plurinacional de Bolivia]",
+            "updatedAt": "2024-06-15T16:52:23.167Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 4,
+            "createdAt": "2024-06-15T16:52:23.167Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd678677",
+                "name": "13",
+                "number": 13
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd6786dd",
+            "question": "<b>A road in this region’s Steeple Brink is named for legendary smuggler Cruel Coppinger. In 1839, 47,000 pounds worth of Brazilian gold dust was stolen from this region’s port of Falmouth. In this region, Stanhope Forbes pioneered British plein-air painting at an artist’s colony in St. Ives. Words still used in the mining industry such as “gunnies” originate from this region’s namesake Celtic language. This region’s 3,000-year-old (*)</b> tin mine was granted UNESCO World Heritage status in 2006 along with one in bordering Devon. A town in this county on the English Channel titles Gilbert and Sullivan’s <i>The Pirates of Penzance</i>. Truro is the largest city in, for 10 points, what peninsular county on the southwest end of England?",
+            "question_sanitized": "A road in this region's Steeple Brink is named for legendary smuggler Cruel Coppinger. In 1839, 47,000 pounds worth of Brazilian gold dust was stolen from this region's port of Falmouth. In this region, Stanhope Forbes pioneered British plein-air painting at an artist's colony in St. Ives. Words still used in the mining industry such as \"gunnies\" originate from this region's namesake Celtic language. This region's 3,000-year-old (*) tin mine was granted UNESCO World Heritage status in 2006 along with one in bordering Devon. A town in this county on the English Channel titles Gilbert and Sullivan's The Pirates of Penzance. Truro is the largest city in, for 10 points, what peninsular county on the southwest end of England?",
+            "answer": "<b><u>Cornwall</u></b> [or <i><b><u>Kernow</u></b></i>; accept <b><u>Cornwall</u></b> Peninsula; prompt on <u>England</u> or <u>South West England</u> or <u>South West Peninsula</u>]",
+            "answer_sanitized": "Cornwall [or Kernow; accept Cornwall Peninsula; prompt on England or South West England or South West Peninsula]",
+            "updatedAt": "2024-06-15T16:52:23.499Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 16,
+            "createdAt": "2024-06-15T16:52:23.499Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd6786cd",
+                "name": "15",
+                "number": 15
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd67870b",
+            "question": "<b></b><i><b>Two answers required.</b></i><b> A park shared by these two cities contains an acorn-topped marble obelisk called Monument 258. Violence led many elites of one of these cities to move to the suburb of Bonita in the other. During the “Satan’s Playground” era, a Mission Revival building was moved from a 1915 World’s Fair site in one of these cities to the other’s Agua Caliente district. The Otay Mesa Industrial Park shared by these two cities contains several (*)</b> maquiladoras. The San Ysidro Port of Entry connects a highway in one of these cities to Interstate 5 in the other. The Blue Line Trolley connects these two cities, also running through La Jolla and Chula Vista. For 10 points, what two cities share an international border in Southern California?",
+            "question_sanitized": "Two answers required. A park shared by these two cities contains an acorn-topped marble obelisk called Monument 258. Violence led many elites of one of these cities to move to the suburb of Bonita in the other. During the \"Satan's Playground\" era, a Mission Revival building was moved from a 1915 World's Fair site in one of these cities to the other's Agua Caliente district. The Otay Mesa Industrial Park shared by these two cities contains several (*) maquiladoras. The San Ysidro Port of Entry connects a highway in one of these cities to Interstate 5 in the other. The Blue Line Trolley connects these two cities, also running through La Jolla and Chula Vista. For 10 points, what two cities share an international border in Southern California?",
+            "answer": "<b><u>San Diego</u></b>, California AND <b><u>Tijuana</u></b>, Baja California",
+            "answer_sanitized": "San Diego, California AND Tijuana, Baja California",
+            "updatedAt": "2024-06-15T16:52:23.671Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 19,
+            "createdAt": "2024-06-15T16:52:23.671Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd6786f8",
+                "name": "16",
+                "number": 16
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd678756",
+            "question": "<b>Tetteh Quarshie smuggled this crop into a country that’s now part of the COPEC cartel for growers of it. Following a strong Harmattan season and an outbreak of black pod disease, the price of a metric ton of this crop topped $10,000 in March 2024. The Harkin-Engel Protocol has failed to reduce the rate of child slavery in growing this crop. The WWF claims this crop is the main cause of deforestation in Ghana. Producers of this crop are represented by the (*)</b> Ivorian Fair Trade Network in the country that grows more of it than any other. This crop is fermented and roasted to produce a “butter” used in skincare and in the signature product of Godiva. For 10 points, name this crop whose beans are used to make chocolate.",
+            "question_sanitized": "Tetteh Quarshie smuggled this crop into a country that's now part of the COPEC cartel for growers of it. Following a strong Harmattan season and an outbreak of black pod disease, the price of a metric ton of this crop topped $10,000 in March 2024. The Harkin-Engel Protocol has failed to reduce the rate of child slavery in growing this crop. The WWF claims this crop is the main cause of deforestation in Ghana. Producers of this crop are represented by the (*) Ivorian Fair Trade Network in the country that grows more of it than any other. This crop is fermented and roasted to produce a \"butter\" used in skincare and in the signature product of Godiva. For 10 points, name this crop whose beans are used to make chocolate.",
+            "answer": "<b><u>cocoa</u></b> [accept <b><u>cocoa</u></b> bean or <b><u>cacao</u></b> or <b><u>cocoa</u></b> seed or <b><u>cacao</u></b> tree or <b><u>cocoa</u></b> tree or <i>Theobroma</i> <i><b><u>cacao</u></b></i>; prompt on <u>chocolate</u> until read]",
+            "answer_sanitized": "cocoa [accept cocoa bean or cacao or cocoa seed or cacao tree or cocoa tree or Theobroma cacao; prompt on chocolate until read]",
+            "updatedAt": "2024-06-15T16:52:24.007Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 8,
+            "createdAt": "2024-06-15T16:52:24.007Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd67874e",
+                "name": "18 TB B",
+                "number": 18
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd6787d3",
+            "question": "<b>Each year, structures made of this material and decorated with colored lights are constructed for a carnival in Saranac Lake, New York. A man builds a structure out of this material without a fourth wall in a pioneering work of docufiction by Robert J. Flaherty. Structures made from a type of this material called </b><i><b>pukaangajuq</b></i> (“poo-kong-aye-yuk”) <b>would often be settled by lighting a </b><i><b>qulliq</b></i> (“KUH-lick”) <b>oil lamp. An F. Scott Fitzgerald short story was inspired by one of the (*)</b> “palaces” built from this material each year in St. Paul. Bricks of this material are laid in an ascending circular fashion in structures that might also have beds made from caribou fur. For 10 points, name this material whose bricks are used to construct igloos.",
+            "question_sanitized": "Each year, structures made of this material and decorated with colored lights are constructed for a carnival in Saranac Lake, New York. A man builds a structure out of this material without a fourth wall in a pioneering work of docufiction by Robert J. Flaherty. Structures made from a type of this material called pukaangajuq (\"poo-kong-aye-yuk\") would often be settled by lighting a qulliq (\"KUH-lick\") oil lamp. An F. Scott Fitzgerald short story was inspired by one of the (*) \"palaces\" built from this material each year in St. Paul. Bricks of this material are laid in an ascending circular fashion in structures that might also have beds made from caribou fur. For 10 points, name this material whose bricks are used to construct igloos.",
+            "answer": "<b><u>snow</u></b> [or <b><u>ice</u></b>; prompt on <u>water</u>] (Flaherty’s film is <i>Nanook of the North</i>.)",
+            "answer_sanitized": "snow [or ice; prompt on water] (Flaherty's film is Nanook of the North.)",
+            "updatedAt": "2024-06-15T16:52:24.506Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 4,
+            "createdAt": "2024-06-15T16:52:24.506Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c89f7c4cfdbd6787cf",
+                "name": "21 Finals 2",
+                "number": 21
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd678801",
+            "question": "<b>Larry Cudney was the first to exploit a rule allowing for houses in this city to have big basements, sinking the house’s first floor by 18 inches to create its namesake “special.” Although this city’s Downtown Eastside neighborhood was cleared of its homeless population prior to Expo 86, by 2003 it was home to a pioneering safe injection site. Sites in this city include a steam-powered clock in (*)</b> Gastown and a giant park bordering English Bay named for Frederick Stanley. The Fraser River separates this city and Burnaby from its suburb of Richmond. The Whistler-Blackcomb ski resort hosted events for the 2010 Winter Olympics held in this city. For 10 points, name this most populous city in British Columbia.",
+            "question_sanitized": "Larry Cudney was the first to exploit a rule allowing for houses in this city to have big basements, sinking the house's first floor by 18 inches to create its namesake \"special.\" Although this city's Downtown Eastside neighborhood was cleared of its homeless population prior to Expo 86, by 2003 it was home to a pioneering safe injection site. Sites in this city include a steam-powered clock in (*) Gastown and a giant park bordering English Bay named for Frederick Stanley. The Fraser River separates this city and Burnaby from its suburb of Richmond. The Whistler-Blackcomb ski resort hosted events for the 2010 Winter Olympics held in this city. For 10 points, name this most populous city in British Columbia.",
+            "answer": "<b><u>Vancouver</u></b>, British Columbia [accept Metro <b><u>Vancouver</u></b>]",
+            "answer_sanitized": "Vancouver, British Columbia [accept Metro Vancouver]",
+            "updatedAt": "2024-06-15T16:52:24.673Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 7,
+            "createdAt": "2024-06-15T16:52:24.673Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c89f7c4cfdbd6787fa",
+                "name": "22 Emergency",
+                "number": 22
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3dc5459312fdcc5604",
+            "question": "<b>In this state, the Minuteman Missile National Historic Site is located east of Ellsworth Air Force Base. Attractions in this state include the Wall Drug Store and the world’s largest reptile zoo. This state boasts the world’s last remaining corn palace in its city of Mitchell. This state’s town of (*)</b> Sturgis annually hosts the largest motorcycle rally in the world. The Pine Ridge Reservation is in this state, which contains the southern portion of Standing Rock. This state’s largest cities are Rapid City and Sioux Falls. Kristi Noem governs, for 10 points, what Plains state whose Black Hills contain Mount Rushmore?",
+            "question_sanitized": "In this state, the Minuteman Missile National Historic Site is located east of Ellsworth Air Force Base. Attractions in this state include the Wall Drug Store and the world's largest reptile zoo. This state boasts the world's last remaining corn palace in its city of Mitchell. This state's town of (*) Sturgis annually hosts the largest motorcycle rally in the world. The Pine Ridge Reservation is in this state, which contains the southern portion of Standing Rock. This state's largest cities are Rapid City and Sioux Falls. Kristi Noem governs, for 10 points, what Plains state whose Black Hills contain Mount Rushmore?",
+            "answer": "<b><u>South Dakota</u></b> [or <b><u>SD</u></b>]",
+            "answer_sanitized": "South Dakota [or SD]",
+            "updatedAt": "2024-08-27T03:47:09.392Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 9,
+            "createdAt": "2024-08-27T03:47:09.392Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc55fb",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3dc5459312fdcc5652",
+            "question": "<b>This ingredient is the base for the dish féroce</b> (“fair-ohs”)<b> on the island of Martinique. It’s not corn, but this ingredient is traditionally consumed floating in milk, sugar, and ice in the Philippines. US imports of this good were halted in February 2022 after drug cartels in Michoacán</b> (“meek-hwah-kahn”)<b> threatened an American inspector. This crop’s most popular variety was first cultivated near Anaheim by Rudolph (*)</b> Hass. California rolls use this fruit along with crab and cucumber, and the use of this product on toast likely originated in San Francisco. For 10 points, name this large-pitted fruit that is used to make guacamole.",
+            "question_sanitized": "This ingredient is the base for the dish feroce (\"fair-ohs\") on the island of Martinique. It's not corn, but this ingredient is traditionally consumed floating in milk, sugar, and ice in the Philippines. US imports of this good were halted in February 2022 after drug cartels in Michoacan (\"meek-hwah-kahn\") threatened an American inspector. This crop's most popular variety was first cultivated near Anaheim by Rudolph (*) Hass. California rolls use this fruit along with crab and cucumber, and the use of this product on toast likely originated in San Francisco. For 10 points, name this large-pitted fruit that is used to make guacamole.",
+            "answer": "<b><u>avocado</u></b>es [accept specific varieties of avocados such as Hass <b><u>avocado</u></b>es; prompt on <u>guacamole</u> by asking “What more general product is used to make guacamole?”]",
+            "answer_sanitized": "avocadoes [accept specific varieties of avocados such as Hass avocadoes; prompt on guacamole by asking \"What more general product is used to make guacamole?\"]",
+            "updatedAt": "2024-08-27T03:47:09.630Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 5,
+            "createdAt": "2024-08-27T03:47:09.630Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc564d",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3dc5459312fdcc56a6",
+            "question": "<b>Ancient art found in this geographic region from the “Roundhead Period” is frequently painted over at Tassili. The inhabitants of a strip of land in this geographic region said to be rich in uranium were claimed to be vassals of the Senoussi Order; that strip was the site of the Toyota War and is called the (*)</b> Aouzou Strip. Historical heavy rainfall in this geographic region is part of its namesake “pump” theory of how the first humans crossed it to settle. The “Great Green Wall” is a tree-planting project designed to slow the expansion of this region through the Sahel. For 10 points, name this world’s largest hot desert that covers much of Northern Africa.",
+            "question_sanitized": "Ancient art found in this geographic region from the \"Roundhead Period\" is frequently painted over at Tassili. The inhabitants of a strip of land in this geographic region said to be rich in uranium were claimed to be vassals of the Senoussi Order; that strip was the site of the Toyota War and is called the (*) Aouzou Strip. Historical heavy rainfall in this geographic region is part of its namesake \"pump\" theory of how the first humans crossed it to settle. The \"Great Green Wall\" is a tree-planting project designed to slow the expansion of this region through the Sahel. For 10 points, name this world's largest hot desert that covers much of Northern Africa.",
+            "answer": "<b><u>Sahara</u></b> Desert [accept As-<b><u>Sahra</u></b> Al-Kubra, prompt on <u>Africa</u> or <u>North Africa</u> before mention, prompt on <u>Sahel</u> before mention]",
+            "answer_sanitized": "Sahara Desert [accept As-Sahra Al-Kubra, prompt on Africa or North Africa before mention, prompt on Sahel before mention]",
+            "updatedAt": "2024-08-27T03:47:09.882Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 7,
+            "createdAt": "2024-08-27T03:47:09.882Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc569f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc56fc",
+            "question": "<b>In this country, seeing the track inspection train “Doctor Yellow” is said to bring good luck. It’s not Disney-related, but the Skyliner runs to an airport in this country whose construction was opposed by local farmers in the region of Chiba. The dog Hachi waited over nine years for his owner in this country’s subway system, which employs “pushers” to fill trains. A service in this country provided by JR will use the (*)</b> Seikan Tunnel to connect trains to Sapporo. The first high-speed rail system was this country’s bullet trains. For 10 points, what country’s Shinkansen network connects cities like Osaka and Tokyo?",
+            "question_sanitized": "In this country, seeing the track inspection train \"Doctor Yellow\" is said to bring good luck. It's not Disney-related, but the Skyliner runs to an airport in this country whose construction was opposed by local farmers in the region of Chiba. The dog Hachi waited over nine years for his owner in this country's subway system, which employs \"pushers\" to fill trains. A service in this country provided by JR will use the (*) Seikan Tunnel to connect trains to Sapporo. The first high-speed rail system was this country's bullet trains. For 10 points, what country's Shinkansen network connects cities like Osaka and Tokyo?",
+            "answer": "<b><u>Japan</u></b> [or <b><u>Nihon</u></b>-koku or <b><u>Nippon</u></b>-koku]",
+            "answer_sanitized": "Japan [or Nihon-koku or Nippon-koku]",
+            "updatedAt": "2024-08-27T03:47:10.139Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 11,
+            "createdAt": "2024-08-27T03:47:10.139Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc56f1",
+                "name": "07",
+                "number": 7
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc5747",
+            "question": "<b>This country’s most famous cathedral survived the 1911 Kebin earthquake despite being built without nails. The Dike Kokaral dam was built in this modern-day country’s southeast, where Lake Balkhash rests at the foot of the Tian Shan mountains. This modern-day country contains the world’s first (*)</b> spaceport, the Baikonur Cosmodrome. In 2022, President Kassym-Jomart Tokayev (“toke-eye-ev”) renamed this country’s capital city so that it no longer honors Nursultan Nazarbayev. For 10 points, name this landlocked Central Asian nation governed from Astana and whose largest city is Almaty.",
+            "question_sanitized": "This country's most famous cathedral survived the 1911 Kebin earthquake despite being built without nails. The Dike Kokaral dam was built in this modern-day country's southeast, where Lake Balkhash rests at the foot of the Tian Shan mountains. This modern-day country contains the world's first (*) spaceport, the Baikonur Cosmodrome. In 2022, President Kassym-Jomart Tokayev (\"toke-eye-ev\") renamed this country's capital city so that it no longer honors Nursultan Nazarbayev. For 10 points, name this landlocked Central Asian nation governed from Astana and whose largest city is Almaty.",
+            "answer": "<b><u>Kazakhstan</u></b> [or Republic of <b><u>Kazakhstan</u></b> or <b><u>Qazaqstan</u></b> Respublikasy]",
+            "answer_sanitized": "Kazakhstan [or Republic of Kazakhstan or Qazaqstan Respublikasy]",
+            "updatedAt": "2024-08-27T03:47:10.411Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 4,
+            "createdAt": "2024-08-27T03:47:10.411Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc5743",
+                "name": "09",
+                "number": 9
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc57cc",
+            "question": "<b>In this province, a giant pile of bright yellow sulfur is visible from Lions Gate Bridge. This province’s many fjord lakes include Okanagan Lake, which borders its city of Kelowna. A city in this province is home to the neighborhoods of Cold Harbor and Gastown and is separated from Richmond and Surrey by the Fraser River. An island home to (*)</b> Nanaimo and this province’s capital is bordered on the south by the Strait of Juan de Fuca. This province contains the Whistler Blackcomb Ski Resort, which was a venue for the 2010 Winter Olympics. Victoria is the capital of, for 10 points, what Western Canadian province whose largest city is Vancouver?",
+            "question_sanitized": "In this province, a giant pile of bright yellow sulfur is visible from Lions Gate Bridge. This province's many fjord lakes include Okanagan Lake, which borders its city of Kelowna. A city in this province is home to the neighborhoods of Cold Harbor and Gastown and is separated from Richmond and Surrey by the Fraser River. An island home to (*) Nanaimo and this province's capital is bordered on the south by the Strait of Juan de Fuca. This province contains the Whistler Blackcomb Ski Resort, which was a venue for the 2010 Winter Olympics. Victoria is the capital of, for 10 points, what Western Canadian province whose largest city is Vancouver?",
+            "answer": "<b><u>British Columbia</u></b> [or <b><u>BC</u></b>]",
+            "answer_sanitized": "British Columbia [or BC]",
+            "updatedAt": "2024-08-27T03:47:10.837Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 14,
+            "createdAt": "2024-08-27T03:47:10.837Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc57be",
+                "name": "12",
+                "number": 12
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc57f7",
+            "question": "<b>One of this city’s 48 barrios named in reference to the mouth of the Matanza River contains many colorful houses along the Caminito. Three lines of this city’s Subte metro system converge under an obelisk in its extremely wide 9 de Julio</b> (“noo-ev-ay day who-leo”)<b> Avenue. This city’s Palermo neighborhood is home to massive polo competitions played by porteños</b> (“poor-tain-yos”).<b> To commemorate the (*)</b> Dirty War, mothers march around this city’s Plaza de Mayo, which also contains the Casa Rosada presidential palace. The Rio de la Plata separates this city from Montevideo in Uruguay. For 10 points, name this capital of Argentina.",
+            "question_sanitized": "One of this city's 48 barrios named in reference to the mouth of the Matanza River contains many colorful houses along the Caminito. Three lines of this city's Subte metro system converge under an obelisk in its extremely wide 9 de Julio (\"noo-ev-ay day who-leo\") Avenue. This city's Palermo neighborhood is home to massive polo competitions played by portenos (\"poor-tain-yos\"). To commemorate the (*) Dirty War, mothers march around this city's Plaza de Mayo, which also contains the Casa Rosada presidential palace. The Rio de la Plata separates this city from Montevideo in Uruguay. For 10 points, name this capital of Argentina.",
+            "answer": "<b><u>Buenos Aires</u></b> [or Autonomous City of <b><u>Buenos Aires</u></b> or Ciudad Autónoma de <b><u>Buenos Aires</u></b> or CA<b><u>BA</u></b>]",
+            "answer_sanitized": "Buenos Aires [or Autonomous City of Buenos Aires or Ciudad Autonoma de Buenos Aires or CABA]",
+            "updatedAt": "2024-08-27T03:47:10.981Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 16,
+            "createdAt": "2024-08-27T03:47:10.981Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc57e7",
+                "name": "13",
+                "number": 13
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3fc5459312fdcc583c",
+            "question": "<b>This river is home to the mbu pufferfish and goliath tigerfish. The Malabo Pool is a large area in this river.</b> <b>The Matadi Bridge crosses over this river which empties into the ocean by the port of Banana. This river, which receives the Chambeshi, flows through several series of cataracts such as Livingstone and Boyoma Falls. Before flowing through Kisangani, this river is known as the (*)</b> Lualaba. Lakes Mweru and Tanganyika supply this river, which was formerly known as the Zaire. Brazzaville and Kinshasa lie along, for ten points, what second-longest river in Africa that shares the name of the two countries it separates?",
+            "question_sanitized": "This river is home to the mbu pufferfish and goliath tigerfish. The Malabo Pool is a large area in this river. The Matadi Bridge crosses over this river which empties into the ocean by the port of Banana. This river, which receives the Chambeshi, flows through several series of cataracts such as Livingstone and Boyoma Falls. Before flowing through Kisangani, this river is known as the (*) Lualaba. Lakes Mweru and Tanganyika supply this river, which was formerly known as the Zaire. Brazzaville and Kinshasa lie along, for ten points, what second-longest river in Africa that shares the name of the two countries it separates?",
+            "answer": "<b><u>Congo</u></b> River [accept <b><u>Zaire</u></b> River before it is read]",
+            "answer_sanitized": "Congo River [accept Zaire River before it is read]",
+            "updatedAt": "2024-08-27T03:47:11.272Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 3,
+            "createdAt": "2024-08-27T03:47:11.272Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3fc5459312fdcc5839",
+                "name": "Tiebreakers or Extras",
+                "number": 15
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "65d8486856d3474dcdac22e4",
+            "createdAt": "2024-02-23T07:25:28.273Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486856d3474dcdac22d7",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>Peruvian raids enslaved almost 1,500 inhabitants of this island in the 1860s. Eugène Eyraud, a Catholic missionary, was the first westerner to permanently reside on this island, which once had a cult that took eggs from a nearby island. It’s not Crete, but it’s possible that a now indecipherable writing system discovered on this island was one of the few independent inventions of human writing, the glyph script (*)</b> Rongorongo. In October 2022, arson destroyed nearly 150 square miles of this island, and several sculptures were destroyed. The Catholic Church opposed this country’s birdman cult as well as its Maoi cult. For 10 points, name this Chilean island in the Pacific Ocean with large stone heads littered about the island.",
+            "answer": "<b><u>Easter</u></b> Island [accept <b><u>Rapa Nui</u></b>]",
+            "updatedAt": "2024-02-23T07:25:28.273Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 13,
+            "answer_sanitized": "Easter Island [accept Rapa Nui]",
+            "question_sanitized": "Peruvian raids enslaved almost 1,500 inhabitants of this island in the 1860s. Eugene Eyraud, a Catholic missionary, was the first westerner to permanently reside on this island, which once had a cult that took eggs from a nearby island. It's not Crete, but it's possible that a now indecipherable writing system discovered on this island was one of the few independent inventions of human writing, the glyph script (*) Rongorongo. In October 2022, arson destroyed nearly 150 square miles of this island, and several sculptures were destroyed. The Catholic Church opposed this country's birdman cult as well as its Maoi cult. For 10 points, name this Chilean island in the Pacific Ocean with large stone heads littered about the island."
+        },
+        {
+            "_id": "65d8486856d3474dcdac22ec",
+            "createdAt": "2024-02-23T07:25:28.276Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486856d3474dcdac22d7",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>During the 2001 riots in this city, Jorge Mario Bergoglio attempted to mediate between police and protesters but was ultimately unsuccessful. This city hosts the Superclásico, a derby between its two principal sports teams. Supporters of those teams call the opposing side “chickens” and “little pigs.” This city has a large Jewish population, and is a major tourist hotspot for Israelis. This city’s dialect of (*)</b> Spanish features sheísmo, a devoicing of the double l and y sounds. This city’s 9th of June Avenue is the widest street in the world. The Plaza de Mayo in this city is bounded by the Casa Rosada to the north. The River Plate and Boca Juniors soccer club are rivals in this city. For 10 points, name this capital city of Argentina.",
+            "answer": "<b><u>Buenos Aires</u> </b>",
+            "updatedAt": "2024-02-23T07:25:28.276Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 21,
+            "answer_sanitized": "Buenos Aires ",
+            "question_sanitized": "During the 2001 riots in this city, Jorge Mario Bergoglio attempted to mediate between police and protesters but was ultimately unsuccessful. This city hosts the Superclasico, a derby between its two principal sports teams. Supporters of those teams call the opposing side \"chickens\" and \"little pigs.\" This city has a large Jewish population, and is a major tourist hotspot for Israelis. This city's dialect of (*) Spanish features sheismo, a devoicing of the double l and y sounds. This city's 9th of June Avenue is the widest street in the world. The Plaza de Mayo in this city is bounded by the Casa Rosada to the north. The River Plate and Boca Juniors soccer club are rivals in this city. For 10 points, name this capital city of Argentina."
+        },
+        {
+            "_id": "65d8486856d3474dcdac2308",
+            "createdAt": "2024-02-23T07:25:28.729Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486856d3474dcdac2302",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>Some scholars believe that this mountain appears in both the writings of Herodotus and sailors’ accounts recorded by Ptolemy. Moshi is a central tourist hub near this mountain and other national parks around it. The (*)</b> Chagga people lived on the southern and eastern slopes of this mountain, which was first summited by Hans Meyer. The Saddle plateau separates two peaks on this mountain. This dormant volcano has three cones: Kibo, Mawenzi, and Shira. The peak of this mountain is translated as “Freedom Peak,” Uhuru, and it was a border between British and German East Africa. For 10 points, name this highest freestanding mountain in the world, a stratovolcano in Tanzania.",
+            "answer": "Mount <b><u>Kilimanjaro</u> </b>",
+            "updatedAt": "2024-02-23T07:25:28.729Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 6,
+            "answer_sanitized": "Mount Kilimanjaro ",
+            "question_sanitized": "Some scholars believe that this mountain appears in both the writings of Herodotus and sailors' accounts recorded by Ptolemy. Moshi is a central tourist hub near this mountain and other national parks around it. The (*) Chagga people lived on the southern and eastern slopes of this mountain, which was first summited by Hans Meyer. The Saddle plateau separates two peaks on this mountain. This dormant volcano has three cones: Kibo, Mawenzi, and Shira. The peak of this mountain is translated as \"Freedom Peak,\" Uhuru, and it was a border between British and German East Africa. For 10 points, name this highest freestanding mountain in the world, a stratovolcano in Tanzania."
+        },
+        {
+            "_id": "65d8486956d3474dcdac2342",
+            "createdAt": "2024-02-23T07:25:29.213Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486856d3474dcdac232d",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>One city in this country has a name that means “Prickly pear that grows among the rocks,” according to one etymology. Under a French prince, this country saw an outnumbered native resistance win against an imperial army with three times as many soldiers. In 1943, a volcano abruptly emerged from a farmer's cornfield in this country. Fertile lowlands and good mining in the central bajío (“Ba-hee-yo”) of this country led to it becoming one of the richest areas in the (*)</b> Spanish colonies. In this country, the Lacandon Jungle is the site of an ongoing indigenous insurgency. This country’s capital city contains the Zócalo, a central plaza with a giant flag of this country. For 10 points, name this country, the only country to border the United States to the south.",
+            "answer": "<b><u>Mexico</u> </b>",
+            "updatedAt": "2024-02-23T07:25:29.213Z",
+            "category": "Geography",
+            "subcategory": "Geography",
+            "number": 21,
+            "answer_sanitized": "Mexico ",
+            "question_sanitized": "One city in this country has a name that means \"Prickly pear that grows among the rocks,\" according to one etymology. Under a French prince, this country saw an outnumbered native resistance win against an imperial army with three times as many soldiers. In 1943, a volcano abruptly emerged from a farmer's cornfield in this country. Fertile lowlands and good mining in the central bajio (\"Ba-hee-yo\") of this country led to it becoming one of the richest areas in the (*) Spanish colonies. In this country, the Lacandon Jungle is the site of an ongoing indigenous insurgency. This country's capital city contains the Zocalo, a central plaza with a giant flag of this country. For 10 points, name this country, the only country to border the United States to the south."
+        }
+    ],
+    "bonuses": []
+}

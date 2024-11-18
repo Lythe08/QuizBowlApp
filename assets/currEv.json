@@ -1,0 +1,605 @@
+{
+    "tossups": [
+        {
+            "_id": "666dc6c59f7c4cfdbd67847a",
+            "question": "<b>In 2021, this city gave Jane Gilbert the first-in-the-nation title of Chief Heat Officer. Phrases such as “get down from the car” exemplify a newly-emerging English dialect named for this city. Each October, this American city’s Art Week is anchored by Art Basel</b> (“BAH-zul”)<b>. Officials in this city rejected a 20-foot-high seawall that would have run past its Brickell financial district and was proposed after (*)</b> Hurricane Irma. A billboard asking Silicon Valley tech bros to “DM me” was erected by this city’s Republican mayor, Francis Suarez. In 2021, 98 people were killed when a condo collapsed in this city’s suburb of Surfside. For 10 points, name this city located in a county partly named for Francis L. Dade in South Florida.",
+            "question_sanitized": "In 2021, this city gave Jane Gilbert the first-in-the-nation title of Chief Heat Officer. Phrases such as \"get down from the car\" exemplify a newly-emerging English dialect named for this city. Each October, this American city's Art Week is anchored by Art Basel (\"BAH-zul\"). Officials in this city rejected a 20-foot-high seawall that would have run past its Brickell financial district and was proposed after (*) Hurricane Irma. A billboard asking Silicon Valley tech bros to \"DM me\" was erected by this city's Republican mayor, Francis Suarez. In 2021, 98 people were killed when a condo collapsed in this city's suburb of Surfside. For 10 points, name this city located in a county partly named for Francis L. Dade in South Florida.",
+            "answer": "<b><u>Miami</u></b> [accept <b><u>Miami</u></b>-Dade; accept <b><u>Miami</u></b> Beach]",
+            "answer_sanitized": "Miami [accept Miami-Dade; accept Miami Beach]",
+            "updatedAt": "2024-06-15T16:52:21.089Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 7,
+            "createdAt": "2024-06-15T16:52:21.089Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd678473",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784a6",
+            "question": "<b>In 2022, police seized a weapons cache in this province’s village of Coutts from protestors who had shut down a border crossing. John Vaillant’s 2023 book </b><i><b>Fire Weather</b></i><b> details how residents of “man camps” in this province reacted to the YMM Fire. This province explored “Wexit” under the leadership of Jason Kenney. Kate Beaton’s memoir </b><i><b>Ducks</b></i><b> chronicled Maritime migrants who took jobs working in this province’s boomtown of (*)</b> Fort McMurray. This province sparred with a western neighbor over an expansion to the Trans Mountain Pipeline, a project that services this province’s Athabasca Oil Sands. For 10 points, name this Canadian province whose government often clashes with its more liberal western neighbor, British Columbia.",
+            "question_sanitized": "In 2022, police seized a weapons cache in this province's village of Coutts from protestors who had shut down a border crossing. John Vaillant's 2023 book Fire Weather details how residents of \"man camps\" in this province reacted to the YMM Fire. This province explored \"Wexit\" under the leadership of Jason Kenney. Kate Beaton's memoir Ducks chronicled Maritime migrants who took jobs working in this province's boomtown of (*) Fort McMurray. This province sparred with a western neighbor over an expansion to the Trans Mountain Pipeline, a project that services this province's Athabasca Oil Sands. For 10 points, name this Canadian province whose government often clashes with its more liberal western neighbor, British Columbia.",
+            "answer": "<b><u>Alberta</u></b>",
+            "answer_sanitized": "Alberta",
+            "updatedAt": "2024-06-15T16:52:21.338Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 8,
+            "createdAt": "2024-06-15T16:52:21.338Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67849e",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678502",
+            "question": "<b>A 2024 omnibus reform bill sponsored by this politician that stripped I·N·C·A·A film funding failed to pass while he was in Israel. A month earlier at Davos, this politician declared, “I am here today to tell you that the West is in danger.” In his campaign memoir, this politician described being beaten by his bus driver father and how his only close friend was his sister and campaign manager, Karina. This one-time executive at (*)</b> Corporación (“core-pore-ah-see-OHN”) América often cosplays as General AnCap and accented his campaign speeches by using a chainsaw to symbolize the state agencies he’d cut. In November 2023, this man defeated the Peronist-backed Sergio Massa. For 10 points, name this Libertarian President of Argentina.",
+            "question_sanitized": "A 2024 omnibus reform bill sponsored by this politician that stripped INCAA film funding failed to pass while he was in Israel. A month earlier at Davos, this politician declared, \"I am here today to tell you that the West is in danger.\" In his campaign memoir, this politician described being beaten by his bus driver father and how his only close friend was his sister and campaign manager, Karina. This one-time executive at (*) Corporacion (\"core-pore-ah-see-OHN\") America often cosplays as General AnCap and accented his campaign speeches by using a chainsaw to symbolize the state agencies he'd cut. In November 2023, this man defeated the Peronist-backed Sergio Massa. For 10 points, name this Libertarian President of Argentina.",
+            "answer": "Javier <b><u>Milei</u></b> [or Javier Gerardo <b><u>Milei</u></b>]",
+            "answer_sanitized": "Javier Milei [or Javier Gerardo Milei]",
+            "updatedAt": "2024-06-15T16:52:21.688Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 14,
+            "createdAt": "2024-06-15T16:52:21.688Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784f4",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd678555",
+            "question": "<b>A 2023 </b><i><b>New York Times</b></i><b> feature revealed that Senator Mike Lee was on a mailing list of this person’s “extended family” of former employees. Joel Anderson traveled to Pin Point, Georgia to interview this person’s mother, Leola, for </b><i><b>Slow Burn</b></i><b>. Adam Liptak claimed that a question about “1-800-PLUMBING” was exemplary of how remote COVID-19 policies broke this person’s decade-long “silence.” This man’s wife co-founded Groundswell and received 80 thousand dollars from (*)</b> Leonard Leo of the Federalist Society. Revelations from ProPublica that this RV owner took several vacations funded by billionaire Harlan Crow sparked a statement on ethics by John Roberts. For 10 points, name this conservative Black Supreme Court justice.",
+            "question_sanitized": "A 2023 New York Times feature revealed that Senator Mike Lee was on a mailing list of this person's \"extended family\" of former employees. Joel Anderson traveled to Pin Point, Georgia to interview this person's mother, Leola, for Slow Burn. Adam Liptak claimed that a question about \"1-800-PLUMBING\" was exemplary of how remote COVID-19 policies broke this person's decade-long \"silence.\" This man's wife co-founded Groundswell and received 80 thousand dollars from (*) Leonard Leo of the Federalist Society. Revelations from ProPublica that this RV owner took several vacations funded by billionaire Harlan Crow sparked a statement on ethics by John Roberts. For 10 points, name this conservative Black Supreme Court justice.",
+            "answer": "Clarence <b><u>Thomas</u></b>",
+            "answer_sanitized": "Clarence Thomas",
+            "updatedAt": "2024-06-15T16:52:22.020Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 11,
+            "createdAt": "2024-06-15T16:52:22.020Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67854a",
+                "name": "06",
+                "number": 6
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd67858a",
+            "question": "<b></b><i><b>Description acceptable.</b></i><b> NGOs working on this problem launched the “U=U” </b>(“U equals U”)<b> campaign that seeks to get an IPR rate of 0.03 by 2030. Zeda Rosenberg founded the non-profit IPM to help alleviate this problem with initiatives such as a dapivirine silicone ring. In 2023, Congress cut funding for a widely-hailed program combating this problem launched by George W. Bush called PEPFAR, whose initiatives included treating 750,000 women with products such as (*)</b> Truvada. In the 2000s, some NGOs working on this problem were slowed by the Denialist policies of Thabo Mbeki in South Africa. For 10 points, name this ongoing problem addressed through programs such as “abstinence, be faithful, use a condom” and antiretroviral drugs.",
+            "question_sanitized": "Description acceptable. NGOs working on this problem launched the \"U=U\" (\"U equals U\") campaign that seeks to get an IPR rate of 0.03 by 2030. Zeda Rosenberg founded the non-profit IPM to help alleviate this problem with initiatives such as a dapivirine silicone ring. In 2023, Congress cut funding for a widely-hailed program combating this problem launched by George W. Bush called PEPFAR, whose initiatives included treating 750,000 women with products such as (*) Truvada. In the 2000s, some NGOs working on this problem were slowed by the Denialist policies of Thabo Mbeki in South Africa. For 10 points, name this ongoing problem addressed through programs such as \"abstinence, be faithful, use a condom\" and antiretroviral drugs.",
+            "answer": "<b><u>AIDS</u></b> epidemic [or <b><u>HIV</u></b> epidemic; accept anything mentioning <b><u>HIV</u></b> or <b><u>AIDS</u></b> including the <b><u>AIDS</u></b> epidemic in Sub-Saharan Africa; accept answers such as treating or curing or preventing or eradicating <b><u>AIDS</u></b> or <b><u>HIV</u></b>; prompt on answers such as preventing the spread of <u>STDs</u> or <u>sexually transmitted diseases</u> or <u>STI</u>s or <u>sexually transmitted infection</u>s or <u>venereal diseases</u> or <u>diseases</u>; prompt on <u>epidemic</u>] (IPR stands for incidence:prevalence ratio.)",
+            "answer_sanitized": "AIDS epidemic [or HIV epidemic; accept anything mentioning HIV or AIDS including the AIDS epidemic in Sub-Saharan Africa; accept answers such as treating or curing or preventing or eradicating AIDS or HIV; prompt on answers such as preventing the spread of STDs or sexually transmitted diseases or STIs or sexually transmitted infections or venereal diseases or diseases; prompt on epidemic] (IPR stands for incidence:prevalence ratio.)",
+            "updatedAt": "2024-06-15T16:52:22.189Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 21,
+            "createdAt": "2024-06-15T16:52:22.189Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd678575",
+                "name": "07",
+                "number": 7
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd6785b1",
+            "question": "<b>Over 80,000 citizens of this president’s country have uploaded geotagged photos on Diia for property damage claims. Simon Shuster’s 2024 biography </b><i><b>The Showman</b></i><b> criticizes this politician’s propagandist Telemarathon United News. Article 108 of a 1996 constitution has allowed this politician to stay in power despite his term ending on May 20, 2024. Shortly after this politician called for “timely support” in a joint press conference with (*)</b> Jens Stoltenberg, Congress passed the REPO Act granting his country assets seized from oligarchs. This former star of <i>Servant of the People</i> was the chief beneficiary of a 95 billion dollar military aid package passed by Speaker Mike Johnson in April 2024. For 10 points, name this president of Ukraine.",
+            "question_sanitized": "Over 80,000 citizens of this president's country have uploaded geotagged photos on Diia for property damage claims. Simon Shuster's 2024 biography The Showman criticizes this politician's propagandist Telemarathon United News. Article 108 of a 1996 constitution has allowed this politician to stay in power despite his term ending on May 20, 2024. Shortly after this politician called for \"timely support\" in a joint press conference with (*) Jens Stoltenberg, Congress passed the REPO Act granting his country assets seized from oligarchs. This former star of Servant of the People was the chief beneficiary of a 95 billion dollar military aid package passed by Speaker Mike Johnson in April 2024. For 10 points, name this president of Ukraine.",
+            "answer": "Volodymyr <b><u>Zelensky</u></b> [or Volodymyr Oleksandrovych <b><u>Zelenskyy</u></b>]",
+            "answer_sanitized": "Volodymyr Zelensky [or Volodymyr Oleksandrovych Zelenskyy]",
+            "updatedAt": "2024-06-15T16:52:22.353Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 17,
+            "createdAt": "2024-06-15T16:52:22.353Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd6785a0",
+                "name": "08",
+                "number": 8
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd67862d",
+            "question": "<b>The namesake of this group revived the school of Jarudism while leading the Believing Youth. During the National Dialogue Conference of 2013, the Southern Movement and this group were denied federal recognition. In 2019, this group used a Qasef-1 UAV to attack the industrial facility of Abqaiq</b> (“ahb-CAKE”)<b>. With supplies from the Quds Force from the port of Hodeidah</b> (“hoh-DAY-duh”)<b>, this group assassinated Ali Abdullah (*)</b> Saleh shortly after taking Sadaa province. A ballistic missile launched by this group was intercepted by an Arrow 2 over the Negev Desert in October 2023; a month later, it seized the <i>Galaxy Leader</i> cargo ship. For 10 points, the Israel-Hamas War has caused attacks in the Red Sea launched by what Zaidi Shia rebel group in Yemen?",
+            "question_sanitized": "The namesake of this group revived the school of Jarudism while leading the Believing Youth. During the National Dialogue Conference of 2013, the Southern Movement and this group were denied federal recognition. In 2019, this group used a Qasef-1 UAV to attack the industrial facility of Abqaiq (\"ahb-CAKE\"). With supplies from the Quds Force from the port of Hodeidah (\"hoh-DAY-duh\"), this group assassinated Ali Abdullah (*) Saleh shortly after taking Sadaa province. A ballistic missile launched by this group was intercepted by an Arrow 2 over the Negev Desert in October 2023; a month later, it seized the Galaxy Leader cargo ship. For 10 points, the Israel-Hamas War has caused attacks in the Red Sea launched by what Zaidi Shia rebel group in Yemen?",
+            "answer": "<b><u>Houthi</u></b>s [or the <b><u>Houthi</u></b> or <b><u>Huthi</u></b> movement; accept <b><u>Ansar Allah</u></b>; accept the <b><u>Houthi</u></b> tribe; accept Hussein al-<b><u>Houthi</u></b>; prompt on <u>Shia</u> or <u>Shiite</u>s; prompt on <u>Zaidi</u>s or <u>Zaydi</u>s; prompt on <u>Yemen</u>ese]",
+            "answer_sanitized": "Houthis [or the Houthi or Huthi movement; accept Ansar Allah; accept the Houthi tribe; accept Hussein al-Houthi; prompt on Shia or Shiites; prompt on Zaidis or Zaydis; prompt on Yemenese]",
+            "updatedAt": "2024-06-15T16:52:22.847Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 12,
+            "createdAt": "2024-06-15T16:52:22.847Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd678621",
+                "name": "11",
+                "number": 11
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd6786b3",
+            "question": "<b>A member of a political family in this state hosts the podcast </b><i><b>Latina to Latina</b></i><b>. A businessman in this state named Wael Hana offered a politician from this state a no-show job at his halal meat company. In 2024, a court abolished this state’s notorious “county line” ballot system, hurting the chances of the wife of this state’s governor in a Senate race against (*)</b> Andy Kim. A politician from this state who rose from mayor of Union City to head of the Senate Foreign Relations Committee had one hundred thousand dollars in gold bars stored at his house when it was raided by the FBI in 2023. A Senate race in this state was contested by the wife of Governor Phil Murphy. For 10 points, name this state home to the scandal-prone Bob Menendez.",
+            "question_sanitized": "A member of a political family in this state hosts the podcast Latina to Latina. A businessman in this state named Wael Hana offered a politician from this state a no-show job at his halal meat company. In 2024, a court abolished this state's notorious \"county line\" ballot system, hurting the chances of the wife of this state's governor in a Senate race against (*) Andy Kim. A politician from this state who rose from mayor of Union City to head of the Senate Foreign Relations Committee had one hundred thousand dollars in gold bars stored at his house when it was raided by the FBI in 2023. A Senate race in this state was contested by the wife of Governor Phil Murphy. For 10 points, name this state home to the scandal-prone Bob Menendez.",
+            "answer": "<b><u>New Jersey</u></b> [accept <b><u>NJ</u></b> or <b><u>Jersey</u></b>] (The first two clues are about members of the Menendez family.)",
+            "answer_sanitized": "New Jersey [accept NJ or Jersey] (The first two clues are about members of the Menendez family.)",
+            "updatedAt": "2024-06-15T16:52:23.331Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 17,
+            "createdAt": "2024-06-15T16:52:23.331Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd6786a2",
+                "name": "14",
+                "number": 14
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd678737",
+            "question": "<b>A Stanford startup co-founded by James Monsees helped increase consumption of this drug in the 2010s. Sweden is the only EU country to distribute this drug via a product called </b><i><b>snus</b></i> (“SNOOZE”)<b>. A 2024 op-ed by Emily Dreyfuss warning of the dangers of new devices for delivering this drug introduced many </b><i><b>New York Times</b></i><b> readers to the term “upper decky.” An influencer named freezertarps has proclaimed himself the “Mayor of (*)</b> Zynbabwe,” a reference to a popular brand of salt-filled pouches that deliver this drug. In 2020, the FDA announced a ban on fruity flavors in cartridges filled with this drug, hurting sales for Juul (“jewel”). For 10 points, name this drug that makes cigarettes addictive.",
+            "question_sanitized": "A Stanford startup co-founded by James Monsees helped increase consumption of this drug in the 2010s. Sweden is the only EU country to distribute this drug via a product called snus (\"SNOOZE\"). A 2024 op-ed by Emily Dreyfuss warning of the dangers of new devices for delivering this drug introduced many New York Times readers to the term \"upper decky.\" An influencer named freezertarps has proclaimed himself the \"Mayor of (*) Zynbabwe,\" a reference to a popular brand of salt-filled pouches that deliver this drug. In 2020, the FDA announced a ban on fruity flavors in cartridges filled with this drug, hurting sales for Juul (\"jewel\"). For 10 points, name this drug that makes cigarettes addictive.",
+            "answer": "<b><u>nicotine</u></b> [reject “tobacco”]",
+            "answer_sanitized": "nicotine [reject \"tobacco\"]",
+            "updatedAt": "2024-06-15T16:52:23.845Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 20,
+            "createdAt": "2024-06-15T16:52:23.845Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd678723",
+                "name": "17 TB A",
+                "number": 17
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd678780",
+            "question": "<b>Matt Featherstone helped professionalize </b><i><b>taco</b></i><b>, a street version of this sport popular in Brazil. A politician who gained fame in this sport was jailed in the Lettergate scandal. Disney+ lost many international subscribers in 2022 after it lost rights to this sport to Viacom18. The Seattle Orcas compete in a new professional league for this sport in the US whose co-owners include the CEO of (*)</b> Microsoft. A league run by the BCCI has grown global interest in this sport, with the US co-hosting an upcoming World Cup for its streamlined Twenty20 variant. Global viewership for this sport has surged thanks to the Indian Premier League. For 10 points, Imran Khan was once a right-arm fast bowler in what bat-and-ball game?",
+            "question_sanitized": "Matt Featherstone helped professionalize taco, a street version of this sport popular in Brazil. A politician who gained fame in this sport was jailed in the Lettergate scandal. Disney+ lost many international subscribers in 2022 after it lost rights to this sport to Viacom18. The Seattle Orcas compete in a new professional league for this sport in the US whose co-owners include the CEO of (*) Microsoft. A league run by the BCCI has grown global interest in this sport, with the US co-hosting an upcoming World Cup for its streamlined Twenty20 variant. Global viewership for this sport has surged thanks to the Indian Premier League. For 10 points, Imran Khan was once a right-arm fast bowler in what bat-and-ball game?",
+            "answer": "<b><u>cricket</u></b> [accept Twenty20 <b><u>cricket</u></b> or T20 <b><u>cricket</u></b>]",
+            "answer_sanitized": "cricket [accept Twenty20 cricket or T20 cricket]",
+            "updatedAt": "2024-06-15T16:52:24.174Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 7,
+            "createdAt": "2024-06-15T16:52:24.174Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c89f7c4cfdbd678779",
+                "name": "19 TB C",
+                "number": 19
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd6787a9",
+            "question": "<b>EU money destined for small businesses in this industry was at the center of a 2023 corruption case against former Czech PM Andrej Babis </b>(“BAH-bee”)<b>. Post-Brexit UK governments have adopted the “public money for public goods” policy towards this industry to replace massive EU CAP subsidies. A deal allowing exports from this industry was ended in July 2023 with missile strikes on the port of (*)</b> Odesa. In 2019, new emissions standards led Dutch workers in this profession to slowly drive heavy equipment to The Hague. The Séralini affair intensified pressure for EU officials to ban a product in this industry with a modified Bt protein sold by Monsanto. For 10 points, name this industry where the EU mostly bans the use of GMO seeds.",
+            "question_sanitized": "EU money destined for small businesses in this industry was at the center of a 2023 corruption case against former Czech PM Andrej Babis (\"BAH-bee\"). Post-Brexit UK governments have adopted the \"public money for public goods\" policy towards this industry to replace massive EU CAP subsidies. A deal allowing exports from this industry was ended in July 2023 with missile strikes on the port of (*) Odesa. In 2019, new emissions standards led Dutch workers in this profession to slowly drive heavy equipment to The Hague. The Seralini affair intensified pressure for EU officials to ban a product in this industry with a modified Bt protein sold by Monsanto. For 10 points, name this industry where the EU mostly bans the use of GMO seeds.",
+            "answer": "<b><u>agriculture</u></b> [or <b><u>farming</u></b>; accept wheat <b><u>farming</u></b> or corn <b><u>farming</u></b> or grain <b><u>farming</u></b> or other more specific types of <b><u>farming</u></b> or <b><u>raising crop</u></b>s; prompt on <u>food</u> or <u>grain</u>]",
+            "answer_sanitized": "agriculture [or farming; accept wheat farming or corn farming or grain farming or other more specific types of farming or raising crops; prompt on food or grain]",
+            "updatedAt": "2024-06-15T16:52:24.338Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 5,
+            "createdAt": "2024-06-15T16:52:24.338Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c89f7c4cfdbd6787a4",
+                "name": "20 Finals 1",
+                "number": 20
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd67880c",
+            "question": "<b>Storefront businesses in this industry in the UK proliferated following a 2005 law that limited the number of FOBTs per store. It’s not crime, but in 2021 the Chinese government cracked down on this industry by arresting “junket mogul,” Alvin Chau. A 2018 Supreme Court case involving New Jersey Governor Philip Murphy kickstarted this industry, opening the floodgates for “risk-free” promos. For participating in this industry in 2022, (*)</b> Calvin Ridley was indefinitely suspended by Roger Goodell. In the UK, this industry is dominated by firms such as Ladbrokes, while in China it’s only legal in Macau. For 10 points, name this industry that now heavily advertises sports broadcasts from firms such as FanDuel.",
+            "question_sanitized": "Storefront businesses in this industry in the UK proliferated following a 2005 law that limited the number of FOBTs per store. It's not crime, but in 2021 the Chinese government cracked down on this industry by arresting \"junket mogul,\" Alvin Chau. A 2018 Supreme Court case involving New Jersey Governor Philip Murphy kickstarted this industry, opening the floodgates for \"risk-free\" promos. For participating in this industry in 2022, (*) Calvin Ridley was indefinitely suspended by Roger Goodell. In the UK, this industry is dominated by firms such as Ladbrokes, while in China it's only legal in Macau. For 10 points, name this industry that now heavily advertises sports broadcasts from firms such as FanDuel.",
+            "answer": "<b><u>gambling</u></b> industry [accept online <b><u>gambling</u></b>; or sports <b><u>betting</u></b>; or <b><u>casino</u></b> industry; or <b><u>iGaming</u></b>; prompt on instant <u>fantasy</u> sports or <u>gaming</u>; reject “lottery” industry]",
+            "answer_sanitized": "gambling industry [accept online gambling; or sports betting; or casino industry; or iGaming; prompt on instant fantasy sports or gaming; reject \"lottery\" industry]",
+            "updatedAt": "2024-06-15T16:52:24.674Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 18,
+            "createdAt": "2024-06-15T16:52:24.674Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c89f7c4cfdbd6787fa",
+                "name": "22 Emergency",
+                "number": 22
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3dc5459312fdcc5636",
+            "question": "<b>Protestors in this country conducted an “eggupation” at an ovate building in its capital. That series of speeches occurred during this country’s 17 October Revolution, partially sparked by a so-called “WhatsApp tax.” Christians and Muslims were given equal representation in Parliament under this country’s (*)</b> Taif Agreement. A disaster in this country was caused by the unsafe storage of cargo aboard the MV<i> Rhosus</i>. Prime Minister Hassan Diab resigned following an ammonium nitrate explosion that devastated this country’s capital in August 2020. For 10 points, name this country governed from Beirut.",
+            "question_sanitized": "Protestors in this country conducted an \"eggupation\" at an ovate building in its capital. That series of speeches occurred during this country's 17 October Revolution, partially sparked by a so-called \"WhatsApp tax.\" Christians and Muslims were given equal representation in Parliament under this country's (*) Taif Agreement. A disaster in this country was caused by the unsafe storage of cargo aboard the MV Rhosus. Prime Minister Hassan Diab resigned following an ammonium nitrate explosion that devastated this country's capital in August 2020. For 10 points, name this country governed from Beirut.",
+            "answer": "<b><u>Lebanon</u></b> [or <b><u>Lebanese</u></b> Republic or Al Jumhuriyah al <b><u>Lubnaniyah</u></b> or <b><u>Lubnan</u></b>]",
+            "answer_sanitized": "Lebanon [or Lebanese Republic or Al Jumhuriyah al Lubnaniyah or Lubnan]",
+            "updatedAt": "2024-08-27T03:47:09.517Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 18,
+            "createdAt": "2024-08-27T03:47:09.517Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc5624",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3dc5459312fdcc5677",
+            "question": "<b>Jamie Reed accused a provider of this practice of “appalling” behavior in an account contradicted by dozens of Missourians. After telling lawmakers that they would have “blood on their hands” by passing a law targeting this practice, Zooey Zephyr was barred from the Montana House floor. Nebraska representative Machaela Cavanaugh filibustered the</b> (*) “Let Them Grow Act,” which targeted this practice. WPATH (“W-path”) issues guidance for this practice, while opponents claim that treatments like puberty blockers and hormone therapy are harmful to children. For 10 points, name this type of healthcare that may include medical transition.",
+            "question_sanitized": "Jamie Reed accused a provider of this practice of \"appalling\" behavior in an account contradicted by dozens of Missourians. After telling lawmakers that they would have \"blood on their hands\" by passing a law targeting this practice, Zooey Zephyr was barred from the Montana House floor. Nebraska representative Machaela Cavanaugh filibustered the (*) \"Let Them Grow Act,\" which targeted this practice. WPATH (\"W-path\") issues guidance for this practice, while opponents claim that treatments like puberty blockers and hormone therapy are harmful to children. For 10 points, name this type of healthcare that may include medical transition.",
+            "answer": "<b><u>gender-affirm</u></b>ing care [accept answers describing <b><u>trans</u></b>gender <b><u>healthcare</u></b>; accept <b><u>hormone</u> <u>replacement therapy</u></b> or <b><u>HRT</u></b>; accept <b><u>sex reassignment</u></b> therapy; accept <b><u>sex reassignment</u></b> surgery or <b><u>gender-affirm</u></b>ing surgery or <b><u>top surgery</u></b> or <b><u>bottom surgery</u></b>; accept <b><u>gender transition</u></b> care; accept <b><u>puberty</u> <u>blocker</u></b>s or <b><u>hormone therapy</u></b> before mentioned; prompt on <u>healthcare</u>]",
+            "answer_sanitized": "gender-affirming care [accept answers describing transgender healthcare; accept hormone replacement therapy or HRT; accept sex reassignment therapy; accept sex reassignment surgery or gender-affirming surgery or top surgery or bottom surgery; accept gender transition care; accept puberty blockers or hormone therapy before mentioned; prompt on healthcare]",
+            "updatedAt": "2024-08-27T03:47:09.748Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 1,
+            "createdAt": "2024-08-27T03:47:09.748Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc5676",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc56cb",
+            "question": "<b>An event in this country was masterminded by Jho Low, whose birthday party featured Britney Spears jumping out of a cake. Two women involved in a murder in this country were led to believe they were participating in a TV prank. Goldman Sachs was fined $2.9 billion for its involvement in this country’s 1MDB</b> (“one M-D-B”)<b> scandal, which led to the resignation of (*)</b> Najib Razak. Kim Jong-nam was assassinated in this country. In 2014, a flight to this country was shot down by Russian forces in Ukraine, four months after another flight by the same airline disappeared over the Indian Ocean. For 10 points, name this country, where the missing Flight 370 departed from Kuala Lumpur.",
+            "question_sanitized": "An event in this country was masterminded by Jho Low, whose birthday party featured Britney Spears jumping out of a cake. Two women involved in a murder in this country were led to believe they were participating in a TV prank. Goldman Sachs was fined $2.9 billion for its involvement in this country's 1MDB (\"one M-D-B\") scandal, which led to the resignation of (*) Najib Razak. Kim Jong-nam was assassinated in this country. In 2014, a flight to this country was shot down by Russian forces in Ukraine, four months after another flight by the same airline disappeared over the Indian Ocean. For 10 points, name this country, where the missing Flight 370 departed from Kuala Lumpur.",
+            "answer": "<b><u>Malaysia</u> </b>",
+            "answer_sanitized": "Malaysia",
+            "updatedAt": "2024-08-27T03:47:10.017Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 3,
+            "createdAt": "2024-08-27T03:47:10.017Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc56c8",
+                "name": "06",
+                "number": 6
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc571e",
+            "question": "<b>In 2021, this leader recalled ambassadors from Australia and the United States after his country was edged out of the AUKUS nuclear submarine deal. Élisabeth Borne served as this leader’s Prime Minister under the Ensemble coalition. This leader doubled down on his country’s secularism after the 2020 (*)</b> decapitation of a teacher who showed cartoons of Muhammad. This leader invoked martial law after the police killing of Nahel Merzouk and cited Article 49 to force a retirement age increase in February 2023. This leader of the Renaissance party was re-elected in 2022, defeating Marine le Pen. For 10 points, name this current President of France.",
+            "question_sanitized": "In 2021, this leader recalled ambassadors from Australia and the United States after his country was edged out of the AUKUS nuclear submarine deal. Elisabeth Borne served as this leader's Prime Minister under the Ensemble coalition. This leader doubled down on his country's secularism after the 2020 (*) decapitation of a teacher who showed cartoons of Muhammad. This leader invoked martial law after the police killing of Nahel Merzouk and cited Article 49 to force a retirement age increase in February 2023. This leader of the Renaissance party was re-elected in 2022, defeating Marine le Pen. For 10 points, name this current President of France.",
+            "answer": "Emmanuel <b><u>Macron</u> </b>",
+            "answer_sanitized": "Emmanuel Macron",
+            "updatedAt": "2024-08-27T03:47:10.280Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 4,
+            "createdAt": "2024-08-27T03:47:10.280Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc571a",
+                "name": "08",
+                "number": 8
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc577f",
+            "question": "<b>This phrase was sarcastically used by Guy Phillips at a rally in Scottsdale, Arizona. This phrase was spoken 11 times by a man during an incident in Staten Island that led to the firing of Daniel Pantaleo. A man accused of using a counterfeit bill at Cup Foods repeated this phrase (*)</b> 28 times during an event where Tou Thao attempted to control a crowd of onlookers. This three-word phrase’s use as a slogan began after they were spoken by Eric Garner during his 2014 murder. For 10 points, name this phrase repeated by George Floyd as he was asphyxiated by Derek Chauvin.",
+            "question_sanitized": "This phrase was sarcastically used by Guy Phillips at a rally in Scottsdale, Arizona. This phrase was spoken 11 times by a man during an incident in Staten Island that led to the firing of Daniel Pantaleo. A man accused of using a counterfeit bill at Cup Foods repeated this phrase (*) 28 times during an event where Tou Thao attempted to control a crowd of onlookers. This three-word phrase's use as a slogan began after they were spoken by Eric Garner during his 2014 murder. For 10 points, name this phrase repeated by George Floyd as he was asphyxiated by Derek Chauvin.",
+            "answer": "“<b><u>I can’t breathe</u></b>”",
+            "answer_sanitized": "\"I can't breathe\"",
+            "updatedAt": "2024-08-27T03:47:10.537Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 19,
+            "createdAt": "2024-08-27T03:47:10.537Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc576c",
+                "name": "10",
+                "number": 10
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc57a2",
+            "question": "<b>A mayor of a city in this country sent a text about “media drongos” during the Anniversary Weekend floods. In 2023 in this country’s largest city, two construction workers were shot shortly before the opening ceremonies of an event that began at Eden Park. This country, which is currently led by Chris Hipkins, was affected by (*)</b> live-streamed attacks on the Linwood Islamic Centre and Al Noor Mosque. Alongside Australia, this country co-hosted the 2023 FIFA Women’s World Cup. For 10 points, name this country that was governed by Jacinda Ardern during the Christchurch shootings.",
+            "question_sanitized": "A mayor of a city in this country sent a text about \"media drongos\" during the Anniversary Weekend floods. In 2023 in this country's largest city, two construction workers were shot shortly before the opening ceremonies of an event that began at Eden Park. This country, which is currently led by Chris Hipkins, was affected by (*) live-streamed attacks on the Linwood Islamic Centre and Al Noor Mosque. Alongside Australia, this country co-hosted the 2023 FIFA Women's World Cup. For 10 points, name this country that was governed by Jacinda Ardern during the Christchurch shootings.",
+            "answer": "<b><u>New Zealand</u></b> [or <b><u>Aotearoa</u></b>]",
+            "answer_sanitized": "New Zealand [or Aotearoa]",
+            "updatedAt": "2024-08-27T03:47:10.693Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 13,
+            "createdAt": "2024-08-27T03:47:10.693Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc5795",
+                "name": "11",
+                "number": 11
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3fc5459312fdcc5823",
+            "question": "<b>In 2022, planners of one of these events, including Heinrich Prinz Reuss and other members of the </b><i><b>Reichsbürger</b></i> (“RIKES-burger”)<b> movement, were arrested by German police. After one of these events in Burkina Faso, incoming president Ibrahim Traore ordered France to withdraw its military. In 2022, Peruvian president Pedro Castillo attempted a (*)</b> “self” one of these events by trying to dissolve Congress. Some commentators described the January 6 storming of the U.S. Capitol as an attempted one of these events. For 10 points, give this French-derived term for a violent overthrow of a government.",
+            "question_sanitized": "In 2022, planners of one of these events, including Heinrich Prinz Reuss and other members of the Reichsburger (\"RIKES-burger\") movement, were arrested by German police. After one of these events in Burkina Faso, incoming president Ibrahim Traore ordered France to withdraw its military. In 2022, Peruvian president Pedro Castillo attempted a (*) \"self\" one of these events by trying to dissolve Congress. Some commentators described the January 6 storming of the U.S. Capitol as an attempted one of these events. For 10 points, give this French-derived term for a violent overthrow of a government.",
+            "answer": "<b><u>coup</u></b> d’etat [accept <b><u>coup</u></b> attempt or attempted <b><u>coup</u></b> or military <b><u>coup</u></b> or self-<b><u>coup</u></b>; prompt on descriptive answers such as <u>overthrowing the government</u>]",
+            "answer_sanitized": "coup d'etat [accept coup attempt or attempted coup or military coup or self-coup; prompt on descriptive answers such as overthrowing the government]",
+            "updatedAt": "2024-08-27T03:47:11.123Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 19,
+            "createdAt": "2024-08-27T03:47:11.123Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3fc5459312fdcc5810",
+                "name": "14",
+                "number": 14
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "65d8486856d3474dcdac22d9",
+            "createdAt": "2024-02-23T07:25:28.270Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486856d3474dcdac22d7",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>In a recent interview, this politician claimed that 100% of women don’t have penises, though he additionally noted the importance of having “tolerance for those who are thinking about changing their gender.” This politician's family holds significant wealth through their holdings in the IT company Infosys. This politician warned of an ‘inflationary spiral’ as he accused his rival of ‘fairytale economic’ plans. This man was the first to accept an invitation to form a government from (*)</b> King Charles III. In April 2022, this man was fined for attending the birthday party of a former London mayor. Liz Truss was succeeded by, for 10 points, what current British prime minister, the first prime minister of Indian descent?",
+            "answer": "Rishi <b><u>Sunak</u> </b>",
+            "updatedAt": "2024-02-23T07:25:28.270Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 2,
+            "answer_sanitized": "Rishi Sunak ",
+            "question_sanitized": "In a recent interview, this politician claimed that 100% of women don't have penises, though he additionally noted the importance of having \"tolerance for those who are thinking about changing their gender.\" This politician's family holds significant wealth through their holdings in the IT company Infosys. This politician warned of an 'inflationary spiral' as he accused his rival of 'fairytale economic' plans. This man was the first to accept an invitation to form a government from (*) King Charles III. In April 2022, this man was fined for attending the birthday party of a former London mayor. Liz Truss was succeeded by, for 10 points, what current British prime minister, the first prime minister of Indian descent?"
+        },
+        {
+            "_id": "65d8486956d3474dcdac233c",
+            "createdAt": "2024-02-23T07:25:29.213Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486856d3474dcdac232d",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>Description acceptable. The AKP and MHP in one country announced that they would not support this event, while the opposition CHP and HDP supported it. Right-wing activist Rasmus Paludan supported this event by controversially utilizing a lighter to burn the Quran. The Parliament of one country overwhelmingly approved this event in a March 22 vote, with 85% voting in the affirmative. General public support for this event rose due to the (*)</b> Russian annexation of Crimea and even further after the Russian invasion of Ukraine. The former Prime Minister of one country involved in this event, Magdalena Andersson, has largely been responsible for ensuring this event. One country’s support of the YPG and PKK has caused a prolonging of this event. President Recep Erdogan has protested against, for 10 points, what event, in which a traditionally neutral country, attempting to join a military alliance, has been approved by politicians in Stockholm.",
+            "answer": "<b><u>Swedish Entry</u></b> into <b><u>NATO</u></b> (Do not accept or prompt on<b> Swedish Entry into the EU</b> or<b> Finnish Entry into NATO/EU</b>) (Accept synonyms for entry)",
+            "updatedAt": "2024-02-23T07:25:29.213Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 15,
+            "answer_sanitized": "Swedish Entry into NATO (Do not accept or prompt on Swedish Entry into the EU or Finnish Entry into NATO/EU) (Accept synonyms for entry)",
+            "question_sanitized": "Description acceptable. The AKP and MHP in one country announced that they would not support this event, while the opposition CHP and HDP supported it. Right-wing activist Rasmus Paludan supported this event by controversially utilizing a lighter to burn the Quran. The Parliament of one country overwhelmingly approved this event in a March 22 vote, with 85% voting in the affirmative. General public support for this event rose due to the (*) Russian annexation of Crimea and even further after the Russian invasion of Ukraine. The former Prime Minister of one country involved in this event, Magdalena Andersson, has largely been responsible for ensuring this event. One country's support of the YPG and PKK has caused a prolonging of this event. President Recep Erdogan has protested against, for 10 points, what event, in which a traditionally neutral country, attempting to join a military alliance, has been approved by politicians in Stockholm."
+        },
+        {
+            "_id": "65d8486a56d3474dcdac238e",
+            "createdAt": "2024-02-23T07:25:30.081Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486956d3474dcdac2383",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>This 2022 event was perpetrated by a man with a hatred of Hak Ja Han, and the head of the National Police Agency resigned in shame because of it. The actions of this event's perpetrator evoked widespread sympathy due to the abuse and neglect they suffered as a shūkyō nisei (“Shoo-kyoh nee-say”). The state funeral in the wake of this event was heavily protested because it was uncommon for (*)</b> former state leaders. This event targeted a man due to his ties with the Unification Church. This event occurred during a campaign speech made for Liberal Democratic Party candidate Sanshirō Matsuyama, and it was carried out with a homemade shotgun. For 10 points, name this July 2022 event that saw Tetsuya Yamagami kill the retired, longest-reigning prime minister of Japan.",
+            "answer": "<b><u>Assassination</u></b> of Shinzo <b><u>Abe</u></b> [accept any answer indicating the killing of Shinzo <b><u>Abe</u></b>]",
+            "updatedAt": "2024-02-23T07:25:30.081Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 11,
+            "answer_sanitized": "Assassination of Shinzo Abe [accept any answer indicating the killing of Shinzo Abe]",
+            "question_sanitized": "This 2022 event was perpetrated by a man with a hatred of Hak Ja Han, and the head of the National Police Agency resigned in shame because of it. The actions of this event's perpetrator evoked widespread sympathy due to the abuse and neglect they suffered as a shukyo nisei (\"Shoo-kyoh nee-say\"). The state funeral in the wake of this event was heavily protested because it was uncommon for (*) former state leaders. This event targeted a man due to his ties with the Unification Church. This event occurred during a campaign speech made for Liberal Democratic Party candidate Sanshiro Matsuyama, and it was carried out with a homemade shotgun. For 10 points, name this July 2022 event that saw Tetsuya Yamagami kill the retired, longest-reigning prime minister of Japan."
+        },
+        {
+            "_id": "65d8486a56d3474dcdac23c0",
+            "createdAt": "2024-02-23T07:25:30.518Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486a56d3474dcdac23ae",
+                "name": "06",
+                "number": 6
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>This politician’s government formally apologized for the Dawn Raids against members of the Pasifika Diaspora in the late 1970s and early 1980s. This politician was often opposed by the National and ACT parties throughout their term as leader. David Shearer’s resignation led to the by-election of this politician, who quickly passed anti-gun laws after a set of shootings in (*)</b> Christchurch gained her international acclaim. In a recent emotional farewell speech, this leader noted that you can “wear your heart on your sleeve,” and still lead a country. For ten points, what politician recently tendered her resignation as Leader of the Labour Party and Prime Minister of New Zealand?",
+            "answer": "Jacinda <b><u>Ardern</u> </b>",
+            "updatedAt": "2024-02-23T07:25:30.518Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 18,
+            "answer_sanitized": "Jacinda Ardern ",
+            "question_sanitized": "This politician's government formally apologized for the Dawn Raids against members of the Pasifika Diaspora in the late 1970s and early 1980s. This politician was often opposed by the National and ACT parties throughout their term as leader. David Shearer's resignation led to the by-election of this politician, who quickly passed anti-gun laws after a set of shootings in (*) Christchurch gained her international acclaim. In a recent emotional farewell speech, this leader noted that you can \"wear your heart on your sleeve,\" and still lead a country. For ten points, what politician recently tendered her resignation as Leader of the Labour Party and Prime Minister of New Zealand?"
+        },
+        {
+            "_id": "65d8486b56d3474dcdac2417",
+            "createdAt": "2024-02-23T07:25:31.382Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486b56d3474dcdac2404",
+                "name": "08",
+                "number": 8
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>In April 2023, Tucker Carlson stated that Justin J. Pearson, a representative in this state, “talked like a sharecropper.” In a recent leaked audio, Representative Scott Cepicky from this state claimed that he was “at war for the Republic,” defending himself from a vote he made in early April 2023. In December 2020, this state’s capital was the site of a suicide bombing with no clear motivation. This state recently saw the return of 3 Democratic state house representatives who were (*)</b> expelled by the GOP. Another attack in this state with an unknown motivation was the Covenant School shooting in March 2023. For 10 points, name this state where the legislature meets in its capital of Nashville.",
+            "answer": "<b><u>Tennessee</u> </b>",
+            "updatedAt": "2024-02-23T07:25:31.382Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 19,
+            "answer_sanitized": "Tennessee ",
+            "question_sanitized": "In April 2023, Tucker Carlson stated that Justin J. Pearson, a representative in this state, \"talked like a sharecropper.\" In a recent leaked audio, Representative Scott Cepicky from this state claimed that he was \"at war for the Republic,\" defending himself from a vote he made in early April 2023. In December 2020, this state's capital was the site of a suicide bombing with no clear motivation. This state recently saw the return of 3 Democratic state house representatives who were (*) expelled by the GOP. Another attack in this state with an unknown motivation was the Covenant School shooting in March 2023. For 10 points, name this state where the legislature meets in its capital of Nashville."
+        },
+        {
+            "_id": "66cd4c3bc5459312fdcc5412",
+            "question": "<i>Description acceptable</i> <b> One country moved away from taking this action after its leader, Irakli Garibashvili, refused to attend a summit. The creation of a “special coordinator of counterterrorism” and an agreement to purchase F-16 fighter jets helped another country to take this action. The Vilnius Group and Visegrád Group’s taking of this action was described as reckless by </b> (*) John Mearsheimer. One country is currently taking this action despite its support for the PKK, following negotiations involving Ulf Kristersson. For 10 points, name this action of joining a military alliance, most recently attempted by several countries near Russia including Sweden, Finland, and Ukraine.",
+            "question_sanitized": "Description acceptable One country moved away from taking this action after its leader, Irakli Garibashvili, refused to attend a summit. The creation of a \"special coordinator of counterterrorism\" and an agreement to purchase F-16 fighter jets helped another country to take this action. The Vilnius Group and Visegrad Group's taking of this action was described as reckless by (*) John Mearsheimer. One country is currently taking this action despite its support for the PKK, following negotiations involving Ulf Kristersson. For 10 points, name this action of joining a military alliance, most recently attempted by several countries near Russia including Sweden, Finland, and Ukraine.",
+            "answer": "<b><u> NATO membership</u></b> [accept any answer that describes <b><u> joining</u></b> or <b><u> being part of</u></b> the <b><u> N</u></b> orth <b><u> A</u></b> tlantic <b><u> T</u></b> reaty <b><u> O</u></b> rganization]",
+            "answer_sanitized": "NATO membership [accept any answer that describes joining or being part of the N orth A tlantic T reaty O rganization]",
+            "updatedAt": "2024-08-27T03:47:07.871Z",
+            "category": "Current Events",
+            "subcategory": "Current Events",
+            "number": 4,
+            "createdAt": "2024-08-27T03:47:07.871Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "66cd4c3bc5459312fdcc540e",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "66cd4c3bc5459312fdcc540d",
+                "name": "2023 Prison Bowl",
+                "year": 2023,
+                "standard": true
+            }
+        }
+    ],
+    "bonuses": []
+}

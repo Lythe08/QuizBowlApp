@@ -1,0 +1,605 @@
+{
+    "tossups": [
+        {
+            "_id": "66cd4c3dc5459312fdcc5608",
+            "question": "<b>A team from this city plays against the Los Angeles Kings in the annual preseason \"Frozen Fury\" game. A'ja Wilson</b> (“Asia Wilson”)<b> won MVP while leading a team based in this city to the 2022 WNBA title. During the 2023 offseason, the New York Giants acquired Darren Waller from a team in this city. Via a March 2022 trade with the</b> (*) Packers, a team in this city received Davante Adams. In 2023, the Oakland A’s announced plans to relocate to this city. An NHL team in this city defeated the Florida Panthers to win the 2023 Stanley Cup Finals. For 10 points, name this city, the home of the Raiders and Golden Knights.",
+            "question_sanitized": "A team from this city plays against the Los Angeles Kings in the annual preseason \"Frozen Fury\" game. A'ja Wilson (\"Asia Wilson\") won MVP while leading a team based in this city to the 2022 WNBA title. During the 2023 offseason, the New York Giants acquired Darren Waller from a team in this city. Via a March 2022 trade with the (*) Packers, a team in this city received Davante Adams. In 2023, the Oakland A's announced plans to relocate to this city. An NHL team in this city defeated the Florida Panthers to win the 2023 Stanley Cup Finals. For 10 points, name this city, the home of the Raiders and Golden Knights.",
+            "answer": "Las <b><u>Vegas</u></b> [accept <b><u>Vegas</u></b> Golden Knight, Las <b><u>Vegas</u></b> Raiders, or Las <b><u>Vegas</u></b> Aces]",
+            "answer_sanitized": "Las Vegas [accept Vegas Golden Knight, Las Vegas Raiders, or Las Vegas Aces]",
+            "updatedAt": "2024-08-27T03:47:09.392Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 13,
+            "createdAt": "2024-08-27T03:47:09.392Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc55fb",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3dc5459312fdcc5635",
+            "question": "<b>In this game, the achievement “Transmission Received” is unlocked by finding hidden radios that play an upbeat version of the song “Still Alive.” Throughout this game and its sequel players can find deranged paintings and messages in “dens” belonging to the Rat-Man. In this game, the first to be set at the</b> (*) Aperture Science Enrichment Center, the protagonist Chell (“shell”) is forced to incinerate a Companion Cube and is repeatedly told that “The Cake is a lie”. GLaDOS is the main villain of, for 10 points, what Valve game in which players solve puzzles by using the title blue and orange gateways to teleport?",
+            "question_sanitized": "In this game, the achievement \"Transmission Received\" is unlocked by finding hidden radios that play an upbeat version of the song \"Still Alive.\" Throughout this game and its sequel players can find deranged paintings and messages in \"dens\" belonging to the Rat-Man. In this game, the first to be set at the (*) Aperture Science Enrichment Center, the protagonist Chell (\"shell\") is forced to incinerate a Companion Cube and is repeatedly told that \"The Cake is a lie\". GLaDOS is the main villain of, for 10 points, what Valve game in which players solve puzzles by using the title blue and orange gateways to teleport?",
+            "answer": "<i><b><u>Portal</u></b></i> [reject “Portal 2”]",
+            "answer_sanitized": "Portal [reject \"Portal 2\"]",
+            "updatedAt": "2024-08-27T03:47:09.517Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 17,
+            "createdAt": "2024-08-27T03:47:09.517Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc5624",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3dc5459312fdcc5656",
+            "question": "<b>This artist remarks “I keep a close watch on this heart of mine” in a 1956 song that lends its name to a 2005 biopic starring Joaquin Phoenix as this artist. This artist’s second wife June Carter wrote some of his songs including one where he declares “Love is a burning thing.” This artist, who performed many concerts at (*) </b>prisons like San Quentin, claimed to have “shot a man in Reno, just to watch him die” in the song “Folsom Prison Blues.” The “Man in Black” moniker was sported by, for 10 points, what country artist who covered Nine Inch Nails’ “Hurt” and performed hits like “Ring of Fire”?",
+            "question_sanitized": "This artist remarks \"I keep a close watch on this heart of mine\" in a 1956 song that lends its name to a 2005 biopic starring Joaquin Phoenix as this artist. This artist's second wife June Carter wrote some of his songs including one where he declares \"Love is a burning thing.\" This artist, who performed many concerts at (*) prisons like San Quentin, claimed to have \"shot a man in Reno, just to watch him die\" in the song \"Folsom Prison Blues.\" The \"Man in Black\" moniker was sported by, for 10 points, what country artist who covered Nine Inch Nails' \"Hurt\" and performed hits like \"Ring of Fire\"?",
+            "answer": "Johnny <b><u>Cash</u></b> [or John R. <b><u>Cash</u></b>] (The first song and film is “I Walk the Line.”)",
+            "answer_sanitized": "Johnny Cash [or John R. Cash] (The first song and film is \"I Walk the Line.\")",
+            "updatedAt": "2024-08-27T03:47:09.630Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 9,
+            "createdAt": "2024-08-27T03:47:09.630Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc564d",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3dc5459312fdcc5679",
+            "question": "<b>One character in this film replies “Qué maravilla”</b> (“KAY mar-ah-vee-YAH”)<b> after being handed an empanada. Another character in this film remarks on the redundancy of saying “naan bread” or “chai tea.”That character from this film, the Karan Soni-played</b> (*) Pavitr Prabhakar, is a native of Mumbattan. Early in this film, a Renaissance-era flying machine is used by a villain to raid the Guggenheim Museum in New York before he is thwarted by a team led by Jessica Drew and Miguel O’Hara. Hailee Steinfeld reprises her role as Spider-Gwen in, for 10 points, what 2023 animated superhero sequel focusing on Miles Morales?",
+            "question_sanitized": "One character in this film replies \"Que maravilla\" (\"KAY mar-ah-vee-YAH\") after being handed an empanada. Another character in this film remarks on the redundancy of saying \"naan bread\" or \"chai tea.\"That character from this film, the Karan Soni-played (*) Pavitr Prabhakar, is a native of Mumbattan. Early in this film, a Renaissance-era flying machine is used by a villain to raid the Guggenheim Museum in New York before he is thwarted by a team led by Jessica Drew and Miguel O'Hara. Hailee Steinfeld reprises her role as Spider-Gwen in, for 10 points, what 2023 animated superhero sequel focusing on Miles Morales?",
+            "answer": "<i> Spider-Man:</i> <i><b><u>Across the Spider-Verse</u></b></i> [reject “Into the Spider-Verse” or “Beyond the Spider-Verse”; prompt on <u>Spider-Man</u> or <u>Spider-Verse</u>]",
+            "answer_sanitized": "Spider-Man: Across the Spider-Verse [reject \"Into the Spider-Verse\" or \"Beyond the Spider-Verse\"; prompt on Spider-Man or Spider-Verse]",
+            "updatedAt": "2024-08-27T03:47:09.748Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 3,
+            "createdAt": "2024-08-27T03:47:09.748Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc5676",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3dc5459312fdcc56a4",
+            "question": "<b>All four of this artist’s albums have been produced by Icelandic film composer Ludwig Göransson including a 2020 album titled for its release date. On a track from the album</b><i><b> Because the Internet</b></i><b>, this rapper declares “I’ll be right by your side / ‘Til 3005</b> (“three thousand and five”)<b> .” This creator and star of the TV show</b> (*)<i> Atlanta</i> repeatedly tells the listener “Don't catch you slippin' now” in a 2018 music video in which this artist imitates a Jim Crow-era pose while shooting a hooded figure in the head. This artist’s 2016 album<i> “Awaken,</i> <i>My Love!”</i> spawned the singles “Me and Your Mama” and “Redbone.” For 10 points, name this rapper behind “This is America.”",
+            "question_sanitized": "All four of this artist's albums have been produced by Icelandic film composer Ludwig Goransson including a 2020 album titled for its release date. On a track from the album Because the Internet, this rapper declares \"I'll be right by your side / 'Til 3005 (\"three thousand and five\") .\" This creator and star of the TV show (*) Atlanta repeatedly tells the listener \"Don't catch you slippin' now\" in a 2018 music video in which this artist imitates a Jim Crow-era pose while shooting a hooded figure in the head. This artist's 2016 album \"Awaken, My Love!\" spawned the singles \"Me and Your Mama\" and \"Redbone.\" For 10 points, name this rapper behind \"This is America.\"",
+            "answer": "Donald <b><u>Glover</u></b> [or <b><u>Childish Gambino</u></b> or Donald McKinley <b><u>Glover</u></b> Jr.]",
+            "answer_sanitized": "Donald Glover [or Childish Gambino or Donald McKinley Glover Jr.]",
+            "updatedAt": "2024-08-27T03:47:09.882Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 5,
+            "createdAt": "2024-08-27T03:47:09.882Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc569f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc56ca",
+            "question": "<b>In a 2023 game, this player was fined for “improper contact” while trying to retrieve a ball from Suns owner Mat Ishbia. Jumping off of the right foot before shooting a high-arching fadeaway is this player’s signature move, the “Sombor Shuffle.” This player was selected with the 41stpick in the 2014 NBA Draft during a</b> (*) Taco Bell commercial. In the 2023 Western Conference Finals, this player averaged a triple-double while his team swept the Lakers. This player was unanimously named MVP of the 2023 Finals after his team defeated the Miami Heat. The 2021 and 2022 NBA MVP was, for 10 points, what Serbian center for the Denver Nuggets?",
+            "question_sanitized": "In a 2023 game, this player was fined for \"improper contact\" while trying to retrieve a ball from Suns owner Mat Ishbia. Jumping off of the right foot before shooting a high-arching fadeaway is this player's signature move, the \"Sombor Shuffle.\" This player was selected with the 41stpick in the 2014 NBA Draft during a (*) Taco Bell commercial. In the 2023 Western Conference Finals, this player averaged a triple-double while his team swept the Lakers. This player was unanimously named MVP of the 2023 Finals after his team defeated the Miami Heat. The 2021 and 2022 NBA MVP was, for 10 points, what Serbian center for the Denver Nuggets?",
+            "answer": "Nikola <b><u>Jokić</u></b> (“yo-KITCH”)",
+            "answer_sanitized": "Nikola Jokic (\"yo-KITCH\")",
+            "updatedAt": "2024-08-27T03:47:10.017Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 2,
+            "createdAt": "2024-08-27T03:47:10.017Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc56c8",
+                "name": "06",
+                "number": 6
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc5704",
+            "question": "<b>A character played by this actor is stabbed with the splintered hilt of a baseball bat while at the University of Eastern Colorado. In another show, a character played by this actor receives a set of armor in exchange for killing a Krayt dragon. In a 2010s Netflix series, this actor played the partner of</b> (*) DEA agent Steve Murphy. This actor plays a bounty hunter who defeats Grand Moff Gideon in a duel. In a 2023 HBO series, a character played by this actor travels across the country with the Bella Ramsey-played Ellie. Joel Miller and Din Djarin were portrayed by, for 10 points, what star of<i> Narcos, The Last of Us</i> and<i> The Mandalorian</i>?",
+            "question_sanitized": "A character played by this actor is stabbed with the splintered hilt of a baseball bat while at the University of Eastern Colorado. In another show, a character played by this actor receives a set of armor in exchange for killing a Krayt dragon. In a 2010s Netflix series, this actor played the partner of (*) DEA agent Steve Murphy. This actor plays a bounty hunter who defeats Grand Moff Gideon in a duel. In a 2023 HBO series, a character played by this actor travels across the country with the Bella Ramsey-played Ellie. Joel Miller and Din Djarin were portrayed by, for 10 points, what star of Narcos, The Last of Us and The Mandalorian?",
+            "answer": "Pedro <b><u>Pascal</u></b> [or José Pedro Balmaceda <b><u>Pascal</u></b>]",
+            "answer_sanitized": "Pedro Pascal [or Jose Pedro Balmaceda Pascal]",
+            "updatedAt": "2024-08-27T03:47:10.139Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 19,
+            "createdAt": "2024-08-27T03:47:10.139Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc56f1",
+                "name": "07",
+                "number": 7
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc5724",
+            "question": "<b>A song from this album satirizes the misogyny encountered by the wealthy socialite Rebekah Harkness. A documentary released on Disney+ named for this album is subtitled</b><i><b> The Long Pond Studio Sessions.</b></i><b> A track from this album begins “I can see you standing, honey / With his arms around your body” in a guest verse by Justin Vernon of</b> (*) Bon Iver. The listener is told “You put me on and said I was your favorite” in the chorus of this album’s lead single. “Exile” and “Cardigan” are from, for 10 points, what eighth studio album by Taylor Swift, the“sister album” of<i> Evermore</i>?",
+            "question_sanitized": "A song from this album satirizes the misogyny encountered by the wealthy socialite Rebekah Harkness. A documentary released on Disney+ named for this album is subtitled The Long Pond Studio Sessions. A track from this album begins \"I can see you standing, honey / With his arms around your body\" in a guest verse by Justin Vernon of (*) Bon Iver. The listener is told \"You put me on and said I was your favorite\" in the chorus of this album's lead single. \"Exile\" and \"Cardigan\" are from, for 10 points, what eighth studio album by Taylor Swift, the\"sister album\" of Evermore?",
+            "answer": "<i><b><u>Folklore</u> </b></i>",
+            "answer_sanitized": "Folklore",
+            "updatedAt": "2024-10-12T19:53:09.985Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 10,
+            "createdAt": "2024-08-27T03:47:10.281Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc571a",
+                "name": "08",
+                "number": 8
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc5746",
+            "question": "<b>An author with this surname wrote a novel in which an interactive and infectious “Dream” is first experienced by graphic designer April May. In a novel by a different author with this surname, Quentin travels to Agloe, New York to find Margo. In 2021, that author with this surname released an essay collection to accompany a podcast titled</b><i><b> The</b></i> (*)<i> Anthropocene Reviewed</i>. In another novel by an author with this surname, Hazel and Augustus kiss in the Anne Frank House as they develop a relationship while battling terminal cancer. For 10 points, give this surname shared by brothers Hank and John, the latter of whom wrote<i> The Fault in Our Stars</i>.",
+            "question_sanitized": "An author with this surname wrote a novel in which an interactive and infectious \"Dream\" is first experienced by graphic designer April May. In a novel by a different author with this surname, Quentin travels to Agloe, New York to find Margo. In 2021, that author with this surname released an essay collection to accompany a podcast titled The (*) Anthropocene Reviewed. In another novel by an author with this surname, Hazel and Augustus kiss in the Anne Frank House as they develop a relationship while battling terminal cancer. For 10 points, give this surname shared by brothers Hank and John, the latter of whom wrote The Fault in Our Stars.",
+            "answer": "<b><u>Green</u></b> [accept Hank <b><u>Green</u></b> or John <b><u>Green</u></b>]",
+            "answer_sanitized": "Green [accept Hank Green or John Green]",
+            "updatedAt": "2024-08-27T03:47:10.411Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 3,
+            "createdAt": "2024-08-27T03:47:10.411Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc5743",
+                "name": "09",
+                "number": 9
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc577d",
+            "question": "<b>After this character doesn’t show up to his usual assignment for work, he is briefly replaced by a potted plant wearing a paper hat. In one episode, by using a mind-control helmet, this character controls his nemesis and forces him to DJ a party in a junkyard for goth teens. This character occasionally teams up with Pinky the Chihuahua. Various backyard (*)</b> secret entrances are used by this member of the Organization Without a Cool Acronym to access his underground lair where he receives briefings from Major Monogram. Dr. Doofenshmirtz is the nemesis of, for 10 points, what platypus from<i> Phineas and Ferb</i>?",
+            "question_sanitized": "After this character doesn't show up to his usual assignment for work, he is briefly replaced by a potted plant wearing a paper hat. In one episode, by using a mind-control helmet, this character controls his nemesis and forces him to DJ a party in a junkyard for goth teens. This character occasionally teams up with Pinky the Chihuahua. Various backyard (*) secret entrances are used by this member of the Organization Without a Cool Acronym to access his underground lair where he receives briefings from Major Monogram. Dr. Doofenshmirtz is the nemesis of, for 10 points, what platypus from Phineas and Ferb?",
+            "answer": "<b><u>Perry</u></b> the Platypus",
+            "answer_sanitized": "Perry the Platypus",
+            "updatedAt": "2024-08-27T03:47:10.537Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 17,
+            "createdAt": "2024-08-27T03:47:10.537Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc576c",
+                "name": "10",
+                "number": 10
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc579d",
+            "question": "<b>Dave Niehaus</b> (“KNEE-house”)<b>, the longtime commentator of this team, would yell “get out the rye bread and mustard Grandma” when members of this team hit a grand slam. In the 2022 MLB playoffs, this team lost 1-0 in an 18-inning game to the Houston Astros. In the early 1990s, this team’s lineup featured both</b> (*) Ken Griffey Jr. and Ken Griffey Sr. This team, the only active team to never make the World Series, ended a 21-year playoff drought in 2022, led by the Rookie of the Year winner Julio Rodríguez. Ichiro Suzuki started his MLB career with this team. For 10 points, name this MLB team based in Washington state.",
+            "question_sanitized": "Dave Niehaus (\"KNEE-house\"), the longtime commentator of this team, would yell \"get out the rye bread and mustard Grandma\" when members of this team hit a grand slam. In the 2022 MLB playoffs, this team lost 1-0 in an 18-inning game to the Houston Astros. In the early 1990s, this team's lineup featured both (*) Ken Griffey Jr. and Ken Griffey Sr. This team, the only active team to never make the World Series, ended a 21-year playoff drought in 2022, led by the Rookie of the Year winner Julio Rodriguez. Ichiro Suzuki started his MLB career with this team. For 10 points, name this MLB team based in Washington state.",
+            "answer": "<b><u>Seattle</u></b> <b><u>Mariners</u></b> [accept either underlined]",
+            "answer_sanitized": "Seattle Mariners [accept either underlined]",
+            "updatedAt": "2024-08-27T03:47:10.693Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 8,
+            "createdAt": "2024-08-27T03:47:10.693Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc5795",
+                "name": "11",
+                "number": 11
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc57d1",
+            "question": "<b>A character in this film finds a bundle of cash inside of a copy of Jean Baudrillard’s book</b><i><b> Simulacra and </b><b>Simulation</b></i><b>. Early in this film, the protagonist’s mouth is fused shut and a robotic bug is implanted in his stomach. In one scene, this film’s title entity is likened to “a splinter in your mind,” leading many to interpret this film as a (*)</b> transgender allegory. This film’s protagonist awakens from a simulation of 1999 New York City to an apocalyptic world ruled by machines after choosing to take the red pill. The Wachowski sisters directed, for 10 points, what 1999 science-fiction film in which Keanu Reeves plays Neo?",
+            "question_sanitized": "A character in this film finds a bundle of cash inside of a copy of Jean Baudrillard's book Simulacra and Simulation. Early in this film, the protagonist's mouth is fused shut and a robotic bug is implanted in his stomach. In one scene, this film's title entity is likened to \"a splinter in your mind,\" leading many to interpret this film as a (*) transgender allegory. This film's protagonist awakens from a simulation of 1999 New York City to an apocalyptic world ruled by machines after choosing to take the red pill. The Wachowski sisters directed, for 10 points, what 1999 science-fiction film in which Keanu Reeves plays Neo?",
+            "answer": "<i> The</i> <i><b><u>Matrix</u></b></i> [reject sequels such as “<i>The Matrix Reloaded</i>”, “<i>The Matrix Revolutions</i>”, or “<i>The Matrix</i> <i>Resurrections</i>”]",
+            "answer_sanitized": "The Matrix [reject sequels such as \"The Matrix Reloaded\", \"The Matrix Revolutions\", or \"The Matrix Resurrections\"]",
+            "updatedAt": "2024-08-27T03:47:10.838Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 19,
+            "createdAt": "2024-08-27T03:47:10.838Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc57be",
+                "name": "12",
+                "number": 12
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc57ee",
+            "question": "<b>A 2023 spinoff of this show focuses on and is named for a Golda Rosheuvel</b> (“ROSH-eh-vell”)<b>-played character whose husband is prone to sudden fits of praise for the goddess Venus. A man in this show has a traumatic episode while playing croquet with Kate Sharma in which he is reminded of his father's death by </b>(*) bee sting. In the first episode of this show, Simon Bassett pretends to fall in love with a woman played by Phoebe Dynevor (“Die-neh-ver”). This show is punctuated by a newsletter written by the mysterious Lady Whistledown. Benedict, Anthony, and Daphne are members of the title family in, for 10 points, what Regency-era Netflix show?",
+            "question_sanitized": "A 2023 spinoff of this show focuses on and is named for a Golda Rosheuvel (\"ROSH-eh-vell\")-played character whose husband is prone to sudden fits of praise for the goddess Venus. A man in this show has a traumatic episode while playing croquet with Kate Sharma in which he is reminded of his father's death by (*) bee sting. In the first episode of this show, Simon Bassett pretends to fall in love with a woman played by Phoebe Dynevor (\"Die-neh-ver\"). This show is punctuated by a newsletter written by the mysterious Lady Whistledown. Benedict, Anthony, and Daphne are members of the title family in, for 10 points, what Regency-era Netflix show?",
+            "answer": "<i><b><u>Bridgerton</u></b></i> [accept<i> Queen Charlotte: A</i> <i><b><u>Bridgerton</u></b> Story</i>]",
+            "answer_sanitized": "Bridgerton [accept Queen Charlotte: A Bridgerton Story]",
+            "updatedAt": "2024-08-27T03:47:10.980Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 7,
+            "createdAt": "2024-08-27T03:47:10.980Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc57e7",
+                "name": "13",
+                "number": 13
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3fc5459312fdcc581f",
+            "question": "<b>In a blog post titled “We liked you better fat,” this band’s lead singer discussed criticism he received for the solo album</b><i><b> Soul Punk</b></i><b>. In one song by this band, the singer laments “We’re always sleeping in, and sleeping for the wrong team.” In the lead single from this group’s 2013 comeback album</b><i><b> Save Rock and Roll</b></i><b>, the listener is repeatedly told to</b> (*) “Light ‘em up” in the chorus. In June 2023, this band behind “Immortals” and“Sugar, We’re Goin Down” released a critically panned updated version of Billy Joel’s “We Didn’t Start the Fire.”For 10 points, name this rock band behind “My Songs Know What You Did in the Dark” and “Centuries.”",
+            "question_sanitized": "In a blog post titled \"We liked you better fat,\" this band's lead singer discussed criticism he received for the solo album Soul Punk. In one song by this band, the singer laments \"We're always sleeping in, and sleeping for the wrong team.\" In the lead single from this group's 2013 comeback album Save Rock and Roll, the listener is repeatedly told to (*) \"Light 'em up\" in the chorus. In June 2023, this band behind \"Immortals\" and\"Sugar, We're Goin Down\" released a critically panned updated version of Billy Joel's \"We Didn't Start the Fire.\"For 10 points, name this rock band behind \"My Songs Know What You Did in the Dark\" and \"Centuries.\"",
+            "answer": "<b><u>Fall Out Boy</u></b> [accept <b><u>FOB</u></b>]",
+            "answer_sanitized": "Fall Out Boy [accept FOB]",
+            "updatedAt": "2024-08-27T03:47:11.123Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 15,
+            "createdAt": "2024-08-27T03:47:11.123Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3fc5459312fdcc5810",
+                "name": "14",
+                "number": 14
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "65d8486856d3474dcdac22dc",
+            "createdAt": "2024-02-23T07:25:28.270Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486856d3474dcdac22d7",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>As a student, this man was dubbed “Lawful” in a brutalizing psychological study conducted by Henry A. Murray that explored the effect of stress on the human psyche. In his most famous work, this man described the restriction on the thought and actions of ‘oversocialized’ people. The phrase “you can’t eat your cake and have it too,” led to this man’s brother reporting a lead to the FBI. That phrase appears in his (*)</b> manifesto published in The New York Times in 1995. Earlier in 1979, this author of “Industrial Society and Its Future” attempted to bomb a Boeing 727, and his first successful attack was on Northwestern University. This man was arrested by the FBI in 1996 and was held for a time at “Bomber's Row”. For 10 points, name this eco-terrorist who used the US Postal Service to target universities and airports in his bombings.",
+            "answer": "Theodore <b><u>Kaczynski</u></b> [or the <b><u>Unabomber</u></b>]",
+            "updatedAt": "2024-02-23T07:25:28.270Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 5,
+            "answer_sanitized": "Theodore Kaczynski [or the Unabomber]",
+            "question_sanitized": "As a student, this man was dubbed \"Lawful\" in a brutalizing psychological study conducted by Henry A. Murray that explored the effect of stress on the human psyche. In his most famous work, this man described the restriction on the thought and actions of 'oversocialized' people. The phrase \"you can't eat your cake and have it too,\" led to this man's brother reporting a lead to the FBI. That phrase appears in his (*) manifesto published in The New York Times in 1995. Earlier in 1979, this author of \"Industrial Society and Its Future\" attempted to bomb a Boeing 727, and his first successful attack was on Northwestern University. This man was arrested by the FBI in 1996 and was held for a time at \"Bomber's Row\". For 10 points, name this eco-terrorist who used the US Postal Service to target universities and airports in his bombings."
+        },
+        {
+            "_id": "65d8486956d3474dcdac2340",
+            "createdAt": "2024-02-23T07:25:29.213Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486856d3474dcdac232d",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>Sepak takraw (“Seh-puk tuhk-raw”) is also known as the “kick” version of this sport. This sport originated from William G. Morgan’s Mintonette. Yuji Nishida, a left-handed player in this sport, led Japan to a 7th place finish at the 2020 Olympics. An “attack line” divides this sport’s court into “back row” and “front row”areas. (*)</b> Liberos, who must wear a different colored jersey, are specialized defense players found in one variation of this sport that allows each team a maximum of three 3 passes per possession. Digs are traditionally tracked alongside aces, kills, and blocks in this sport. Players can pass the ball to a setter who prepares a hit for spikers in, for 10 points, what net- and ball-based sport with court, sand, and grass varieties?",
+            "answer": "<b><u>volleyball</u></b> [accept beach <b><u>volleyball</u></b> or sand <b><u>volleyball</u></b> or court <b><u>volleyball</u></b> or grass <b><u>volleyball</u></b> or kick <b><u>volleyball</u></b>]",
+            "updatedAt": "2024-02-23T07:25:29.213Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 19,
+            "answer_sanitized": "volleyball [accept beach volleyball or sand volleyball or court volleyball or grass volleyball or kick volleyball]",
+            "question_sanitized": "Sepak takraw (\"Seh-puk tuhk-raw\") is also known as the \"kick\" version of this sport. This sport originated from William G. Morgan's Mintonette. Yuji Nishida, a left-handed player in this sport, led Japan to a 7th place finish at the 2020 Olympics. An \"attack line\" divides this sport's court into \"back row\" and \"front row\"areas. (*) Liberos, who must wear a different colored jersey, are specialized defense players found in one variation of this sport that allows each team a maximum of three 3 passes per possession. Digs are traditionally tracked alongside aces, kills, and blocks in this sport. Players can pass the ball to a setter who prepares a hit for spikers in, for 10 points, what net- and ball-based sport with court, sand, and grass varieties?"
+        },
+        {
+            "_id": "65d8486956d3474dcdac235c",
+            "createdAt": "2024-02-23T07:25:29.665Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486956d3474dcdac2358",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>While his friend is entranced by “A Sunday Afternoon on the Island of La Grande Jatte,” this character kisses his girlfriend in front of a stained glass window. In another kissing scene, a man remarks “so that’s how they do it in their family,” as this character frenches someone believed to be his daughter. He proposes to his girlfriend in the Mercantile Exchange building, but she thinks he’s joking. After the destruction of a (*)</b> 1961 Ferrari, this character offers to take the fall for his best friend, but he refuses. This impersonator of Abe Froman crashes a German parade and starts singing “Twist and Shout” to impress Cameron. Advertisements across Chicago say “Save [this man]” after he claims he needs a kidney transplant. For 10 points, name this character whose “day off” is the subject of a 1986 movie.",
+            "answer": "Ferris <b><u>Bueller</u></b> [accept “Ferris <b><u>Bueller</u></b>’s Day Off”]",
+            "updatedAt": "2024-02-23T07:25:29.665Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 4,
+            "answer_sanitized": "Ferris Bueller [accept \"Ferris Bueller's Day Off\"]",
+            "question_sanitized": "While his friend is entranced by \"A Sunday Afternoon on the Island of La Grande Jatte,\" this character kisses his girlfriend in front of a stained glass window. In another kissing scene, a man remarks \"so that's how they do it in their family,\" as this character frenches someone believed to be his daughter. He proposes to his girlfriend in the Mercantile Exchange building, but she thinks he's joking. After the destruction of a (*) 1961 Ferrari, this character offers to take the fall for his best friend, but he refuses. This impersonator of Abe Froman crashes a German parade and starts singing \"Twist and Shout\" to impress Cameron. Advertisements across Chicago say \"Save [this man]\" after he claims he needs a kidney transplant. For 10 points, name this character whose \"day off\" is the subject of a 1986 movie."
+        },
+        {
+            "_id": "65d8486a56d3474dcdac23e1",
+            "createdAt": "2024-02-23T07:25:30.924Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486a56d3474dcdac23d9",
+                "name": "07",
+                "number": 7
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>All of the clocks in this game display 17 hours. In this game, giving Morusque eight sheets of music earns the protagonist the music badge. The protagonist is betrayed by Blazer in this game and captured by the Sentinels. In this game’s 11th chapter, after the protagonist helps her escape from jail, Clementine installs an atomic battery on a train. The protagonist is opposed by swarms of evolved bacteria called Zurks in this game. The flying drone (*)</b> B12 is revealed to be the uploaded consciousness of The Scientist at the end of this game, which takes place in an underground city populated only by robot Companions after a plague has wiped out humanity. For 10 points, name this 2022 Annapurna Interactive game in which you play as a feral cat.",
+            "answer": "<i><b><u>Stray</u> </b></i>",
+            "updatedAt": "2024-02-23T07:25:30.924Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 8,
+            "answer_sanitized": "Stray ",
+            "question_sanitized": "All of the clocks in this game display 17 hours. In this game, giving Morusque eight sheets of music earns the protagonist the music badge. The protagonist is betrayed by Blazer in this game and captured by the Sentinels. In this game's 11th chapter, after the protagonist helps her escape from jail, Clementine installs an atomic battery on a train. The protagonist is opposed by swarms of evolved bacteria called Zurks in this game. The flying drone (*) B12 is revealed to be the uploaded consciousness of The Scientist at the end of this game, which takes place in an underground city populated only by robot Companions after a plague has wiped out humanity. For 10 points, name this 2022 Annapurna Interactive game in which you play as a feral cat."
+        },
+        {
+            "_id": "65d8486b56d3474dcdac2406",
+            "createdAt": "2024-02-23T07:25:31.381Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486b56d3474dcdac2404",
+                "name": "08",
+                "number": 8
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>In the second season of this TV series, the main character is attacked by an alligator while The Twinkie sinks as the tide comes in. In this series’s third season, the main characters are stranded on a deserted island until they’re rescued by someone working for Carlos Singh. The protagonists of this series look for the lost (*)</b> treasure of the Royal Merchant hidden by Denmark Tanny, and Ward Cameron steals the gold found by the protagonists in this series. Pope recovers the Cross of Santo Domingo with the Pogues in this series. John B and Sarah fall in love in, for 10 points, what Netflix series about treasure hunting teenagers on a namesake North Carolina island?",
+            "answer": "<b><u>Outer Banks</u> </b> <b>",
+            "updatedAt": "2024-02-23T07:25:31.381Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 2,
+            "answer_sanitized": "Outer Banks  ",
+            "question_sanitized": "In the second season of this TV series, the main character is attacked by an alligator while The Twinkie sinks as the tide comes in. In this series's third season, the main characters are stranded on a deserted island until they're rescued by someone working for Carlos Singh. The protagonists of this series look for the lost (*) treasure of the Royal Merchant hidden by Denmark Tanny, and Ward Cameron steals the gold found by the protagonists in this series. Pope recovers the Cross of Santo Domingo with the Pogues in this series. John B and Sarah fall in love in, for 10 points, what Netflix series about treasure hunting teenagers on a namesake North Carolina island?"
+        },
+        {
+            "_id": "65d8486b56d3474dcdac2443",
+            "createdAt": "2024-02-23T07:25:31.816Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486b56d3474dcdac242f",
+                "name": "09",
+                "number": 9
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>The British counterpart of this entity is named Mayfair, while it is replaced by Common Comforts Hotel in another setting subtitled “Winning is For Capitalists.” This entity’s location was filled by “The Public Highway” in Elizabeth Magie’s Landlord’s Game, and it is believed to have later been added by Charles Darrow. A card that depicts a wailing baby being pushed in a stroller requires one to (*)</b> ‘advance to’ this location. This location offers a lower return on investment than a set of locations that includes St. James Place. This location is found between the Luxury Tax and GO spaces. For 10 points, name this property that is paired with Park Place in the Dark Blue color set, the most expensive property on the standard American Monopoly board.",
+            "answer": "<b><u>Boardwalk</u> </b>",
+            "updatedAt": "2024-02-23T07:25:31.816Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 20,
+            "answer_sanitized": "Boardwalk ",
+            "question_sanitized": "The British counterpart of this entity is named Mayfair, while it is replaced by Common Comforts Hotel in another setting subtitled \"Winning is For Capitalists.\" This entity's location was filled by \"The Public Highway\" in Elizabeth Magie's Landlord's Game, and it is believed to have later been added by Charles Darrow. A card that depicts a wailing baby being pushed in a stroller requires one to (*) 'advance to' this location. This location offers a lower return on investment than a set of locations that includes St. James Place. This location is found between the Luxury Tax and GO spaces. For 10 points, name this property that is paired with Park Place in the Dark Blue color set, the most expensive property on the standard American Monopoly board."
+        },
+        {
+            "_id": "65d8486c56d3474dcdac2469",
+            "createdAt": "2024-02-23T07:25:32.257Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486c56d3474dcdac245a",
+                "name": "10",
+                "number": 10
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>In August 2022, this team’s Brett Baty homered in his first career at-bat. Earlier in the 2022 season, this team recorded their first no-hitter since Johan Santana controversially threw 134 pitches to complete one in 2012. One player for this team claimed that he’s the “best power hitter on the planet” after winning his second consecutive Home Run Derby in 2021. This team’s All-Star closer gained fame during the 2022 season for entering games to “Narco” by Timmy (*)</b> Trumpet. Despite winning 101 games in 2022, this team was eliminated by the Padres in the Wild Card round. Owner Steve Cohen has pushed this team’s payroll to a league-high $344 million. Batting champion Jeff McNeil, first baseman Pete Alonso, and closer Edwin Diaz lead, for 10 points, what NL East team that plays the “Subway Series” against their rival Yankees.",
+            "answer": "<b>:</b> New York <b><u>Mets</u></b> [prompt on <u>New York</u>]",
+            "updatedAt": "2024-02-23T07:25:32.257Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 15,
+            "answer_sanitized": ": New York Mets [prompt on New York]",
+            "question_sanitized": "In August 2022, this team's Brett Baty homered in his first career at-bat. Earlier in the 2022 season, this team recorded their first no-hitter since Johan Santana controversially threw 134 pitches to complete one in 2012. One player for this team claimed that he's the \"best power hitter on the planet\" after winning his second consecutive Home Run Derby in 2021. This team's All-Star closer gained fame during the 2022 season for entering games to \"Narco\" by Timmy (*) Trumpet. Despite winning 101 games in 2022, this team was eliminated by the Padres in the Wild Card round. Owner Steve Cohen has pushed this team's payroll to a league-high $344 million. Batting champion Jeff McNeil, first baseman Pete Alonso, and closer Edwin Diaz lead, for 10 points, what NL East team that plays the \"Subway Series\" against their rival Yankees."
+        },
+        {
+            "_id": "66cd4c3bc5459312fdcc5422",
+            "question": "<b>Three of these characters dress up as a family and go to a supermarket to find a toy they call “papoy.” In a post-credits scene, four of these characters sing a rendition of The Beach Boys’ “Barbara Ann.” After baking a cupcake that looks like them, one of these characters is attacked by Lucy. These characters are naturally inclined to work with people such as Napoleon and Scarlet (*) </b> Overkill. In the second film in which these characters appear, a jelly serum restores them from their evil purple state. The protagonists of two films named for these creatures are Kevin, Stuart, and Bob. For 10 points, name these banana-obsessed creatures whose current leader is Gru.",
+            "question_sanitized": "Three of these characters dress up as a family and go to a supermarket to find a toy they call \"papoy.\" In a post-credits scene, four of these characters sing a rendition of The Beach Boys' \"Barbara Ann.\" After baking a cupcake that looks like them, one of these characters is attacked by Lucy. These characters are naturally inclined to work with people such as Napoleon and Scarlet (*) Overkill. In the second film in which these characters appear, a jelly serum restores them from their evil purple state. The protagonists of two films named for these creatures are Kevin, Stuart, and Bob. For 10 points, name these banana-obsessed creatures whose current leader is Gru.",
+            "answer": "<b><u> Minions</u></b>",
+            "answer_sanitized": "Minions",
+            "updatedAt": "2024-08-27T03:47:07.872Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 20,
+            "createdAt": "2024-08-27T03:47:07.872Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "66cd4c3bc5459312fdcc540e",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "66cd4c3bc5459312fdcc540d",
+                "name": "2023 Prison Bowl",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3cc5459312fdcc546c",
+            "question": "<b>A song from this album references Janet Jackson’s song “All for You” in the bridge. Burlesque dancer Dita Von Teese played the fairy godmother in a Cinderella-themed music video for a song on this album.“The Great War” was included on this album’s (*)</b> “3am Edition.” This Jack Antonoff-produced album is the latest album after the artist’s two previous alt folk efforts,<i> evermore</i> and<i> folklore</i>. TicketMaster crashed during the ticket presale for this album’s supporting tour, the Eras Tour. For 10 points, name this tenth studio album by Taylor Swift, which was released in October 2022.",
+            "question_sanitized": "A song from this album references Janet Jackson's song \"All for You\" in the bridge. Burlesque dancer Dita Von Teese played the fairy godmother in a Cinderella-themed music video for a song on this album.\"The Great War\" was included on this album's (*) \"3am Edition.\" This Jack Antonoff-produced album is the latest album after the artist's two previous alt folk efforts, evermore and folklore. TicketMaster crashed during the ticket presale for this album's supporting tour, the Eras Tour. For 10 points, name this tenth studio album by Taylor Swift, which was released in October 2022.",
+            "answer": "<i><b><u>Midnights</u></b></i>",
+            "answer_sanitized": "Midnights",
+            "updatedAt": "2024-08-27T03:47:08.140Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 12,
+            "createdAt": "2024-08-27T03:47:08.140Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "66cd4c3cc5459312fdcc5460",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "66cd4c3bc5459312fdcc540d",
+                "name": "2023 Prison Bowl",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3cc5459312fdcc548b",
+            "question": "<b>The world’s largest location of this franchise is located in a former rail station in Baku. This franchise sponsored a 2019 game in which the player tries to date this franchise’s founder. People frequently eat food from this franchise in a Japanese Christmas tradition. This franchise’s secret (*)</b> “Original Recipe” consists of“11 herbs and spices.” This franchise is often found in combination restaurants alongside Pizza Hut or Taco Bell. This franchise’s signature product is often found in red-and-white paper buckets. For 10 points, name this “finger lickin’ good” franchise founded by Colonel Harland Sanders.",
+            "question_sanitized": "The world's largest location of this franchise is located in a former rail station in Baku. This franchise sponsored a 2019 game in which the player tries to date this franchise's founder. People frequently eat food from this franchise in a Japanese Christmas tradition. This franchise's secret (*) \"Original Recipe\" consists of\"11 herbs and spices.\" This franchise is often found in combination restaurants alongside Pizza Hut or Taco Bell. This franchise's signature product is often found in red-and-white paper buckets. For 10 points, name this \"finger lickin' good\" franchise founded by Colonel Harland Sanders.",
+            "answer": "<b><u>KFC</u></b> [or <b><u>Kentucky Fried Chicken</u></b>]",
+            "answer_sanitized": "KFC [or Kentucky Fried Chicken]",
+            "updatedAt": "2024-08-27T03:47:08.254Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 2,
+            "createdAt": "2024-08-27T03:47:08.254Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "66cd4c3cc5459312fdcc5489",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "66cd4c3bc5459312fdcc540d",
+                "name": "2023 Prison Bowl",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3cc5459312fdcc548f",
+            "question": "<b>This city’s professional soccer team was the first U.S. team to win the CONCACAF (“CAWN-cuh-caff”) Champions League. A point guard who spent most of his career playing in this city was the first point guard to win Defensive Player of the Year. The most recent NHL expansion franchise is located in this city, playing at Climate Pledge Arena with this city’s WNBA team, the (*)</b> Storm. In Super Bowl XLIX (“forty-nine”), the head coach of this city’s football team was widely criticized for not handing the ball to Marshawn Lynch at the goal line, leading to their loss to the Patriots. For 10 points, name this city home to the Kraken, Sounders, and Seahawks.",
+            "question_sanitized": "This city's professional soccer team was the first U.S. team to win the CONCACAF (\"CAWN-cuh-caff\") Champions League. A point guard who spent most of his career playing in this city was the first point guard to win Defensive Player of the Year. The most recent NHL expansion franchise is located in this city, playing at Climate Pledge Arena with this city's WNBA team, the (*) Storm. In Super Bowl XLIX (\"forty-nine\"), the head coach of this city's football team was widely criticized for not handing the ball to Marshawn Lynch at the goal line, leading to their loss to the Patriots. For 10 points, name this city home to the Kraken, Sounders, and Seahawks.",
+            "answer": "<b><u>Seattle</u></b>",
+            "answer_sanitized": "Seattle",
+            "updatedAt": "2024-08-27T03:47:08.254Z",
+            "category": "Trash",
+            "subcategory": "Trash",
+            "number": 6,
+            "createdAt": "2024-08-27T03:47:08.254Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "66cd4c3cc5459312fdcc5489",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "66cd4c3bc5459312fdcc540d",
+                "name": "2023 Prison Bowl",
+                "year": 2023,
+                "standard": true
+            }
+        }
+    ],
+    "bonuses": []
+}

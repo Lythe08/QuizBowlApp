@@ -1,0 +1,630 @@
+{
+    "tossups": [
+        {
+            "_id": "666dc6c59f7c4cfdbd678477",
+            "question": "<b>Richard Katz believed that this psychologist failed to cite time studying the Giving Ceremony of the Blackfoot. This psychologist imagined a culturally healthy utopia called Eupsychia </b>(“yew-sike-ee-uh”) <b>in a “Theory Z” outlining the ideal organization of companies. A cognitive bias of repeatedly using the same tool for different problems is called this psychologist’s “Hammer.” A group of people studied by this psychologist have Being-values that define their (*)</b> metamotivations and may have “peak experiences.” This psychologist’s paper “A Theory of Human Motivation” developed a model often visualized as a pyramid with self-actualization at its top. For 10 points, name this psychologist who formulated a namesake “hierarchy of needs.”",
+            "question_sanitized": "Richard Katz believed that this psychologist failed to cite time studying the Giving Ceremony of the Blackfoot. This psychologist imagined a culturally healthy utopia called Eupsychia (\"yew-sike-ee-uh\") in a \"Theory Z\" outlining the ideal organization of companies. A cognitive bias of repeatedly using the same tool for different problems is called this psychologist's \"Hammer.\" A group of people studied by this psychologist have Being-values that define their (*) metamotivations and may have \"peak experiences.\" This psychologist's paper \"A Theory of Human Motivation\" developed a model often visualized as a pyramid with self-actualization at its top. For 10 points, name this psychologist who formulated a namesake \"hierarchy of needs.\"",
+            "answer": "Abraham <b><u>Maslow</u></b> [accept <b><u>Maslow</u></b>’s hierarchy of needs or <b><u>Maslow</u></b>’s Hammer]",
+            "answer_sanitized": "Abraham Maslow [accept Maslow's hierarchy of needs or Maslow's Hammer]",
+            "updatedAt": "2024-06-15T16:52:21.088Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Psychology",
+            "number": 4,
+            "createdAt": "2024-06-15T16:52:21.089Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd678473",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784af",
+            "question": "<b>This quantity appears in both the numerator and the denominator in the usual definition of the Lerner index. Unlike in the Cournot</b> (“core-NOH”)<b> model, this quantity is </b><i><b>explicitly </b></i><b>chosen in the Bertrand model. The Slutsky equation takes the derivative with respect to this quantity of the Marshallian demand, giving terms corresponding to the income and substitution effects. Menu costs primarily contribute to this quantity’s (*)</b> “stickiness.” Firms in perfect competition are described as “takers” of this quantity. Government-imposed “floors” on this quantity can result in surpluses if they are above this quantity’s equilibrium value. For 10 points, supply and demand curves plot quantity sold against what quantity measured in dollars?",
+            "question_sanitized": "This quantity appears in both the numerator and the denominator in the usual definition of the Lerner index. Unlike in the Cournot (\"core-NOH\") model, this quantity is explicitly chosen in the Bertrand model. The Slutsky equation takes the derivative with respect to this quantity of the Marshallian demand, giving terms corresponding to the income and substitution effects. Menu costs primarily contribute to this quantity's (*) \"stickiness.\" Firms in perfect competition are described as \"takers\" of this quantity. Government-imposed \"floors\" on this quantity can result in surpluses if they are above this quantity's equilibrium value. For 10 points, supply and demand curves plot quantity sold against what quantity measured in dollars?",
+            "answer": "<b><u>price</u></b> [prompt on <u>P</u>; prompt on <u>wage</u>s]",
+            "answer_sanitized": "price [prompt on P; prompt on wages]",
+            "updatedAt": "2024-06-15T16:52:21.339Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Economics",
+            "number": 17,
+            "createdAt": "2024-06-15T16:52:21.339Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67849e",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784dd",
+            "question": "<b>The effect of homophily on the dynamics of these things is studied in McPherson, Smith-Lovin and Cook’s paper “Birds of a Feather.” Real-world examples of these things with power law degree distributions are described as “scale-free.” Georg Simmel’s principle of triadic closure describes the tendency of triangular motifs to form in these things if B and C are both neighbors with A. Mark Granovetter studied job applicants to identify (*)</b> “weak ties” in these things. The surprisingly low average path length in these structures, popularly just 6, is called the small-world phenomenon. Nodes representing individuals are connected by edges representing social connections in, for 10 points, what web-like models of social structure?",
+            "question_sanitized": "The effect of homophily on the dynamics of these things is studied in McPherson, Smith-Lovin and Cook's paper \"Birds of a Feather.\" Real-world examples of these things with power law degree distributions are described as \"scale-free.\" Georg Simmel's principle of triadic closure describes the tendency of triangular motifs to form in these things if B and C are both neighbors with A. Mark Granovetter studied job applicants to identify (*) \"weak ties\" in these things. The surprisingly low average path length in these structures, popularly just 6, is called the small-world phenomenon. Nodes representing individuals are connected by edges representing social connections in, for 10 points, what web-like models of social structure?",
+            "answer": "social <b><u>network</u></b>s [accept scale-free <b><u>network</u></b>s or small-world <b><u>network</u></b>s; prompt on <u>graph</u>s by asking “what do they represent?”]",
+            "answer_sanitized": "social networks [accept scale-free networks or small-world networks; prompt on graphs by asking \"what do they represent?\"]",
+            "updatedAt": "2024-06-15T16:52:21.513Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Sociology",
+            "number": 20,
+            "createdAt": "2024-06-15T16:52:21.513Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784c9",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678533",
+            "question": "<b>Primary and secondary types of these</b> <b>elements are distinguished in secundative languages. In the dative shift, a dative PP is rendered using a second one of these</b> <b>elements. In ergative–absolutive languages, these elements</b> <b>are marked the same way as a noun in an intransitive sentence, by the absolutive case. These elements comes first in the word order of just (*)</b> one percent of languages. Ditransitive verbs like “give” accept two of these elements as arguments. In transitive English sentences, prepositional phrases can be used to render the always-optional “indirect” type of these elements, while their “direct” type is required. For 10 points, name these grammatical elements that receive the actions of verbs.",
+            "question_sanitized": "Primary and secondary types of these elements are distinguished in secundative languages. In the dative shift, a dative PP is rendered using a second one of these elements. In ergative-absolutive languages, these elements are marked the same way as a noun in an intransitive sentence, by the absolutive case. These elements comes first in the word order of just (*) one percent of languages. Ditransitive verbs like \"give\" accept two of these elements as arguments. In transitive English sentences, prepositional phrases can be used to render the always-optional \"indirect\" type of these elements, while their \"direct\" type is required. For 10 points, name these grammatical elements that receive the actions of verbs.",
+            "answer": "<b><u>object</u></b>s [accept direct <b><u>object</u></b>s or indirect <b><u>object</u></b>s]",
+            "answer_sanitized": "objects [accept direct objects or indirect objects]",
+            "updatedAt": "2024-06-15T16:52:21.854Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Linguistics",
+            "number": 20,
+            "createdAt": "2024-06-15T16:52:21.854Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67851f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd678552",
+            "question": "<b>This emotion appears second in the name of cultures studied by Julien Pitt-Rivers that display challenge-riposte dialectics. Four maladaptive responses to this emotion are grouped in Nathanson’s “Compass of” this moral emotion, which June Tangney argues arises from evaluations of the global self rather than one’s behavior. The word </b><i><b>haji</b></i><b> is analyzed in a 1946 study that argues that a culture</b> (*) defined by this emotion acts to avoid ostracism instead of internal moral struggles. This emotion is emphasized in Japan as compared to American guilt culture according to Ruth Benedict’s <i>The Chrysanthemum and the Sword</i>. Revenge and honor killings are believed to prevent, for 10 points, what self-conscious feeling of regret and disgrace?",
+            "question_sanitized": "This emotion appears second in the name of cultures studied by Julien Pitt-Rivers that display challenge-riposte dialectics. Four maladaptive responses to this emotion are grouped in Nathanson's \"Compass of\" this moral emotion, which June Tangney argues arises from evaluations of the global self rather than one's behavior. The word haji is analyzed in a 1946 study that argues that a culture (*) defined by this emotion acts to avoid ostracism instead of internal moral struggles. This emotion is emphasized in Japan as compared to American guilt culture according to Ruth Benedict's The Chrysanthemum and the Sword. Revenge and honor killings are believed to prevent, for 10 points, what self-conscious feeling of regret and disgrace?",
+            "answer": "<b><u>shame</u></b> [accept <b><u>shaming</u></b> or being <b><u>ashamed</u></b>; accept <b><u>shame</u></b> culture; prompt on <u>honor-shame</u> cultures; prompt on <u>embarrassment</u> or word forms like being <u>embarrassed</u>; prompt on <u>humiliation</u>]",
+            "answer_sanitized": "shame [accept shaming or being ashamed; accept shame culture; prompt on honor-shame cultures; prompt on embarrassment or word forms like being embarrassed; prompt on humiliation]",
+            "updatedAt": "2024-06-15T16:52:22.020Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Other Social Science",
+            "number": 8,
+            "createdAt": "2024-06-15T16:52:22.020Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67854a",
+                "name": "06",
+                "number": 6
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd6785af",
+            "question": "<b>“Africa [does this action]” in the title of a book by Claudia Zaslavsky. Comparisons can be made without performing this symbolic process thanks to a “sense” encoded in the brain by the ANS and the parallel individuation system. For very small inputs, this process is replaced by the near-instantaneous, visual process of subitizing. In a classic study of selective attention, participants are asked to perform this process for passes made by a (*)</b> basketball team, but may fail to notice a man in a gorilla suit in the process. Children with dys·cal·culia may have difficulty performing this sequential process backwards or without use of their fingers. For 10 points, name this process used to determine the number of objects in a set.",
+            "question_sanitized": "\"Africa [does this action]\" in the title of a book by Claudia Zaslavsky. Comparisons can be made without performing this symbolic process thanks to a \"sense\" encoded in the brain by the ANS and the parallel individuation system. For very small inputs, this process is replaced by the near-instantaneous, visual process of subitizing. In a classic study of selective attention, participants are asked to perform this process for passes made by a (*) basketball team, but may fail to notice a man in a gorilla suit in the process. Children with dyscalculia may have difficulty performing this sequential process backwards or without use of their fingers. For 10 points, name this process used to determine the number of objects in a set.",
+            "answer": "<b><u>count</u></b>ing [accept word forms such as <b><u>count</u></b>s or taking a <b><u>count</u></b>; accept <i>Africa</i> <i><b><u>Counts</u></b></i>; prompt on <u>adding</u> or <u>subtracting</u> or doing <u>math</u>; prompt on <u>quantify</u>ing or determining <u>number</u>; prompt on <u>watching</u> or <u>observing</u> or synonyms]",
+            "answer_sanitized": "counting [accept word forms such as counts or taking a count; accept Africa Counts; prompt on adding or subtracting or doing math; prompt on quantifying or determining number; prompt on watching or observing or synonyms]",
+            "updatedAt": "2024-06-15T16:52:22.353Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Psychology",
+            "number": 15,
+            "createdAt": "2024-06-15T16:52:22.353Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd6785a0",
+                "name": "08",
+                "number": 8
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd678604",
+            "question": "<b></b><i><b>Note to moderator: read the answerline carefully. Note to players: two answers required.</b></i><b> People with these two traits are analogized to “silent witnesses” in a pioneering text of a movement centered on them, </b><i><b>A Voice from the South</b></i><b>. The “Thought” of a movement centered on people with these two traits titles a 1990 book describing them as the “outsider-within.” A UCLA scholar coined one concept in papers like “Mapping the Margins” to analyze employment discrimination against people with these two (*)</b> identities. Patricia Hill Collins identified harmful “controlling images” that people with these two identities contend with, like the matriarch and welfare queen. Kimberlé Crenshaw coined intersectionality to analyze the layered discrimination faced by people with, for 10 points, what marginalized racial and gender identity?",
+            "question_sanitized": "Note to moderator: read the answerline carefully. Note to players: two answers required. People with these two traits are analogized to \"silent witnesses\" in a pioneering text of a movement centered on them, A Voice from the South. The \"Thought\" of a movement centered on people with these two traits titles a 1990 book describing them as the \"outsider-within.\" A UCLA scholar coined one concept in papers like \"Mapping the Margins\" to analyze employment discrimination against people with these two (*) identities. Patricia Hill Collins identified harmful \"controlling images\" that people with these two identities contend with, like the matriarch and welfare queen. Kimberle Crenshaw coined intersectionality to analyze the layered discrimination faced by people with, for 10 points, what marginalized racial and gender identity?",
+            "answer": "<b><u>Black</u></b> AND <b><u>female</u></b> [or <b><u>Black</u></b> AND <b><u>woman</u></b>; accept <b><u>African</u></b>-American for <b><u>Black</u></b>; accept <b><u>girl</u></b>s or <b><u>mother</u></b>s for <b><u>women</u></b>; prompt on <u>Black feminism</u> or <i><u>Black Feminist</u> Thought</i>; prompt on <u>women of color</u> or <u>WOC</u>; prompt on <u>minority</u> or <u>non-white</u> for “Black”]",
+            "answer_sanitized": "Black AND female [or Black AND woman; accept African-American for Black; accept girls or mothers for women; prompt on Black feminism or Black Feminist Thought; prompt on women of color or WOC; prompt on minority or non-white for \"Black\"]",
+            "updatedAt": "2024-06-15T16:52:22.681Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Sociology",
+            "number": 14,
+            "createdAt": "2024-06-15T16:52:22.681Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd6785f6",
+                "name": "10",
+                "number": 10
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd678631",
+            "question": "<b>The supply in these markets, denoted “h-sub-t,” varies according to the intertemporal substitution hypothesis. Equilibrium prices in these markets may be shifted by a “compensating differential” depending on the preferences of participants. Mortenson and Pissarides won the 2010 Nobel in Economics for modeling transactions in these markets using search and matching theory. Under perfect competition, the (*)</b> MRPL is equal to the equilibrium price in these markets. Monopsony power is exemplified by markets for this factor with only one buyer, as in mining towns. This factor and a factor symbolized <i>K</i> are the usual inputs in a production function. For 10 points, name this factor of production supplied by workers.",
+            "question_sanitized": "The supply in these markets, denoted \"h-sub-t,\" varies according to the intertemporal substitution hypothesis. Equilibrium prices in these markets may be shifted by a \"compensating differential\" depending on the preferences of participants. Mortenson and Pissarides won the 2010 Nobel in Economics for modeling transactions in these markets using search and matching theory. Under perfect competition, the (*) MRPL is equal to the equilibrium price in these markets. Monopsony power is exemplified by markets for this factor with only one buyer, as in mining towns. This factor and a factor symbolized K are the usual inputs in a production function. For 10 points, name this factor of production supplied by workers.",
+            "answer": "<b><u>labor</u></b> markets [or <b><u>job</u></b> markets; prompt on <u>factor</u> markets; prompt on markets for <u>worker</u>s until read]",
+            "answer_sanitized": "labor markets [or job markets; prompt on factor markets; prompt on markets for workers until read]",
+            "updatedAt": "2024-06-15T16:52:22.847Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Economics",
+            "number": 16,
+            "createdAt": "2024-06-15T16:52:22.847Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd678621",
+                "name": "11",
+                "number": 11
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd678636",
+            "question": "<b>S-to-J phase transitions can cause this phenomenon in a model by Boris Kerner. This phenomenon can counterintuitively get worse in the classical example of Braess’s Paradox, which is similar to how network expansions can cause an “induced” form of this phenomenon observed in many projects planned by Robert Moses. This phenomenon can be reduced via grade-separated junctions and ramp </b>(*) metering. ANPR cameras are used to enforce namesake “pricing” schemes for contributors to this phenomenon exemplified by London’s CCZ. Policies to reduce an extreme form of this phenomenon common in grid layouts include laws fining people who “block the box.” For 10 points, name this problem from urban planning that can result in gridlock.",
+            "question_sanitized": "S-to-J phase transitions can cause this phenomenon in a model by Boris Kerner. This phenomenon can counterintuitively get worse in the classical example of Braess's Paradox, which is similar to how network expansions can cause an \"induced\" form of this phenomenon observed in many projects planned by Robert Moses. This phenomenon can be reduced via grade-separated junctions and ramp (*) metering. ANPR cameras are used to enforce namesake \"pricing\" schemes for contributors to this phenomenon exemplified by London's CCZ. Policies to reduce an extreme form of this phenomenon common in grid layouts include laws fining people who \"block the box.\" For 10 points, name this problem from urban planning that can result in gridlock.",
+            "answer": "automobile <b><u>traffic</u></b> [or car <b><u>congestion</u></b>; or car <b><u>traffic</u></b>; or road <b><u>traffic</u></b> or freeway <b><u>traffic</u></b>; accept <b><u>traffic jam</u></b>s or <b><u>traffic congestion</u></b>; accept <b><u>congestion</u></b> pricing; prompt on <u>gridlock</u> or <u>jam</u>s; prompt on induced <u>demand</u> by asking, “What phenomenon does induced demand lead to in this context?”]",
+            "answer_sanitized": "automobile traffic [or car congestion; or car traffic; or road traffic or freeway traffic; accept traffic jams or traffic congestion; accept congestion pricing; prompt on gridlock or jams; prompt on induced demand by asking, \"What phenomenon does induced demand lead to in this context?\"]",
+            "updatedAt": "2024-06-15T16:52:22.847Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Economics",
+            "number": 21,
+            "createdAt": "2024-06-15T16:52:22.847Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd678621",
+                "name": "11",
+                "number": 11
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd67864e",
+            "question": "<b>Cells in this region encode sequences via phase precession. Theta waves may originate from the trisynaptic circuit in this region between subregions like CA1 and CA3. A structural MRI study by Eleanor Maguire’s lab found that the size of this region was positively correlated with time spent as a London taxi driver. This region was removed to treat the epileptic seizures of Patient (*)</b> H.M. Long-term potentiation was discovered in this region of a rabbit’s brain. This region has been described as a “cognitive map” because spatial memory is encoded by its place cells. This component of the limbic system plays a key role in consolidating new memories. For 10 points, name this brain region named for its resemblance to a seahorse.",
+            "question_sanitized": "Cells in this region encode sequences via phase precession. Theta waves may originate from the trisynaptic circuit in this region between subregions like CA1 and CA3. A structural MRI study by Eleanor Maguire's lab found that the size of this region was positively correlated with time spent as a London taxi driver. This region was removed to treat the epileptic seizures of Patient (*) H.M. Long-term potentiation was discovered in this region of a rabbit's brain. This region has been described as a \"cognitive map\" because spatial memory is encoded by its place cells. This component of the limbic system plays a key role in consolidating new memories. For 10 points, name this brain region named for its resemblance to a seahorse.",
+            "answer": "<b><u>hippocampus</u></b> [prompt on <u>limbic</u> system; prompt on <u>allocortex</u> or <u>neocortex</u>; prompt on <u>temporal lobe</u>; prompt on <u>brain</u>]",
+            "answer_sanitized": "hippocampus [prompt on limbic system; prompt on allocortex or neocortex; prompt on temporal lobe; prompt on brain]",
+            "updatedAt": "2024-06-15T16:52:23.009Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Psychology",
+            "number": 2,
+            "createdAt": "2024-06-15T16:52:23.009Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd67864c",
+                "name": "12",
+                "number": 12
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd6786af",
+            "question": "<b>Ragnar Frisch modeled these things with impulse and propagation mechanisms. Burns and Mitchell’s 1946 book on “measuring” these things began the NBER’s research on their chronology. These things cause short-term fluctuations in time-series data that can be removed by the Hodrick–Prescott filter. Kydland and Prescott’s “real” theory of these things argues that they are efficient responses to productivity shocks, and that monetary policy is ineffective in (*)</b> smoothing them. These periods are driven by creative destruction, according to Joseph Schumpeter. Output and employment hit lows in the troughs of these periods. Alternating “booms” and “busts” characterize, for 10 points, what oscillations in the general level of economic activity?",
+            "question_sanitized": "Ragnar Frisch modeled these things with impulse and propagation mechanisms. Burns and Mitchell's 1946 book on \"measuring\" these things began the NBER's research on their chronology. These things cause short-term fluctuations in time-series data that can be removed by the Hodrick-Prescott filter. Kydland and Prescott's \"real\" theory of these things argues that they are efficient responses to productivity shocks, and that monetary policy is ineffective in (*) smoothing them. These periods are driven by creative destruction, according to Joseph Schumpeter. Output and employment hit lows in the troughs of these periods. Alternating \"booms\" and \"busts\" characterize, for 10 points, what oscillations in the general level of economic activity?",
+            "answer": "<b><u>business cycle</u></b>s [or <b><u>economic cycle</u></b>s; accept real <b><u>business cycle</u></b>s; prompt on <u>cycle</u>s; prompt on <u>trough</u>s or <u>peak</u>s or <u>recoverie</u>s; prompt on economic <u>recession</u>s or economic <u>contraction</u>s or economic <u>expansion</u>s or <u>boom</u>s or <u>bust</u>s until read by asking, “what are those phases of?”]",
+            "answer_sanitized": "business cycles [or economic cycles; accept real business cycles; prompt on cycles; prompt on troughs or peaks or recoveries; prompt on economic recessions or economic contractions or economic expansions or booms or busts until read by asking, \"what are those phases of?\"]",
+            "updatedAt": "2024-06-15T16:52:23.331Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Economics",
+            "number": 13,
+            "createdAt": "2024-06-15T16:52:23.331Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd6786a2",
+                "name": "14",
+                "number": 14
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd6786d2",
+            "question": "<b>John Sweller’s CLT criticizes constructivist approaches in these places, such as those favored by Jerome Bruner. Carol Dweck first made a distinction between entity and incremental theorists to describe people in these places. To design objectives, workers at these places may use a pyramid of six goals called Bloom’s taxonomy. Workers at these places use the technique of (*)</b> scaffolding to target individuals’ zone of proximal development. Inquiry-based approaches have become widespread in these places to promote 21st-century skills like critical thinking. “Flipped” examples of these places may use take-home online lectures. For 10 points, name these places that educate children.",
+            "question_sanitized": "John Sweller's CLT criticizes constructivist approaches in these places, such as those favored by Jerome Bruner. Carol Dweck first made a distinction between entity and incremental theorists to describe people in these places. To design objectives, workers at these places may use a pyramid of six goals called Bloom's taxonomy. Workers at these places use the technique of (*) scaffolding to target individuals' zone of proximal development. Inquiry-based approaches have become widespread in these places to promote 21st-century skills like critical thinking. \"Flipped\" examples of these places may use take-home online lectures. For 10 points, name these places that educate children.",
+            "answer": "<b><u>school</u></b>s [accept <b><u>classroom</u></b>s; accept <b><u>kindergarten</u></b>s or elementary <b><u>school</u></b>s or middle <b><u>school</u></b>s or high <b><u>school</u></b>s or <b><u>universities</u></b>; prompt on places of <u>learning</u> or <u>teaching</u> or <u>tutoring</u> or equivalents]",
+            "answer_sanitized": "schools [accept classrooms; accept kindergartens or elementary schools or middle schools or high schools or universities; prompt on places of learning or teaching or tutoring or equivalents]",
+            "updatedAt": "2024-06-15T16:52:23.498Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Other Social Science",
+            "number": 5,
+            "createdAt": "2024-06-15T16:52:23.498Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd6786cd",
+                "name": "15",
+                "number": 15
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd678704",
+            "question": "<b></b><i><b>Note to moderator: read answerline carefully.</b></i> <b>A paper by DiMaggio and Powell</b> <b>“revisits” how these people are organized via institutional isomorphism. These people may be subject to “police patrol” or “fire alarm” oversight. Six principles of ideal organization of these people were identified by a thinker who saw them as the key example of “rationalization.” The cold efficiency and calculation of these peoples’ institutions is interpreted as creating Max (*)</b> Weber’s “iron cage.” Along with interest groups and Congress, these people form the Iron Triangle. The Hatch Act limits the political activity of these people, who may create “red tape” by enforcing regulations. For 10 points, the executive branch includes what non-elected officials who oversee government?",
+            "question_sanitized": "Note to moderator: read answerline carefully. A paper by DiMaggio and Powell \"revisits\" how these people are organized via institutional isomorphism. These people may be subject to \"police patrol\" or \"fire alarm\" oversight. Six principles of ideal organization of these people were identified by a thinker who saw them as the key example of \"rationalization.\" The cold efficiency and calculation of these peoples' institutions is interpreted as creating Max (*) Weber's \"iron cage.\" Along with interest groups and Congress, these people form the Iron Triangle. The Hatch Act limits the political activity of these people, who may create \"red tape\" by enforcing regulations. For 10 points, the executive branch includes what non-elected officials who oversee government?",
+            "answer": "<b><u>bureaucrat</u></b>s [or the <b><u>bureaucracy</u></b> or <b><u>bureaucratic</u></b> workers; accept <i>The</i> <i><b><u>Bureaucratic</u></b> Phenomenon</i>; accept <b><u>civil servant</u></b>s or <b><u>civil service</u></b> or <b><u>public servant</u></b>s or <b><u>public service</u></b>; accept <b><u>federal</u></b> employees or federal <b><u>agency</u></b> employees; accept employees of the <b><u>Executive</u></b> Branch until “executive branch” is read; prompt on <u>administrator</u>s or <u>administration</u>; prompt on <u>government</u> or government <u>official</u>s with “of what part of government?”] (The first paper is “The Iron Cage Revisited.”)",
+            "answer_sanitized": "bureaucrats [or the bureaucracy or bureaucratic workers; accept The Bureaucratic Phenomenon; accept civil servants or civil service or public servants or public service; accept federal employees or federal agency employees; accept employees of the Executive Branch until \"executive branch\" is read; prompt on administrators or administration; prompt on government or government officials with \"of what part of government?\"] (The first paper is \"The Iron Cage Revisited.\")",
+            "updatedAt": "2024-10-25T18:54:49.655Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Other Social Science",
+            "number": 12,
+            "createdAt": "2024-06-15T16:52:23.671Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd6786f8",
+                "name": "16",
+                "number": 16
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd67870d",
+            "question": "<b></b> <b>A Ukrainian-born economist with this married last name wrote the paper “Savings and the Income Distribution” with Dorothy Brady, which informed the 1957 paper “A Theory of the Consumption Function” by another economist with this last name. Those two economists with this last name co-wrote a “Personal Statement” advocating school vouchers to accompany a hit ten-episode 1980 PBS series. The (*)</b> permanent income hypothesis is credited to an economist with this last name who, with his wife Rose, wrote <i>Free to Choose</i>. An economist with this last name opposed Keynesianism in <i>Capitalism and Freedom</i>. For 10 points, give this last name of the monetarist Chicago School economist Milton.",
+            "question_sanitized": "A Ukrainian-born economist with this married last name wrote the paper \"Savings and the Income Distribution\" with Dorothy Brady, which informed the 1957 paper \"A Theory of the Consumption Function\" by another economist with this last name. Those two economists with this last name co-wrote a \"Personal Statement\" advocating school vouchers to accompany a hit ten-episode 1980 PBS series. The (*) permanent income hypothesis is credited to an economist with this last name who, with his wife Rose, wrote Free to Choose. An economist with this last name opposed Keynesianism in Capitalism and Freedom. For 10 points, give this last name of the monetarist Chicago School economist Milton.",
+            "answer": "<b><u>Friedman</u></b> [accept Milton <b><u>Friedman</u></b> or Rose Director <b><u>Friedman</u></b>]",
+            "answer_sanitized": "Friedman [accept Milton Friedman or Rose Director Friedman]",
+            "updatedAt": "2024-06-15T16:52:23.671Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Economics",
+            "number": 21,
+            "createdAt": "2024-06-15T16:52:23.671Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd6786f8",
+                "name": "16",
+                "number": 16
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd67875f",
+            "question": "<b>An English dialect from this country invented the phrase “next tomorrow” and uses “qualitative” to mean “of high quality.”</b> <b>“Abeg” means “please” and</b> <b>“dey” means “be” in a pidgin language from this country. This country has the most native speakers of a language whose endonym is Fulfulde. A mixture of standard English and this country’s pidgin called “rotten English” is the language of </b><i><b>Sozaboy,</b></i><b> a novel by (*)</b> Ken Saro-Wiwa. A <i>lingua franca</i> spoken across the north of this country is used for its Kannywood film industry. The Portuguese word for “lakes” names this country’s former capital and largest city. For 10 points, name this most-populous English-speaking African country, which is governed from Abuja.",
+            "question_sanitized": "An English dialect from this country invented the phrase \"next tomorrow\" and uses \"qualitative\" to mean \"of high quality.\" \"Abeg\" means \"please\" and \"dey\" means \"be\" in a pidgin language from this country. This country has the most native speakers of a language whose endonym is Fulfulde. A mixture of standard English and this country's pidgin called \"rotten English\" is the language of Sozaboy, a novel by (*) Ken Saro-Wiwa. A lingua franca spoken across the north of this country is used for its Kannywood film industry. The Portuguese word for \"lakes\" names this country's former capital and largest city. For 10 points, name this most-populous English-speaking African country, which is governed from Abuja.",
+            "answer": "<b><u>Nigeria</u></b> [or Federal Republic of <b><u>Nigeria</u></b>; accept <b><u>Naijá</u></b>]",
+            "answer_sanitized": "Nigeria [or Federal Republic of Nigeria; accept Naija]",
+            "updatedAt": "2024-06-15T16:52:24.008Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Linguistics",
+            "number": 17,
+            "createdAt": "2024-06-15T16:52:24.008Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd67874e",
+                "name": "18 TB B",
+                "number": 18
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd6787af",
+            "question": "<b></b><i><b>Two answers required</b></i><b>.</b> <b>Mainstream society upholds an “ideal” based on one of these two traits that suppresses the talent of people with the other, according to a 2012 book by Susan Cain. These two traits arise due to differences in arousal of the A·R·A·S pathway in a theory by Hans Eysenck, who grouped their axis with psychoticism and neuroticism. These two traits were coined to describe attentiveness to subjective needs in Carl</b> (*) Jung’s <i>Personality Types</i>. The axis corresponding to these two opposite traits is the “E” in the OCEAN model. These two traits are the options for the first character of a Myers–Briggs indicator. For 10 points, name these two personality traits that lie on opposite ends of a spectrum describing how outgoing or sociable a person is.",
+            "question_sanitized": "Two answers required. Mainstream society upholds an \"ideal\" based on one of these two traits that suppresses the talent of people with the other, according to a 2012 book by Susan Cain. These two traits arise due to differences in arousal of the ARAS pathway in a theory by Hans Eysenck, who grouped their axis with psychoticism and neuroticism. These two traits were coined to describe attentiveness to subjective needs in Carl (*) Jung's Personality Types. The axis corresponding to these two opposite traits is the \"E\" in the OCEAN model. These two traits are the options for the first character of a Myers-Briggs indicator. For 10 points, name these two personality traits that lie on opposite ends of a spectrum describing how outgoing or sociable a person is.",
+            "answer": "<b><u>extroversion</u></b> AND <b><u>introversion</u></b> [accept word forms like <b><u>extraverted</u></b> or being an <b><u>introvert</u></b>; prompt on <u>open</u> or <u>outgoing</u> or <u>sociable</u> or reasonable equivalents for “extroversion”; prompt on <u>reservedness</u> or <u>introspective</u> or being <u>quiet</u> or reasonable equivalents for “introversion”; prompt on <u>ambiversion</u>]",
+            "answer_sanitized": "extroversion AND introversion [accept word forms like extraverted or being an introvert; prompt on open or outgoing or sociable or reasonable equivalents for \"extroversion\"; prompt on reservedness or introspective or being quiet or reasonable equivalents for \"introversion\"; prompt on ambiversion]",
+            "updatedAt": "2024-06-15T16:52:24.338Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Psychology",
+            "number": 11,
+            "createdAt": "2024-06-15T16:52:24.338Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c89f7c4cfdbd6787a4",
+                "name": "20 Finals 1",
+                "number": 20
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd6787d0",
+            "question": "<b>A 2023 paper by Auten and Splinter argues that this phenomenon’s apparent shift in the US since 1960 is explained in part by declining marriage rates. That paper disputes an analysis of this phenomenon based on data from the Panama Papers by Gabriel Zucman. David Autor argues that computerization accelerated this phenomenon because skill-biased technological change has increased the education premium. A reason for an increase in this phenomenon is summarized as (*)</b> “<i>r</i> is greater than <i>g</i>” and was popularized in the book <i>Capital in the 21st Century</i> by Thomas Piketty. This phenomenon is higher in countries with a value closer to one for the Gini coefficient. For 10 points, name this phenomenon of uneven distribution of economic resources.",
+            "question_sanitized": "A 2023 paper by Auten and Splinter argues that this phenomenon's apparent shift in the US since 1960 is explained in part by declining marriage rates. That paper disputes an analysis of this phenomenon based on data from the Panama Papers by Gabriel Zucman. David Autor argues that computerization accelerated this phenomenon because skill-biased technological change has increased the education premium. A reason for an increase in this phenomenon is summarized as (*) \"r is greater than g\" and was popularized in the book Capital in the 21st Century by Thomas Piketty. This phenomenon is higher in countries with a value closer to one for the Gini coefficient. For 10 points, name this phenomenon of uneven distribution of economic resources.",
+            "answer": "income <b><u>inequality</u></b> [or wealth <b><u>inequality</u></b>; or economic <b><u>inequality</u></b>; accept economic or wealth or income <b><u>disparity</u></b>; accept economic or wealth or income <b><u>gap</u></b>; accept answers that indicate <b><u>inequality</u></b> increasing or the <b><u>gap</u></b> getting wider]",
+            "answer_sanitized": "income inequality [or wealth inequality; or economic inequality; accept economic or wealth or income disparity; accept economic or wealth or income gap; accept answers that indicate inequality increasing or the gap getting wider]",
+            "updatedAt": "2024-06-15T16:52:24.505Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Economics",
+            "number": 1,
+            "createdAt": "2024-06-15T16:52:24.505Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c89f7c4cfdbd6787cf",
+                "name": "21 Finals 2",
+                "number": 21
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd6787ff",
+            "question": "<b>This process persists through a four-domain matrix of power in an essay by Aníbal Quijano. Hybridity of thought is proposed to counter reductionism via this process in </b><i><b>The Location of Culture</b></i><b> by Homi Bhabha. People affected by this process may perform strategic essentialism as studied in Gayatri Spivak’s essay “Can the Subaltern Speak?” National culture and violence are presented as ways to fight against this process in </b><i><b>The Wretched of the Earth</b></i><b> by Frantz (*)</b> Fanon. <i>Orientalism</i> author Edward Said was a theorist in a school of thought “post-” this process, which scholars argue created a Eurocentric bias and fetishization of the Global South. For 10 points, name this process in which one nation forcibly settles and exploits another.",
+            "question_sanitized": "This process persists through a four-domain matrix of power in an essay by Anibal Quijano. Hybridity of thought is proposed to counter reductionism via this process in The Location of Culture by Homi Bhabha. People affected by this process may perform strategic essentialism as studied in Gayatri Spivak's essay \"Can the Subaltern Speak?\" National culture and violence are presented as ways to fight against this process in The Wretched of the Earth by Frantz (*) Fanon. Orientalism author Edward Said was a theorist in a school of thought \"post-\" this process, which scholars argue created a Eurocentric bias and fetishization of the Global South. For 10 points, name this process in which one nation forcibly settles and exploits another.",
+            "answer": "<b><u>colonialism</u></b> [accept <b><u>colonization</u></b> or having <b><u>colonies</u></b>; accept <b><u>decolonialism</u></b> or <b><u>postcolonialism</u></b>; accept <b><u>decolonial</u></b> or <b><u>postcolonial</u></b> studies; accept <b><u>coloniality</u></b> or the <b><u>coloniality</u></b> of power; prompt on <u>imperialism</u>; prompt on <u>racism</u> or <u>oppression</u> or <u>marginalization</u> or <u>subjugation</u>]",
+            "answer_sanitized": "colonialism [accept colonization or having colonies; accept decolonialism or postcolonialism; accept decolonial or postcolonial studies; accept coloniality or the coloniality of power; prompt on imperialism; prompt on racism or oppression or marginalization or subjugation]",
+            "updatedAt": "2024-06-15T16:52:24.673Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Sociology",
+            "number": 5,
+            "createdAt": "2024-06-15T16:52:24.673Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c89f7c4cfdbd6787fa",
+                "name": "22 Emergency",
+                "number": 22
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3dc5459312fdcc5661",
+            "question": "<b>The federal tax revenue remains around 19.5 percent of this value by Hauser’s law. The inventor of this metric, Simon Kuznets, warned against using it to measure welfare. By the “gap version” of Okun’s law, this quantity decreases two percent for every one percent increase in unemployment. This quantity’s “deflator” is calculated by dividing the (*)</b> nominal and real forms of this quantity and multiplying by 100. This value can be calculated by adding consumption, investment, government spending, and net exports. For 10 points, name this measure of the total goods and services produced by a country.",
+            "question_sanitized": "The federal tax revenue remains around 19.5 percent of this value by Hauser's law. The inventor of this metric, Simon Kuznets, warned against using it to measure welfare. By the \"gap version\" of Okun's law, this quantity decreases two percent for every one percent increase in unemployment. This quantity's \"deflator\" is calculated by dividing the (*) nominal and real forms of this quantity and multiplying by 100. This value can be calculated by adding consumption, investment, government spending, and net exports. For 10 points, name this measure of the total goods and services produced by a country.",
+            "answer": "<b><u>gross domestic product</u></b> [or <b><u>GDP</u></b>]",
+            "answer_sanitized": "gross domestic product [or GDP]",
+            "updatedAt": "2024-08-27T03:47:09.631Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Economics",
+            "number": 20,
+            "createdAt": "2024-08-27T03:47:09.631Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc564d",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc56f2",
+            "question": "<b>This trait names a “matrix” that, according to Judith Butler, “others” groups who do not have this trait.</b> <b>This trait is described as a political institution in an Adrienne Rich essay which calls it “compulsory.”Exclusively exhibiting this trait scores an individual a zero on the Kinsey scale. The pseudoscientific practice of (*)</b> conversion therapy seeks to induce this trait in people who deviate from it. Queer theory challenges the idea that this trait is the default or “normal,” known as its “normativity.” For 10 points, name this sexual orientation in which one is attracted to the opposite sex, in contrast to homosexuality.",
+            "question_sanitized": "This trait names a \"matrix\" that, according to Judith Butler, \"others\" groups who do not have this trait. This trait is described as a political institution in an Adrienne Rich essay which calls it \"compulsory.\"Exclusively exhibiting this trait scores an individual a zero on the Kinsey scale. The pseudoscientific practice of (*) conversion therapy seeks to induce this trait in people who deviate from it. Queer theory challenges the idea that this trait is the default or \"normal,\" known as its \"normativity.\" For 10 points, name this sexual orientation in which one is attracted to the opposite sex, in contrast to homosexuality.",
+            "answer": "<b><u>hetero</u></b>sexuality [or being <b><u>hetero</u></b>sexual or <b><u>straight</u></b>ness or being <b><u>straight</u></b>; accept <b><u>het</u></b> or comp<b><u>het</u></b> or compulsory <b><u>hetero</u></b>sexuality; accept “Compulsory <b><u>Hetero</u></b>sexuality and Lesbian Existence;” accept <b><u>hetero</u></b>normativity or <b><u>hetero</u></b>normative]",
+            "answer_sanitized": "heterosexuality [or being heterosexual or straightness or being straight; accept het or comphet or compulsory heterosexuality; accept \"Compulsory Heterosexuality and Lesbian Existence;\" accept heteronormativity or heteronormative]",
+            "updatedAt": "2024-08-27T03:47:10.138Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Other Social Science",
+            "number": 1,
+            "createdAt": "2024-08-27T03:47:10.138Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc56f1",
+                "name": "07",
+                "number": 7
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc5725",
+            "question": "<b>Many members of this ethnicity’s diaspora assigned male at birth identify with the Faʻafafine </b> (“fa-ah-fa-FEE-nay”)<b> third gender. One woman of this ethnicity named Fa’apua’a</b> (“fa-ah–poo-ah-ah”)<b> claimed to have deceived one anthropologist by innocently joking in a Derek Freeman book titled for her “Fateful Hoaxing.” That thinker found women of this ethnicity on the island of (*)</b> Ta’u engaged in casual premarital sex and concluded culture heavily influences psychosexual development. For 10 points, name this ethnicity studied by Margaret Mead in a book titled for “Coming of Age in [their native Pacific island country].”",
+            "question_sanitized": "Many members of this ethnicity's diaspora assigned male at birth identify with the Faʻafafine (\"fa-ah-fa-FEE-nay\") third gender. One woman of this ethnicity named Fa'apua'a (\"fa-ah-poo-ah-ah\") claimed to have deceived one anthropologist by innocently joking in a Derek Freeman book titled for her \"Fateful Hoaxing.\" That thinker found women of this ethnicity on the island of (*) Ta'u engaged in casual premarital sex and concluded culture heavily influences psychosexual development. For 10 points, name this ethnicity studied by Margaret Mead in a book titled for \"Coming of Age in [their native Pacific island country].\"",
+            "answer": "<b><u>Samoa</u></b>ns [accept American <b><u>Samoan</u></b>s; accept <b><u>Samoan</u></b>-Americans; accept<i> Coming of Age in</i> <i><b><u>Samoa</u></b></i>]",
+            "answer_sanitized": "Samoans [accept American Samoans; accept Samoan-Americans; accept Coming of Age in Samoa]",
+            "updatedAt": "2024-08-27T03:47:10.281Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Anthropology",
+            "number": 11,
+            "createdAt": "2024-08-27T03:47:10.281Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc571a",
+                "name": "08",
+                "number": 8
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc5757",
+            "question": "<b>This amendment was the central focus of</b><i><b> Kennedy v. Bremerton School District</b></i><b>, which effectively overturned a three-prong test set forth in</b><i><b> Lemon v. Kurtzman</b></i><b>. The “substantial disruption” test applies to this amendment and was first set forth in</b><i><b> Tinker v. Des Moine</b></i><b>s. Oliver Wendell Holmes wrote in (*)</b><i> Schenck v.</i> <i>US</i> that this amendment did not protect people who posed a “clear and present danger.” The Establishment Clause of this amendment creates a separation between church and state. Shouting fire in a crowded movie theater is an exception to, for 10 points, what amendment that protects freedom of speech?",
+            "question_sanitized": "This amendment was the central focus of Kennedy v. Bremerton School District, which effectively overturned a three-prong test set forth in Lemon v. Kurtzman. The \"substantial disruption\" test applies to this amendment and was first set forth in Tinker v. Des Moines. Oliver Wendell Holmes wrote in (*) Schenck v. US that this amendment did not protect people who posed a \"clear and present danger.\" The Establishment Clause of this amendment creates a separation between church and state. Shouting fire in a crowded movie theater is an exception to, for 10 points, what amendment that protects freedom of speech?",
+            "answer": "<b><u>First</u></b> Amendment [accept obvious equivalents such as Amendment <b><u>1</u></b>]",
+            "answer_sanitized": "First Amendment [accept obvious equivalents such as Amendment 1]",
+            "updatedAt": "2024-08-27T03:47:10.412Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Other Social Science",
+            "number": 20,
+            "createdAt": "2024-08-27T03:47:10.412Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc5743",
+                "name": "09",
+                "number": 9
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc5779",
+            "question": "<b>This condition’s “weak central coherence” is described in a theory by Uta Frith about the “theory of mind.” In one experiment, children with this condition failed to correctly guess where Sally would look for a marble that Anne hid. Temple Grandin was inspired by cattle chutes to create a “hug box” to help with this condition. This condition was linked to enterocolitis in a fraudulent study by (*)</b> Andrew Wakefield. It’s not ADHD, but people with this condition perform repetitive movements called stimming. The DSM-5 removed a diagnosis for a “high functioning” form of this condition named after Hans Asperger. For 10 points, delayed learning and impaired social skills are symptoms of what “spectrum” disorder?",
+            "question_sanitized": "This condition's \"weak central coherence\" is described in a theory by Uta Frith about the \"theory of mind.\" In one experiment, children with this condition failed to correctly guess where Sally would look for a marble that Anne hid. Temple Grandin was inspired by cattle chutes to create a \"hug box\" to help with this condition. This condition was linked to enterocolitis in a fraudulent study by (*) Andrew Wakefield. It's not ADHD, but people with this condition perform repetitive movements called stimming. The DSM-5 removed a diagnosis for a \"high functioning\" form of this condition named after Hans Asperger. For 10 points, delayed learning and impaired social skills are symptoms of what \"spectrum\" disorder?",
+            "answer": "<b><u>autism</u></b> [accept <b><u>autism</u></b> spectrum disorder or <b><u>ASD</u></b>; accept <b><u>Asperger’s</u></b> syndrome before mention; prompt on <u>overstimulation</u>]",
+            "answer_sanitized": "autism [accept autism spectrum disorder or ASD; accept Asperger's syndrome before mention; prompt on overstimulation]",
+            "updatedAt": "2024-08-27T03:47:10.537Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Psychology",
+            "number": 13,
+            "createdAt": "2024-08-27T03:47:10.537Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc576c",
+                "name": "10",
+                "number": 10
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc57a4",
+            "question": "<b>A “friendship that shaped modern thought” between this economist and a fellow countryman is described in Dennis Rasmussen’s</b><i><b> The Infidel and the Professor</b></i><b>. Karl Marx expanded upon this man’s labor theory of value, which he introduced in the first book of a work that discusses the analogy of a (*)</b> pin factory. This thinker argued that individuals acting in self-interest help society as a whole in<i> The Theory of Moral Sentiments</i>. Laissez-faire economics is justified by this thinker’s metaphor of the invisible hand. For 10 points, name this Scottish economist who wrote<i> The Wealth of Nations</i>.",
+            "question_sanitized": "A \"friendship that shaped modern thought\" between this economist and a fellow countryman is described in Dennis Rasmussen's The Infidel and the Professor. Karl Marx expanded upon this man's labor theory of value, which he introduced in the first book of a work that discusses the analogy of a (*) pin factory. This thinker argued that individuals acting in self-interest help society as a whole in The Theory of Moral Sentiments. Laissez-faire economics is justified by this thinker's metaphor of the invisible hand. For 10 points, name this Scottish economist who wrote The Wealth of Nations.",
+            "answer": "Adam <b><u>Smith</u> </b>",
+            "answer_sanitized": "Adam Smith",
+            "updatedAt": "2024-08-27T03:47:10.694Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Sociology",
+            "number": 15,
+            "createdAt": "2024-08-27T03:47:10.694Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc5795",
+                "name": "11",
+                "number": 11
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3fc5459312fdcc5815",
+            "question": "<b>This process occurs based on how a person interacts with a group relative to artifacts in Kenneth Gergen’s social constructionism approach. This process occurred</b> (emphasize)<b> first in a study using nonsense syllables by Hermann Ebbinghaus. This process occurs in the zone of proximal development in a model by Lev Vygotsky. Edward Thorndike’s law of effect influenced a theory of this process tested with (*)</b> rats in the Skinner Box. A type of this process was exemplified by a ringing bell causing dogs to salivate in an experiment by Ivan Pavlov. Conditioning is a form of, for 10 points, what process in which experience causes new behavior?",
+            "question_sanitized": "This process occurs based on how a person interacts with a group relative to artifacts in Kenneth Gergen's social constructionism approach. This process occurred (emphasize) first in a study using nonsense syllables by Hermann Ebbinghaus. This process occurs in the zone of proximal development in a model by Lev Vygotsky. Edward Thorndike's law of effect influenced a theory of this process tested with (*) rats in the Skinner Box. A type of this process was exemplified by a ringing bell causing dogs to salivate in an experiment by Ivan Pavlov. Conditioning is a form of, for 10 points, what process in which experience causes new behavior?",
+            "answer": "<b><u>learn</u></b>ing [prompt on <u>conditioning</u> or classical <u>condition</u>ing or operant <u>condition</u>ing before mention with“What broader process is it part of?”; prompt on <u>teach</u>ing or <u>education</u>]",
+            "answer_sanitized": "learning [prompt on conditioning or classical conditioning or operant conditioning before mention with\"What broader process is it part of?\"; prompt on teaching or education]",
+            "updatedAt": "2024-08-27T03:47:11.123Z",
+            "category": "Social Science",
+            "subcategory": "Social Science",
+            "alternate_subcategory": "Psychology",
+            "number": 5,
+            "createdAt": "2024-08-27T03:47:11.123Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3fc5459312fdcc5810",
+                "name": "14",
+                "number": 14
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        }
+    ],
+    "bonuses": []
+}

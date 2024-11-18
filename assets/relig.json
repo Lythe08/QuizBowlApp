@@ -1,0 +1,605 @@
+{
+    "tossups": [
+        {
+            "_id": "666dc6c59f7c4cfdbd67847b",
+            "question": "<b></b><i><b>Note to moderator: read answerline carefully. Note to players: </b><b>Description </b><b>a</b><b>cceptable</b></i><b>. Like the acolyte, this action’s performer was dubbed a ministry instead of a minor order by the apostolic letter </b><i><b>Ministeria </b><b>Quaedam</b></i> (“KWAY-dohm”) <b>after Vatican II. Years A, B, and C refer to Matthew, Mark, and Luke during this action’s three-year cycle. The Responsorial Psalm is sung between two instances of this action. During the Catholic Liturgy of the Word, a congregant performs this action after bowing before the altar and approaching the </b><i><b>ambo</b></i><b>, a type of elevated (*)</b> pulpit. An Evangeliary is used for this action. It’s not the end of mass, but Catholics reply “Thanks be to God” after two instances of these actions, three of which precede the homily. For 10 points, name this action performed during mass by lectors and a priest using the Book of the Gospels.",
+            "question_sanitized": "Note to moderator: read answerline carefully. Note to players: Description acceptable. Like the acolyte, this action's performer was dubbed a ministry instead of a minor order by the apostolic letter Ministeria Quaedam (\"KWAY-dohm\") after Vatican II. Years A, B, and C refer to Matthew, Mark, and Luke during this action's three-year cycle. The Responsorial Psalm is sung between two instances of this action. During the Catholic Liturgy of the Word, a congregant performs this action after bowing before the altar and approaching the ambo, a type of elevated (*) pulpit. An Evangeliary is used for this action. It's not the end of mass, but Catholics reply \"Thanks be to God\" after two instances of these actions, three of which precede the homily. For 10 points, name this action performed during mass by lectors and a priest using the Book of the Gospels.",
+            "answer": "<b><u>read</u></b>ing the Bible aloud [accept <b><u>read</u></b>ing Biblical scripture; accept <b><u>read</u></b>ing passages from the Old Testament or New Testament or the Gospels or the Epistles or the Apocrypha or the deuterocanonical books or specific biblical books; accept <b><u>read</u></b>ing passages from the Evangeliary or Lectionary; accept <b><u>select</u></b>ing passages from the Evangeliary or Lectionary; accept answers about <b><u>read</u></b>ing the Word of God; prompt on <u>speaking</u> or <u>talking</u> or <u>reciting</u>; reject “giving a sermon” or “preaching”]",
+            "answer_sanitized": "reading the Bible aloud [accept reading Biblical scripture; accept reading passages from the Old Testament or New Testament or the Gospels or the Epistles or the Apocrypha or the deuterocanonical books or specific biblical books; accept reading passages from the Evangeliary or Lectionary; accept selecting passages from the Evangeliary or Lectionary; accept answers about reading the Word of God; prompt on speaking or talking or reciting; reject \"giving a sermon\" or \"preaching\"]",
+            "updatedAt": "2024-06-15T16:52:21.090Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 8,
+            "createdAt": "2024-06-15T16:52:21.090Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd678473",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784ac",
+            "question": "<b>This type of event allows the “Pandas”</b> (“PAHN-dhuhs”) <b>to update the </b><i><b>vahis</b></i> (“VAH-hees”)<b>, the world’s largest collection of family trees. The twelve</b> <i><b>jyotirlinga</b></i> (“jyoh-TEER-lin-gah”)<b> act as centers for this activity, a designation shared by Badrinath, Dwarka, and the other two Char Dham designated for this activity by Adi Shankara. The revolution of Jupiter every twelve years coincides with four of these events. Legendarily, some of these events occur at the places where the devas and demons spilled the (*)</b> amrita elixir. Tirthas are centers for these events known as yatra. During one of these events called the Kumbh Mela, visitors enter sacred waters for purification. For 10 points, name these religious events during which people travel to sacred sites like the Ganges.",
+            "question_sanitized": "This type of event allows the \"Pandas\" (\"PAHN-dhuhs\") to update the vahis (\"VAH-hees\"), the world's largest collection of family trees. The twelve jyotirlinga (\"jyoh-TEER-lin-gah\") act as centers for this activity, a designation shared by Badrinath, Dwarka, and the other two Char Dham designated for this activity by Adi Shankara. The revolution of Jupiter every twelve years coincides with four of these events. Legendarily, some of these events occur at the places where the devas and demons spilled the (*) amrita elixir. Tirthas are centers for these events known as yatra. During one of these events called the Kumbh Mela, visitors enter sacred waters for purification. For 10 points, name these religious events during which people travel to sacred sites like the Ganges.",
+            "answer": "<b><u>pilgrimage</u></b>s [accept <i><b><u>yatra</u></b></i> until read; prompt on <u>Kumbh Mela</u> until read; prompt on general descriptions such as <u>procession</u>s or long <u>walk</u>s or <u>religious travel</u>; prompt on <u>festival</u> or <u>celebration</u>]",
+            "answer_sanitized": "pilgrimages [accept yatra until read; prompt on Kumbh Mela until read; prompt on general descriptions such as processions or long walks or religious travel; prompt on festival or celebration]",
+            "updatedAt": "2024-06-15T16:52:21.339Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 14,
+            "createdAt": "2024-06-15T16:52:21.339Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67849e",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784d7",
+            "question": "<b>In a Goan celebration of this type, a copper pot and a green or saffron brocade are erected on bamboo poles and decorated with sugar crystals and mango leaves. Super-soakers are used during various mid-April “water festivals” coinciding with this type of celebration, as exemplified by the national Thai holiday of Songkran. </b><i><b>Samanu</b></i><b> is one of seven foods placed on </b><i><b>haft-sin</b></i><b> tables during this type of celebration, which begins following</b> (*) Chahārshanbe Suri (“chah-har-SHAN-bay soo-REE”) and its bonfire jumping tradition. Nowruz is this type of celebration. During one of these celebrations, children receive red envelopes of cash. For 10 points, name these celebrations where Chinese dragon dances mark the start of the next zodiac year.",
+            "question_sanitized": "In a Goan celebration of this type, a copper pot and a green or saffron brocade are erected on bamboo poles and decorated with sugar crystals and mango leaves. Super-soakers are used during various mid-April \"water festivals\" coinciding with this type of celebration, as exemplified by the national Thai holiday of Songkran. Samanu is one of seven foods placed on haft-sin tables during this type of celebration, which begins following (*) Chaharshanbe Suri (\"chah-har-SHAN-bay soo-REE\") and its bonfire jumping tradition. Nowruz is this type of celebration. During one of these celebrations, children receive red envelopes of cash. For 10 points, name these celebrations where Chinese dragon dances mark the start of the next zodiac year.",
+            "answer": "<b><u>New Year</u></b>’s Day [accept Solar <b><u>New Year</u></b>s; accept Chinese <b><u>New Year</u></b> or Lunar <b><u>New Year</u></b>; prompt on <u>Spring</u> festivals; prompt on <u>Gudi Padwa</u>; prompt on <u>Nowruz</u> or <u>Navroz</u> until read; prompt on <u>harvest</u> festival by asking “what other celebration coincides with it?”; prompt on the <u>start</u> of a new monsoon or rainy <u>season</u>; prompt on the <u>end</u> of the dry <u>season</u>] (The first line is Gudi Padwa.)",
+            "answer_sanitized": "New Year's Day [accept Solar New Years; accept Chinese New Year or Lunar New Year; prompt on Spring festivals; prompt on Gudi Padwa; prompt on Nowruz or Navroz until read; prompt on harvest festival by asking \"what other celebration coincides with it?\"; prompt on the start of a new monsoon or rainy season; prompt on the end of the dry season] (The first line is Gudi Padwa.)",
+            "updatedAt": "2024-06-15T16:52:21.513Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 14,
+            "createdAt": "2024-06-15T16:52:21.513Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784c9",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784f7",
+            "question": "<b>A black string belt worn by members of this faith symbolically separates the heart from the genitals during prayer. Robes worn by dancing maidens may have inspired this faith’s men to wear pocketless white robes that double as burial shrouds. White garments with black or dark blue stripes worn by members of this faith have knotted fringes on their four corners and are prohibited from being a blend of (*)</b> wool and linen. Sable, marten, and fox tails can be used to create the cylindrical fur hats worn by a sect of this faith, whose men often wear black suits and have sidelocks. Adherents of this faith may obey head-covering mandates by wearing sheitel (“shy-tell”) wigs or brimless caps. For 10 points, name this faith whose men wear kippot, or yarmulkes (“YAH-mah-kahs”).",
+            "question_sanitized": "A black string belt worn by members of this faith symbolically separates the heart from the genitals during prayer. Robes worn by dancing maidens may have inspired this faith's men to wear pocketless white robes that double as burial shrouds. White garments with black or dark blue stripes worn by members of this faith have knotted fringes on their four corners and are prohibited from being a blend of (*) wool and linen. Sable, marten, and fox tails can be used to create the cylindrical fur hats worn by a sect of this faith, whose men often wear black suits and have sidelocks. Adherents of this faith may obey head-covering mandates by wearing sheitel (\"shy-tell\") wigs or brimless caps. For 10 points, name this faith whose men wear kippot, or yarmulkes (\"YAH-mah-kahs\").",
+            "answer": "<b><u>Judaism</u></b> [accept <b><u>Jew</u></b>s or <b><u>Jewish</u></b> people; accept the <b><u>Jewish</u></b> faith; accept Orthodox <b><u>Judaism</u></b> or Conservative <b><u>Judaism</u></b> or Reform <b><u>Judaism</u></b>; accept <b><u>Hasidism</u></b> or <b><u>Chassidism</u></b> (“HAH-sid-ism”) or <b><u>Hasidic</u></b> Judaism or <b><u>Chassidic</u></b> Judaism; accept <b><u>Ashkenazi</u></b> Jews; prompt on <u>Orthodox</u> or <u>Conservative</u> or <u>Reform</u>] (The unnamed clues are, in order, the <i>gartel</i>, the<i> kittel</i>, the <i>tallit</i>, and the <i>shtreimel</i>.)",
+            "answer_sanitized": "Judaism [accept Jews or Jewish people; accept the Jewish faith; accept Orthodox Judaism or Conservative Judaism or Reform Judaism; accept Hasidism or Chassidism (\"HAH-sid-ism\") or Hasidic Judaism or Chassidic Judaism; accept Ashkenazi Jews; prompt on Orthodox or Conservative or Reform] (The unnamed clues are, in order, the gartel, the kittel, the tallit, and the shtreimel.)",
+            "updatedAt": "2024-06-15T16:52:21.687Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 3,
+            "createdAt": "2024-06-15T16:52:21.687Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784f4",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd67852d",
+            "question": "<b>The first of twelve “caveats” in the appendix of a collection of these works likens following rules and protecting regulations to binding oneself without rope. In one of these texts, a man slaps his teacher after they conduct a fox’s funeral. Rinzai practitioners of </b><i><b>zazen </b></i><b>study these texts, which suppress dualist thinking. Joshu </b>(“JOH-shu”)<b> gave the answer “mu,” or “nothing,” when asked about a dog’s</b> (*) nature in one of these texts. Línjì wrote one of these texts that advises killing a certain man if you meet him on the road. The Blue Cliff Record and The Gateless Gate collect these sayings, one of which asks about the sound of one hand clapping. For 10 points, Zen Buddhists meditate on what paradoxical sayings?",
+            "question_sanitized": "The first of twelve \"caveats\" in the appendix of a collection of these works likens following rules and protecting regulations to binding oneself without rope. In one of these texts, a man slaps his teacher after they conduct a fox's funeral. Rinzai practitioners of zazen study these texts, which suppress dualist thinking. Joshu (\"JOH-shu\") gave the answer \"mu,\" or \"nothing,\" when asked about a dog's (*) nature in one of these texts. Linji wrote one of these texts that advises killing a certain man if you meet him on the road. The Blue Cliff Record and The Gateless Gate collect these sayings, one of which asks about the sound of one hand clapping. For 10 points, Zen Buddhists meditate on what paradoxical sayings?",
+            "answer": "<b><u>koan</u></b>s [or <b><u>gōng’àn</u></b>; prompt on the <u>Blue Cliff Record</u> and <u>Gateless Gate</u> prior to mention; prompt on <u>Buddhist text</u>s]",
+            "answer_sanitized": "koans [or gong'an; prompt on the Blue Cliff Record and Gateless Gate prior to mention; prompt on Buddhist texts]",
+            "updatedAt": "2024-06-15T16:52:21.853Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 14,
+            "createdAt": "2024-06-15T16:52:21.853Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67851f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd67855a",
+            "question": "<b>In the Serer faith, saltigues</b> (“saul-tee-gways”) <b>step into a circle to publicly engage in this activity in the Xooy </b>(“hoy”) <b>ceremony. </b><i><b>Opele</b></i><b> chains can be used to perform this activity quickly. During this activity, ivory or wood tappers are tapped on an </b><i><b>opon </b></i><b>tray to draw the attention of Eshu who acts as a mediator. Babalawos dub palm nuts “open” or “closed” when performing this activity’s “</b><i><b>Ifá</b></i><b>” form for their clients. Various African diaspora faiths accomplish this activity by tossing</b> (*) cowrie shells and interpreting their landing positions. Roman augurs observed bird omens and examined animal entrails to practice this activity. For 10 points, what activity involved men communing with the gods to predict events to come?",
+            "question_sanitized": "In the Serer faith, saltigues (\"saul-tee-gways\") step into a circle to publicly engage in this activity in the Xooy (\"hoy\") ceremony. Opele chains can be used to perform this activity quickly. During this activity, ivory or wood tappers are tapped on an opon tray to draw the attention of Eshu who acts as a mediator. Babalawos dub palm nuts \"open\" or \"closed\" when performing this activity's \"Ifa\" form for their clients. Various African diaspora faiths accomplish this activity by tossing (*) cowrie shells and interpreting their landing positions. Roman augurs observed bird omens and examined animal entrails to practice this activity. For 10 points, what activity involved men communing with the gods to predict events to come?",
+            "answer": "<b><u>divination</u></b> [or <b><u>predicting the future</u></b>; or <b><u>fortune-telling</u></b> or <b><u>prophesying</u></b> or similar; accept <b><u>sortition</u></b> or <b><u>casting lot</u></b>s; accept <b><u>molybdomancy</u></b> or <b><u>favomancy</u></b> or <b><u>astragalomancy</u></b>; accept <b><u>haruspicy</u></b>; accept <u>augury</u> until “augur” is read; accept answers of <b><u>learn</u></b>ing the <b><u>unknown</u></b>; accept <b><u>If</u><u>á</u></b> prior to mention; prompt on seeking <u>heal</u>ing or <u>seeking</u> spiritual <u>guidance</u> or <u>communing</u> with the <u>god</u>s by asking “through what means?”]",
+            "answer_sanitized": "divination [or predicting the future; or fortune-telling or prophesying or similar; accept sortition or casting lots; accept molybdomancy or favomancy or astragalomancy; accept haruspicy; accept augury until \"augur\" is read; accept answers of learning the unknown; accept Ifa prior to mention; prompt on seeking healing or seeking spiritual guidance or communing with the gods by asking \"through what means?\"]",
+            "updatedAt": "2024-06-15T16:52:22.020Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 16,
+            "createdAt": "2024-06-15T16:52:22.020Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67854a",
+                "name": "06",
+                "number": 6
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd678585",
+            "question": "<b></b><i><b>Description </b><b>a</b><b>cceptable.</b></i><b> During this event, a figure who conquers and rules over Syria for nine months is swallowed up by the desert of Bayda. During this event, a worm eats at the napes of two figures who dig past a wall strengthened by iron and molten lead. Moses’s rod and Solomon’s seal are possessed by a figure who emerges from the hill of Safa during this event to destroy the noses of (*)</b> nonbelievers. A saffron-robed figure descends on Damascus during this event, which is portended by the release of Yajuj, Majuj, and the Beast of the Earth. During this event, Jesus aids the Mahdi against the Dajjal, the deceitful Messiah. For 10 points, Islamic eschatology is the study of what time when the dead shall be resurrected and every person judged?",
+            "question_sanitized": "Description acceptable. During this event, a figure who conquers and rules over Syria for nine months is swallowed up by the desert of Bayda. During this event, a worm eats at the napes of two figures who dig past a wall strengthened by iron and molten lead. Moses's rod and Solomon's seal are possessed by a figure who emerges from the hill of Safa during this event to destroy the noses of (*) nonbelievers. A saffron-robed figure descends on Damascus during this event, which is portended by the release of Yajuj, Majuj, and the Beast of the Earth. During this event, Jesus aids the Mahdi against the Dajjal, the deceitful Messiah. For 10 points, Islamic eschatology is the study of what time when the dead shall be resurrected and every person judged?",
+            "answer": "the <b><u>end times</u></b> [or the <b><u>end of days</u></b> or the <b><u>apocalypse</u></b> or <b><u>armageddon</u></b> or the <b><u>end of the world</u></b> or <b><u>universe</u></b>; or <b><u>Akhir al-Zamān</u></b>; accept <b><u>Judgme</u><u>nt Day</u></b> or <b><u>Resurrection Day</u></b> or the <b><u>Last Judgement</u></b> or the <b><u>Last Day</u></b>; prompt on the <u>coming</u> of the <u>Mahdi</u> and the <u>coming</u> of the <u>twelfth imam</u> or the <u>coming of Jesus</u>; prompt on the <u>Rapture</u>] (The first line refers to the Sufyani)",
+            "answer_sanitized": "the end times [or the end of days or the apocalypse or armageddon or the end of the world or universe; or Akhir al-Zaman; accept Judgment Day or Resurrection Day or the Last Judgement or the Last Day; prompt on the coming of the Mahdi and the coming of the twelfth imam or the coming of Jesus; prompt on the Rapture] (The first line refers to the Sufyani)",
+            "updatedAt": "2024-06-15T16:52:22.189Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 16,
+            "createdAt": "2024-06-15T16:52:22.189Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd678575",
+                "name": "07",
+                "number": 7
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd6785a7",
+            "question": "<b>A practice in these places was inspired by a leader’s decision to engage in “true business” by feeding and clothing naked holy men with his father’s money. Water is forbidden from being placed beneath a cot in these locations on which an object is covered by </b><i><b>rumalla</b></i><b> garments. Worshippers sit cross-legged in the </b><i><b>diwan</b></i><b> hall of these locations where a </b><i><b>sewadar</b></i><b> serves a wheat (*)</b> pudding to cupped hands. Saffron-colored flags emblazoned with the <i>khanda</i> are commonly erected outside these locations, which contain a “living teacher” in the form of a sacred text held in a <i>takht</i> throne. Community kitchens called <i>langars</i> are located within, for 10 points, what places of worship which venerate the <i>Adi Granth</i> and are exemplified by Amritsar’s Golden Temple?",
+            "question_sanitized": "A practice in these places was inspired by a leader's decision to engage in \"true business\" by feeding and clothing naked holy men with his father's money. Water is forbidden from being placed beneath a cot in these locations on which an object is covered by rumalla garments. Worshippers sit cross-legged in the diwan hall of these locations where a sewadar serves a wheat (*) pudding to cupped hands. Saffron-colored flags emblazoned with the khanda are commonly erected outside these locations, which contain a \"living teacher\" in the form of a sacred text held in a takht throne. Community kitchens called langars are located within, for 10 points, what places of worship which venerate the Adi Granth and are exemplified by Amritsar's Golden Temple?",
+            "answer": "<b><u>gurdwara</u></b>s [or <b><u>gurudwara</u></b>s; accept <b><u>Sikh temple</u></b>s; prompt on <u>langar</u>s or <u>kitchen</u>s before “langar” is read by asking “of what larger locations?”; prompt on <u>temple</u>s by asking “of what faith?”]",
+            "answer_sanitized": "gurdwaras [or gurudwaras; accept Sikh temples; prompt on langars or kitchens before \"langar\" is read by asking \"of what larger locations?\"; prompt on temples by asking \"of what faith?\"]",
+            "updatedAt": "2024-06-15T16:52:22.353Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 7,
+            "createdAt": "2024-06-15T16:52:22.353Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd6785a0",
+                "name": "08",
+                "number": 8
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd6785d1",
+            "question": "<b>This commander broke the last of 31 kings by destroying a northern alliance at the Waters of Merom. The Hivites of Gibeon</b> (“hih-VYTES of GIB-ee-uhn”) <b>used worn sandals to trick this commander out of fear over his tendency to put every living thing to the sword upon conquering them. A planned retreat by this commander lured Bethelite forces from their defensive positions, allowing his reserves to burn (*)</b> Ai (“AY-ee”). The documentary <i>Battles BC</i> postulated that this commander used a red cord hanging from a brothel’s window to infiltrate a besieged city while his men marched around it for seven days; shofar blows then signaled those infiltrators to bring down Jericho’s walls. For 10 points, the Israelite invasion of Canaan was led by what successor of Moses?",
+            "question_sanitized": "This commander broke the last of 31 kings by destroying a northern alliance at the Waters of Merom. The Hivites of Gibeon (\"hih-VYTES of GIB-ee-uhn\") used worn sandals to trick this commander out of fear over his tendency to put every living thing to the sword upon conquering them. A planned retreat by this commander lured Bethelite forces from their defensive positions, allowing his reserves to burn (*) Ai (\"AY-ee\"). The documentary Battles BC postulated that this commander used a red cord hanging from a brothel's window to infiltrate a besieged city while his men marched around it for seven days; shofar blows then signaled those infiltrators to bring down Jericho's walls. For 10 points, the Israelite invasion of Canaan was led by what successor of Moses?",
+            "answer": "<b><u>Joshua</u></b>",
+            "answer_sanitized": "Joshua",
+            "updatedAt": "2024-06-15T16:52:22.518Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 6,
+            "createdAt": "2024-06-15T16:52:22.518Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd6785cb",
+                "name": "09",
+                "number": 9
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd6785fb",
+            "question": "<b>During the creation of this substance, the twice-chanted invocation “We beg you to hear us” interrupts the Litany of the Saints on Epiphany’s Eve. Unlike the “greater” blessing that takes place on Theophany, Mary is heavily invoked during this substance’s “lesser” blessing in Orthodox churches. In modern times, an aspergillum </b>(“as-PER-jill-uhm”) <b>delivers this substance instead of a hyssop </b>(“HISS-up”) <b>branch. Exorcized salt is added in a (*)</b> cross pattern when creating this substance, which wards off misfortune when spread during automobile and house blessings. Newly arrived congregants make the sign of the cross with this substance taken from stoups (“stoops”) located at the entrance. For 10 points, babies are immersed in what sacred substance during baptism?",
+            "question_sanitized": "During the creation of this substance, the twice-chanted invocation \"We beg you to hear us\" interrupts the Litany of the Saints on Epiphany's Eve. Unlike the \"greater\" blessing that takes place on Theophany, Mary is heavily invoked during this substance's \"lesser\" blessing in Orthodox churches. In modern times, an aspergillum (\"as-PER-jill-uhm\") delivers this substance instead of a hyssop (\"HISS-up\") branch. Exorcized salt is added in a (*) cross pattern when creating this substance, which wards off misfortune when spread during automobile and house blessings. Newly arrived congregants make the sign of the cross with this substance taken from stoups (\"stoops\") located at the entrance. For 10 points, babies are immersed in what sacred substance during baptism?",
+            "answer": "<b><u>holy water</u></b> [or <b><u>lustral water</u></b>, or <b><u>sanctified water</u></b>, or <b><u>blessed water</u></b>, or <b><u>consecrated water</u></b>; accept <b><u>exorcised water</u></b> until “exorcised” is read, but prompt afterwards; accept <b><u>baptismal water</u></b> before “baptism” is read, but prompt afterwards; prompt on <u>water</u>]",
+            "answer_sanitized": "holy water [or lustral water, or sanctified water, or blessed water, or consecrated water; accept exorcised water until \"exorcised\" is read, but prompt afterwards; accept baptismal water before \"baptism\" is read, but prompt afterwards; prompt on water]",
+            "updatedAt": "2024-06-15T16:52:22.680Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 5,
+            "createdAt": "2024-06-15T16:52:22.680Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd6785f6",
+                "name": "10",
+                "number": 10
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd678626",
+            "question": "<b>Count Agénor de Gasparin theorized an “ectenic force” powered by the will of this profession’s non-native practitioners, who sometimes employed Native American “guides.” Direct voice practitioners of this profession used cardboard and metal trumpets to amplify communications. Practitioners of this profession like Helen Duncan regurgitated cheesecloth to feign a certain substance’s excretion during events that could feature (*)</b> slate-writing or table-turning. Members of this profession like the Fox sisters could request “rappings” while in a trance, while others would secrete ectoplasm. For 10 points, Harry Houdini unveiled the hoaxes of what profession central to spiritualism, whose practitioners perform séances?",
+            "question_sanitized": "Count Agenor de Gasparin theorized an \"ectenic force\" powered by the will of this profession's non-native practitioners, who sometimes employed Native American \"guides.\" Direct voice practitioners of this profession used cardboard and metal trumpets to amplify communications. Practitioners of this profession like Helen Duncan regurgitated cheesecloth to feign a certain substance's excretion during events that could feature (*) slate-writing or table-turning. Members of this profession like the Fox sisters could request \"rappings\" while in a trance, while others would secrete ectoplasm. For 10 points, Harry Houdini unveiled the hoaxes of what profession central to spiritualism, whose practitioners perform seances?",
+            "answer": "<b><u>medium</u></b>s [or <b><u>channeler</u></b>s; prompt on <u>psychic</u>s or <u>telepath</u>s or <u>clairvoyant</u>s; prompt on people who <u>communicate</u> with <u>ghost</u>s, the <u>afterlife</u>, or the <u>dead</u>; prompt on <u>spiritualist</u>s; reject “ghostbusters” or “ghost hunters”] (The ectenic force supposedly explained a medium’s telekinesis.)",
+            "answer_sanitized": "mediums [or channelers; prompt on psychics or telepaths or clairvoyants; prompt on people who communicate with ghosts, the afterlife, or the dead; prompt on spiritualists; reject \"ghostbusters\" or \"ghost hunters\"] (The ectenic force supposedly explained a medium's telekinesis.)",
+            "updatedAt": "2024-06-15T16:52:22.846Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 5,
+            "createdAt": "2024-06-15T16:52:22.846Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd678621",
+                "name": "11",
+                "number": 11
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd67865a",
+            "question": "<b>In a stela, King Mesha boasts of presenting this deity’s altars to Chemosh </b>(“kuh-MOSH”)<b> after reconquering territory lost to King Omri. Both the Amarah West and Soleb inscriptions mention this potential deity of the nomadic “Shasu,” who is central to the Kenite hypothesis. William G. Denver popularized the theory that Asherah was the consort of this deity, who gained the epithet “Shaddai” following syncretization with El. A taboo on speaking this deity’s</b> (*) name resulted in its substitution with the words “Adonai” and “Elohim.” The Tetragrammaton’s four letters represent this “jealous” deity, whose Levantine cult gradually supplanted Ba’al’s. For 10 points, a commandment forbids taking “in vain” the name of what Israelite deity?",
+            "question_sanitized": "In a stela, King Mesha boasts of presenting this deity's altars to Chemosh (\"kuh-MOSH\") after reconquering territory lost to King Omri. Both the Amarah West and Soleb inscriptions mention this potential deity of the nomadic \"Shasu,\" who is central to the Kenite hypothesis. William G. Denver popularized the theory that Asherah was the consort of this deity, who gained the epithet \"Shaddai\" following syncretization with El. A taboo on speaking this deity's (*) name resulted in its substitution with the words \"Adonai\" and \"Elohim.\" The Tetragrammaton's four letters represent this \"jealous\" deity, whose Levantine cult gradually supplanted Ba'al's. For 10 points, a commandment forbids taking \"in vain\" the name of what Israelite deity?",
+            "answer": "<b><u>Yahweh</u></b> [or <b><u>Yehowah</u></b>; or <b><u>Jehovah</u></b>; or <b><u>YHWH</u></b>; accept <b><u>yod hay vav hay</u></b>; accept <b><u>Adonai</u></b> and <b><u>Elohim</u></b> until mention; accept the Judeo-Christian or Abrahamic <b><u>God</u></b>; accept the <b><u>Lord</u></b>; accept <i>Did</i> <i><b><u>God</u></b> Have a Wife?: Archaeology and Folk Religion in Ancient Israel</i>]",
+            "answer_sanitized": "Yahweh [or Yehowah; or Jehovah; or YHWH; accept yod hay vav hay; accept Adonai and Elohim until mention; accept the Judeo-Christian or Abrahamic God; accept the Lord; accept Did God Have a Wife?: Archaeology and Folk Religion in Ancient Israel]",
+            "updatedAt": "2024-06-15T16:52:23.010Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 14,
+            "createdAt": "2024-06-15T16:52:23.010Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd67864c",
+                "name": "12",
+                "number": 12
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd678686",
+            "question": "<b>“Court” examples of these people in Thailand maintain Devasathan’s Giant Swing and sow rice during the Ploughing Ceremony as part of their duties to the Chakri Dynasty. The Vindhya mountains divide these people into their Pauncha Gauda and Dravida branches. The acceptance of gifts is a unique duty prescribed to these people, who are the foremost members of the </b><i><b>dvija</b></i><b>, or “twice-born” to go through the </b><i><b>Upanayana </b></i><b>ceremony and receive the</b> (*) <i>yajñopavita</i> (“YUG-nyo-puh-VEE-tuh”) thread. Outside of <i>moksha</i>, reincarnating as one of these people who make up the highest <i>varna</i> is the best reward for individuals with good karma. For 10 points, the Kshatriyas and Vaishyas sit under what priestly caste which tops the Hindu caste system?",
+            "question_sanitized": "\"Court\" examples of these people in Thailand maintain Devasathan's Giant Swing and sow rice during the Ploughing Ceremony as part of their duties to the Chakri Dynasty. The Vindhya mountains divide these people into their Pauncha Gauda and Dravida branches. The acceptance of gifts is a unique duty prescribed to these people, who are the foremost members of the dvija, or \"twice-born\" to go through the Upanayana ceremony and receive the (*) yajnopavita (\"YUG-nyo-puh-VEE-tuh\") thread. Outside of moksha, reincarnating as one of these people who make up the highest varna is the best reward for individuals with good karma. For 10 points, the Kshatriyas and Vaishyas sit under what priestly caste which tops the Hindu caste system?",
+            "answer": "<b><u>brahmin</u></b>s [or <b><u>brahman</u></b>s; accept Court <b><u>Brahmin</u></b>s or Royal <b><u>Brahmin</u></b>s; prompt on Hindu <u>priest</u>s prior before the word “priestly” is said; prompt on <i><u>pujari</u></i>, and <i><u>purohita</u></i>; prompt on <u>Hindu</u>s before the word “Hindu” is read; reject Brahma]",
+            "answer_sanitized": "brahmins [or brahmans; accept Court Brahmins or Royal Brahmins; prompt on Hindu priests prior before the word \"priestly\" is said; prompt on pujari, and purohita; prompt on Hindus before the word \"Hindu\" is read; reject Brahma]",
+            "updatedAt": "2024-06-15T16:52:23.168Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 15,
+            "createdAt": "2024-06-15T16:52:23.168Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd678677",
+                "name": "13",
+                "number": 13
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd6786a4",
+            "question": "<b>A 19th-century “literary” tradition named for these objects conveyed difficult ideas through satirical verse and drawings and was popularized by José Posada. During Toluca’s </b><i><b>alfeñique</b></i> (“all-fen-YEE-kay”) <b>fairs, artists primarily sculpt these objects which are inscribed with the names of loved ones. Porfirio Diaz was satirized in a zinc etching depicting one of these objects with a feathered hat, which later inspired black and white costumes embodying La (*)</b> Catrina. These objects are decorated with colored foil, feathers, and icing when placed throughout the three tiers of an <i>ofrenda’s</i> home altar. For 10 points, calaveras are sugary representations of what objects used as symbols on the Day of the Dead?",
+            "question_sanitized": "A 19th-century \"literary\" tradition named for these objects conveyed difficult ideas through satirical verse and drawings and was popularized by Jose Posada. During Toluca's alfenique (\"all-fen-YEE-kay\") fairs, artists primarily sculpt these objects which are inscribed with the names of loved ones. Porfirio Diaz was satirized in a zinc etching depicting one of these objects with a feathered hat, which later inspired black and white costumes embodying La (*) Catrina. These objects are decorated with colored foil, feathers, and icing when placed throughout the three tiers of an ofrenda's home altar. For 10 points, calaveras are sugary representations of what objects used as symbols on the Day of the Dead?",
+            "answer": "<b><u>skull</u></b>s [accept <b><u>calavera</u></b>s before mention; accept <b><u>skeleton</u></b>s; accept literary <b><u>calavera</u></b>s or <b><u>skull</u></b> literature or <b><u>calaverita</u></b>s; accept La <b><u>Calavera</u></b> Catrina; prompt on <u>candy</u>; prompt on <u>head</u>s or <u>bone</u>s]",
+            "answer_sanitized": "skulls [accept calaveras before mention; accept skeletons; accept literary calaveras or skull literature or calaveritas; accept La Calavera Catrina; prompt on candy; prompt on heads or bones]",
+            "updatedAt": "2024-06-15T16:52:23.330Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 2,
+            "createdAt": "2024-06-15T16:52:23.330Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd6786a2",
+                "name": "14",
+                "number": 14
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd6786d9",
+            "question": "<b>The Afghani Dari language refers to these things with the Arabic names of certain constellations. As told by the Surah </b><i><b>At-Tawbah</b></i><b>, polytheists practicing </b><i><b>nasī</b></i><b>’ manipulatively postponed four sacred instances of these things to justify fighting. Rajab is among the four sacred instances of these things. These divisions of the </b><i><b>hijri</b></i><b> end upon the observance of </b><i><b>hilal</b></i><b> after sunset. A period of (*)</b> “mourning” named for one of these things features self-flagellations on Ashura in remembrance of Karbala. One of these things, which translates to “scorching heat” in reference to fasting, ends on Eid al-Fitr. For 10 points, Muharram and Ramadan exemplify what lunar-based time periods, twelve of which make up the Islamic calendar?",
+            "question_sanitized": "The Afghani Dari language refers to these things with the Arabic names of certain constellations. As told by the Surah At-Tawbah, polytheists practicing nasi' manipulatively postponed four sacred instances of these things to justify fighting. Rajab is among the four sacred instances of these things. These divisions of the hijri end upon the observance of hilal after sunset. A period of (*) \"mourning\" named for one of these things features self-flagellations on Ashura in remembrance of Karbala. One of these things, which translates to \"scorching heat\" in reference to fasting, ends on Eid al-Fitr. For 10 points, Muharram and Ramadan exemplify what lunar-based time periods, twelve of which make up the Islamic calendar?",
+            "answer": "<b><u>month</u></b>s [or <b><u>month</u></b>s of the year; or <i><b><u>shahr</u></b></i>; accept lunar <b><u>month</u></b>s; accept solar <b><u>month</u></b>s; prompt on <u>time</u>s or <u>time period</u>s; prompt on <u>holiday</u>s] (The constellations are specifically the 12 zodiac signs.)",
+            "answer_sanitized": "months [or months of the year; or shahr; accept lunar months; accept solar months; prompt on times or time periods; prompt on holidays] (The constellations are specifically the 12 zodiac signs.)",
+            "updatedAt": "2024-06-15T16:52:23.499Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 12,
+            "createdAt": "2024-06-15T16:52:23.499Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd6786cd",
+                "name": "15",
+                "number": 15
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd6786fd",
+            "question": "<b></b><i><b>Description </b><b>a</b><b>cceptable.</b></i><b> This action names a 1937 movement founded by Jesse Overholtzer whose modern adherents utilize colorful “wordless books” to target kids in the 4/14 window. “Pioneers” who perform this action are labeled as “special” or “auxiliary” on”field service” reports. The film studio World Wide Pictures was founded by a “Great Legitimator” who did this action through radio crusades like Hour of Decision.</b> <b>Acts 1:8</b> (“chapter one, verse eight”) <b>provides the impetus for this action in (*)</b> Judea, Samaria, and the ends of the earth, which manifests in modern publications like <i>Awake!</i> and <i>Watchtower</i>. A two-year volunteer commitment to perform this action is a rite of passage for young LDS men. For 10 points, name this action performed door-to-door by Jehovah’s Witnesses.",
+            "question_sanitized": "Description acceptable. This action names a 1937 movement founded by Jesse Overholtzer whose modern adherents utilize colorful \"wordless books\" to target kids in the 4/14 window. \"Pioneers\" who perform this action are labeled as \"special\" or \"auxiliary\" on\"field service\" reports. The film studio World Wide Pictures was founded by a \"Great Legitimator\" who did this action through radio crusades like Hour of Decision. Acts 1:8 (\"chapter one, verse eight\") provides the impetus for this action in (*) Judea, Samaria, and the ends of the earth, which manifests in modern publications like Awake! and Watchtower. A two-year volunteer commitment to perform this action is a rite of passage for young LDS men. For 10 points, name this action performed door-to-door by Jehovah's Witnesses.",
+            "answer": "<b><u>evangelizing</u></b> [or <b><u>proselytizing</u></b>; accept equivalents such as giving <b><u>witness</u></b> or <b><u>preach</u></b>ing or acting as a <b><u>mission</u></b>ary; accept <b><u>spread</u></b>ing the <b><u>Word</u></b> of God and similar; accept the Child <b><u>evangelism</u></b> movement; accept the Child <b><u>Evangelism</u></b> Fellowship; accept <b><u>converting</u></b> people to Christianity; prompt on <u>marketing</u> or <u>advertising</u>] (World Wide Pictures was established by Billy Graham.)",
+            "answer_sanitized": "evangelizing [or proselytizing; accept equivalents such as giving witness or preaching or acting as a missionary; accept spreading the Word of God and similar; accept the Child evangelism movement; accept the Child Evangelism Fellowship; accept converting people to Christianity; prompt on marketing or advertising] (World Wide Pictures was established by Billy Graham.)",
+            "updatedAt": "2024-06-15T16:52:23.670Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 5,
+            "createdAt": "2024-06-15T16:52:23.670Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd6786f8",
+                "name": "16",
+                "number": 16
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd67872f",
+            "question": "<b>In a parable, this man claims that a resurrected man couldn’t sway someone who ignores Moses and the Prophets. Romans 4 </b>(“chapter 4”)<b> states that this man considered himself “as good as dead” due to his age. In John 8 </b>(“chapter 8”)<b>, Jesus rebuts a critique from the Pharisees that he is too young to have seen this man by declaring “Before [this man] was, I am.” Hebrews 11 </b>(“chapter 11”)<b> says this man didn’t know “where he was going” when he left his (*)</b> homeland at God’s command. Three times, the New Testament quotes Genesis 15:6 (“chapter 15, verse 6”), that this man “believed God, and it was counted to him as righteousness” while seeking a male heir. For 10 points, New Testament writers praise the faith of what forefather of the Jews, who nearly sacrificed his son Isaac?",
+            "question_sanitized": "In a parable, this man claims that a resurrected man couldn't sway someone who ignores Moses and the Prophets. Romans 4 (\"chapter 4\") states that this man considered himself \"as good as dead\" due to his age. In John 8 (\"chapter 8\"), Jesus rebuts a critique from the Pharisees that he is too young to have seen this man by declaring \"Before [this man] was, I am.\" Hebrews 11 (\"chapter 11\") says this man didn't know \"where he was going\" when he left his (*) homeland at God's command. Three times, the New Testament quotes Genesis 15:6 (\"chapter 15, verse 6\"), that this man \"believed God, and it was counted to him as righteousness\" while seeking a male heir. For 10 points, New Testament writers praise the faith of what forefather of the Jews, who nearly sacrificed his son Isaac?",
+            "answer": "<b><u>Abraham</u></b> [or <b><u>Abram</u></b>] (The first line refers to Lazarus and the Rich Man.)",
+            "answer_sanitized": "Abraham [or Abram] (The first line refers to Lazarus and the Rich Man.)",
+            "updatedAt": "2024-06-15T16:52:23.845Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 12,
+            "createdAt": "2024-06-15T16:52:23.845Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd678723",
+                "name": "17 TB A",
+                "number": 17
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd678738",
+            "question": "<b>In modern times, a ritual during these events is the most common situation where a drink composed of yogurt, honey, and clarified butter is symbolically offered. In one variation of these events, a </b><i><b>metti</b></i><b> is placed on the second toe while the foot rests on the </b><i><b>ammi</b></i><b> grindstone. Observers in these events may demand compensation after robbing a man of his shoes during his trek to the </b><i><b>mandap</b></i><b>. The </b><i><b>mangala </b></i><b>sutra is (*)</b> tied during these events, which include the exchange of <i>jai mala</i> garlands. A fire is circumambulated seven times during these events, in which the audience gives out blessings by throwing petals and rice. For 10 points, despite India’s ban, a dowry is typically provided during what union between a bride and groom?",
+            "question_sanitized": "In modern times, a ritual during these events is the most common situation where a drink composed of yogurt, honey, and clarified butter is symbolically offered. In one variation of these events, a metti is placed on the second toe while the foot rests on the ammi grindstone. Observers in these events may demand compensation after robbing a man of his shoes during his trek to the mandap. The mangala sutra is (*) tied during these events, which include the exchange of jai mala garlands. A fire is circumambulated seven times during these events, in which the audience gives out blessings by throwing petals and rice. For 10 points, despite India's ban, a dowry is typically provided during what union between a bride and groom?",
+            "answer": "Hindu <b><u>wedding</u></b>s [accept Hindu <b><u>marriage</u></b>s; accept Vedic <b><u>wedding</u></b>s; accept <b><u>Pelli</u></b>; or <b><u>Vivaha</u></b>; or <b><u>Lagna</u></b>; or <b><u>Bibaho</u></b>; or <b><u>Kalyanam</u></b>; or <b><u>Maduve</u></b>]",
+            "answer_sanitized": "Hindu weddings [accept Hindu marriages; accept Vedic weddings; accept Pelli; or Vivaha; or Lagna; or Bibaho; or Kalyanam; or Maduve]",
+            "updatedAt": "2024-06-15T16:52:23.845Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 21,
+            "createdAt": "2024-06-15T16:52:23.845Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd678723",
+                "name": "17 TB A",
+                "number": 17
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd678750",
+            "question": "<b>This group is named for a concept whose source al-Shafi’i limited to a single person. This group is named for a “living” concept which Malik ibn Abbas equated with the culture of Medina. This group is named for a concept whose</b> <i><b>mu</b><b>’</b><b>akkadah</b></i><b> or “confirmed” form of this concept includes a supplementary prayer called a </b><i><b>qunoot</b></i><b> offered after a series of </b><i><b>rak</b><b>’</b><b>ah</b></i><b>. One of this group’s reliable “Six Books” includes the </b><i><b>Sahih</b></i><b> of Al-Bukhari. This group contains the (*)</b> Wahhabism movement and rejects the idea of an Imamate. This denomination believes that Abu Bakr and other “Rightly Guided Caliphs” emulated this concept after the death of the Prophet. For 10 points, name this largest branch of Islam.",
+            "question_sanitized": "This group is named for a concept whose source al-Shafi'i limited to a single person. This group is named for a \"living\" concept which Malik ibn Abbas equated with the culture of Medina. This group is named for a concept whose mu'akkadah or \"confirmed\" form of this concept includes a supplementary prayer called a qunoot offered after a series of rak'ah. One of this group's reliable \"Six Books\" includes the Sahih of Al-Bukhari. This group contains the (*) Wahhabism movement and rejects the idea of an Imamate. This denomination believes that Abu Bakr and other \"Rightly Guided Caliphs\" emulated this concept after the death of the Prophet. For 10 points, name this largest branch of Islam.",
+            "answer": "<b><u>Sunni</u></b> Islam [or <b><u>Sunnite</u></b>s or <b><u>Sunni</u></b>s; accept Ahl as-<b><u>Sunna</u></b> or Ahl al-<b><u>Sunna</u></b> wa’l-Jama’a; prompt on <u>Muslim</u>s; prompt on <u>Islam</u> until read; prompt on <u>Wahhabism</u> until read by asking “what larger denomination is a part of?”]",
+            "answer_sanitized": "Sunni Islam [or Sunnites or Sunnis; accept Ahl as-Sunna or Ahl al-Sunna wa'l-Jama'a; prompt on Muslims; prompt on Islam until read; prompt on Wahhabism until read by asking \"what larger denomination is a part of?\"]",
+            "updatedAt": "2024-06-15T16:52:24.007Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 2,
+            "createdAt": "2024-06-15T16:52:24.007Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd67874e",
+                "name": "18 TB B",
+                "number": 18
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd67877e",
+            "question": "<b>A Samaritan hymn for this practice thanks Germon, a Roman soldier, for standing guard. Children earn sweets for blessing the central participant during a studious “night of watching” that precedes this practice. Three witnesses inspect cotton after converts undergo a symbolic form of this practice called </b><i><b>hatafat dam </b></i>(“hah-tah-FAHT DOM”)<b>. A prophet visits each instance of this non-seder practice, so a </b><i><b>kvattar</b></i><b> brings its central participant to (*)</b> Elijah’s chair before they’re held by the <i>sandek</i>. Sponges may replace oral suction during this practice to mitigate herpes transmission. On the eighth day, a mohel (“moh-hell”) performs this practice during the <i>bris</i> (“briss”). For 10 points, name this practice that removes a Jewish baby’s foreskin.",
+            "question_sanitized": "A Samaritan hymn for this practice thanks Germon, a Roman soldier, for standing guard. Children earn sweets for blessing the central participant during a studious \"night of watching\" that precedes this practice. Three witnesses inspect cotton after converts undergo a symbolic form of this practice called hatafat dam (\"hah-tah-FAHT DOM\"). A prophet visits each instance of this non-seder practice, so a kvattar brings its central participant to (*) Elijah's chair before they're held by the sandek. Sponges may replace oral suction during this practice to mitigate herpes transmission. On the eighth day, a mohel (\"moh-hell\") performs this practice during the bris (\"briss\"). For 10 points, name this practice that removes a Jewish baby's foreskin.",
+            "answer": "<b><u>circumcision</u></b> [accept word forms such as being <b><u>circumcised</u></b>; accept <b><u>brit milah</u></b> or <b><u>bris</u></b> before “brit milah” is read; accept <b><u>removal</u></b> of the <b><u>foreskin</u></b> prior to “foreskin;” prompt on <u>genital mutilation</u>]",
+            "answer_sanitized": "circumcision [accept word forms such as being circumcised; accept brit milah or bris before \"brit milah\" is read; accept removal of the foreskin prior to \"foreskin;\" prompt on genital mutilation]",
+            "updatedAt": "2024-06-15T16:52:24.174Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 5,
+            "createdAt": "2024-06-15T16:52:24.174Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c89f7c4cfdbd678779",
+                "name": "19 TB C",
+                "number": 19
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd6787a7",
+            "question": "<b>A holiday named for this practice is followed by a “Kissing Ritual” practiced by Balinese youths the next day; that holiday is Nyepi.</b> <b>Every July 10th, Meher Baba’s followers observe this practice, which is also performed by </b><i><b>muni</b></i><b> sages who adhere to </b><i><b>mauna</b><b>. </b></i><b>Alms-seekers carrying metal-ringed </b><i><b>khakkhara</b></i> <b>staffs observe this practice. It’s not breathing, but constant adherence to this practice is mandatory for prison inmates who are self-reflecting during a 10-day Vipassana</b> (*) meditation retreat. Unprogrammed Quaker worship involves waiting, praying, and adhering to this practice, whose non-reproductive “vows” are obeyed by Carthusian monks. This word names “towers” used for Zoroastrian sky burials. For 10 points, some Buddhist monks perform what practice by refraining from speech?",
+            "question_sanitized": "A holiday named for this practice is followed by a \"Kissing Ritual\" practiced by Balinese youths the next day; that holiday is Nyepi. Every July 10th, Meher Baba's followers observe this practice, which is also performed by muni sages who adhere to mauna. Alms-seekers carrying metal-ringed khakkhara staffs observe this practice. It's not breathing, but constant adherence to this practice is mandatory for prison inmates who are self-reflecting during a 10-day Vipassana (*) meditation retreat. Unprogrammed Quaker worship involves waiting, praying, and adhering to this practice, whose non-reproductive \"vows\" are obeyed by Carthusian monks. This word names \"towers\" used for Zoroastrian sky burials. For 10 points, some Buddhist monks perform what practice by refraining from speech?",
+            "answer": "staying <b><u>silent</u></b> [accept <b><u>silence</u></b>; accept synonyms such as staying <b><u>quiet</u></b>; accept <b><u>refrain</u></b>ing from <b><u>speech</u></b> or <b><u>not speak</u></b>ing prior to mention; accept vow of <b><u>silence</u></b>; accept Day of <b><u>Silence</u></b>; accept towers of <b><u>silence</u></b>; prompt on <u>meditation</u> or <u>stilling the mind</u> prior to mention]",
+            "answer_sanitized": "staying silent [accept silence; accept synonyms such as staying quiet; accept refraining from speech or not speaking prior to mention; accept vow of silence; accept Day of Silence; accept towers of silence; prompt on meditation or stilling the mind prior to mention]",
+            "updatedAt": "2024-06-15T16:52:24.337Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 3,
+            "createdAt": "2024-06-15T16:52:24.337Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c89f7c4cfdbd6787a4",
+                "name": "20 Finals 1",
+                "number": 20
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd6787d4",
+            "question": "<b>In a city in this country, expensive churches have been built by entrepreneurial “boss Christians” who promote a managerial style based on Biblical values. Self-governance, self-support, and self-propagation underlie this country’s Protestant Three-Self churches, which stand opposed to its underground “house churches.” Organ trafficking allegations have been leveled against this country by a religious movement that uses the image of a (*)</b> leaping woman to advertise its dance troupe. Mosques and desert shrines have been destroyed in this country’s northwest, where camps seek to “reeducate” a Muslim minority. For 10 points, what officially atheist country has suppressed the Falun Gong and its Uyghur (“WEE-gur”) minority?",
+            "question_sanitized": "In a city in this country, expensive churches have been built by entrepreneurial \"boss Christians\" who promote a managerial style based on Biblical values. Self-governance, self-support, and self-propagation underlie this country's Protestant Three-Self churches, which stand opposed to its underground \"house churches.\" Organ trafficking allegations have been leveled against this country by a religious movement that uses the image of a (*) leaping woman to advertise its dance troupe. Mosques and desert shrines have been destroyed in this country's northwest, where camps seek to \"reeducate\" a Muslim minority. For 10 points, what officially atheist country has suppressed the Falun Gong and its Uyghur (\"WEE-gur\") minority?",
+            "answer": "<b><u>China</u></b> [or <b><u>Zhōngguó</u></b>; or <b><u>People’s Republic of China</u></b>; or <b><u>PRC</u></b>; reject the “Republic of China” or “ROC”] (The first line city is Wenzhou. The dance troupe is Shen Yun.)",
+            "answer_sanitized": "China [or Zhongguo; or People's Republic of China; or PRC; reject the \"Republic of China\" or \"ROC\"] (The first line city is Wenzhou. The dance troupe is Shen Yun.)",
+            "updatedAt": "2024-06-15T16:52:24.506Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 5,
+            "createdAt": "2024-06-15T16:52:24.506Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c89f7c4cfdbd6787cf",
+                "name": "21 Finals 2",
+                "number": 21
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd6787fe",
+            "question": "<b>Siṃhasaudāsa’s intense desire for this “ill” practice led to his overthrow, as related by the Buddha in the Laṅkāvatāra Sūtra. Theravadans perform this practice with three “pure” goods whose production they can’t see, hear, or know was procured on their behalf. Vesak celebrants avoid this non-alcoholic practice, which was the subject of Devadatta’s proposed ban for the </b><i><b>sanga</b></i><b> which the Buddha rejected. (*)</b> Ashoka’s first major rock edict limits this practice to thrice a day within the royal court. Unlike Buddhists, Jain adherents of <i>ahimsa</i>, or nonviolence, expand their rejection of this practice to include root vegetables, alcohol, and honey. For 10 points, some Buddhists avoid what practice by using substitutes like tofu?",
+            "question_sanitized": "Simhasaudasa's intense desire for this \"ill\" practice led to his overthrow, as related by the Buddha in the Lankavatara Sutra. Theravadans perform this practice with three \"pure\" goods whose production they can't see, hear, or know was procured on their behalf. Vesak celebrants avoid this non-alcoholic practice, which was the subject of Devadatta's proposed ban for the sanga which the Buddha rejected. (*) Ashoka's first major rock edict limits this practice to thrice a day within the royal court. Unlike Buddhists, Jain adherents of ahimsa, or nonviolence, expand their rejection of this practice to include root vegetables, alcohol, and honey. For 10 points, some Buddhists avoid what practice by using substitutes like tofu?",
+            "answer": "<b><u>eat</u></b>ing <b><u>meat</u></b> [accept specific types of meat such as <b><u>beef</u></b> or <b><u>lamb</u></b> or <b><u>chicken</u></b> or <b><u>pork</u></b>; accept <b><u>eat</u></b>ing or <b><u>kill</u></b>ing <b><u>animal</u></b>s; accept <b><u>animal sacrifice</u></b>; prompt on <u>kill</u>ing; prompt on <u>eat</u>ing]",
+            "answer_sanitized": "eating meat [accept specific types of meat such as beef or lamb or chicken or pork; accept eating or killing animals; accept animal sacrifice; prompt on killing; prompt on eating]",
+            "updatedAt": "2024-06-15T16:52:24.673Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 4,
+            "createdAt": "2024-06-15T16:52:24.673Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c89f7c4cfdbd6787fa",
+                "name": "22 Emergency",
+                "number": 22
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3dc5459312fdcc55fe",
+            "question": "<b>The narrator of this book’s 10th chapter is instructed to eat a scroll that is sweet in his mouth but bitter in his stomach. Some Jehovah’s Witnesses believe they are part of the “little flock” of 144,000 “servants of God,”as described in this book. This book is addressed to the (*)</b> “Seven Churches of Asia” and includes the sounding of seven trumpets and the opening of seven seals. In this book, Jesus says “I am the alpha and the omega,” and 666 is designated the “number of the beast.” For 10 points, name this book by John of Patmos which describes the end of the world, and is the last of the New Testament.",
+            "question_sanitized": "The narrator of this book's 10th chapter is instructed to eat a scroll that is sweet in his mouth but bitter in his stomach. Some Jehovah's Witnesses believe they are part of the \"little flock\" of 144,000 \"servants of God,\"as described in this book. This book is addressed to the (*) \"Seven Churches of Asia\" and includes the sounding of seven trumpets and the opening of seven seals. In this book, Jesus says \"I am the alpha and the omega,\" and 666 is designated the \"number of the beast.\" For 10 points, name this book by John of Patmos which describes the end of the world, and is the last of the New Testament.",
+            "answer": "Book of <b><u>Revelation</u></b> [reject “Revelations”]",
+            "answer_sanitized": "Book of Revelation [reject \"Revelations\"]",
+            "updatedAt": "2024-08-27T03:47:09.392Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 3,
+            "createdAt": "2024-08-27T03:47:09.392Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc55fb",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3dc5459312fdcc5628",
+            "question": "<b>Models of these locations are paraded in the Caribbean Hosay celebration. In the US, Asra Nomani has campaigned for the end of gender-segregated spaces in these locations. Older examples of these locations are centered around courtyards called</b><i><b> sahn</b></i><b>, which often have fountains for performing</b><i><b> wudu</b></i><b>. During Jumu’ah </b>(“JOOM-wuh”)<b>, people gather in these locations to hear a (*)</b><i> khutba</i> delivered from a<i> minbar</i>. These locations are often devoid of furniture but have spaces for rugs and calligraphy decorations. The<i> mihrab</i> in the<i> qibla</i> (“KEEB-luh”) wall in these locations indicates the direction of the Kaaba for prayer. Minarets appear outside of, for 10 points, what Islamic places of worship?",
+            "question_sanitized": "Models of these locations are paraded in the Caribbean Hosay celebration. In the US, Asra Nomani has campaigned for the end of gender-segregated spaces in these locations. Older examples of these locations are centered around courtyards called sahn, which often have fountains for performing wudu. During Jumu'ah (\"JOOM-wuh\"), people gather in these locations to hear a (*) khutba delivered from a minbar. These locations are often devoid of furniture but have spaces for rugs and calligraphy decorations. The mihrab in the qibla (\"KEEB-luh\") wall in these locations indicates the direction of the Kaaba for prayer. Minarets appear outside of, for 10 points, what Islamic places of worship?",
+            "answer": "<b><u>mosque</u></b>s [or <b><u>masjids</u></b>]",
+            "answer_sanitized": "mosques [or masjids]",
+            "updatedAt": "2024-08-27T03:47:09.516Z",
+            "category": "Religion",
+            "subcategory": "Religion",
+            "number": 4,
+            "createdAt": "2024-08-27T03:47:09.516Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc5624",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        }
+    ],
+    "bonuses": []
+}

@@ -1,0 +1,605 @@
+{
+    "tossups": [
+        {
+            "_id": "666dc6c59f7c4cfdbd678485",
+            "question": "<b>The “Great Pumpkin” objection attacks a position named for this field that was co-developed by William Alston. Linda Zagzebski developed a neo-Aristotelian view in this field inspired by Ernest Sosa’s </b><i><b>The Raft and the Pyramid.</b></i><b> Alvin Plantinga’s “reformed” variant of this field holds certain claims to be “properly basic.” Susan Haack synthesized two major positions in this field as “foundherentism.” A paper in this field describes a (*)</b> “case” in which Smith and Jones apply for the same job, and Jones has ten coins in his pocket. Edmund Gettier critiqued the <i>Meno</i> and <i>Theaetetus</i>’s definition of this field’s central concept as “justified true belief.” For 10 points, what field of philosophy is the study of knowledge?",
+            "question_sanitized": "The \"Great Pumpkin\" objection attacks a position named for this field that was co-developed by William Alston. Linda Zagzebski developed a neo-Aristotelian view in this field inspired by Ernest Sosa's The Raft and the Pyramid. Alvin Plantinga's \"reformed\" variant of this field holds certain claims to be \"properly basic.\" Susan Haack synthesized two major positions in this field as \"foundherentism.\" A paper in this field describes a (*) \"case\" in which Smith and Jones apply for the same job, and Jones has ten coins in his pocket. Edmund Gettier critiqued the Meno and Theaetetus's definition of this field's central concept as \"justified true belief.\" For 10 points, what field of philosophy is the study of knowledge?",
+            "answer": "<b><u>epistemology</u></b> [accept reformed <b><u>epistemology</u></b>; accept virtue <b><u>epistemology</u></b>; prompt on philosophy of <u>knowledge</u> until “knowledge” is read; prompt on <u>belief</u> or epistemic <u>justification</u>; prompt on <u>philosophy</u> until read]",
+            "answer_sanitized": "epistemology [accept reformed epistemology; accept virtue epistemology; prompt on philosophy of knowledge until \"knowledge\" is read; prompt on belief or epistemic justification; prompt on philosophy until read]",
+            "updatedAt": "2024-06-15T16:52:21.092Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 18,
+            "createdAt": "2024-06-15T16:52:21.092Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd678473",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784d0",
+            "question": "<b>Boethius defends the possibility of this property by analogizing God’s timelessness to the view from a mountain. Molinism holds that this property is possible because God has “middle knowledge” of counterfactuals. A theodicy named for this property argues that agents with this property are the source of evil, not God. Harry Frankfurt’s cases are counterexamples to the P·A·P, which states that a strong conception of this property is necessary for moral (*)</b> responsibility. Theological fatalism argues that humans lack this property due to God’s infallible foreknowledge of our future. Compatibilism holds that determinism can coexist with this property. For 10 points, name this property of being able to choose one’s actions.",
+            "question_sanitized": "Boethius defends the possibility of this property by analogizing God's timelessness to the view from a mountain. Molinism holds that this property is possible because God has \"middle knowledge\" of counterfactuals. A theodicy named for this property argues that agents with this property are the source of evil, not God. Harry Frankfurt's cases are counterexamples to the PAP, which states that a strong conception of this property is necessary for moral (*) responsibility. Theological fatalism argues that humans lack this property due to God's infallible foreknowledge of our future. Compatibilism holds that determinism can coexist with this property. For 10 points, name this property of being able to choose one's actions.",
+            "answer": "<b><u>free will</u></b> [accept <b><u>freedom</u></b> of the will; accept libertarian <b><u>free will</u></b> or compatibilist <b><u>free will</u></b>]",
+            "answer_sanitized": "free will [accept freedom of the will; accept libertarian free will or compatibilist free will]",
+            "updatedAt": "2024-06-15T16:52:21.513Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 7,
+            "createdAt": "2024-06-15T16:52:21.513Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784c9",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678507",
+            "question": "<b>This philosopher addressed the anti-slavery pamphlet “Emancipate Your Colonies!” to the French legislature. This philosopher argued that homosexuality does not “rob women” and should therefore be decriminalized in the essay “Offences Against One’s Self.” A controversial principle developed by this philosopher follows the dictates of mankind’s “two sovereign masters.” This philosopher developed the (*)</b> “act” form of a philosophy that considers the intensity and duration of experiences as part of a felicific (“fel-ih-SIF-ik”) calculus. This philosopher formulated a moral theory that uses net pleasure and pain to calculate the greatest happiness for the greatest number. For 10 points, name this founder of utilitarianism.",
+            "question_sanitized": "This philosopher addressed the anti-slavery pamphlet \"Emancipate Your Colonies!\" to the French legislature. This philosopher argued that homosexuality does not \"rob women\" and should therefore be decriminalized in the essay \"Offences Against One's Self.\" A controversial principle developed by this philosopher follows the dictates of mankind's \"two sovereign masters.\" This philosopher developed the (*) \"act\" form of a philosophy that considers the intensity and duration of experiences as part of a felicific (\"fel-ih-SIF-ik\") calculus. This philosopher formulated a moral theory that uses net pleasure and pain to calculate the greatest happiness for the greatest number. For 10 points, name this founder of utilitarianism.",
+            "answer": "Jeremy <b><u>Bentham</u></b>",
+            "answer_sanitized": "Jeremy Bentham",
+            "updatedAt": "2024-06-15T16:52:21.688Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 19,
+            "createdAt": "2024-06-15T16:52:21.688Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784f4",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678527",
+            "question": "<b>Drawing on this thinker’s writings on ecology, John Bellamy Foster coined the term “metabolic rift.” Members of the September group, which included John Roemer and G. A. Cohen, developed an “analytical” interpretation of this thinker. Silvia Federici argues that witch hunts restructured gender roles during a process this thinker called “primitive (*)</b> accumulation.” David Harvey created a popular lecture series on this thinker’s longest text, which opens by discussing the origin of the value-form of commodities. This thinker argued that a lack of ownership causes workers to be alienated from the products of their labor. For 10 points, name this thinker who critiqued the capitalist economy in <i>Das Kapital</i>.",
+            "question_sanitized": "Drawing on this thinker's writings on ecology, John Bellamy Foster coined the term \"metabolic rift.\" Members of the September group, which included John Roemer and G. A. Cohen, developed an \"analytical\" interpretation of this thinker. Silvia Federici argues that witch hunts restructured gender roles during a process this thinker called \"primitive (*) accumulation.\" David Harvey created a popular lecture series on this thinker's longest text, which opens by discussing the origin of the value-form of commodities. This thinker argued that a lack of ownership causes workers to be alienated from the products of their labor. For 10 points, name this thinker who critiqued the capitalist economy in Das Kapital.",
+            "answer": "Karl <b><u>Marx</u></b>",
+            "answer_sanitized": "Karl Marx",
+            "updatedAt": "2024-06-15T16:52:21.853Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 8,
+            "createdAt": "2024-06-15T16:52:21.853Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67851f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd678588",
+            "question": "<b>This is the first word in the title of a book that claims all propositions are analytic, strongly verifiable, or weakly verifiable. A namesake hypothesis by Jerry Fodor posits that mental representations have the structure of these systems. The study of these systems names a “turn” that often marks the start of analytic philosophy. These systems are governed by a set of (*)</b> family resemblances according to a book that diverges from its author’s earlier picture theory. These systems, which appear with “truth” and “logic” in the title of a book by A. J. Ayer, cannot be private according to <i>Philosophical Investigations.</i> For 10 points, Ludwig Wittgenstein theorized games surrounding what systems of verbal communication?",
+            "question_sanitized": "This is the first word in the title of a book that claims all propositions are analytic, strongly verifiable, or weakly verifiable. A namesake hypothesis by Jerry Fodor posits that mental representations have the structure of these systems. The study of these systems names a \"turn\" that often marks the start of analytic philosophy. These systems are governed by a set of (*) family resemblances according to a book that diverges from its author's earlier picture theory. These systems, which appear with \"truth\" and \"logic\" in the title of a book by A. J. Ayer, cannot be private according to Philosophical Investigations. For 10 points, Ludwig Wittgenstein theorized games surrounding what systems of verbal communication?",
+            "answer": "<b><u>language</u></b>s [accept <i><b><u>Language</u></b>, Truth, and Logic;</i> accept <i>The</i> <i><b><u>Language</u></b> of Thought;</i> accept <b><u>linguistic</u></b> turn; accept <b><u>language</u></b> games; accept <b><u>sprach</u></b>spiel; accept private <b><u>language</u></b>s]",
+            "answer_sanitized": "languages [accept Language, Truth, and Logic; accept The Language of Thought; accept linguistic turn; accept language games; accept sprachspiel; accept private languages]",
+            "updatedAt": "2024-06-15T16:52:22.189Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 19,
+            "createdAt": "2024-06-15T16:52:22.189Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd678575",
+                "name": "07",
+                "number": 7
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd6785db",
+            "question": "<b>The earliest writings in this philosophical tradition were satirical poems called </b><i><b>silloi</b></i><b> written by Timon of Phlius. Diogenes Laërtius claimed that this tradition’s founder accompanied Anaxarchus to India and was influenced by the gymnosophists. A book on the “Outlines” of one form of this tradition distinguishes it from Carneades’s “Academic” form. Edmund Husserl was influenced by this tradition’s practice of (*)</b> epoché (“eh-po-KAY”), or bracketing. Sextus Empiricus was a philosopher from this tradition that, like Stoicism and Epicureanism, believed that the highest good was a state of suspended judgment called <i>ataraxia</i>. For 10 points, Pyrrho of Elis founded what philosophical tradition that doubts the possibility of certain knowledge?",
+            "question_sanitized": "The earliest writings in this philosophical tradition were satirical poems called silloi written by Timon of Phlius. Diogenes Laertius claimed that this tradition's founder accompanied Anaxarchus to India and was influenced by the gymnosophists. A book on the \"Outlines\" of one form of this tradition distinguishes it from Carneades's \"Academic\" form. Edmund Husserl was influenced by this tradition's practice of (*) epoche (\"eh-po-KAY\"), or bracketing. Sextus Empiricus was a philosopher from this tradition that, like Stoicism and Epicureanism, believed that the highest good was a state of suspended judgment called ataraxia. For 10 points, Pyrrho of Elis founded what philosophical tradition that doubts the possibility of certain knowledge?",
+            "answer": "<b><u>skeptic</u></b>ism [or <b><u>skeptic</u></b>s; accept Academic <b><u>skeptic</u></b>ism; accept <b><u>Pyrrhonism</u></b> until “Pyrrho”; accept <i>Outlines of</i> <i><b><u>Pyrrhonism</u></b></i> until “Pyrrho”]",
+            "answer_sanitized": "skepticism [or skeptics; accept Academic skepticism; accept Pyrrhonism until \"Pyrrho\"; accept Outlines of Pyrrhonism until \"Pyrrho\"]",
+            "updatedAt": "2024-06-15T16:52:22.518Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 16,
+            "createdAt": "2024-06-15T16:52:22.518Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd6785cb",
+                "name": "09",
+                "number": 9
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd678628",
+            "question": "<b>Kwame Gyekye’s</b> (“KWA-may JAY-chay’s”) <i><b>The Akan Conceptual Scheme</b></i><b> claims that this worldview is the “foundation of Akan morality.” Kenneth Kaunda embraced this worldview as a national philosophy inspired by </b><i><b>ubuntu</b></i><b>. The title of a 1945 lecture compares one philosophy to this worldview to defend it from Marxist and Christian critiques that it leads to “quietism from despair” or excessive individualism. Jean-Paul Sartre coined the maxim that (*)</b> “existence precedes essence” in a lecture titled for “Existentialism is [this worldview].” Italian Renaissance thinkers like Pico della Mirandola embraced this philosophy as a way to improve society through education and decenter religion. For 10 points, name this philosophy centered on <i>Homo sapiens</i>.",
+            "question_sanitized": "Kwame Gyekye's (\"KWA-may JAY-chay's\") The Akan Conceptual Scheme claims that this worldview is the \"foundation of Akan morality.\" Kenneth Kaunda embraced this worldview as a national philosophy inspired by ubuntu. The title of a 1945 lecture compares one philosophy to this worldview to defend it from Marxist and Christian critiques that it leads to \"quietism from despair\" or excessive individualism. Jean-Paul Sartre coined the maxim that (*) \"existence precedes essence\" in a lecture titled for \"Existentialism is [this worldview].\" Italian Renaissance thinkers like Pico della Mirandola embraced this philosophy as a way to improve society through education and decenter religion. For 10 points, name this philosophy centered on Homo sapiens.",
+            "answer": "<b><u>humanism</u></b> [accept any answer including <b><u>humanism</u></b> or word forms, like African <b><u>humanism</u></b> or Renaissance <b><u>humanism</u></b> or secular <b><u>humanism</u></b>; accept “Existentialism as a <b><u>Humanism</u></b>”]",
+            "answer_sanitized": "humanism [accept any answer including humanism or word forms, like African humanism or Renaissance humanism or secular humanism; accept \"Existentialism as a Humanism\"]",
+            "updatedAt": "2024-06-15T16:52:22.846Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 7,
+            "createdAt": "2024-06-15T16:52:22.846Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd678621",
+                "name": "11",
+                "number": 11
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd67864d",
+            "question": "<b>One of these texts encourages men to merge their speech with intellect by analogizing the path to wisdom to walking on a razor’s edge. These texts’ denial of dual consciousness was praised by Erwin Schrödinger. A thinker praised these texts as “the solace of my life” and used their denial of a parallel reality to criticize the epistemologically inaccessible thing-in-itself. “Four Great (*)</b> Sayings” from these texts studied by the Advaita school include “thou art that” or “<i>tat tvam asi</i>.” These texts’ idea that the soul unites with a life-force, or <i>prana</i>, at death heavily influenced Arthur Schopenhauer. The Katha and Isa are examples of these 108 Hindu texts. For 10 points, name these philosophical commentaries on the Vedas.",
+            "question_sanitized": "One of these texts encourages men to merge their speech with intellect by analogizing the path to wisdom to walking on a razor's edge. These texts' denial of dual consciousness was praised by Erwin Schrodinger. A thinker praised these texts as \"the solace of my life\" and used their denial of a parallel reality to criticize the epistemologically inaccessible thing-in-itself. \"Four Great (*) Sayings\" from these texts studied by the Advaita school include \"thou art that\" or \"tat tvam asi.\" These texts' idea that the soul unites with a life-force, or prana, at death heavily influenced Arthur Schopenhauer. The Katha and Isa are examples of these 108 Hindu texts. For 10 points, name these philosophical commentaries on the Vedas.",
+            "answer": "<b><u>Upanishad</u></b>s [prompt on the <u>Veda</u>s; prompt on the <u>Oupnek’hat</u>]",
+            "answer_sanitized": "Upanishads [prompt on the Vedas; prompt on the Oupnek'hat]",
+            "updatedAt": "2024-06-15T16:52:23.009Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 1,
+            "createdAt": "2024-06-15T16:52:23.009Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c69f7c4cfdbd67864c",
+                "name": "12",
+                "number": 12
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd6786ab",
+            "question": "<b>Neoplatonists identified this concept as the third hypostasis after the One and </b><i><b>Nous</b></i><b>, and believed that there was a “world” type of this concept similar to that described in the </b><i><b>Timaeus</b></i><b>. This concept contains “rational,”</b> <b>“appetitive,” and “spirited” parts that are analogized to a charioteer and his two horses in the </b><i><b>Phaedrus</b></i><b>. The just city shares the tripartite structure of this concept according to </b><i><b>The</b></i><b> (*)</b> <i>Republic</i>, in which many of these concepts gather and are judged in the Myth of Er. This concept sometimes titles the dialogue <i>Phaedo</i>, which gives “recollection” and “cyclical” arguments for the immortality of this concept. For 10 points, Plato often discussed what eternal, immaterial essence of a being?",
+            "question_sanitized": "Neoplatonists identified this concept as the third hypostasis after the One and Nous, and believed that there was a \"world\" type of this concept similar to that described in the Timaeus. This concept contains \"rational,\" \"appetitive,\" and \"spirited\" parts that are analogized to a charioteer and his two horses in the Phaedrus. The just city shares the tripartite structure of this concept according to The (*) Republic, in which many of these concepts gather and are judged in the Myth of Er. This concept sometimes titles the dialogue Phaedo, which gives \"recollection\" and \"cyclical\" arguments for the immortality of this concept. For 10 points, Plato often discussed what eternal, immaterial essence of a being?",
+            "answer": "<b><u>soul</u></b> [or <b><u>psyche</u></b> or <b><u>anima</u></b>; accept world <b><u>soul</u></b> or tripartite <b><u>soul</u></b> or <i>On the</i> <i><b><u>Soul</u></b></i>; accept <b><u>spirit</u></b> until “spirited” is read]",
+            "answer_sanitized": "soul [or psyche or anima; accept world soul or tripartite soul or On the Soul; accept spirit until \"spirited\" is read]",
+            "updatedAt": "2024-06-15T16:52:23.331Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 9,
+            "createdAt": "2024-06-15T16:52:23.331Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd6786a2",
+                "name": "14",
+                "number": 14
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd678707",
+            "question": "<b>In a text partly titled for this adjective, the world is compared to a “great machine” composed of “lesser machines” by an “experimental theist.” Revealed theology is often contrasted with a type of theology named for this adjective, which titles William Paley’s 1802 book presenting the “watchmaker argument.” Positive law is contrasted with a kind of law described by this adjective that applies to “rational beings,” according to Thomas Aquinas. John (*)</b> Locke used this adjective to refer to the three rights of life, liberty, and property, since they are inherent to humans. Early modern scientists referred to their inquiries as this kind of “philosophy.” For 10 points, give this adjective contrasted with “artificial.”",
+            "question_sanitized": "In a text partly titled for this adjective, the world is compared to a \"great machine\" composed of \"lesser machines\" by an \"experimental theist.\" Revealed theology is often contrasted with a type of theology named for this adjective, which titles William Paley's 1802 book presenting the \"watchmaker argument.\" Positive law is contrasted with a kind of law described by this adjective that applies to \"rational beings,\" according to Thomas Aquinas. John (*) Locke used this adjective to refer to the three rights of life, liberty, and property, since they are inherent to humans. Early modern scientists referred to their inquiries as this kind of \"philosophy.\" For 10 points, give this adjective contrasted with \"artificial.\"",
+            "answer": "<b><u>natural</u></b> [accept <i>Dialogues Concerning</i> <i><b><u>Natural</u></b> Religion</i>; accept <b><u>natural</u></b> theology or <i><b><u>Natural</u></b> Theology: or Evidences of the Existence and Attributes of the Deity</i>; accept <b><u>natural</u></b> rights or <b><u>natural</u></b> philosophy or <b><u>natural</u></b> law] (The first clue refers to <i>Dialogues Concerning Natural Religion</i>.)",
+            "answer_sanitized": "natural [accept Dialogues Concerning Natural Religion; accept natural theology or Natural Theology: or Evidences of the Existence and Attributes of the Deity; accept natural rights or natural philosophy or natural law] (The first clue refers to Dialogues Concerning Natural Religion.)",
+            "updatedAt": "2024-06-15T16:52:23.671Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 15,
+            "createdAt": "2024-06-15T16:52:23.671Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd6786f8",
+                "name": "16",
+                "number": 16
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c79f7c4cfdbd678726",
+            "question": "<b>This thinker’s metaphor of a tree of philosophy places the “most perfect moral system” on the highest branch. This thinker argued that the material world must exist due to our “great propensity” to believe that it causes our perceptions in a treatise’s sixth and final “day.” In a namesake “circle,” this thinker’s ontological proof of God relies on “clear and (*)</b> distinct” perceptions that are only reliable by virtue of him. Princess Elisabeth criticized this thinker’s notion of unextended and extended substances, or <i>res cogitans</i> and <i>res extensa</i>, which he distinguished because the former’s existence could not be doubted. For 10 points, name this philosopher who wrote the <i>Meditations on First Philosophy</i>, which states “I think, therefore I am.”",
+            "question_sanitized": "This thinker's metaphor of a tree of philosophy places the \"most perfect moral system\" on the highest branch. This thinker argued that the material world must exist due to our \"great propensity\" to believe that it causes our perceptions in a treatise's sixth and final \"day.\" In a namesake \"circle,\" this thinker's ontological proof of God relies on \"clear and (*) distinct\" perceptions that are only reliable by virtue of him. Princess Elisabeth criticized this thinker's notion of unextended and extended substances, or res cogitans and res extensa, which he distinguished because the former's existence could not be doubted. For 10 points, name this philosopher who wrote the Meditations on First Philosophy, which states \"I think, therefore I am.\"",
+            "answer": "René <b><u>Descartes</u></b>",
+            "answer_sanitized": "Rene Descartes",
+            "updatedAt": "2024-06-15T16:52:23.844Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 3,
+            "createdAt": "2024-06-15T16:52:23.844Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd678723",
+                "name": "17 TB A",
+                "number": 17
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd67875d",
+            "question": "<b>A nested statement of this kind about the 1980 presidential election is presented as a counterexample to a logical rule in a paper by Vann McGee. These statements can be simplified using the import-export rule. An example about kangaroos without tails opens a David Lewis book about statements of this type known as “counterfactuals.” In propositional logic, vacuous truths are always statements of this kind. In a (*)</b> <i>modus ponens</i> argument, their “consequent” follows given their “antecedent.” These statements are logically equivalent to their contrapositive, and their main logical connective is usually symbolized with a rightward-pointing arrow. For 10 points, name these statements that can be expressed as “<i>P</i> implies <i>Q</i>.”",
+            "question_sanitized": "A nested statement of this kind about the 1980 presidential election is presented as a counterexample to a logical rule in a paper by Vann McGee. These statements can be simplified using the import-export rule. An example about kangaroos without tails opens a David Lewis book about statements of this type known as \"counterfactuals.\" In propositional logic, vacuous truths are always statements of this kind. In a (*) modus ponens argument, their \"consequent\" follows given their \"antecedent.\" These statements are logically equivalent to their contrapositive, and their main logical connective is usually symbolized with a rightward-pointing arrow. For 10 points, name these statements that can be expressed as \"P implies Q.\"",
+            "answer": "<b><u>conditional</u></b>s [accept <b><u>if-then</u></b> statements or <b><u>if</u></b> statements; accept material <b><u>conditional</u></b>s or indicative <b><u>conditional</u></b>s or counterfactual <b><u>conditionals</u></b>; accept bi<b><u>conditional</u></b>s; accept <b><u>implication</u></b>s or answers like <i>P</i> <b><u>implies</u></b> <i>Q</i> until “<i>P</i> implies <i>Q</i>” is read; accept <b><u>counterfactual</u></b>s until “counterfactuals” is read]",
+            "answer_sanitized": "conditionals [accept if-then statements or if statements; accept material conditionals or indicative conditionals or counterfactual conditionals; accept biconditionals; accept implications or answers like P implies Q until \"P implies Q\" is read; accept counterfactuals until \"counterfactuals\" is read]",
+            "updatedAt": "2024-06-15T16:52:24.008Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 15,
+            "createdAt": "2024-06-15T16:52:24.008Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c79f7c4cfdbd67874e",
+                "name": "18 TB B",
+                "number": 18
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd6787ad",
+            "question": "<b>Lena Halldenius reads this thinker’s character of Jemima as a critique of private property and places this thinker within the tradition of neo-Roman republicanism. Before Thomas Paine, this thinker identified liberty as non-domination and imagined dividing up large estates in a pamphlet responding to Edmund Burke’s </b><i><b>Reflections</b></i><b>. A treatise by this thinker derides advantageous marriages as “legal prostitution,” arguing instead for “friendship among equals.” That 1792 treatise by this thinker attacks the portrayal of (*)</b> Sophie in Rousseau’s <i>Emile</i> and details a program of national education open to women. <i>A Vindication of the</i> <i>Rights of Women</i> is by, for 10 points, what early feminist philosopher and mother of Mary Shelley?",
+            "question_sanitized": "Lena Halldenius reads this thinker's character of Jemima as a critique of private property and places this thinker within the tradition of neo-Roman republicanism. Before Thomas Paine, this thinker identified liberty as non-domination and imagined dividing up large estates in a pamphlet responding to Edmund Burke's Reflections. A treatise by this thinker derides advantageous marriages as \"legal prostitution,\" arguing instead for \"friendship among equals.\" That 1792 treatise by this thinker attacks the portrayal of (*) Sophie in Rousseau's Emile and details a program of national education open to women. A Vindication of the Rights of Women is by, for 10 points, what early feminist philosopher and mother of Mary Shelley?",
+            "answer": "Mary <b><u>Wollstonecraft</u></b> (The pamphlet in the second line is <i>A Vindication of the Rights of Men</i>. Jemima is a character in <i>Maria: Or, The Wrongs of Woman</i>.)",
+            "answer_sanitized": "Mary Wollstonecraft (The pamphlet in the second line is A Vindication of the Rights of Men. Jemima is a character in Maria: Or, The Wrongs of Woman.)",
+            "updatedAt": "2024-06-15T16:52:24.338Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 9,
+            "createdAt": "2024-06-15T16:52:24.338Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c89f7c4cfdbd6787a4",
+                "name": "20 Finals 1",
+                "number": 20
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c89f7c4cfdbd6787e0",
+            "question": "<b>Schopenhauer rejected this idea on the basis that it reduces to self-interested egoism. Section III of one work argues that this idea is the law of a will that is positively free, a definition taken up by Christine Korsgaard in </b><i><b>The Sources of Normativity</b></i><b>. This idea is presented via four equivalent formulas, like the formula of humanity and the formula of autonomy. Benjamin Constant’s objection to this idea argues it would compel one to tell a (*)</b> murderer the location of his victim. This deontological principle states that one should only act according to maxims that can be willed to be universal law. The <i>Groundwork of the Metaphysic of Morals</i> introduced, for 10 points, what central principle of Immanuel Kant’s ethics?",
+            "question_sanitized": "Schopenhauer rejected this idea on the basis that it reduces to self-interested egoism. Section III of one work argues that this idea is the law of a will that is positively free, a definition taken up by Christine Korsgaard in The Sources of Normativity. This idea is presented via four equivalent formulas, like the formula of humanity and the formula of autonomy. Benjamin Constant's objection to this idea argues it would compel one to tell a (*) murderer the location of his victim. This deontological principle states that one should only act according to maxims that can be willed to be universal law. The Groundwork of the Metaphysic of Morals introduced, for 10 points, what central principle of Immanuel Kant's ethics?",
+            "answer": "<b><u>categorical imperative</u></b> [or <b><u>kategorischer imperativ</u></b>; prompt on <u>imperative</u>]",
+            "answer_sanitized": "categorical imperative [or kategorischer imperativ; prompt on imperative]",
+            "updatedAt": "2024-06-15T16:52:24.507Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 17,
+            "createdAt": "2024-06-15T16:52:24.507Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c89f7c4cfdbd6787cf",
+                "name": "21 Finals 2",
+                "number": 21
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3dc5459312fdcc560c",
+            "question": "<b>A philosopher who shares a name with this thinker wrote a principal source for ancient Greek philosophy titled</b><i><b> The Lives and Opinions of Eminent Philosophers</b></i><b>. Alexander the Great legendarily declared “if I were not Alexander, I wish I were [this thinker]” after approaching him and being told “stand out of my light.”This thinker lived in a pithos in his town’s marketplace and carried around a lamp during the day searching for an (*)</b> “honest man.” This thinker responded to Plato’s definition of a man as a “featherless biped” by plucking a chicken and declaring “behold a man” at the Academy. For 10 points, name this philosopher from Sinope, the founder of Cynicism.",
+            "question_sanitized": "A philosopher who shares a name with this thinker wrote a principal source for ancient Greek philosophy titled The Lives and Opinions of Eminent Philosophers. Alexander the Great legendarily declared \"if I were not Alexander, I wish I were [this thinker]\" after approaching him and being told \"stand out of my light.\"This thinker lived in a pithos in his town's marketplace and carried around a lamp during the day searching for an (*) \"honest man.\" This thinker responded to Plato's definition of a man as a \"featherless biped\" by plucking a chicken and declaring \"behold a man\" at the Academy. For 10 points, name this philosopher from Sinope, the founder of Cynicism.",
+            "answer": "<b><u>Diogenes</u></b> of Sinope [accept <b><u>Diogenes</u></b> Laërtius]",
+            "answer_sanitized": "Diogenes of Sinope [accept Diogenes Laertius]",
+            "updatedAt": "2024-08-27T03:47:09.393Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 17,
+            "createdAt": "2024-08-27T03:47:09.393Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc55fb",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3dc5459312fdcc5631",
+            "question": "Two answers required.<b> These philosophical concepts can also describe directions relative to a hill, as seen in various place names. These concepts emerged from a state translated as \"limitless\" and collectively form the \"Great Ultimate.\" These abstract concepts underlie a set of five elements including wood and metal. These concepts name respective forms of (*)</b> qì that must be maintained equally in the body. These concepts are depicted on the Tàijítú, a diagram containing two dots. One of these concepts represents masculinity and light while the other represents femininity and darkness. For 10 points, name these two opposing concepts in East Asian philosophy.",
+            "question_sanitized": "Two answers required. These philosophical concepts can also describe directions relative to a hill, as seen in various place names. These concepts emerged from a state translated as \"limitless\" and collectively form the \"Great Ultimate.\" These abstract concepts underlie a set of five elements including wood and metal. These concepts name respective forms of (*) qi that must be maintained equally in the body. These concepts are depicted on the Taijitu, a diagram containing two dots. One of these concepts represents masculinity and light while the other represents femininity and darkness. For 10 points, name these two opposing concepts in East Asian philosophy.",
+            "answer": "<b><u>yin</u></b> AND <b><u>yang</u></b> [or <b><u>yin</u></b>-<b><u>yang</u></b>; accept answers in either order; prompt on partial answers]",
+            "answer_sanitized": "yin AND yang [or yin-yang; accept answers in either order; prompt on partial answers]",
+            "updatedAt": "2024-08-27T03:47:09.517Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 13,
+            "createdAt": "2024-08-27T03:47:09.517Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc5624",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3dc5459312fdcc567c",
+            "question": "<b>One proponent of a “neo-” form of this school of thought rejects the correspondence theory of truth in </b><i><b>Philosophy and the Mirror of Nature</b></i><b>. A series of lectures titled for this school of thought questions whether a man chasing a squirrel can be described as going around it. Those lectures titled for this school of thought are subtitled (*)</b> “A New Name for Some Old Ways of Thinking.” This school advocates judging beliefs based on their“cash value” and practicality. This school was founded by Charles Sander Peirce (“purse”). For 10 points, name this American school of philosophy whose members include William James.",
+            "question_sanitized": "One proponent of a \"neo-\" form of this school of thought rejects the correspondence theory of truth in Philosophy and the Mirror of Nature. A series of lectures titled for this school of thought questions whether a man chasing a squirrel can be described as going around it. Those lectures titled for this school of thought are subtitled (*) \"A New Name for Some Old Ways of Thinking.\" This school advocates judging beliefs based on their\"cash value\" and practicality. This school was founded by Charles Sander Peirce (\"purse\"). For 10 points, name this American school of philosophy whose members include William James.",
+            "answer": "<b><u>pragmatism</u></b> [accept neo<b><u>pragmatism</u></b>; accept <i><b><u>Pragmatism</u></b>: A New Name for Some Old Ways of</i> <i>Thinking</i>] (<i>Philosophy and the Mirror of Nature</i> is by Richard Rorty)",
+            "answer_sanitized": "pragmatism [accept neopragmatism; accept Pragmatism: A New Name for Some Old Ways of Thinking] (Philosophy and the Mirror of Nature is by Richard Rorty)",
+            "updatedAt": "2024-08-27T03:47:09.748Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 6,
+            "createdAt": "2024-08-27T03:47:09.748Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc5676",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3dc5459312fdcc56b1",
+            "question": "<b>Gilbert Ryle called one of this thinker’s ideas a “category mistake” and derided it as “the ghost in the machine” in</b><i><b> The Concept of Mind</b></i><b>. This thinker used the phrase “res extensa” to distinguish “corporeal substance” with “mental substance.” Elisabeth of Bohemia articulated the “problem of interaction” in letters to this thinker, who responded by claiming the (*)</b> pineal gland was the seat of the soul. This thinker discussed mind-body dualism in his<i> Meditations on First Philosophy</i>. For 10 points, name this French philosopher who wrote“I think, therefore I am.”",
+            "question_sanitized": "Gilbert Ryle called one of this thinker's ideas a \"category mistake\" and derided it as \"the ghost in the machine\" in The Concept of Mind. This thinker used the phrase \"res extensa\" to distinguish \"corporeal substance\" with \"mental substance.\" Elisabeth of Bohemia articulated the \"problem of interaction\" in letters to this thinker, who responded by claiming the (*) pineal gland was the seat of the soul. This thinker discussed mind-body dualism in his Meditations on First Philosophy. For 10 points, name this French philosopher who wrote\"I think, therefore I am.\"",
+            "answer": "René <b><u>Descartes</u> </b>",
+            "answer_sanitized": "Rene Descartes",
+            "updatedAt": "2024-08-27T03:47:09.882Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 18,
+            "createdAt": "2024-08-27T03:47:09.882Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc569f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc56db",
+            "question": "<b>During one branch of this event, intellectuals gathered at The Select Society. The speaker of an essay titled for this event imagines a pastor saying “Do not argue--believe!\" and praises a ruler for saying “argue as much as you please, but obey!” Francis Hutcheson and Thomas Reid were prominent thinkers from the Scottish branch of this movement. An essay titled for this movement gives it the Latin motto (*)</b> “sapere aude.”This movement was defined as “man's emergence from his self-incurred immaturity” in an essay by Immanuel Kant. For 10 points, name this intellectual movement in 17th and 18th century Europe also known as the “Age of Reason.”",
+            "question_sanitized": "During one branch of this event, intellectuals gathered at The Select Society. The speaker of an essay titled for this event imagines a pastor saying \"Do not argue--believe!\" and praises a ruler for saying \"argue as much as you please, but obey!\" Francis Hutcheson and Thomas Reid were prominent thinkers from the Scottish branch of this movement. An essay titled for this movement gives it the Latin motto (*) \"sapere aude.\"This movement was defined as \"man's emergence from his self-incurred immaturity\" in an essay by Immanuel Kant. For 10 points, name this intellectual movement in 17th and 18th century Europe also known as the \"Age of Reason.\"",
+            "answer": "the <b><u>Enlightenment</u></b> [or Age of <b><u>Enlightenment</u></b>; or <b><u>Age of Reason</u></b> before mentioned; accept Scottish <b><u>Enlightenment</u></b>; accept “What is <b><u>Enlightenment</u></b>?” or “Answering the Question: What Is <b><u>Enlightenment</u></b>?\" or“Beantwortung der Frage: Was ist <b><u>Aufklärung</u></b>?”; prompt on Scottish common sense <u>realism</u> or Scottish school of <u>common sense</u> by asking “what larger movement was that school of philosophy a part of?”]",
+            "answer_sanitized": "the Enlightenment [or Age of Enlightenment; or Age of Reason before mentioned; accept Scottish Enlightenment; accept \"What is Enlightenment?\" or \"Answering the Question: What Is Enlightenment?\" or\"Beantwortung der Frage: Was ist Aufklarung?\"; prompt on Scottish common sense realism or Scottish school of common sense by asking \"what larger movement was that school of philosophy a part of?\"]",
+            "updatedAt": "2024-08-27T03:47:10.018Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 19,
+            "createdAt": "2024-08-27T03:47:10.018Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3dc5459312fdcc56c8",
+                "name": "06",
+                "number": 6
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc57ca",
+            "question": "<b>An 1859 book titled for this concept analyzes physically stopping someone from crossing a compromised bridge as an example of a concept barred from “barbarians.” This concept is “separate and equal” to the“Laws of Nature and of Nature's God” in the writings of John Locke. One thinker favored this concept “with danger” instead of “safety with slavery” shortly before imagining man (*)</b> “everywhere…in chains.” The harm principle first appeared in a book titled for this concept by John Stuart Mill. Jean-Jacques Rousseau’s social contract involves protecting life, property, and, for 10 points, what concept representative of one’s freedom?",
+            "question_sanitized": "An 1859 book titled for this concept analyzes physically stopping someone from crossing a compromised bridge as an example of a concept barred from \"barbarians.\" This concept is \"separate and equal\" to the\"Laws of Nature and of Nature's God\" in the writings of John Locke. One thinker favored this concept \"with danger\" instead of \"safety with slavery\" shortly before imagining man (*) \"everywhere...in chains.\" The harm principle first appeared in a book titled for this concept by John Stuart Mill. Jean-Jacques Rousseau's social contract involves protecting life, property, and, for 10 points, what concept representative of one's freedom?",
+            "answer": "<b><u>liberty</u></b> [accept<i> On</i> <i><b><u>Liberty</u></b></i>; prompt on <u>freedom</u>; prompt on <u>right</u>s]",
+            "answer_sanitized": "liberty [accept On Liberty; prompt on freedom; prompt on rights]",
+            "updatedAt": "2024-08-27T03:47:10.837Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 12,
+            "createdAt": "2024-08-27T03:47:10.837Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc57be",
+                "name": "12",
+                "number": 12
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "66cd4c3ec5459312fdcc57f9",
+            "question": "<b>In a book titled for one of these people, Desiderius Erasmus argued against corporal punishment for students; that book is titled for the “Education of a Christian” one of these people. A genre of medieval political treatise is known as “mirrors for” these people. A text titled for one of these people claims Fortuna is a woman who must be (*)</b> beaten and subdued. Lorenzo de Medici is the dedicatee of a text named for these people, which claims “it is better to be feared than loved.” For 10 points, Niccolo Machiavelli titled a political treatise after what kind of person?",
+            "question_sanitized": "In a book titled for one of these people, Desiderius Erasmus argued against corporal punishment for students; that book is titled for the \"Education of a Christian\" one of these people. A genre of medieval political treatise is known as \"mirrors for\" these people. A text titled for one of these people claims Fortuna is a woman who must be (*) beaten and subdued. Lorenzo de Medici is the dedicatee of a text named for these people, which claims \"it is better to be feared than loved.\" For 10 points, Niccolo Machiavelli titled a political treatise after what kind of person?",
+            "answer": "<b><u>prince</u></b>s [accept<i> The Education of a Christian</i> <i><b><u>Prince</u></b></i> or<i> Institutio</i> <i><b><u>principis</u></b> Christiani</i>; accept mirrors for <b><u>prince</u></b>s or mirrors of <b><u>prince</u></b>s or specula <b><u>principum</u></b>; accept<i> The</i> <i><b><u>Prince</u></b></i> or<i> Il</i> <i><b><u>Principe</u></b></i> or<i> De</i> <i><b><u>Principatibus</u></b></i>]",
+            "answer_sanitized": "princes [accept The Education of a Christian Prince or Institutio principis Christiani; accept mirrors for princes or mirrors of princes or specula principum; accept The Prince or Il Principe or De Principatibus]",
+            "updatedAt": "2024-08-27T03:47:10.981Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 18,
+            "createdAt": "2024-08-27T03:47:10.981Z",
+            "difficulty": 3,
+            "packet": {
+                "_id": "66cd4c3ec5459312fdcc57e7",
+                "name": "13",
+                "number": 13
+            },
+            "set": {
+                "_id": "66cd4c3dc5459312fdcc55fa",
+                "name": "2023 SHOW-ME More",
+                "year": 2023,
+                "standard": true
+            }
+        },
+        {
+            "_id": "65d8486856d3474dcdac2316",
+            "createdAt": "2024-02-23T07:25:28.730Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486856d3474dcdac2302",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>Gilles Deleuze (“jill-deloyz”) titled his secondary historical thesis for “Expressionism in Philosophy” and this thinker, and he referred to this thinker as the “Christ of philosophers” in a later work. Lewis Meyer is the addressee of this philosopher’s “Letter on the Infinite,” in which he discusses the concept of causa sui. This philosopher described the innate inclination of a thing to exist and enhance itself in his theory of (*)</b> conatus. In one work, this philosopher rejects the “chosenness” of the Jewish people. This author of Tractatus Theologico-Politicus presented axioms in “geometric order” to systematically refute Cartesian dualism in his magnum opus. For 10 points, name this Jewish pantheist who equated God with Nature in Ethics.",
+            "answer": "Baruch <b><u>Spinoza</u> </b>",
+            "updatedAt": "2024-02-23T07:25:28.730Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 20,
+            "answer_sanitized": "Baruch Spinoza ",
+            "question_sanitized": "Gilles Deleuze (\"jill-deloyz\") titled his secondary historical thesis for \"Expressionism in Philosophy\" and this thinker, and he referred to this thinker as the \"Christ of philosophers\" in a later work. Lewis Meyer is the addressee of this philosopher's \"Letter on the Infinite,\" in which he discusses the concept of causa sui. This philosopher described the innate inclination of a thing to exist and enhance itself in his theory of (*) conatus. In one work, this philosopher rejects the \"chosenness\" of the Jewish people. This author of Tractatus Theologico-Politicus presented axioms in \"geometric order\" to systematically refute Cartesian dualism in his magnum opus. For 10 points, name this Jewish pantheist who equated God with Nature in Ethics."
+        },
+        {
+            "_id": "65d8486956d3474dcdac2363",
+            "createdAt": "2024-02-23T07:25:29.665Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486956d3474dcdac2358",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>In a defense named for this concept, Alvin Plantinga termed the inevitable existence of sin as “transworld depravity.” Henri-Louis Bergson attacked Immanuel Kant’s position that this concept only exists outside of space and time in his doctoral thesis, which is titled for “Time and [this concept].” Harry Frankfurt argued that this concept is not required (*)</b> to hold someone accountable for their actions in his refutation of the principle of alternate possibilities. A doctrine that seeks to reconcile this concept with its antithesis would be championed by John Stuart Mill and is known as compatibilism. For 10 points, name this concept often contrasted with causal (“caw-sul”) determinism that generally describes the ability to independently make decisions.",
+            "answer": "<b><u>free will</u> </b>",
+            "updatedAt": "2024-02-23T07:25:29.665Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 11,
+            "answer_sanitized": "free will ",
+            "question_sanitized": "In a defense named for this concept, Alvin Plantinga termed the inevitable existence of sin as \"transworld depravity.\" Henri-Louis Bergson attacked Immanuel Kant's position that this concept only exists outside of space and time in his doctoral thesis, which is titled for \"Time and [this concept].\" Harry Frankfurt argued that this concept is not required (*) to hold someone accountable for their actions in his refutation of the principle of alternate possibilities. A doctrine that seeks to reconcile this concept with its antithesis would be championed by John Stuart Mill and is known as compatibilism. For 10 points, name this concept often contrasted with causal (\"caw-sul\") determinism that generally describes the ability to independently make decisions."
+        },
+        {
+            "_id": "65d8486a56d3474dcdac23e4",
+            "createdAt": "2024-02-23T07:25:30.924Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486a56d3474dcdac23d9",
+                "name": "07",
+                "number": 7
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>This philosopher noted that empirical evidence cannot prove that Jesus is God through his concept of infinite qualitative distinction. A work by this thinker is presented by the editor Victor Eremita and concludes with the titular seducer manipulating Cordelia. This philosopher contrasted the sacrifices of Agamemnon and Abraham to define his concept of a (*)</b> “leap of faith” in Philosophical Fragments; in that work’s Unscientific Postscript, this philosopher attacks Hegel’s Science of Logic and notably posits that “subjectivity is truth.” This philosopher contrasted the ethical and aesthetic spheres in a work published under the pseudonym Johannes Climachus. For 10 points, name this Danish philosopher who presented his existential philosophy in works such as The Concept of Anxiety and Either/Or.",
+            "answer": "Søren <b><u>Kierkegaard</u> </b>",
+            "updatedAt": "2024-02-23T07:25:30.924Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 11,
+            "answer_sanitized": "Søren Kierkegaard ",
+            "question_sanitized": "This philosopher noted that empirical evidence cannot prove that Jesus is God through his concept of infinite qualitative distinction. A work by this thinker is presented by the editor Victor Eremita and concludes with the titular seducer manipulating Cordelia. This philosopher contrasted the sacrifices of Agamemnon and Abraham to define his concept of a (*) \"leap of faith\" in Philosophical Fragments; in that work's Unscientific Postscript, this philosopher attacks Hegel's Science of Logic and notably posits that \"subjectivity is truth.\" This philosopher contrasted the ethical and aesthetic spheres in a work published under the pseudonym Johannes Climachus. For 10 points, name this Danish philosopher who presented his existential philosophy in works such as The Concept of Anxiety and Either/Or."
+        },
+        {
+            "_id": "65d8486c56d3474dcdac2467",
+            "createdAt": "2024-02-23T07:25:32.257Z",
+            "difficulty": 4,
+            "packet": {
+                "_id": "65d8486c56d3474dcdac245a",
+                "name": "10",
+                "number": 10
+            },
+            "set": {
+                "_id": "65d8486856d3474dcdac22d6",
+                "name": "2023 SCURVY",
+                "year": 2023,
+                "standard": true
+            },
+            "question": "<b>Susan Haack wrote a play titled for “[this philosopher] and Rorty in Conversation” in which she attacks the positions of the latter. This philosopher grouped logical predicates into three cenopythagorean categories of“Firstness,” “Secondness,” and “Thirdness.” This author of “On a New List of Categories” attacked the“method of tenacity” as being “unable to hold its ground (*)</b> in practice” in another work. In an essay for Popular Science, this thinker criticized the existing “ornament of logic” and proposed that the goal of logic should be“clearness of apprehension.” For 10 points, name this American philosopher who wrote “The Fixation of Belief”and “How to Make Our Ideas Clear,” widely considered to be the Father of Pragmatism.",
+            "answer": "C.S. <b><u>Peirce</u> (</b><i><b>“purse”</b></i><b>)</b> [or Charles Sanders <b><u>Peirce</u></b>]",
+            "updatedAt": "2024-02-23T07:25:32.257Z",
+            "category": "Philosophy",
+            "subcategory": "Philosophy",
+            "number": 13,
+            "answer_sanitized": "C.S. Peirce (\"purse\") [or Charles Sanders Peirce]",
+            "question_sanitized": "Susan Haack wrote a play titled for \"[this philosopher] and Rorty in Conversation\" in which she attacks the positions of the latter. This philosopher grouped logical predicates into three cenopythagorean categories of\"Firstness,\" \"Secondness,\" and \"Thirdness.\" This author of \"On a New List of Categories\" attacked the\"method of tenacity\" as being \"unable to hold its ground (*) in practice\" in another work. In an essay for Popular Science, this thinker criticized the existing \"ornament of logic\" and proposed that the goal of logic should be\"clearness of apprehension.\" For 10 points, name this American philosopher who wrote \"The Fixation of Belief\"and \"How to Make Our Ideas Clear,\" widely considered to be the Father of Pragmatism."
+        }
+    ],
+    "bonuses": []
+}
