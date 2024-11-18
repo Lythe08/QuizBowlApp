@@ -157,25 +157,70 @@ class SettingsPage extends StatelessWidget {
 
           Divider(),
           CheckboxExample(
-            displayedText: "Religion",
+            displayedText: "All Categories",
             settings: settings,
             index: 0,
           ),
           CheckboxExample(
-            displayedText: "Literature",
+            displayedText: "Current Events",
             settings: settings,
             index: 1,
           ),
           CheckboxExample(
-            displayedText: "Science",
+            displayedText: "Fine Arts",
             settings: settings,
             index: 2,
           ),
-          // CheckboxExample(
-          //   displayedText: "Sigma3",
-          //   settings: settings,
-          //   index: 3,
-          // ),
+          CheckboxExample(
+            displayedText: "Geography",
+            settings: settings,
+            index: 3,
+          ),
+          CheckboxExample(
+            displayedText: "History",
+            settings: settings,
+            index: 4,
+          ),
+          CheckboxExample(
+            displayedText: "Lyterature",
+            settings: settings,
+            index: 5,
+          ),
+          CheckboxExample(
+            displayedText: "Mythology",
+            settings: settings,
+            index: 6,
+          ),
+          CheckboxExample(
+            displayedText: "Other Academic Subjects",
+            settings: settings,
+            index: 7,
+          ),
+          CheckboxExample(
+            displayedText: "Philosophy",
+            settings: settings,
+            index: 8,
+          ),
+          CheckboxExample(
+            displayedText: "Religion",
+            settings: settings,
+            index: 9,
+          ),
+          CheckboxExample(
+            displayedText: "Science",
+            settings: settings,
+            index: 10,
+          ),
+          CheckboxExample(
+            displayedText: "Trash",
+            settings: settings,
+            index: 11,
+          ),
+          CheckboxExample(
+            displayedText: "Social Science",
+            settings: settings,
+            index: 12,
+          ),
 
           Divider(),
           ElevatedButton(
@@ -195,7 +240,21 @@ class SettingsModel with ChangeNotifier {
   bool _darkMode = false;
   double _textSize = 16.0;
   bool _notificationsEnabled = true;
-  final List<String> categories = ["allCats", "lit", "sci"];
+  final List<String> categories = [
+    "allCats",
+    "currEv",
+    "finArts",
+    "geo",
+    "hist",
+    "lit",
+    "myth",
+    "otherAc",
+    "philo",
+    "relig",
+    "sci",
+    "shit",
+    "socSci"
+  ];
   List<String> catSelected = ["allCats"];
 
   bool get darkMode => _darkMode;
