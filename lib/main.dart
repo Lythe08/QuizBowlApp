@@ -20,7 +20,7 @@ void main() {
       child: MyApp(),
     ),
   );
-  Question.loadJsonAsset(["data"]);
+  Question.loadJsonAsset(["allCats"]);
 }
 
 class MyApp extends StatefulWidget {
@@ -162,7 +162,7 @@ class SettingsPage extends StatelessWidget {
             index: 0,
           ),
           CheckboxExample(
-            displayedText: "Sigma",
+            displayedText: "Literature",
             settings: settings,
             index: 1,
           ),
@@ -195,8 +195,8 @@ class SettingsModel with ChangeNotifier {
   bool _darkMode = false;
   double _textSize = 16.0;
   bool _notificationsEnabled = true;
-  final List<String> categories = ["data", "sigma", "sigma"];
-  List<String> catSelected = ["data"];
+  final List<String> categories = ["allCats", "lit", "sigma"];
+  List<String> catSelected = ["allCats"];
 
   bool get darkMode => _darkMode;
   double get textSize => _textSize;
