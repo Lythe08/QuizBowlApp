@@ -75,19 +75,7 @@ flutter_launcher_icons:
 # The following section is specific to Flutter packages.
 flutter:
   assets:
-    - assets/allCats.json
-    - assets/lit.json
-    - assets/hist.json
-    - assets/sci.json
-    - assets/finArts.json
-    - assets/relig.json
-    - assets/myth.json
-    - assets/philo.json
-    - assets/socSci.json
-    - assets/currEv.json
-    - assets/geo.json
-    - assets/otherAc.json
-    - assets/shit.json
+    - assets/
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
