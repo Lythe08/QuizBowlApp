@@ -1,0 +1,611 @@
+{
+    "tossups": [
+        {
+            "_id": "666dc6c59f7c4cfdbd678475",
+            "question": "<b>The value “violet” is added to this theory in the Pati–Salam model. This theory cannot include the decay products of any R-parity-conserving theory’s LSP, which is a WIMP in the “minimal supersymmetric” version of this theory. Unobserved heavy neutrinos are implied by extending this theory with the type I </b>(“one”)<b> seesaw mechanism. This theory’s gauge interactions are explained by (*)</b> grand unified theories. This theory’s failure to explain gravitation could be resolved by the discovery of the graviton. Columns represent three “generations” of this theory in its representation as a four-by-four grid next to the Higgs boson. Three of the fundamental forces are explained by, for 10 points, what theory underlying particle physics?",
+            "question_sanitized": "The value \"violet\" is added to this theory in the Pati-Salam model. This theory cannot include the decay products of any R-parity-conserving theory's LSP, which is a WIMP in the \"minimal supersymmetric\" version of this theory. Unobserved heavy neutrinos are implied by extending this theory with the type I (\"one\") seesaw mechanism. This theory's gauge interactions are explained by (*) grand unified theories. This theory's failure to explain gravitation could be resolved by the discovery of the graviton. Columns represent three \"generations\" of this theory in its representation as a four-by-four grid next to the Higgs boson. Three of the fundamental forces are explained by, for 10 points, what theory underlying particle physics?",
+            "answer": "<b><u>Standard Model</u></b> [prompt on <u>grand unified theorie</u>s or <u>GUT</u>s until “grand unified theories” is read by asking “on what theory is that theory based?”] (“LSP” stands for “lightest supersymmetric particle.”)",
+            "answer_sanitized": "Standard Model [prompt on grand unified theories or GUTs until \"grand unified theories\" is read by asking \"on what theory is that theory based?\"] (\"LSP\" stands for \"lightest supersymmetric particle.\")",
+            "updatedAt": "2024-06-15T16:52:21.088Z",
+            "category": "Science",
+            "subcategory": "Physics",
+            "number": 2,
+            "createdAt": "2024-06-15T16:52:21.088Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd678473",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678479",
+            "question": "<b>The Jominy </b>(“JAH-min-ee”) <b>end-quench test measures how much this property can be increased. This property is locally increased by precipitating nitrides at a metal’s surface. The strain-induced increase in this property is balanced by a loss of cross-sectional area when a material first necks. A martensitic transformation boosts this property by hundreds of Brinell. Work increases this property by rearranging a metal’s dislocations. (*)</b> Annealing decreases this property and increases ductility. Alloying iron to steel doubles this property, as estimated by the yield stress in an indentation test. Scratch tests compare this property to minerals like quartz and talc. For 10 points, name this property measured on the Mohs scale.",
+            "question_sanitized": "The Jominy (\"JAH-min-ee\") end-quench test measures how much this property can be increased. This property is locally increased by precipitating nitrides at a metal's surface. The strain-induced increase in this property is balanced by a loss of cross-sectional area when a material first necks. A martensitic transformation boosts this property by hundreds of Brinell. Work increases this property by rearranging a metal's dislocations. (*) Annealing decreases this property and increases ductility. Alloying iron to steel doubles this property, as estimated by the yield stress in an indentation test. Scratch tests compare this property to minerals like quartz and talc. For 10 points, name this property measured on the Mohs scale.",
+            "answer": "<b><u>hardness</u></b> [or <b><u>hardenability</u></b>; accept <b><u>hard</u></b>; accept <b><u>yield stress</u></b> or <b><u>tensile strength</u></b> or <b><u>tensile stress</u></b> until “yield stress” is read; prompt on <u>strength</u> or <u>toughness</u>; prompt on <u>Young’s modulus</u> or <u>shear modulus</u> or <u>bulk modulus</u> or <u>modulus</u> or <u>stiffness</u>; prompt on <u>stress</u> until “yield stress” is read]",
+            "answer_sanitized": "hardness [or hardenability; accept hard; accept yield stress or tensile strength or tensile stress until \"yield stress\" is read; prompt on strength or toughness; prompt on Young's modulus or shear modulus or bulk modulus or modulus or stiffness; prompt on stress until \"yield stress\" is read]",
+            "updatedAt": "2024-06-15T16:52:21.089Z",
+            "category": "Science",
+            "subcategory": "Chemistry",
+            "number": 6,
+            "createdAt": "2024-06-15T16:52:21.089Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd678473",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd67847f",
+            "question": "<b>The acronym “ESKAPE”</b> (“escape”)<b> lists species that exhibit this trait by expressing genes like </b><i><b>mcr1</b></i><b> or a metallo·enzyme named for New Delhi. BioBricks vectors are labelled A, C, K, or T based on the type of this trait they encode. In a 2016 time-lapse video, Michael Baym tracked the emergence of this trait caused by mutations to </b><i><b>dnaQ</b></i> (“D N A Q”)<b> across a meter-wide agar plate. This trait, encoded by genes like </b><i><b>bla</b></i> (“blah”)<b> or </b><i><b>tetM</b></i> (“tet M”)<b>, is (*)</b> spread between populations by horizontal gene transfer. This trait can be encoded by enzymes that degrade beta-lactams or pump out fluoro·quino·lones. Hospital-acquired infections are often caused by bacteria with this trait like MRSA (“MURR-suh”). For 10 points, name this trait of “superbugs” that are immune to some drugs.",
+            "question_sanitized": "The acronym \"ESKAPE\" (\"escape\") lists species that exhibit this trait by expressing genes like mcr1 or a metalloenzyme named for New Delhi. BioBricks vectors are labelled A, C, K, or T based on the type of this trait they encode. In a 2016 time-lapse video, Michael Baym tracked the emergence of this trait caused by mutations to dnaQ (\"D N A Q\") across a meter-wide agar plate. This trait, encoded by genes like bla (\"blah\") or tetM (\"tet M\"), is (*) spread between populations by horizontal gene transfer. This trait can be encoded by enzymes that degrade beta-lactams or pump out fluoroquinolones. Hospital-acquired infections are often caused by bacteria with this trait like MRSA (\"MURR-suh\"). For 10 points, name this trait of \"superbugs\" that are immune to some drugs.",
+            "answer": "<b><u>antibiotic resistance</u></b> [or <b><u>resistance</u></b> to <b><u>antibiotic</u></b>s; or <b><u>immunity</u></b> to <b><u>antibiotic</u></b>s; or <b><u>antimicrobial resistance</u></b> or <b><u>AMR</u></b>; or <b><u>antibacterial resistance</u></b>; accept <b><u>beta-lactam resistance</u></b> or <b><u>ampicillin resistance</u></b> or <b><u>kanamycin resistance</u></b> or <b><u>vancomycin resistance</u></b> or <b><u>methicillin resistance</u></b> or <b><u>methoprim resistance</u></b>; accept <b><u>drug resistance</u></b> until “drugs” is read and prompt on it afterwards; accept <b><u>superbug</u></b>s until it is read; prompt on <u>resistance</u> or <u>immunity</u> by asking, “To what?”; reject “antibiotic” or “antimicrobial” or “antibacterial” by itself]",
+            "answer_sanitized": "antibiotic resistance [or resistance to antibiotics; or immunity to antibiotics; or antimicrobial resistance or AMR; or antibacterial resistance; accept beta-lactam resistance or ampicillin resistance or kanamycin resistance or vancomycin resistance or methicillin resistance or methoprim resistance; accept drug resistance until \"drugs\" is read and prompt on it afterwards; accept superbugs until it is read; prompt on resistance or immunity by asking, \"To what?\"; reject \"antibiotic\" or \"antimicrobial\" or \"antibacterial\" by itself]",
+            "updatedAt": "2024-06-15T16:52:21.091Z",
+            "category": "Science",
+            "subcategory": "Biology",
+            "number": 12,
+            "createdAt": "2024-06-15T16:52:21.091Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd678473",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678483",
+            "question": "<b>These objects name natural transformations from a constant diagram to a diagram of the same shape, “universal” examples of which are category theoretic limits. Vector space subsets that are closed under positive scalar multiplication are named for these objects. In the standard parameterization of these objects, replacing the equation “</b><i><b>z</b></i><b> equals </b><i><b>r</b></i><b>” with “</b><i><b>z</b></i><b> equals theta”</b> <b>instead yields a helicoid. “Excesses” and “defects” are derived from these objects in the best-known work by (*)</b> Apollonius of Perga. Slicing a “double” one of these objects with a plane yields hyperbolas and parabolas as namesake “sections.” For 10 points, name these surfaces that contain a volume of one-third pi <i>r</i>-squared <i>h</i>.",
+            "question_sanitized": "These objects name natural transformations from a constant diagram to a diagram of the same shape, \"universal\" examples of which are category theoretic limits. Vector space subsets that are closed under positive scalar multiplication are named for these objects. In the standard parameterization of these objects, replacing the equation \"z equals r\" with \"z equals theta\" instead yields a helicoid. \"Excesses\" and \"defects\" are derived from these objects in the best-known work by (*) Apollonius of Perga. Slicing a \"double\" one of these objects with a plane yields hyperbolas and parabolas as namesake \"sections.\" For 10 points, name these surfaces that contain a volume of one-third pi r-squared h.",
+            "answer": "<b><u>cone</u></b>s [accept <b><u>cone</u></b> of a functor or <b><u>cone</u></b>s of a functor or universal <b><u>cone</u></b>s or <i><b><u>Conics</u></b></i> or <b><u>conic</u></b> sections or double <b><u>cone</u></b>s; prompt on <u>nappe</u> by asking, “What is the name of a single nappe?”] (The words “hyperbola” and “ellipse” come from the Ancient Greek words for “excess” and “defect,” respectively.)",
+            "answer_sanitized": "cones [accept cone of a functor or cones of a functor or universal cones or Conics or conic sections or double cones; prompt on nappe by asking, \"What is the name of a single nappe?\"] (The words \"hyperbola\" and \"ellipse\" come from the Ancient Greek words for \"excess\" and \"defect,\" respectively.)",
+            "updatedAt": "2024-06-15T16:52:21.092Z",
+            "category": "Science",
+            "subcategory": "Other Science",
+            "alternate_subcategory": "Math",
+            "number": 16,
+            "createdAt": "2024-06-15T16:52:21.092Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd678473",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784a3",
+            "question": "<b>The 2023 discovery of these proteins’ N-terminal helix-loop-helix-loop-helix motif in </b><i><b>Bdellovibrio</b></i> (“DELL-oh-VIH-bree-oh”)<b> finally confirmed that bacteria make them. Post-translational “marks” on these proteins like K9me3 </b>(“K nine M E three”)<b> are detected by ChIP-seq </b>(“chip-seek”)<b>. Unless they are amidated, these proteins provide the attractive electrostatic potential that holds together the 30-nanometer fiber. Lysines are alternately (*)</b> acetylated and de-acetylated in the “code” of these proteins during genomic imprinting. The tails of these proteins are rich in basic amino acids that neutralize the negative charge of a sugar-phosphate backbone. These proteins form octamers at the core of a nucleosome. For 10 points, name these proteins that DNA wraps around in chromatin.",
+            "question_sanitized": "The 2023 discovery of these proteins' N-terminal helix-loop-helix-loop-helix motif in Bdellovibrio (\"DELL-oh-VIH-bree-oh\") finally confirmed that bacteria make them. Post-translational \"marks\" on these proteins like K9me3 (\"K nine M E three\") are detected by ChIP-seq (\"chip-seek\"). Unless they are amidated, these proteins provide the attractive electrostatic potential that holds together the 30-nanometer fiber. Lysines are alternately (*) acetylated and de-acetylated in the \"code\" of these proteins during genomic imprinting. The tails of these proteins are rich in basic amino acids that neutralize the negative charge of a sugar-phosphate backbone. These proteins form octamers at the core of a nucleosome. For 10 points, name these proteins that DNA wraps around in chromatin.",
+            "answer": "<b><u>histone</u></b>s",
+            "answer_sanitized": "histones",
+            "updatedAt": "2024-06-15T16:52:21.338Z",
+            "category": "Science",
+            "subcategory": "Biology",
+            "number": 5,
+            "createdAt": "2024-06-15T16:52:21.338Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67849e",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784a7",
+            "question": "<b>A combined form of this quantity equals one-half for phase space quadratures. States with a value for this quantity below that of the ground state have elliptical phase space distributions that appear “squeezed.” A bound on a combined form of this quantity equals one-half times the norm of the expectation value of a (*) </b>commutator of two operators. This quantity for an operator equals the square root of the difference between its expectation value squared and the square of its expectation value. Because the product of this quantity for <i>x</i> and <i>p</i> is bounded below by <i>h</i>-bar over two, one can never simultaneously know the position and momentum of a particle. For 10 points, name this quantity described in a principle derived by Heisenberg.",
+            "question_sanitized": "A combined form of this quantity equals one-half for phase space quadratures. States with a value for this quantity below that of the ground state have elliptical phase space distributions that appear \"squeezed.\" A bound on a combined form of this quantity equals one-half times the norm of the expectation value of a (*) commutator of two operators. This quantity for an operator equals the square root of the difference between its expectation value squared and the square of its expectation value. Because the product of this quantity for x and p is bounded below by h-bar over two, one can never simultaneously know the position and momentum of a particle. For 10 points, name this quantity described in a principle derived by Heisenberg.",
+            "answer": "<b><u>uncertainty</u></b> [accept <b><u>standard deviation</u></b> or <b><u>variance</u></b>; accept answers describing a lower <b><u>bound</u></b> on a <b><u>product</u></b> of two <b><u>uncertainties</u></b> or a lower <b><u>bound</u></b> on <b><u>uncertainty</u></b>; accept <b><u>standard deviation</u></b> or <b><u>variance</u></b> in place of “uncertainty” in relation to lower bounds; accept Heisenberg <b><u>uncertainty</u></b> principle; prompt on <u>sigma</u> or <u>sigma-square</u>d] (The lead-in describes the lower bound in the generalized uncertainty principle for a pair of phase space quadratures.)",
+            "answer_sanitized": "uncertainty [accept standard deviation or variance; accept answers describing a lower bound on a product of two uncertainties or a lower bound on uncertainty; accept standard deviation or variance in place of \"uncertainty\" in relation to lower bounds; accept Heisenberg uncertainty principle; prompt on sigma or sigma-squared] (The lead-in describes the lower bound in the generalized uncertainty principle for a pair of phase space quadratures.)",
+            "updatedAt": "2024-06-15T16:52:21.338Z",
+            "category": "Science",
+            "subcategory": "Physics",
+            "number": 9,
+            "createdAt": "2024-06-15T16:52:21.338Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67849e",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784ab",
+            "question": "<b>Conflict with JEDEC standards for this hardware component caused a company co-founded by Mark Horowitz to sue many of its competitors before losing market dominance in the aughts. This component can be composed of a grid of word lines and bit lines connected to sense amplifiers. A DIMM </b>(“DIM”) <b>holds two instances of this component “in-line.” In 2020, a new alignment key for this component’s 288 pins was released with the fifth generation of its “double data rate,” or (*)</b> DDR5. Heat sinks lay flush with “sticks” of this component. Primary storage is typically implemented with this component, in contrast to secondary storage in the hard drive. For 10 points, name this hardware component that temporarily stores volatile data.",
+            "question_sanitized": "Conflict with JEDEC standards for this hardware component caused a company co-founded by Mark Horowitz to sue many of its competitors before losing market dominance in the aughts. This component can be composed of a grid of word lines and bit lines connected to sense amplifiers. A DIMM (\"DIM\") holds two instances of this component \"in-line.\" In 2020, a new alignment key for this component's 288 pins was released with the fifth generation of its \"double data rate,\" or (*) DDR5. Heat sinks lay flush with \"sticks\" of this component. Primary storage is typically implemented with this component, in contrast to secondary storage in the hard drive. For 10 points, name this hardware component that temporarily stores volatile data.",
+            "answer": "<b><u>RAM</u></b> [or D<b><u>RAM</u></b> or SD<b><u>RAM</u></b> or S<b><u>RAM</u></b> or <b><u>random access memory</u></b> or dynamic <b><u>RAM</u></b> or synchronous dynamic <b><u>RAM</u></b> or static <b><u>random access memory</u></b> or <b><u>RAM</u></b> sticks; prompt on <u>memory</u> storage or <u>memory module</u> or <u>memory</u> chips; prompt on <u>storage</u> until read; reject “SRAM” or “static RAM”] (Mark Horowitz co-founded Rambus, Inc.)",
+            "answer_sanitized": "RAM [or DRAM or SDRAM or SRAM or random access memory or dynamic RAM or synchronous dynamic RAM or static random access memory or RAM sticks; prompt on memory storage or memory module or memory chips; prompt on storage until read; reject \"SRAM\" or \"static RAM\"] (Mark Horowitz co-founded Rambus, Inc.)",
+            "updatedAt": "2024-06-15T16:52:21.339Z",
+            "category": "Science",
+            "subcategory": "Other Science",
+            "alternate_subcategory": "Computer Science",
+            "number": 13,
+            "createdAt": "2024-06-15T16:52:21.339Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67849e",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784b1",
+            "question": "<b>During hydrotreatment, this element is removed from hydrocarbons using Raney </b>(“ranny”)<b> nickel, which allows refineries to reform naphtha </b>(“NAP-tha”)<b> fuels. Gypsum is made by scrubbing oxides of this element out of flue gas. Oxides of this element are injected into the stratosphere to form aerosols in a solar geoengineering strategy inspired by volcanic winters. This nonmetal is at the octahedral center of the most potent (*)</b> greenhouse gas. On Earth, this element’s oxidation state cycles between minus-two, in minerals like galena and pyrite, up to plus-six, after it is oxidized by oceanic chemo·lithotrophs. Polluting oxides of nitrogen or this element produce acid rain. For 10 points, a gas containing what element makes bogs smell eggy?",
+            "question_sanitized": "During hydrotreatment, this element is removed from hydrocarbons using Raney (\"ranny\") nickel, which allows refineries to reform naphtha (\"NAP-tha\") fuels. Gypsum is made by scrubbing oxides of this element out of flue gas. Oxides of this element are injected into the stratosphere to form aerosols in a solar geoengineering strategy inspired by volcanic winters. This nonmetal is at the octahedral center of the most potent (*) greenhouse gas. On Earth, this element's oxidation state cycles between minus-two, in minerals like galena and pyrite, up to plus-six, after it is oxidized by oceanic chemolithotrophs. Polluting oxides of nitrogen or this element produce acid rain. For 10 points, a gas containing what element makes bogs smell eggy?",
+            "answer": "<b><u>sulfur</u></b> [or <b><u>sulphur</u></b>; or <b><u>S</u></b>]",
+            "answer_sanitized": "sulfur [or sulphur; or S]",
+            "updatedAt": "2024-06-15T16:52:21.339Z",
+            "category": "Science",
+            "subcategory": "Chemistry",
+            "number": 19,
+            "createdAt": "2024-06-15T16:52:21.339Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67849e",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784b3",
+            "question": "<b>Deformities of this structure are measured by the Cobb angle. When it’s not in the lungs, tuberculosis infects this structure in Pott’s disease and collapses its gelatinous nuclei pulposi, which are surrounded by fibrous annuli. This structure’s C-shaped bend alternates between lordotic and kyphotic. This structure bifurcates in a birth defect often caused by folate deficiency. In order, this structure’s (*)</b> bones are labeled C1 to C7, then T1 to T12, L1 to L5, and S1 to S5. Floating ribs are attached to this structure but not the sternum. In a lumbar puncture, CSF is tapped from a cavity inside this structure. For 10 points, stacks of vertebrae and discs form what flexible structure which encloses a cord of nervous tissue?",
+            "question_sanitized": "Deformities of this structure are measured by the Cobb angle. When it's not in the lungs, tuberculosis infects this structure in Pott's disease and collapses its gelatinous nuclei pulposi, which are surrounded by fibrous annuli. This structure's C-shaped bend alternates between lordotic and kyphotic. This structure bifurcates in a birth defect often caused by folate deficiency. In order, this structure's (*) bones are labeled C1 to C7, then T1 to T12, L1 to L5, and S1 to S5. Floating ribs are attached to this structure but not the sternum. In a lumbar puncture, CSF is tapped from a cavity inside this structure. For 10 points, stacks of vertebrae and discs form what flexible structure which encloses a cord of nervous tissue?",
+            "answer": "<b><u>spine</u></b> [or <b><u>spinal</u></b> column; accept <b><u>spinal</u></b> cord; accept <b><u>vertebra</u></b>l column or <b><u>vertebra</u></b>e until “vertebrae” is read]",
+            "answer_sanitized": "spine [or spinal column; accept spinal cord; accept vertebral column or vertebrae until \"vertebrae\" is read]",
+            "updatedAt": "2024-06-15T16:52:21.339Z",
+            "category": "Science",
+            "subcategory": "Biology",
+            "number": 21,
+            "createdAt": "2024-06-15T16:52:21.339Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67849e",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784ca",
+            "question": "<b>I·COLLs are “intermittently closed” to sources of high values for this quantity. The viral shunt recycles organic matter in systems with high values for this abiotic quantity. Densities characterize the Ghyben–Herzberg relation’s description of “intrusion” by components with high values for this quantity, which may take the form of “wedges” that go against the flow. Systems characterized by intermediate values of this quantity can prevent its increase by being “bar-built.” (*)</b> Estuaries feature gradients of this quantity that increase towards the mouth. Gradients of temperature and this quantity drive thermohaline circulation. For 10 points, name this quantity that is intermediate in brackish water and high in seawater.",
+            "question_sanitized": "ICOLLs are \"intermittently closed\" to sources of high values for this quantity. The viral shunt recycles organic matter in systems with high values for this abiotic quantity. Densities characterize the Ghyben-Herzberg relation's description of \"intrusion\" by components with high values for this quantity, which may take the form of \"wedges\" that go against the flow. Systems characterized by intermediate values of this quantity can prevent its increase by being \"bar-built.\" (*) Estuaries feature gradients of this quantity that increase towards the mouth. Gradients of temperature and this quantity drive thermohaline circulation. For 10 points, name this quantity that is intermediate in brackish water and high in seawater.",
+            "answer": "<b><u>salinity</u></b> [or <b><u>salt concentration</u></b> or <b><u>salt content</u></b>]",
+            "answer_sanitized": "salinity [or salt concentration or salt content]",
+            "updatedAt": "2024-06-15T16:52:21.512Z",
+            "category": "Science",
+            "subcategory": "Other Science",
+            "alternate_subcategory": "Earth Science",
+            "number": 1,
+            "createdAt": "2024-06-15T16:52:21.512Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784c9",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784cf",
+            "question": "<b>Deriving the electromagnetic wave equation involves the successive application of this statement and a similar statement that features a negative term. Taking the curl of a curl in an equation derived from the Biot–Savart law yields this statement under the magnetostatic approximation. A term equal to the change in the electric displacement field over time was (*)</b> added to this statement by Maxwell. This statement equates [read slowly] “<i>J</i>-sub-<i>f</i> plus <i>d</i>-capital <i>D</i>-<i>d</i>-<i>t</i> with the curl of the H-field.” This statement relates the line integral along a curve through a magnetic field to its enclosed electric current. For 10 points, identify this law in Maxwell’s equations that was devised by the namesake of the SI unit of electric current.",
+            "question_sanitized": "Deriving the electromagnetic wave equation involves the successive application of this statement and a similar statement that features a negative term. Taking the curl of a curl in an equation derived from the Biot-Savart law yields this statement under the magnetostatic approximation. A term equal to the change in the electric displacement field over time was (*) added to this statement by Maxwell. This statement equates [read slowly] \"J-sub-f plus d-capital D-d-t with the curl of the H-field.\" This statement relates the line integral along a curve through a magnetic field to its enclosed electric current. For 10 points, identify this law in Maxwell's equations that was devised by the namesake of the SI unit of electric current.",
+            "answer": "<b><u>Ampère</u></b>’s circuital <b><u>law</u></b> [or <b><u>Ampère</u></b>–Maxwell <b><u>law</u></b>; accept just “<b><u>Ampère</u></b>’s” after “law” is read; reject “Ampère's force law”] (The “similar statement” is Faraday’s law of induction.)",
+            "answer_sanitized": "Ampere's circuital law [or Ampere-Maxwell law; accept just \"Ampere's\" after \"law\" is read; reject \"Ampere's force law\"] (The \"similar statement\" is Faraday's law of induction.)",
+            "updatedAt": "2024-06-15T16:52:21.513Z",
+            "category": "Science",
+            "subcategory": "Physics",
+            "number": 6,
+            "createdAt": "2024-06-15T16:52:21.513Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784c9",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784d6",
+            "question": "<b>The simultaneous cross-section for two of these particles is measured in units named for Maria Goeppert Mayer. Silicon quantum dots are sources of these particles. Marvin Minsky invented a device that fires these particles at planes through a pinhole to minimize the point spread function. Bleaching and quenching reduce these particles’ quantum efficiency so they’re harder to detect with (*)</b> CCDs. In super-resolution techniques, these particles measure distances shorter than their 100-nanometer Abbé (“uh-BAY”) limit. Halogens react with tungsten filaments to provide these particles, which are absorbed and then re-emitted when a molecule fluoresces. For 10 points, name these particles provided by a microscope’s light source.",
+            "question_sanitized": "The simultaneous cross-section for two of these particles is measured in units named for Maria Goeppert Mayer. Silicon quantum dots are sources of these particles. Marvin Minsky invented a device that fires these particles at planes through a pinhole to minimize the point spread function. Bleaching and quenching reduce these particles' quantum efficiency so they're harder to detect with (*) CCDs. In super-resolution techniques, these particles measure distances shorter than their 100-nanometer Abbe (\"uh-BAY\") limit. Halogens react with tungsten filaments to provide these particles, which are absorbed and then re-emitted when a molecule fluoresces. For 10 points, name these particles provided by a microscope's light source.",
+            "answer": "<b><u>photon</u></b>s [prompt on <u>boson</u>s or <u>gauge boson</u>s; prompt on <u>radiation</u> or <u>light</u>]",
+            "answer_sanitized": "photons [prompt on bosons or gauge bosons; prompt on radiation or light]",
+            "updatedAt": "2024-06-15T16:52:21.513Z",
+            "category": "Science",
+            "subcategory": "Chemistry",
+            "number": 13,
+            "createdAt": "2024-06-15T16:52:21.513Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784c9",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784da",
+            "question": "<b>Organisms with this trait synthesize a properly spliced transcript of the </b><i><b>transformer</b></i><b> gene by expressing the Sxl </b>(“S-X-L”)<b> protein. </b><i><b>Wolbachia</b></i> (“woll-BACK-ee-uh”)<b> infection drives up the number of mosquitoes that possess this trait, since only they are diploid. In mammals with this trait, dosage compensation is controlled by two long noncoding RNAs that coat DNA called Tsix </b>(“T-six”)<b> and (*)</b> Xist (“X-ist”). Only <i>Drosophila</i> with this trait can be heterozygous for eye color. Mary Lyon explained how calico cats with this trait form Barr bodies. Humans with this trait are represented by circles on pedigrees and can be unaffected carriers of the allele for color blindness. For 10 points, having two X and no Y chromosomes corresponds to what biological trait in humans?",
+            "question_sanitized": "Organisms with this trait synthesize a properly spliced transcript of the transformer gene by expressing the Sxl (\"S-X-L\") protein. Wolbachia (\"woll-BACK-ee-uh\") infection drives up the number of mosquitoes that possess this trait, since only they are diploid. In mammals with this trait, dosage compensation is controlled by two long noncoding RNAs that coat DNA called Tsix (\"T-six\") and (*) Xist (\"X-ist\"). Only Drosophila with this trait can be heterozygous for eye color. Mary Lyon explained how calico cats with this trait form Barr bodies. Humans with this trait are represented by circles on pedigrees and can be unaffected carriers of the allele for color blindness. For 10 points, having two X and no Y chromosomes corresponds to what biological trait in humans?",
+            "answer": "<b><u>female</u></b> [or biological <b><u>female</u></b>ness; accept <b><u>XX</u></b> until “two X” is read; prompt on <u>women</u> or <u>girl</u>s; prompt on <u>sex</u>; prompt on <u>diploid</u> until it is read]",
+            "answer_sanitized": "female [or biological femaleness; accept XX until \"two X\" is read; prompt on women or girls; prompt on sex; prompt on diploid until it is read]",
+            "updatedAt": "2024-06-15T16:52:21.513Z",
+            "category": "Science",
+            "subcategory": "Biology",
+            "number": 17,
+            "createdAt": "2024-06-15T16:52:21.513Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784c9",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784f9",
+            "question": "<b>A form of this quantity for a galaxy equals an observed form of this quantity over the sine of inclination. This quantity is measured via the tangent-point method at distances less than the galactocentric radius. Inferring this quantity from spectral line width enables estimation of a galaxy’s luminosity with the (*)</b> Tully–Fisher relation. This quantity’s deviation from a Keplerian profile is evidence for dark matter, as shown on the vertical axis of galaxy rotation curves. Hubble’s law equates a form of this quantity with Hubble’s constant times proper distance. Changes in frequency depend on relative values of this quantity in the Doppler effect. For 10 points, name this quantity measured in kilometers per second.",
+            "question_sanitized": "A form of this quantity for a galaxy equals an observed form of this quantity over the sine of inclination. This quantity is measured via the tangent-point method at distances less than the galactocentric radius. Inferring this quantity from spectral line width enables estimation of a galaxy's luminosity with the (*) Tully-Fisher relation. This quantity's deviation from a Keplerian profile is evidence for dark matter, as shown on the vertical axis of galaxy rotation curves. Hubble's law equates a form of this quantity with Hubble's constant times proper distance. Changes in frequency depend on relative values of this quantity in the Doppler effect. For 10 points, name this quantity measured in kilometers per second.",
+            "answer": "<b><u>velocity</u></b> [accept rotational <b><u>velocity</u></b> or recession <b><u>velocity</u></b> or recessional <b><u>velocity</u></b> or radial <b><u>velocity</u></b>; prompt on <i><u>v</u></i>; prompt on <u>speed</u> or rotational orbital <u>speed</u>; reject “angular velocity”] (The lead-in describes rotational velocity as observed radial velocity over the sine of inclination.)",
+            "answer_sanitized": "velocity [accept rotational velocity or recession velocity or recessional velocity or radial velocity; prompt on v; prompt on speed or rotational orbital speed; reject \"angular velocity\"] (The lead-in describes rotational velocity as observed radial velocity over the sine of inclination.)",
+            "updatedAt": "2024-06-15T16:52:21.687Z",
+            "category": "Science",
+            "subcategory": "Other Science",
+            "alternate_subcategory": "Astronomy",
+            "number": 5,
+            "createdAt": "2024-06-15T16:52:21.687Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784f4",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784fd",
+            "question": "<b>Henrietta Lacks’s doctor George Gey popularized the </b><i><b>in vitro</b></i><b> use of this protein harvested from rat tails. The letter “O” is unusually common in this protein’s one-letter amino acid sequence. This protein’s type I </b>(“one”)<b> isoform is used to coat cell culture plates. Matrigel is a mixture of this protein with laminin that mimics a basement membrane by adhering to (*)</b> integrins. G. N. Ramachandran proved this protein is a right-handed helix of three left-handed glycine-rich helices. Cells need vitamin C to make this protein’s numerous hydroxy·proline residues. Fibers of this protein guarantee the stiffness of the extracellular matrix. For 10 points, name this component of connective tissue, the most common protein in humans.",
+            "question_sanitized": "Henrietta Lacks's doctor George Gey popularized the in vitro use of this protein harvested from rat tails. The letter \"O\" is unusually common in this protein's one-letter amino acid sequence. This protein's type I (\"one\") isoform is used to coat cell culture plates. Matrigel is a mixture of this protein with laminin that mimics a basement membrane by adhering to (*) integrins. G. N. Ramachandran proved this protein is a right-handed helix of three left-handed glycine-rich helices. Cells need vitamin C to make this protein's numerous hydroxyproline residues. Fibers of this protein guarantee the stiffness of the extracellular matrix. For 10 points, name this component of connective tissue, the most common protein in humans.",
+            "answer": "<b><u>collagen</u></b> [or <b><u>collagen</u></b> IV or <b><u>collagen</u></b> I] (O is the one-letter symbol for hydroxyproline.)",
+            "answer_sanitized": "collagen [or collagen IV or collagen I] (O is the one-letter symbol for hydroxyproline.)",
+            "updatedAt": "2024-06-15T16:52:21.687Z",
+            "category": "Science",
+            "subcategory": "Biology",
+            "number": 9,
+            "createdAt": "2024-06-15T16:52:21.687Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784f4",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784ff",
+            "question": "<b>The study of this class of particles motivates C·A·R algebras, which complement CCR algebras. The Hubbard model features a lattice of this class of particles. The antisymmetric wave functions of these particles cause them to be described by anti-commuting fields in the spin–statistics theorem. Examples of these particles that behave as their own antiparticles were hypothesized by Ettore Majorana. Baryons (*)</b> exemplify the “composite” type of these particles whose “elementary” type is exemplified by quarks and leptons. The Pauli exclusion principle applies to these particles, which have half-integer spin. For 10 points, name these particles that are contrasted with bosons and named for an Italian physicist.",
+            "question_sanitized": "The study of this class of particles motivates CAR algebras, which complement CCR algebras. The Hubbard model features a lattice of this class of particles. The antisymmetric wave functions of these particles cause them to be described by anti-commuting fields in the spin-statistics theorem. Examples of these particles that behave as their own antiparticles were hypothesized by Ettore Majorana. Baryons (*) exemplify the \"composite\" type of these particles whose \"elementary\" type is exemplified by quarks and leptons. The Pauli exclusion principle applies to these particles, which have half-integer spin. For 10 points, name these particles that are contrasted with bosons and named for an Italian physicist.",
+            "answer": "<b><u>fermion</u></b>s [accept Majorana <b><u>fermion</u></b>s; prompt on <u>neutrino</u>s or <u>electron</u>s or <u>quark</u>s or <u>lepton</u>s by asking “what broader class of particles does that belong to?”; allow players to receive this prompt multiple times]",
+            "answer_sanitized": "fermions [accept Majorana fermions; prompt on neutrinos or electrons or quarks or leptons by asking \"what broader class of particles does that belong to?\"; allow players to receive this prompt multiple times]",
+            "updatedAt": "2024-06-15T16:52:21.688Z",
+            "category": "Science",
+            "subcategory": "Physics",
+            "number": 11,
+            "createdAt": "2024-06-15T16:52:21.688Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784f4",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678508",
+            "question": "<b>These compounds migrate and insert into a carbon-zirconium bond in the propagation step of a Kaminsky catalyst. These compounds are the oxidation products when a free radical polymer</b> <b>disproportionates. Catalytic cracking is used to produce these short-chain molecules at an oil refinery. These compounds coordinate aluminum to form vinyl cations that eliminate a beta-hydride in the mechanism of a (*)</b> Ziegler–Natta catalyst. The kinked chain of an unsaturated fatty acid is one of these compounds. Industrial plastics like PVC or PE are polymers of these compounds, which have formulas of the form “C n H two n.” For 10 points, name these compounds that react together to form poly·olefins and have a carbon-carbon double bond.",
+            "question_sanitized": "These compounds migrate and insert into a carbon-zirconium bond in the propagation step of a Kaminsky catalyst. These compounds are the oxidation products when a free radical polymer disproportionates. Catalytic cracking is used to produce these short-chain molecules at an oil refinery. These compounds coordinate aluminum to form vinyl cations that eliminate a beta-hydride in the mechanism of a (*) Ziegler-Natta catalyst. The kinked chain of an unsaturated fatty acid is one of these compounds. Industrial plastics like PVC or PE are polymers of these compounds, which have formulas of the form \"C n H two n.\" For 10 points, name these compounds that react together to form polyolefins and have a carbon-carbon double bond.",
+            "answer": "<b><u>alkene</u></b>s (“al-KEENS”) [or <b><u>polyalkene</u></b>s; accept<b><u>olefin</u></b>s or <b><u>polyolefin</u></b>s until it is read; prompt on <u>hydrocarbon</u>s; prompt on <u>monomer</u>s until it is read; prompt on <u>unsaturated</u> fatty acid or <u>fatty acid</u> until it is read; listen carefully and reject “alkanes” (“al-KANES”) or “alkynes” (“al-KINES”); reject “plastics”]",
+            "answer_sanitized": "alkenes (\"al-KEENS\") [or polyalkenes; acceptolefins or polyolefins until it is read; prompt on hydrocarbons; prompt on monomers until it is read; prompt on unsaturated fatty acid or fatty acid until it is read; listen carefully and reject \"alkanes\" (\"al-KANES\") or \"alkynes\" (\"al-KINES\"); reject \"plastics\"]",
+            "updatedAt": "2024-06-15T16:52:21.688Z",
+            "category": "Science",
+            "subcategory": "Chemistry",
+            "number": 20,
+            "createdAt": "2024-06-15T16:52:21.688Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784f4",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678520",
+            "question": "<b>When this quantity is infinite, an object named for Hamel </b>(“HAHM-uhl”)<b> may be replaced by one named for Schauder </b>(“SHAO-der”)<b>. This quantity for the degree-</b><i><b>k</b></i><b> exterior algebra of </b><i><b>X</b></i><b> equals this quantity for </b><i><b>X</b></i><b>,</b> <b>choose </b><i><b>k</b></i><b>. Two values for this quantity, rank and nullity, sum to this quantity for the domain of a linear transformation. The (*)</b> “Minkowski–Bouligand” (“min-COW-ski boo-lee-GAHND”) form of this quantity is alternatively named for counting boxes. This quantity equals the cardinality of a basis set. This quantity’s “Hausdorff” form describes the coastline of England’s “fractional” value of this quantity, which characterizes fractals. This quantity equals the number of coordinates in Euclidean space. For 10 points, name this integer geometric quantity denoted <i>d</i>.",
+            "question_sanitized": "When this quantity is infinite, an object named for Hamel (\"HAHM-uhl\") may be replaced by one named for Schauder (\"SHAO-der\"). This quantity for the degree-k exterior algebra of X equals this quantity for X, choose k. Two values for this quantity, rank and nullity, sum to this quantity for the domain of a linear transformation. The (*) \"Minkowski-Bouligand\" (\"min-COW-ski boo-lee-GAHND\") form of this quantity is alternatively named for counting boxes. This quantity equals the cardinality of a basis set. This quantity's \"Hausdorff\" form describes the coastline of England's \"fractional\" value of this quantity, which characterizes fractals. This quantity equals the number of coordinates in Euclidean space. For 10 points, name this integer geometric quantity denoted d.",
+            "answer": "<b><u>dimension</u></b> [accept Minkowski–Bouligand <b><u>dimension</u></b> or Minkowski <b><u>dimension</u></b> or box-counting <b><u>dimension</u></b> or fractional <b><u>dimension</u></b> or fractal <b><u>dimension</u></b>; prompt on <u>cardinality</u> of a basis set before “cardinality” is read by asking “what quantity is defined as the cardinality of a basis set?”; prompt on number of <u>column</u>s of a matrix] (For a vector space with uncountably infinite dimension, a basis can be referred to as a “Hamel basis,” in contrast to Schauder bases, which do not satisfy the standard requirements for a basis, but are countable.)",
+            "answer_sanitized": "dimension [accept Minkowski-Bouligand dimension or Minkowski dimension or box-counting dimension or fractional dimension or fractal dimension; prompt on cardinality of a basis set before \"cardinality\" is read by asking \"what quantity is defined as the cardinality of a basis set?\"; prompt on number of columns of a matrix] (For a vector space with uncountably infinite dimension, a basis can be referred to as a \"Hamel basis,\" in contrast to Schauder bases, which do not satisfy the standard requirements for a basis, but are countable.)",
+            "updatedAt": "2024-06-15T16:52:21.853Z",
+            "category": "Science",
+            "subcategory": "Other Science",
+            "alternate_subcategory": "Math",
+            "number": 1,
+            "createdAt": "2024-06-15T16:52:21.853Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67851f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678525",
+            "question": "<b>These devices are</b> <b>“tuned” with signal recycling, which was first implemented in GEO600. Noise curves for these devices plot frequency versus strain measured in inverse-square root hertz.</b> <b>A 2015 “Advanced” expansion to some of these devices added transduction from a type of these devices in which a cavity is formed between two moveable wedged optical flats. The Fabry–Pérot etalon is a type of these devices. A sandstone block in a pool of mercury was central to one of these devices at (*)</b> Case Western Reserve. The existence of the luminiferous aether was debunked with one of these devices by Michelson and Morley. For 10 points, name these devices that measure a namesake optical phenomenon and are the “I” in “LIGO.”",
+            "question_sanitized": "These devices are \"tuned\" with signal recycling, which was first implemented in GEO600. Noise curves for these devices plot frequency versus strain measured in inverse-square root hertz. A 2015 \"Advanced\" expansion to some of these devices added transduction from a type of these devices in which a cavity is formed between two moveable wedged optical flats. The Fabry-Perot etalon is a type of these devices. A sandstone block in a pool of mercury was central to one of these devices at (*) Case Western Reserve. The existence of the luminiferous aether was debunked with one of these devices by Michelson and Morley. For 10 points, name these devices that measure a namesake optical phenomenon and are the \"I\" in \"LIGO.\"",
+            "answer": "<b><u>interferometer</u></b>s [accept laser <b><u>interferometer</u></b>s; accept Fabry–Pérot <b><u>interferometer</u></b>s; accept Laser <b><u>Interferometer</u></b> Gravitational-Wave Observatory; prompt on gravitational <u>wave detector</u>s by asking “what device is central to gravitational wave detectors?”; prompt on <u>LIGO</u> before read by asking “what device is central to LIGO?”; prompt on <u>laser</u>s by asking “in what devices are lasers being used?”; prompt on Fabry–Pérot <u>etalon</u>s] (Advanced LIGO was completed in 2015.)",
+            "answer_sanitized": "interferometers [accept laser interferometers; accept Fabry-Perot interferometers; accept Laser Interferometer Gravitational-Wave Observatory; prompt on gravitational wave detectors by asking \"what device is central to gravitational wave detectors?\"; prompt on LIGO before read by asking \"what device is central to LIGO?\"; prompt on lasers by asking \"in what devices are lasers being used?\"; prompt on Fabry-Perot etalons] (Advanced LIGO was completed in 2015.)",
+            "updatedAt": "2024-06-15T16:52:21.853Z",
+            "category": "Science",
+            "subcategory": "Physics",
+            "number": 6,
+            "createdAt": "2024-06-15T16:52:21.853Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67851f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd67852c",
+            "question": "<b>The heat of this process is the leftover background signal once binding is finished in isothermal titration calorimetry. Phase-separated helium isotopes cool a cryogenic refrigerator named for this process. At the infinite limit of this process, a chemical’s activity coefficient reaches a limiting value, its vapor pressure obeys Henry’s law, and its mole fraction approaches (*)</b> zero. An assay standard curve is prepared by performing this process serially in log-fold decrements, pipetting a stock from tube-to-tube. This process names the equation “C1 V1 equals C2 V2.” Colligative properties vanish as this general process is done, since it lowers molality. For 10 points, name this decrease in a solution’s concentration.",
+            "question_sanitized": "The heat of this process is the leftover background signal once binding is finished in isothermal titration calorimetry. Phase-separated helium isotopes cool a cryogenic refrigerator named for this process. At the infinite limit of this process, a chemical's activity coefficient reaches a limiting value, its vapor pressure obeys Henry's law, and its mole fraction approaches (*) zero. An assay standard curve is prepared by performing this process serially in log-fold decrements, pipetting a stock from tube-to-tube. This process names the equation \"C1 V1 equals C2 V2.\" Colligative properties vanish as this general process is done, since it lowers molality. For 10 points, name this decrease in a solution's concentration.",
+            "answer": "<b><u>dilution</u></b> [or <b><u>diluting</u></b>; or making it more <b><u>dilute</u></b>; prompt on <u>increasing volume</u> or <u>decreasing concentration</u> or <u>decreasing molarity</u>]",
+            "answer_sanitized": "dilution [or diluting; or making it more dilute; prompt on increasing volume or decreasing concentration or decreasing molarity]",
+            "updatedAt": "2024-06-15T16:52:21.853Z",
+            "category": "Science",
+            "subcategory": "Chemistry",
+            "number": 13,
+            "createdAt": "2024-06-15T16:52:21.853Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67851f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678530",
+            "question": "<b>Maze procedures coat this organ in a labyrinth of scar tissue. LVADs </b>(“ell-vads”)<b> are bridges to transplantation to this organ. St. Thomas’ solution is used to induce hyperkalemia before deep hypothermic surgery on this organ. It’s not the kidney, but in 2022, eGenesis transplanted this organ from a gene-edited pig into a human. CABG </b>(“cabbage”)<b> surgery is done on this organ. During surgeries to fix a bundle branch block or (*)</b> Tetralogy of Fallot in this organ, patients may be placed on a bypass machine. Christiaan Barnard performed the first human transplant of this organ. A balloon inflates the arteries that wrap around this organ in a coronary angioplasty. For 10 points, defects in which organ’s sinoatrial valve are corrected by a pacemaker?",
+            "question_sanitized": "Maze procedures coat this organ in a labyrinth of scar tissue. LVADs (\"ell-vads\") are bridges to transplantation to this organ. St. Thomas' solution is used to induce hyperkalemia before deep hypothermic surgery on this organ. It's not the kidney, but in 2022, eGenesis transplanted this organ from a gene-edited pig into a human. CABG (\"cabbage\") surgery is done on this organ. During surgeries to fix a bundle branch block or (*) Tetralogy of Fallot in this organ, patients may be placed on a bypass machine. Christiaan Barnard performed the first human transplant of this organ. A balloon inflates the arteries that wrap around this organ in a coronary angioplasty. For 10 points, defects in which organ's sinoatrial valve are corrected by a pacemaker?",
+            "answer": "<b><u>heart</u></b> [accept <b><u>aorta</u></b>; accept <b><u>coronary arteries</u></b>; accept <b><u>mitral valve</u></b> until read; accept <b><u>sinoatrial node</u></b> or <b><u>SA</u></b> node until read]",
+            "answer_sanitized": "heart [accept aorta; accept coronary arteries; accept mitral valve until read; accept sinoatrial node or SA node until read]",
+            "updatedAt": "2024-06-15T16:52:21.854Z",
+            "category": "Science",
+            "subcategory": "Biology",
+            "number": 17,
+            "createdAt": "2024-06-15T16:52:21.854Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67851f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd67854b",
+            "question": "<b></b><i><b>C. ljungdahlii</b></i> (“SEE-lung-DOLL-ee-ai”)<b> converts syn·gas into this compound and acetate. Renewable polyethylene is made by harvesting this compound from bagasse </b>(“buh-GASS”)<b>, then dehydrating and polymerizing it. Etymologically, the word </b><i><b>enzyme</b></i><b> derives from proteins like zymase </b>(“ZAI-maze”)<b> that make this chemical anaerobically by de·carboxyl·ating pyruvate, then reducing acetaldehyde </b>(“ASS-uh-TAL-duh-hide”)<b>. A 10 percent solution of this liquid is used today instead of (*)</b> tetra·ethyl lead to prevent knocking. This industrial chemical is made by hydrolyzing the cellulose in sugarcane, feeding the glucose to <i>Saccharomyces</i>, and finally distilling this product to its azeotrope. In the US, this biofuel is made from corn and added to gasoline. For 10 points, yeasts ferment sugar into what simple alcohol?",
+            "question_sanitized": "C. ljungdahlii (\"SEE-lung-DOLL-ee-ai\") converts syngas into this compound and acetate. Renewable polyethylene is made by harvesting this compound from bagasse (\"buh-GASS\"), then dehydrating and polymerizing it. Etymologically, the word enzyme derives from proteins like zymase (\"ZAI-maze\") that make this chemical anaerobically by decarboxylating pyruvate, then reducing acetaldehyde (\"ASS-uh-TAL-duh-hide\"). A 10 percent solution of this liquid is used today instead of (*) tetraethyl lead to prevent knocking. This industrial chemical is made by hydrolyzing the cellulose in sugarcane, feeding the glucose to Saccharomyces, and finally distilling this product to its azeotrope. In the US, this biofuel is made from corn and added to gasoline. For 10 points, yeasts ferment sugar into what simple alcohol?",
+            "answer": "<b><u>ethanol</u></b> [or <b><u>ethyl alcohol</u></b>; accept <b><u>C</u><u>2</u><u>H</u><u>5</u><u>OH</u></b> (“C-2-H-5-O-H”) or <b><u>C</u><u>2</u><u>H</u><u>6</u><u>O</u></b> (“C-2-H-5-O-H”); prompt on <u>alcohol</u>]",
+            "answer_sanitized": "ethanol [or ethyl alcohol; accept C2H5OH (\"C-2-H-5-O-H\") or C2H6O (\"C-2-H-5-O-H\"); prompt on alcohol]",
+            "updatedAt": "2024-06-15T16:52:22.020Z",
+            "category": "Science",
+            "subcategory": "Chemistry",
+            "number": 1,
+            "createdAt": "2024-06-15T16:52:22.020Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67854a",
+                "name": "06",
+                "number": 6
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd678551",
+            "question": "<b>A state of matter named for this scientist that is derived from a strontium Bose–Einstein condensate can contain 170 strontium atoms within one atom. This scientist’s “polaron” involves a namesake type of atom that has an electron with an extremely large principal quantum number. Subscripts of infinity and “H” distinguish versions of this scientist’s namesake constant for heavy atoms and hydrogen, respectively. Evaluating a formula named for this scientist at “</b><i><b>n</b></i><b>-sub-one equals one” while varying </b><i><b>n</b></i><b>-sub-two yields the (*)</b> Lyman series. This scientist’s namesake formula gives the vacuum wavenumber of photons emitted by electronic transitions. For 10 points, name this Swedish physicist who names a constant denoted <i>R</i>.",
+            "question_sanitized": "A state of matter named for this scientist that is derived from a strontium Bose-Einstein condensate can contain 170 strontium atoms within one atom. This scientist's \"polaron\" involves a namesake type of atom that has an electron with an extremely large principal quantum number. Subscripts of infinity and \"H\" distinguish versions of this scientist's namesake constant for heavy atoms and hydrogen, respectively. Evaluating a formula named for this scientist at \"n-sub-one equals one\" while varying n-sub-two yields the (*) Lyman series. This scientist's namesake formula gives the vacuum wavenumber of photons emitted by electronic transitions. For 10 points, name this Swedish physicist who names a constant denoted R.",
+            "answer": "Johannes <b><u>Rydberg</u></b> [or Johannes Robert <b><u>Rydberg</u></b> or Janne Robert <b><u>Rydberg</u></b>]",
+            "answer_sanitized": "Johannes Rydberg [or Johannes Robert Rydberg or Janne Robert Rydberg]",
+            "updatedAt": "2024-06-15T16:52:22.020Z",
+            "category": "Science",
+            "subcategory": "Physics",
+            "number": 7,
+            "createdAt": "2024-06-15T16:52:22.020Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67854a",
+                "name": "06",
+                "number": 6
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd678558",
+            "question": "<b>The structure of these diagrams is inferred by the MrBayes and MEGA </b>(“mega”)<b> software packages. Coalescent theory interprets these diagrams backwards-in-time to figure out when a random variable diverged. These diagrams are constructed from binary character tables by assigning syn·apo·morphies to an in·group in systematics. Linus Pauling proposed calibrating these diagrams by aligning (*)</b> genes like cyto·chrome C, which are so essential that their sequences mutate like clockwork. On these diagrams, the principle of parsimony dictates that members of a clade which have a homologous structure also probably shared a common ancestor. For 10 points, name these diagrams that illustrate evolutionary history using branches and roots.",
+            "question_sanitized": "The structure of these diagrams is inferred by the MrBayes and MEGA (\"mega\") software packages. Coalescent theory interprets these diagrams backwards-in-time to figure out when a random variable diverged. These diagrams are constructed from binary character tables by assigning synapomorphies to an ingroup in systematics. Linus Pauling proposed calibrating these diagrams by aligning (*) genes like cytochrome C, which are so essential that their sequences mutate like clockwork. On these diagrams, the principle of parsimony dictates that members of a clade which have a homologous structure also probably shared a common ancestor. For 10 points, name these diagrams that illustrate evolutionary history using branches and roots.",
+            "answer": "<b><u>phylogenetic tree</u></b>s [or <b><u>phylogeny</u></b> or <b><u>phylogenies</u></b>; accept <b><u>evolutionary tree</u></b>s before “evolutionary” is read; accept <b><u>cladogram</u></b> or <b><u>dendrogram</u></b> or <b><u>chronogram</u></b>; prompt on <u>tree</u>s; prompt on <u>tree(s) of life</u>; prompt on <u>network</u>s or <u>Bayes</u>ian networks or <u>Bayes</u> nets]",
+            "answer_sanitized": "phylogenetic trees [or phylogeny or phylogenies; accept evolutionary trees before \"evolutionary\" is read; accept cladogram or dendrogram or chronogram; prompt on trees; prompt on tree(s) of life; prompt on networks or Bayesian networks or Bayes nets]",
+            "updatedAt": "2024-06-15T16:52:22.020Z",
+            "category": "Science",
+            "subcategory": "Biology",
+            "number": 14,
+            "createdAt": "2024-06-15T16:52:22.020Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67854a",
+                "name": "06",
+                "number": 6
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd67855b",
+            "question": "<b>Dynamical friction becomes inefficient at values on the order of this unit, well before the inspiral stage, in this unit’s “final problem.” When </b><i><b>d</b></i><b> is expressed in this unit, log-base-ten of </b><i><b>d</b></i><b> equals one plus one-fifth times a “modulus” equal to little </b><i><b>m</b></i><b> minus big </b><i><b>M</b></i><b>. This unit is typically used to report the reciprocal of a small angle denoted </b><i><b>p</b></i><b> or pi. Kilometers per second per (*)</b> million of this unit is the typical compound unit for Hubble’s constant. This unit, which is roughly equal to three light-years, is defined as the distance at which an object has a parallax of one arcsecond. For 10 points, name this astronomical unit of distance that is often misidentified as a unit of time.",
+            "question_sanitized": "Dynamical friction becomes inefficient at values on the order of this unit, well before the inspiral stage, in this unit's \"final problem.\" When d is expressed in this unit, log-base-ten of d equals one plus one-fifth times a \"modulus\" equal to little m minus big M. This unit is typically used to report the reciprocal of a small angle denoted p or pi. Kilometers per second per (*) million of this unit is the typical compound unit for Hubble's constant. This unit, which is roughly equal to three light-years, is defined as the distance at which an object has a parallax of one arcsecond. For 10 points, name this astronomical unit of distance that is often misidentified as a unit of time.",
+            "answer": "<b><u>parsec</u></b>s [or <b><u>pc</u></b>s] (The “small angle” is the parallax angle.)",
+            "answer_sanitized": "parsecs [or pcs] (The \"small angle\" is the parallax angle.)",
+            "updatedAt": "2024-06-15T16:52:22.020Z",
+            "category": "Science",
+            "subcategory": "Other Science",
+            "alternate_subcategory": "Astronomy",
+            "number": 17,
+            "createdAt": "2024-06-15T16:52:22.020Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67854a",
+                "name": "06",
+                "number": 6
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        }
+    ],
+    "bonuses": []
+}

@@ -77,6 +77,8 @@ flutter:
   assets:
     - assets/allCats.json
     - assets/lit.json
+    - assets/hist.json
+    - assets/sci.json
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in

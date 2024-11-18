@@ -1,0 +1,630 @@
+{
+    "tossups": [
+        {
+            "_id": "666dc6c59f7c4cfdbd678478",
+            "question": "<b>In a story, a man proposes hunting these animals after musing on a girl’s name that mixes “memory and desire.” A story titled for these animals opens by describing a woman reading an article titled “Sex Is Fun –– or Hell” while waiting for men to finish using hotel phones. The protagonist of a story recounts the “tragic life” of these animals, who gorge themselves in their (*)</b> feeding holes until they become too large to escape. In a story titled for these animals, a young girl named Sybil Carpenter converses on the beach and has her feet kissed by Seymour Glass, who later commits suicide. For 10 points, J. D. Salinger wrote a story about “A Perfect Day for” what fictional fruit-eating animals?",
+            "question_sanitized": "In a story, a man proposes hunting these animals after musing on a girl's name that mixes \"memory and desire.\" A story titled for these animals opens by describing a woman reading an article titled \"Sex Is Fun -- or Hell\" while waiting for men to finish using hotel phones. The protagonist of a story recounts the \"tragic life\" of these animals, who gorge themselves in their (*) feeding holes until they become too large to escape. In a story titled for these animals, a young girl named Sybil Carpenter converses on the beach and has her feet kissed by Seymour Glass, who later commits suicide. For 10 points, J. D. Salinger wrote a story about \"A Perfect Day for\" what fictional fruit-eating animals?",
+            "answer": "<b><u>bananafish</u></b> [accept “A Perfect Day for <b><u>Bananafish</u></b>”; accept <b><u>bananafish</u></b>es; prompt on <u>fish</u>]",
+            "answer_sanitized": "bananafish [accept \"A Perfect Day for Bananafish\"; accept bananafishes; prompt on fish]",
+            "updatedAt": "2024-06-15T16:52:21.089Z",
+            "category": "Literature",
+            "subcategory": "American Literature",
+            "alternate_subcategory": "Short Fiction",
+            "number": 5,
+            "createdAt": "2024-06-15T16:52:21.089Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd678473",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd67847d",
+            "question": "<b>This character orders a man to “eclipse himself” by the time he claps three times. The real-life inspiration for this character wrote about meeting a race with a musical language on the Moon in his novel </b><i><b>The Other World</b></i><b>. That man’s supposed death from a falling beam was fictionalized as this character’s death after visiting a convent. During a duel, this character delivers a ballad that repeats “thrust home!” This title character of an 1897 play often mentions his </b>(*) panache (“pa-NASH”). This man offers to write a love letter for the poet Christian (“crees-tee-AHN”), but falls for the addressee of that letter, Roxane. For 10 points, an Edmond Rostand play chronicles what French author and swordfighter with a large nose?",
+            "question_sanitized": "This character orders a man to \"eclipse himself\" by the time he claps three times. The real-life inspiration for this character wrote about meeting a race with a musical language on the Moon in his novel The Other World. That man's supposed death from a falling beam was fictionalized as this character's death after visiting a convent. During a duel, this character delivers a ballad that repeats \"thrust home!\" This title character of an 1897 play often mentions his (*) panache (\"pa-NASH\"). This man offers to write a love letter for the poet Christian (\"crees-tee-AHN\"), but falls for the addressee of that letter, Roxane. For 10 points, an Edmond Rostand play chronicles what French author and swordfighter with a large nose?",
+            "answer": "<b><u>Cyrano</u></b> de Bergerac (“SEE-rah-no de BUR-zhe-rack”) [or Savinien de Cyrano de <b><u>Bergerac</u></b>]",
+            "answer_sanitized": "Cyrano de Bergerac (\"SEE-rah-no de BUR-zhe-rack\") [or Savinien de Cyrano de Bergerac]",
+            "updatedAt": "2024-06-15T16:52:21.091Z",
+            "category": "Literature",
+            "subcategory": "European Literature",
+            "alternate_subcategory": "Drama",
+            "number": 10,
+            "createdAt": "2024-06-15T16:52:21.091Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd678473",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678480",
+            "question": "<b>For 211 years, the only version of this play performed was a David Garrick adaptation with a balcony for a Pedant. This play’s events are imagined as</b> <b>“the best dream that ever I had in my life” by a drunkard who is dressed in noble clothes. A discussion of falconry appears in this play in the same act that a woman explains she was “bedazzled with the sun” when she mistook (*)</b> Vincentio for a maid. “Fie fie! unknit that threatening unkind brow” opens this play’s last speech, which is responded to with the phrase “Come on and kiss me.” A man who desires to “wive it wealthily in Padua” in this play is the abusive Petruchio. For 10 points, Katherina is controversially made “more obedient” to her husband in what play by William Shakespeare?",
+            "question_sanitized": "For 211 years, the only version of this play performed was a David Garrick adaptation with a balcony for a Pedant. This play's events are imagined as \"the best dream that ever I had in my life\" by a drunkard who is dressed in noble clothes. A discussion of falconry appears in this play in the same act that a woman explains she was \"bedazzled with the sun\" when she mistook (*) Vincentio for a maid. \"Fie fie! unknit that threatening unkind brow\" opens this play's last speech, which is responded to with the phrase \"Come on and kiss me.\" A man who desires to \"wive it wealthily in Padua\" in this play is the abusive Petruchio. For 10 points, Katherina is controversially made \"more obedient\" to her husband in what play by William Shakespeare?",
+            "answer": "<i>The</i> <i><b><u>Taming of the Shrew</u></b></i>",
+            "answer_sanitized": "The Taming of the Shrew",
+            "updatedAt": "2024-06-15T16:52:21.091Z",
+            "category": "Literature",
+            "subcategory": "British Literature",
+            "alternate_subcategory": "Drama",
+            "number": 13,
+            "createdAt": "2024-06-15T16:52:21.091Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd678473",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678484",
+            "question": "<b>This author completed an English translation of</b> <b>the spiritualist Kabir that celebrates how “God is within us.”</b> <b>The speaker of a poem by this author does not know “how to answer” questions about the meaning of songs as “you sit there smiling.” The conclusion of a collection by this author asks for all his songs to gather “into a single current” and “flow to a sea of silence.”</b> <b>The speaker of a poem by this author searches for a place (*)</b> “where knowledge is free” and “where the mind is without fear.” A “ruler of the minds of all people” is praised in an anthem by this author, who opened a 1910 poetry collection with the declaration “Thou hast made me endless, such is thy pleasure.” For 10 points, name this Bengali poet of <i>Gitanjali</i>.",
+            "question_sanitized": "This author completed an English translation of the spiritualist Kabir that celebrates how \"God is within us.\" The speaker of a poem by this author does not know \"how to answer\" questions about the meaning of songs as \"you sit there smiling.\" The conclusion of a collection by this author asks for all his songs to gather \"into a single current\" and \"flow to a sea of silence.\" The speaker of a poem by this author searches for a place (*) \"where knowledge is free\" and \"where the mind is without fear.\" A \"ruler of the minds of all people\" is praised in an anthem by this author, who opened a 1910 poetry collection with the declaration \"Thou hast made me endless, such is thy pleasure.\" For 10 points, name this Bengali poet of Gitanjali.",
+            "answer": "Rabindranath <b><u>Tagore</u></b> (The anthem is “Jana Gana Mana.”)",
+            "answer_sanitized": "Rabindranath Tagore (The anthem is \"Jana Gana Mana.\")",
+            "updatedAt": "2024-06-15T16:52:21.092Z",
+            "category": "Literature",
+            "subcategory": "World Literature",
+            "alternate_subcategory": "Poetry",
+            "number": 17,
+            "createdAt": "2024-06-15T16:52:21.092Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd678473",
+                "name": "01",
+                "number": 1
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784a2",
+            "question": "<b>In a blank verse epic by this author, some of the 99 suitors encounter the Ogre of Endless Tears while questing to find a cure for Warigia’s </b>(“wah-REE-gee-ah’s”)<b> disability. After dropping out of the University of Leeds, this author wrote a novel centered around the proverb “that which bites you is in your own clothing.” That novel by this author centers on a character who is reluctant to give a speech because of his guilt from betraying Kihika. A different novel by this author concludes with the teacher Munira burning down a</b> (*) brothel in Ilmorog. This author explained his decision to stop writing in English in the essay “Decolonizing the Mind.” For 10 points, name this Kenyan author of <i>A Grain of Wheat</i> and <i>Petals of Blood</i>.",
+            "question_sanitized": "In a blank verse epic by this author, some of the 99 suitors encounter the Ogre of Endless Tears while questing to find a cure for Warigia's (\"wah-REE-gee-ah's\") disability. After dropping out of the University of Leeds, this author wrote a novel centered around the proverb \"that which bites you is in your own clothing.\" That novel by this author centers on a character who is reluctant to give a speech because of his guilt from betraying Kihika. A different novel by this author concludes with the teacher Munira burning down a (*) brothel in Ilmorog. This author explained his decision to stop writing in English in the essay \"Decolonizing the Mind.\" For 10 points, name this Kenyan author of A Grain of Wheat and Petals of Blood.",
+            "answer": "<b><u>Ngugi</u></b> wa Thiong’o (“GOO-gee wah thee-ON-go”) [or James <b><u>Ngugi</u></b>] (The lead-in is <i>The Perfect Nine</i>.)",
+            "answer_sanitized": "Ngugi wa Thiong'o (\"GOO-gee wah thee-ON-go\") [or James Ngugi] (The lead-in is The Perfect Nine.)",
+            "updatedAt": "2024-06-15T16:52:21.338Z",
+            "category": "Literature",
+            "subcategory": "World Literature",
+            "alternate_subcategory": "Long Fiction",
+            "number": 4,
+            "createdAt": "2024-06-15T16:52:21.338Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67849e",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784a5",
+            "question": "<b>In an essay about this short story, George Saunders compares its awkward narrator to Dwight Schrute to explain the </b><i><b>skaz</b></i> <b>tradition. This story ends by observing that “such things happen in this world; rarely, but they do.” In this story, a man writes a letter accusing Madame Podtochina of cursing him because he won’t marry her daughter. In this story, a man wanders around St. Isaac’s (*)</b> Bridge trying to dispose of this story’s title object, which he later learns has become a state councilor. The barber Ivan Yakovlevich finds this story’s title object in a loaf of bread, before Major Kovalyov tries to reattach it to his face. For 10 points, name this Nikolai Gogol short story about a missing body part.",
+            "question_sanitized": "In an essay about this short story, George Saunders compares its awkward narrator to Dwight Schrute to explain the skaz tradition. This story ends by observing that \"such things happen in this world; rarely, but they do.\" In this story, a man writes a letter accusing Madame Podtochina of cursing him because he won't marry her daughter. In this story, a man wanders around St. Isaac's (*) Bridge trying to dispose of this story's title object, which he later learns has become a state councilor. The barber Ivan Yakovlevich finds this story's title object in a loaf of bread, before Major Kovalyov tries to reattach it to his face. For 10 points, name this Nikolai Gogol short story about a missing body part.",
+            "answer": "“The <b><u>Nose</u></b>” [or “<b><u>Nos</u></b>”]",
+            "answer_sanitized": "\"The Nose\" [or \"Nos\"]",
+            "updatedAt": "2024-06-15T16:52:21.338Z",
+            "category": "Literature",
+            "subcategory": "European Literature",
+            "alternate_subcategory": "Short Fiction",
+            "number": 7,
+            "createdAt": "2024-06-15T16:52:21.338Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67849e",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784a9",
+            "question": "<b>A character created by this author has a conversation with Cordelia while painting a house about to be demolished. In a novel by this author, a woman exclaims “Thank God!” after learning that her son died from falling off the horse Thunderclap. One of this author’s characters, who becomes a missionary in a Tunisian monastery after the death of Kurt, carries around the teddy bear (*)</b> Aloysius (“al-oo-WISH-us”). The protagonist of a novel by this author becomes trapped in a Brazilian jungle by Mr. Todd and is forced to read Dickens. In a novel by this author, Julia Flyte is convinced by her father’s deathbed conversion to break off a plan to marry Charles Ryder. For 10 points, name this author of <i>A Handful of Dust</i> and <i>Brideshead Revisited</i>.",
+            "question_sanitized": "A character created by this author has a conversation with Cordelia while painting a house about to be demolished. In a novel by this author, a woman exclaims \"Thank God!\" after learning that her son died from falling off the horse Thunderclap. One of this author's characters, who becomes a missionary in a Tunisian monastery after the death of Kurt, carries around the teddy bear (*) Aloysius (\"al-oo-WISH-us\"). The protagonist of a novel by this author becomes trapped in a Brazilian jungle by Mr. Todd and is forced to read Dickens. In a novel by this author, Julia Flyte is convinced by her father's deathbed conversion to break off a plan to marry Charles Ryder. For 10 points, name this author of A Handful of Dust and Brideshead Revisited.",
+            "answer": "Evelyn <b><u>Waugh</u></b> [or Arthur Evelyn St. John <b><u>Waugh</u></b>]",
+            "answer_sanitized": "Evelyn Waugh [or Arthur Evelyn St. John Waugh]",
+            "updatedAt": "2024-06-15T16:52:21.338Z",
+            "category": "Literature",
+            "subcategory": "British Literature",
+            "alternate_subcategory": "Long Fiction",
+            "number": 11,
+            "createdAt": "2024-06-15T16:52:21.338Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67849e",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784ae",
+            "question": "<b>This object is described as a “red hell” whose plunge “into that blackness” is called the “material counterpart” of a man’s “monomaniac soul.” This object is lined with teeth and has small holes in its floor so that one character can maneuver it comfortably. This object, which is owned by Bildad and Peleg, has a (*) </b>“gold coin from Quito” nailed into it by a character with a lightning-shaped scar on his face. This vessel encounters a similar one named the<i> Rachel</i>. In a prophecy told by Fedallah, this vessel is a hearse made from “American wood.” A character uses a coffin carved by a Polynesian harpooner named Queequeg to survive this ship’s destruction. For 10 points, name this whaling ship from <i>Moby Dick</i>.",
+            "question_sanitized": "This object is described as a \"red hell\" whose plunge \"into that blackness\" is called the \"material counterpart\" of a man's \"monomaniac soul.\" This object is lined with teeth and has small holes in its floor so that one character can maneuver it comfortably. This object, which is owned by Bildad and Peleg, has a (*) \"gold coin from Quito\" nailed into it by a character with a lightning-shaped scar on his face. This vessel encounters a similar one named the Rachel. In a prophecy told by Fedallah, this vessel is a hearse made from \"American wood.\" A character uses a coffin carved by a Polynesian harpooner named Queequeg to survive this ship's destruction. For 10 points, name this whaling ship from Moby Dick.",
+            "answer": "the <i><b><u>Pequod</u></b></i> [accept specific descriptions of the ship such as the mast of the <i><b><u>Pequod</u></b></i> or deck of the <i><b><u>Pequod</u></b></i>; prompt on descriptions such as the <u>ship from</u> <i><u>Moby Dick</u></i>; prompt on a <u>ship</u> or whaling <u>ship</u> or a <u>boat</u>; prompt on <u>mast</u> or <u>deck</u> by asking “of what specific object?”]",
+            "answer_sanitized": "the Pequod [accept specific descriptions of the ship such as the mast of the Pequod or deck of the Pequod; prompt on descriptions such as the ship from Moby Dick; prompt on a ship or whaling ship or a boat; prompt on mast or deck by asking \"of what specific object?\"]",
+            "updatedAt": "2024-06-15T16:52:21.339Z",
+            "category": "Literature",
+            "subcategory": "American Literature",
+            "alternate_subcategory": "Long Fiction",
+            "number": 16,
+            "createdAt": "2024-06-15T16:52:21.339Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67849e",
+                "name": "02",
+                "number": 2
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784cb",
+            "question": "<b>An ode by this poet asks a city “What angel is hidden in your cheek?” A poem by this author declares “the dove and the leopard fought” and “a boy brought the white sheet.” Another poem by this author describes “the ship out on the sea / and the horse on the mountain,” and a woman “with eyes of cold silver” dreaming on her balcony. This author of </b><i><b>Poet in New York</b></i><b> declares (*)</b> “Green, how I want you green” in “Romance Sonámbulo.” This poet repeats “at five in the afternoon” in “Lament for the Death of a Bullfighter,” and wrote a play in which The Moon watches Leonardo flee with the Bride. For 10 points, name this member of the Generation of ’27, whose Rural Trilogy includes <i>The House of Bernarda Alba</i> and <i>Blood Wedding</i>.",
+            "question_sanitized": "An ode by this poet asks a city \"What angel is hidden in your cheek?\" A poem by this author declares \"the dove and the leopard fought\" and \"a boy brought the white sheet.\" Another poem by this author describes \"the ship out on the sea / and the horse on the mountain,\" and a woman \"with eyes of cold silver\" dreaming on her balcony. This author of Poet in New York declares (*) \"Green, how I want you green\" in \"Romance Sonambulo.\" This poet repeats \"at five in the afternoon\" in \"Lament for the Death of a Bullfighter,\" and wrote a play in which The Moon watches Leonardo flee with the Bride. For 10 points, name this member of the Generation of '27, whose Rural Trilogy includes The House of Bernarda Alba and Blood Wedding.",
+            "answer": "Federico García <b><u>Lorca</u></b> [accept Federico del Sagrado Corazón de Jesús García <b><u>Lorca</u></b>]",
+            "answer_sanitized": "Federico Garcia Lorca [accept Federico del Sagrado Corazon de Jesus Garcia Lorca]",
+            "updatedAt": "2024-06-15T16:52:21.512Z",
+            "category": "Literature",
+            "subcategory": "European Literature",
+            "alternate_subcategory": "Poetry",
+            "number": 2,
+            "createdAt": "2024-06-15T16:52:21.512Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784c9",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784d3",
+            "question": "<b>Kirill Eskov’s alternate sequel to one of this author’s novels describes Haladdin’s journey to liberate humanity by destroying a mirror. This author’s </b><i><b>Book of Lost Tales</b></i><b> describes the destruction of two lamps and the creation of two trees after the “music of creation.” A posthumously published twelve-volume book described this author’s “Legendarium.” The walking song “The Road Goes Ever On” appears in this author’s first published novel, in which a (*)</b> riddle contest is won by asking, “What have I got in my pocket?” On being heated, an object from this author’s novels displays two lines in Black Speech declaring its purpose to “rule them all.” For 10 points, name this author of <i>The Lord of the Rings</i>.",
+            "question_sanitized": "Kirill Eskov's alternate sequel to one of this author's novels describes Haladdin's journey to liberate humanity by destroying a mirror. This author's Book of Lost Tales describes the destruction of two lamps and the creation of two trees after the \"music of creation.\" A posthumously published twelve-volume book described this author's \"Legendarium.\" The walking song \"The Road Goes Ever On\" appears in this author's first published novel, in which a (*) riddle contest is won by asking, \"What have I got in my pocket?\" On being heated, an object from this author's novels displays two lines in Black Speech declaring its purpose to \"rule them all.\" For 10 points, name this author of The Lord of the Rings.",
+            "answer": "J. R. R. <b><u>Tolkien</u></b> [or John Ronald Reuel <b><u>Tol</u><u>kien</u></b>] (The unnamed works are <i>The Last Ringbearer</i> by Eskov and <i>The Hobbit</i> by Tolkien.)",
+            "answer_sanitized": "J. R. R. Tolkien [or John Ronald Reuel Tolkien] (The unnamed works are The Last Ringbearer by Eskov and The Hobbit by Tolkien.)",
+            "updatedAt": "2024-06-15T16:52:21.513Z",
+            "category": "Literature",
+            "subcategory": "World Literature",
+            "alternate_subcategory": "Misc Literature",
+            "number": 10,
+            "createdAt": "2024-06-15T16:52:21.513Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784c9",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784d8",
+            "question": "<b>John Woodbridge published a collection potentially without this author’s knowledge</b> <b>that includes a poem addressed to a “dear Mother, fairest Queen.” This author described how the “strong foundation of proud Babel” supported the Assyrian empire in the first section of the long poem “The Four</b> <b>Monarchies.” This author bids adieu to all vanity in a poem describing how “My pleasant things in (*)</b> ashes lie.” Love is valued over “whole mines of gold” and “all the riches the East doth hold” in a poem this author opened “if ever two were one, then surely we” and addressed to her “Dear and Loving Husband.” For 10 points, name this colonial poet of <i>The Tenth Muse Lately Sprung Up in America</i>.",
+            "question_sanitized": "John Woodbridge published a collection potentially without this author's knowledge that includes a poem addressed to a \"dear Mother, fairest Queen.\" This author described how the \"strong foundation of proud Babel\" supported the Assyrian empire in the first section of the long poem \"The Four Monarchies.\" This author bids adieu to all vanity in a poem describing how \"My pleasant things in (*) ashes lie.\" Love is valued over \"whole mines of gold\" and \"all the riches the East doth hold\" in a poem this author opened \"if ever two were one, then surely we\" and addressed to her \"Dear and Loving Husband.\" For 10 points, name this colonial poet of The Tenth Muse Lately Sprung Up in America.",
+            "answer": "Anne <b><u>Bradstreet</u></b> [or Anne Dudley <b><u>Bradstreet</u></b>; prompt on Anne <u>Dudley</u>] (The first poem is “A Dialogue between Old England and New.”)",
+            "answer_sanitized": "Anne Bradstreet [or Anne Dudley Bradstreet; prompt on Anne Dudley] (The first poem is \"A Dialogue between Old England and New.\")",
+            "updatedAt": "2024-06-15T16:52:21.513Z",
+            "category": "Literature",
+            "subcategory": "American Literature",
+            "alternate_subcategory": "Poetry",
+            "number": 15,
+            "createdAt": "2024-06-15T16:52:21.513Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784c9",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784dc",
+            "question": "<b>In a play by this author, Jackie Croyton interrupts a game of adverbs-only charades;</b> <b>the central family of that play by this author likes to act out a scene from </b><i><b>Love</b><b>’</b><b>s Whirlwind</b></i><b>. In another play by this author, a woman passes out and is woken up with brandy before requesting that Irving Berlin’s song “Always” be played on a gramophone. In the last act of a play by this author, two couples sneak back to London after being subjected to the antics of the (*)</b> Bliss family. A line in Percy Shelley’s “To a Skylark” titles a play by this author in which the ghost Elvira disrupts Charles Condomine’s marriage after a seance by Madame Arcati. For 10 points, name this British playwright of <i>Hay Fever</i> and <i>Blithe Spirit</i>.",
+            "question_sanitized": "In a play by this author, Jackie Croyton interrupts a game of adverbs-only charades; the central family of that play by this author likes to act out a scene from Love's Whirlwind. In another play by this author, a woman passes out and is woken up with brandy before requesting that Irving Berlin's song \"Always\" be played on a gramophone. In the last act of a play by this author, two couples sneak back to London after being subjected to the antics of the (*) Bliss family. A line in Percy Shelley's \"To a Skylark\" titles a play by this author in which the ghost Elvira disrupts Charles Condomine's marriage after a seance by Madame Arcati. For 10 points, name this British playwright of Hay Fever and Blithe Spirit.",
+            "answer": "Noël <b><u>Coward</u></b> [or Sir Noël Pierce <b><u>Coward</u></b>]",
+            "answer_sanitized": "Noel Coward [or Sir Noel Pierce Coward]",
+            "updatedAt": "2024-06-15T16:52:21.513Z",
+            "category": "Literature",
+            "subcategory": "British Literature",
+            "alternate_subcategory": "Drama",
+            "number": 19,
+            "createdAt": "2024-06-15T16:52:21.513Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784c9",
+                "name": "03",
+                "number": 3
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784f6",
+            "question": "<b>A poem titled for these things compares “life” to a “broken-winged bird / that cannot fly” and a “barren field” without these things. The lines “Good morning, daddy! Ain’t you heard?” open and close a long poem titled for a “Montage” of one of these things. A collection titled for a “Keeper” of these things included the poems “I, Too” and (*)</b> “Mother to Son.” It is hypothesized that one of these things “crust[s] and sugar[s] over” “like a syrupy sweet” in a 1951 poem in which it also “fester[s] like a sore.” Potential answers to a question about one of these things include “Does it stink like rotten meat?” and “does it explode?” For 10 points, Langston Hughes’s poem “Harlem” asks what happens to one of what things “deferred?”",
+            "question_sanitized": "A poem titled for these things compares \"life\" to a \"broken-winged bird / that cannot fly\" and a \"barren field\" without these things. The lines \"Good morning, daddy! Ain't you heard?\" open and close a long poem titled for a \"Montage\" of one of these things. A collection titled for a \"Keeper\" of these things included the poems \"I, Too\" and (*) \"Mother to Son.\" It is hypothesized that one of these things \"crust[s] and sugar[s] over\" \"like a syrupy sweet\" in a 1951 poem in which it also \"fester[s] like a sore.\" Potential answers to a question about one of these things include \"Does it stink like rotten meat?\" and \"does it explode?\" For 10 points, Langston Hughes's poem \"Harlem\" asks what happens to one of what things \"deferred?\"",
+            "answer": "<b><u>dream</u></b>s [accept a <b><u>dream</u></b> deferred; accept <i>Montage of a</i> <i><b><u>Dream</u></b> Deferred</i>; accept <i>The</i> <i><b><u>Dream</u></b> Keeper</i>]",
+            "answer_sanitized": "dreams [accept a dream deferred; accept Montage of a Dream Deferred; accept The Dream Keeper]",
+            "updatedAt": "2024-06-15T16:52:21.687Z",
+            "category": "Literature",
+            "subcategory": "American Literature",
+            "alternate_subcategory": "Poetry",
+            "number": 2,
+            "createdAt": "2024-06-15T16:52:21.687Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784f4",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd6784fe",
+            "question": "<b>A reveille </b>(“REV-uh-lee”)<b> in this collection concludes by stating how “there’ll be time enough for sleep” when the journey’s over. This collection opens by describing a beacon on Clee Hill and people singing “God Save the Queen.”</b> <b>“The wood’s in trouble” from a gale approaching the title location in one poem in this collection. A poem in this collection notes (*)</b> “Mithridates, he died old” and “malt does more than Milton can / To justify God’s ways to man.” This collection includes a poem in which the laurel “withers quicker than the rose” for a title character who won his town a race. For 10 points, name this collection that contains “Terence, this is stupid stuff” and “To An Athlete Dying Young” by A. E. Housman.",
+            "question_sanitized": "A reveille (\"REV-uh-lee\") in this collection concludes by stating how \"there'll be time enough for sleep\" when the journey's over. This collection opens by describing a beacon on Clee Hill and people singing \"God Save the Queen.\" \"The wood's in trouble\" from a gale approaching the title location in one poem in this collection. A poem in this collection notes (*) \"Mithridates, he died old\" and \"malt does more than Milton can / To justify God's ways to man.\" This collection includes a poem in which the laurel \"withers quicker than the rose\" for a title character who won his town a race. For 10 points, name this collection that contains \"Terence, this is stupid stuff\" and \"To An Athlete Dying Young\" by A. E. Housman.",
+            "answer": "<i>A</i> <i><b><u>Shropshire Lad</u></b></i>",
+            "answer_sanitized": "A Shropshire Lad",
+            "updatedAt": "2024-06-15T16:52:21.688Z",
+            "category": "Literature",
+            "subcategory": "British Literature",
+            "alternate_subcategory": "Poetry",
+            "number": 10,
+            "createdAt": "2024-06-15T16:52:21.688Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784f4",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678503",
+            "question": "<b>In an Alejandra Pizarnik poem titled for removing one of these objects, the speaker laments “The bad light is near and nothing is real.” This is the last title object of a poem that states “Each is another and no other: / Crossing and vanishing.” A poem titled for one of these objects describes trees as “pillars of magic” that create “corridors of a dissolving autumn.” The speaker claims “I go among your body as among the world” in a poem titled for one of these objects that depicts a (*)</b> “river that goes curving, / advances and retreats.” That 584-line poem titled for one of these objects begins “willow of crystal, a poplar of water.” The sun names an Aztec example of, for 10 points, what object that titles an Octavio Paz poem?",
+            "question_sanitized": "In an Alejandra Pizarnik poem titled for removing one of these objects, the speaker laments \"The bad light is near and nothing is real.\" This is the last title object of a poem that states \"Each is another and no other: / Crossing and vanishing.\" A poem titled for one of these objects describes trees as \"pillars of magic\" that create \"corridors of a dissolving autumn.\" The speaker claims \"I go among your body as among the world\" in a poem titled for one of these objects that depicts a (*) \"river that goes curving, / advances and retreats.\" That 584-line poem titled for one of these objects begins \"willow of crystal, a poplar of water.\" The sun names an Aztec example of, for 10 points, what object that titles an Octavio Paz poem?",
+            "answer": "<b><u>stone</u></b> [accept <i><b><u>piedra</u></b></i>; accept “Sun <b><u>Stone</u></b>” or “<b><u>Piedra</u></b> del sol”; accept “Wind, Water, <b><u>Stone</u></b>” or “Viento, Agua, <b><u>Piedra</u></b>”; accept “Extracting the <b><u>Stone</u></b> of Madness” or “Extracción de la <b><u>piedra</u></b> de locura”; reject synonyms like “rocks”]",
+            "answer_sanitized": "stone [accept piedra; accept \"Sun Stone\" or \"Piedra del sol\"; accept \"Wind, Water, Stone\" or \"Viento, Agua, Piedra\"; accept \"Extracting the Stone of Madness\" or \"Extraccion de la piedra de locura\"; reject synonyms like \"rocks\"]",
+            "updatedAt": "2024-06-15T16:52:21.688Z",
+            "category": "Literature",
+            "subcategory": "World Literature",
+            "alternate_subcategory": "Poetry",
+            "number": 15,
+            "createdAt": "2024-06-15T16:52:21.688Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784f4",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678505",
+            "question": "<b>In one essay, this author claims the “audio-animatronics” of Disneyland’s Pirates of the Caribbean create “a fantasy world more real than reality.” This author relates how a “family size” hotel minibar averted a disaster with a computer system in the essay “How to Travel with a Salmon.” In a novel by this author, the password “no” is used to log in a computer which generates text about “telluric currents” and is called (*) </b>Abulafia. Belbo, Diotallevi, and Casaubon use that computer to create “The Plan,” a Knights Templar conspiracy theory, in a novel by this author. William of Baskerville investigates monastery murders in a novel by this author. For 10 points, name this Italian author of <i>Foucault’s Pendulum</i> and <i>The Name of the Rose.</i>",
+            "question_sanitized": "In one essay, this author claims the \"audio-animatronics\" of Disneyland's Pirates of the Caribbean create \"a fantasy world more real than reality.\" This author relates how a \"family size\" hotel minibar averted a disaster with a computer system in the essay \"How to Travel with a Salmon.\" In a novel by this author, the password \"no\" is used to log in a computer which generates text about \"telluric currents\" and is called (*) Abulafia. Belbo, Diotallevi, and Casaubon use that computer to create \"The Plan,\" a Knights Templar conspiracy theory, in a novel by this author. William of Baskerville investigates monastery murders in a novel by this author. For 10 points, name this Italian author of Foucault's Pendulum and The Name of the Rose.",
+            "answer": "Umberto <b><u>Eco</u></b> (The first work is <i>Travels in Hyperreality</i>.)",
+            "answer_sanitized": "Umberto Eco (The first work is Travels in Hyperreality.)",
+            "updatedAt": "2024-06-15T16:52:21.688Z",
+            "category": "Literature",
+            "subcategory": "European Literature",
+            "alternate_subcategory": "Long Fiction",
+            "number": 17,
+            "createdAt": "2024-06-15T16:52:21.688Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd6784f4",
+                "name": "04",
+                "number": 4
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678521",
+            "question": "<b>In a novel, this character starts referring to himself as “Old King Log” after the effects of an “Olympian Mixture” wear off. This character narrates a novel that a woman prophesies will be read nineteen hundred years later. This character lives by the advice “play the fool” and gains the nicknames of “Poor Uncle” and “The Stammerer.” This sickly character, who is dubbed (*)</b> “the God” in a sequel, becomes a ruler after being discovered hiding behind a curtain. In the 1970s, the BBC adapted for TV a 1934 novel titled for this character that opens with the assassination of Caligula. For 10 points, name this Roman emperor, the subject of a Robert Graves novel titled, “I, [this man].”",
+            "question_sanitized": "In a novel, this character starts referring to himself as \"Old King Log\" after the effects of an \"Olympian Mixture\" wear off. This character narrates a novel that a woman prophesies will be read nineteen hundred years later. This character lives by the advice \"play the fool\" and gains the nicknames of \"Poor Uncle\" and \"The Stammerer.\" This sickly character, who is dubbed (*) \"the God\" in a sequel, becomes a ruler after being discovered hiding behind a curtain. In the 1970s, the BBC adapted for TV a 1934 novel titled for this character that opens with the assassination of Caligula. For 10 points, name this Roman emperor, the subject of a Robert Graves novel titled, \"I, [this man].\"",
+            "answer": "<b><u>Claudius</u></b> [accept Tiberius <b><u>Claudius</u></b> Drusus Nero Germanicus but reject partial answers; accept <i>I,</i> <i><b><u>Claudius</u></b></i> or <i><b><u>Claudius</u></b> the God</i>]",
+            "answer_sanitized": "Claudius [accept Tiberius Claudius Drusus Nero Germanicus but reject partial answers; accept I, Claudius or Claudius the God]",
+            "updatedAt": "2024-06-15T16:52:21.853Z",
+            "category": "Literature",
+            "subcategory": "British Literature",
+            "alternate_subcategory": "Long Fiction",
+            "number": 2,
+            "createdAt": "2024-06-15T16:52:21.853Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67851f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678529",
+            "question": "<b>In a novel by this author, a professor at the Dolphin Hotel leads a character to a house owned by a man possessed by an animal. One of this author’s protagonists works as a human processor named “Calcutec.”</b> <b>One of this author’s characters journeys across the country after receiving a pastoral photograph from his friend</b> <b>“Rat.”</b> <b>In one of this author’s novels,</b> <b>a teenager describes supernatural</b> (*) “Little People” in her autobiographical novel <i>Air Chrysalis</i>. That novel by this author is set in dual alternate realities that converge in a fictionalized version of 1984. A novel by this author opens with Toru Okada looking for his missing cat. For 10 points, name this author of <i>1Q84</i> and <i>The Wind-up Bird Chronicle</i>.",
+            "question_sanitized": "In a novel by this author, a professor at the Dolphin Hotel leads a character to a house owned by a man possessed by an animal. One of this author's protagonists works as a human processor named \"Calcutec.\" One of this author's characters journeys across the country after receiving a pastoral photograph from his friend \"Rat.\" In one of this author's novels, a teenager describes supernatural (*) \"Little People\" in her autobiographical novel Air Chrysalis. That novel by this author is set in dual alternate realities that converge in a fictionalized version of 1984. A novel by this author opens with Toru Okada looking for his missing cat. For 10 points, name this author of 1Q84 and The Wind-up Bird Chronicle.",
+            "answer": "Haruki <b><u>Murakami</u></b> (The first line is <i>Dance Dance Dance</i>. The second line is <i>Hard-Boiled Wonderland and the End of the World</i>.)",
+            "answer_sanitized": "Haruki Murakami (The first line is Dance Dance Dance. The second line is Hard-Boiled Wonderland and the End of the World.)",
+            "updatedAt": "2024-06-15T16:52:21.853Z",
+            "category": "Literature",
+            "subcategory": "World Literature",
+            "alternate_subcategory": "Short Fiction",
+            "number": 10,
+            "createdAt": "2024-06-15T16:52:21.853Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67851f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd67852e",
+            "question": "<b>In a novel originally written in this language, a failed robbery leads an artist to seal himself into a house with bricks. In a story written in this language, a character convinces himself he must have hallucinated his wife committing adultery. Detectives who speak English and this language investigate a cardboard chess board found next to a dead body in a novel that is set in Alaska by Michael Chabon </b>(“SHAY-bon”)<b>. This language, used to write the original </b><i><b>The Magician of </b></i><b>(*)</b> <i>Lublin</i>, was used for a story in which the Spirit of Evil tempts a baker to urinate in his dough. For 10 points, Isaac Singer’s story “Gimpel the Fool” was written in what language used for stories about Tevye the Milkman, which inspired <i>Fiddler on the Roof</i>?",
+            "question_sanitized": "In a novel originally written in this language, a failed robbery leads an artist to seal himself into a house with bricks. In a story written in this language, a character convinces himself he must have hallucinated his wife committing adultery. Detectives who speak English and this language investigate a cardboard chess board found next to a dead body in a novel that is set in Alaska by Michael Chabon (\"SHAY-bon\"). This language, used to write the original The Magician of (*) Lublin, was used for a story in which the Spirit of Evil tempts a baker to urinate in his dough. For 10 points, Isaac Singer's story \"Gimpel the Fool\" was written in what language used for stories about Tevye the Milkman, which inspired Fiddler on the Roof?",
+            "answer": "<b><u>Yiddish</u></b> [accept <i>The</i> <i><b><u>Yiddish</u></b> Policemen’s Union</i>; reject “Hebrew”]",
+            "answer_sanitized": "Yiddish [accept The Yiddish Policemen's Union; reject \"Hebrew\"]",
+            "updatedAt": "2024-06-15T16:52:21.853Z",
+            "category": "Literature",
+            "subcategory": "American Literature",
+            "alternate_subcategory": "Short Fiction",
+            "number": 15,
+            "createdAt": "2024-06-15T16:52:21.853Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67851f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678531",
+            "question": "<b>In a story by this author, a character thinks “the whole world is growing smaller every day” before being told “You only need to change your direction” and getting eaten by a cat. This author of “A Little Fable” wrote that “the Sirens have a still more fatal weapon than their song, namely their silence.” In a fable by this author, a dying man is told that a door was only for him after a (*)</b> gatekeeper refuses him entrance. In a short story by this author, a man sits in a cage with straw for forty days of fasting before he dies. In a novel by this author of “A Hunger Artist,” a man is told the parable “Before the Law” before being taken to a quarry and shot “like a dog.” For 10 points, name this author who featured Josef K. in the novel <i>The Trial</i>.",
+            "question_sanitized": "In a story by this author, a character thinks \"the whole world is growing smaller every day\" before being told \"You only need to change your direction\" and getting eaten by a cat. This author of \"A Little Fable\" wrote that \"the Sirens have a still more fatal weapon than their song, namely their silence.\" In a fable by this author, a dying man is told that a door was only for him after a (*) gatekeeper refuses him entrance. In a short story by this author, a man sits in a cage with straw for forty days of fasting before he dies. In a novel by this author of \"A Hunger Artist,\" a man is told the parable \"Before the Law\" before being taken to a quarry and shot \"like a dog.\" For 10 points, name this author who featured Josef K. in the novel The Trial.",
+            "answer": "Franz <b><u>Kafka</u></b>",
+            "answer_sanitized": "Franz Kafka",
+            "updatedAt": "2024-06-15T16:52:21.854Z",
+            "category": "Literature",
+            "subcategory": "European Literature",
+            "alternate_subcategory": "Short Fiction",
+            "number": 18,
+            "createdAt": "2024-06-15T16:52:21.854Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67851f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c59f7c4cfdbd678534",
+            "question": "<b>An artist in this city declares “I don’t want to be a tree, I want to be its meaning.” Armanoush visits the tattoo artist Asya in a 2006 novel titled for a “Bastard of [this city].” A story about an artist in this city staring into the horizon to avoid blindness is told to a bookbinder by Olive. An author collected cigarette butts and salt shakers in this city to replicate a fictional (*)</b> oddities collection inspired by the girl Füsun. <i>The Museum of Innocence</i> is set in this city, as is a novel narrated partly by the corpse of a murdered miniaturist who is the uncle of a man named Black. For 10 points, Orhan Pamuk’s novel <i>My Name is Red</i> is set in what Turkish city?",
+            "question_sanitized": "An artist in this city declares \"I don't want to be a tree, I want to be its meaning.\" Armanoush visits the tattoo artist Asya in a 2006 novel titled for a \"Bastard of [this city].\" A story about an artist in this city staring into the horizon to avoid blindness is told to a bookbinder by Olive. An author collected cigarette butts and salt shakers in this city to replicate a fictional (*) oddities collection inspired by the girl Fusun. The Museum of Innocence is set in this city, as is a novel narrated partly by the corpse of a murdered miniaturist who is the uncle of a man named Black. For 10 points, Orhan Pamuk's novel My Name is Red is set in what Turkish city?",
+            "answer": "<b><u>Istanbul</u></b> [accept <b><u>Constantinople</u></b> or <b><u>Konstantiniyye</u></b>; accept <i>The Bastard of</i> <i><b><u>Istanbul</u></b></i>] (<i>The Bastard of Istanbul</i> is by Elif Shafak.)",
+            "answer_sanitized": "Istanbul [accept Constantinople or Konstantiniyye; accept The Bastard of Istanbul] (The Bastard of Istanbul is by Elif Shafak.)",
+            "updatedAt": "2024-06-15T16:52:21.854Z",
+            "category": "Literature",
+            "subcategory": "European Literature",
+            "alternate_subcategory": "Long Fiction",
+            "number": 21,
+            "createdAt": "2024-06-15T16:52:21.854Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67851f",
+                "name": "05",
+                "number": 5
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd67854d",
+            "question": "<b>The author of this series started writing it around the time he wrote </b><i><b>An Evening with Margaret Mead</b></i><b>, inspired by the</b> <b>possibility of art as explored in his</b> <b>autobiographical work </b><i><b>How I Learned What I Learned</b></i><b>. This series’s characters include a harmonica player called both Canewell and Stool Pigeon and a healer who dies at age 366 called Aunt Ester. </b><i><b>Gem of the Ocean</b></i><b> and (*)</b> <i>Radio Golf</i> bookend this series, whose ten entries are each set in a different decade of the 20th century. In an entry in this series, a potential football scholarship sparks a disagreement between Cory and Troy Maxson. For 10 points, <i>Fences</i> is in what series of plays by August Wilson, largely set in a Pennsylvania city?",
+            "question_sanitized": "The author of this series started writing it around the time he wrote An Evening with Margaret Mead, inspired by the possibility of art as explored in his autobiographical work How I Learned What I Learned. This series's characters include a harmonica player called both Canewell and Stool Pigeon and a healer who dies at age 366 called Aunt Ester. Gem of the Ocean and (*) Radio Golf bookend this series, whose ten entries are each set in a different decade of the 20th century. In an entry in this series, a potential football scholarship sparks a disagreement between Cory and Troy Maxson. For 10 points, Fences is in what series of plays by August Wilson, largely set in a Pennsylvania city?",
+            "answer": "<i><b><u>Pittsburgh</u></b> Cycle</i> [accept <i>American</i> <i><b><u>Century</u></b> Cycle</i> before “century”; accept the <i>August</i> <i><b><u>Wilson Century</u></b> Cycle</i> before “Wilson”]",
+            "answer_sanitized": "Pittsburgh Cycle [accept American Century Cycle before \"century\"; accept the August Wilson Century Cycle before \"Wilson\"]",
+            "updatedAt": "2024-06-15T16:52:22.020Z",
+            "category": "Literature",
+            "subcategory": "American Literature",
+            "alternate_subcategory": "Drama",
+            "number": 3,
+            "createdAt": "2024-06-15T16:52:22.020Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67854a",
+                "name": "06",
+                "number": 6
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd678554",
+            "question": "<b>This poet contrasted Grishkin, who distills</b> <b>“a feline smell,” with John Webster, who “saw the skull beneath the skin.” This poet wrote that a new work of art modifies “existing monuments” in an essay advocating for authors to learn literary history. A reference to Shakespeare in the line “The Chair she sat in, like a burnished throne”</b> <b>appears in one of this author’s (*)</b> footnotes. That poem by this author quotes Baudelaire in its description of an “Unreal City under the brown fog of a winter dawn.” This poet repeated the Sanskrit word “shantih” to end the “What the Thunder Said” section of a poem he dedicated to Ezra Pound. For 10 points, name this modernist poet of “The Waste Land.”",
+            "question_sanitized": "This poet contrasted Grishkin, who distills \"a feline smell,\" with John Webster, who \"saw the skull beneath the skin.\" This poet wrote that a new work of art modifies \"existing monuments\" in an essay advocating for authors to learn literary history. A reference to Shakespeare in the line \"The Chair she sat in, like a burnished throne\" appears in one of this author's (*) footnotes. That poem by this author quotes Baudelaire in its description of an \"Unreal City under the brown fog of a winter dawn.\" This poet repeated the Sanskrit word \"shantih\" to end the \"What the Thunder Said\" section of a poem he dedicated to Ezra Pound. For 10 points, name this modernist poet of \"The Waste Land.\"",
+            "answer": "T. S. <b><u>Eliot</u></b> (The unnamed works are “Whispers of Immortality” and “Tradition and the Individual Talent.”)",
+            "answer_sanitized": "T. S. Eliot (The unnamed works are \"Whispers of Immortality\" and \"Tradition and the Individual Talent.\")",
+            "updatedAt": "2024-06-15T16:52:22.020Z",
+            "category": "Literature",
+            "subcategory": "British Literature",
+            "alternate_subcategory": "Poetry",
+            "number": 10,
+            "createdAt": "2024-06-15T16:52:22.020Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67854a",
+                "name": "06",
+                "number": 6
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd678557",
+            "question": "<b>A play by this author ends with a voice calling “he is the God of Love” as a man dies in an avalanche. Another play by this author ends with the Button Molder stating “We meet at the final crossroads” as the protagonist is cradled by Solveig </b>(“sool-VAY”)<b>. Another play by this author ends with a man being called “the one cock in the basket” and declaring “people don’t (*)</b> do such things!” One play by this author of <i>Brand</i> ends with a man asking “The most wonderful thing of all?” In a play by this author, George Tesman’s wife shoots herself in the head offstage. A play by this author ends with a door slamming as Nora Helmer leaves her husband. For 10 points, what Norwegian playwright of <i>Peer Gynt</i> wrote <i>Hedda Gabler</i> and <i>A Doll’s House</i>?",
+            "question_sanitized": "A play by this author ends with a voice calling \"he is the God of Love\" as a man dies in an avalanche. Another play by this author ends with the Button Molder stating \"We meet at the final crossroads\" as the protagonist is cradled by Solveig (\"sool-VAY\"). Another play by this author ends with a man being called \"the one cock in the basket\" and declaring \"people don't (*) do such things!\" One play by this author of Brand ends with a man asking \"The most wonderful thing of all?\" In a play by this author, George Tesman's wife shoots herself in the head offstage. A play by this author ends with a door slamming as Nora Helmer leaves her husband. For 10 points, what Norwegian playwright of Peer Gynt wrote Hedda Gabler and A Doll's House?",
+            "answer": "Henrik <b><u>Ibsen</u></b> [or Henrik Johan <b><u>Ibsen</u></b>]",
+            "answer_sanitized": "Henrik Ibsen [or Henrik Johan Ibsen]",
+            "updatedAt": "2024-06-15T16:52:22.020Z",
+            "category": "Literature",
+            "subcategory": "European Literature",
+            "alternate_subcategory": "Drama",
+            "number": 13,
+            "createdAt": "2024-06-15T16:52:22.020Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67854a",
+                "name": "06",
+                "number": 6
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        },
+        {
+            "_id": "666dc6c69f7c4cfdbd67855c",
+            "question": "<b>A passage by this author describes</b> <b>how a writer who “draws the world” finds that he has drawn his own face by the end of his life. A review by this real-life author lauds the choice to purposely give the incorrect solution to a murder mystery by Herbert Quain. This author attacked the heretical viewpoints of Nils Runeberg, including a hypothesis that God was Judas. This author described an attempt to recreate (*)</b> <i>Don Quixote</i> line-by-line by his friend Pierre Menard. This author described an incomplete novel that took the form of a physical labyrinth representing all possible futures. For 10 points, name this author who used fictional criticism in works like “The Garden of Forking Paths.”",
+            "question_sanitized": "A passage by this author describes how a writer who \"draws the world\" finds that he has drawn his own face by the end of his life. A review by this real-life author lauds the choice to purposely give the incorrect solution to a murder mystery by Herbert Quain. This author attacked the heretical viewpoints of Nils Runeberg, including a hypothesis that God was Judas. This author described an attempt to recreate (*) Don Quixote line-by-line by his friend Pierre Menard. This author described an incomplete novel that took the form of a physical labyrinth representing all possible futures. For 10 points, name this author who used fictional criticism in works like \"The Garden of Forking Paths.\"",
+            "answer": "Jorge Luis <b><u>Borges</u></b> [or Jorge Francisco Isidoro Luis <b><u>Borges</u></b> Acevedo]",
+            "answer_sanitized": "Jorge Luis Borges [or Jorge Francisco Isidoro Luis Borges Acevedo]",
+            "updatedAt": "2024-06-15T16:52:22.020Z",
+            "category": "Literature",
+            "subcategory": "World Literature",
+            "alternate_subcategory": "Short Fiction",
+            "number": 18,
+            "createdAt": "2024-06-15T16:52:22.020Z",
+            "difficulty": 5,
+            "packet": {
+                "_id": "666dc6c59f7c4cfdbd67854a",
+                "name": "06",
+                "number": 6
+            },
+            "set": {
+                "_id": "666dc6c49f7c4cfdbd678472",
+                "name": "2024 PACE NSC",
+                "year": 2024,
+                "standard": true
+            }
+        }
+    ],
+    "bonuses": []
+}
