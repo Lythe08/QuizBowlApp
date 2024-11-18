@@ -161,6 +161,21 @@ class SettingsPage extends StatelessWidget {
             settings: settings,
             index: 0,
           ),
+          CheckboxExample(
+            displayedText: "Sigma",
+            settings: settings,
+            index: 1,
+          ),
+          CheckboxExample(
+            displayedText: "Sigma2",
+            settings: settings,
+            index: 2,
+          ),
+          // CheckboxExample(
+          //   displayedText: "Sigma3",
+          //   settings: settings,
+          //   index: 3,
+          // ),
 
           Divider(),
           ElevatedButton(
@@ -514,7 +529,7 @@ class _GeneratorPageState extends State<GeneratorPage> {
 // ...
 
 class Question extends StatefulWidget {
-  static dynamic tossups = null;
+  static dynamic tossups;
   static var rng = Random();
   String question;
   Question({required this.question});
@@ -532,7 +547,11 @@ class Question extends StatefulWidget {
       final String jsonString =
           await rootBundle.loadString('assets/$path.json');
       final Map dataList = jsonDecode(jsonString);
-      tossups = dataList["tossups"];
+      if (i == 0) {
+        tossups = dataList["tossups"];
+      } else {
+        tossups.addAll(dataList["tossups"]);
+      }
     }
   }
 }
