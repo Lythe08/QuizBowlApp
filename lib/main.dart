@@ -167,7 +167,7 @@ class SettingsPage extends StatelessWidget {
             index: 1,
           ),
           CheckboxExample(
-            displayedText: "Sigma2",
+            displayedText: "Science",
             settings: settings,
             index: 2,
           ),
@@ -195,7 +195,7 @@ class SettingsModel with ChangeNotifier {
   bool _darkMode = false;
   double _textSize = 16.0;
   bool _notificationsEnabled = true;
-  final List<String> categories = ["allCats", "lit", "sigma"];
+  final List<String> categories = ["allCats", "lit", "sci"];
   List<String> catSelected = ["allCats"];
 
   bool get darkMode => _darkMode;
