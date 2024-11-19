@@ -607,11 +607,13 @@ class FavoritesPage extends StatelessWidget {
               style: TextStyle(height: 3.0, fontSize: 20)),
         ),
         for (dynamic question in appState.favorites)
-          ListTile(
-            title: Text(question["answer_sanitized"]),
-            contentPadding: EdgeInsets.all(10),
-            subtitle: Text(sanitizeQuestion(question)),
-          ),
+          if (question != null) 
+            ListTile(
+              title: Text(question["answer_sanitized"]),
+              contentPadding: EdgeInsets.all(10),
+              subtitle: Text(sanitizeQuestion(question)),
+            ),
+          
       ],
     );
   }
