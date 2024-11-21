@@ -10,7 +10,7 @@ import 'package:text_analysis/text_analysis.dart';
 import 'dart:convert';
 import 'dart:math';
 
-//Written by Lysander Pineapple
+//Written by Lysander Pineapple and AJ
 
 double _fsize = 16.0;
 void main() {
@@ -78,13 +78,24 @@ class CheckboxExample extends StatefulWidget {
       {required this.displayedText,
       required this.settings,
       required this.index,
+      this.initialChecked = false,
       super.key});
+
+  final bool initialChecked;
+
   @override
   State<CheckboxExample> createState() => _CheckboxExampleState();
 }
 
 class _CheckboxExampleState extends State<CheckboxExample> {
   bool isChecked = false;
+
+  @override
+  void initState() {
+    super.initState();
+    isChecked =
+        widget.initialChecked; // Initialize `isChecked` to the provided value
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -117,7 +128,12 @@ class _CheckboxExampleState extends State<CheckboxExample> {
   }
 }
 
-class SettingsPage extends StatelessWidget {
+class SettingsPage extends StatefulWidget {
+  @override
+  State<SettingsPage> createState() => _SettingsPageState();
+}
+
+class _SettingsPageState extends State<SettingsPage> {
   @override
   Widget build(BuildContext context) {
     final settings = context.watch<SettingsModel>();
@@ -150,7 +166,9 @@ class SettingsPage extends StatelessWidget {
               divisions: 20,
               label: '${_fsize.round()}',
               onChanged: (value) {
-                _fsize = value;
+                setState(() {
+                  _fsize = value;
+                });
               },
             ),
           ),
@@ -160,6 +178,7 @@ class SettingsPage extends StatelessWidget {
             displayedText: "All Categories",
             settings: settings,
             index: 0,
+            initialChecked: true,
           ),
           CheckboxExample(
             displayedText: "Current Events",
@@ -253,7 +272,8 @@ class SettingsModel with ChangeNotifier {
     "relig",
     "sci",
     "shit",
-    "socSci"
+    "socSci",
+    "saved"
   ];
   List<String> catSelected = ["allCats"];
 
@@ -356,7 +376,7 @@ class GeneratorPage extends StatefulWidget {
 
 class _GeneratorPageState extends State<GeneratorPage> {
   final _textController = TextEditingController();
-  dynamic questionStuff = null;
+  dynamic questionStuff;
   String questionText = "";
   String userInput = "";
   String _displayedText = "";
