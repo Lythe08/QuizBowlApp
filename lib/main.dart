@@ -10,7 +10,7 @@ import 'package:text_analysis/text_analysis.dart';
 import 'dart:convert';
 import 'dart:math';
 
-//Written by Lysander Pineapple and AJ
+//Written by Lysander Pineapple
 
 double _fsize = 16.0;
 void main() {
@@ -93,8 +93,8 @@ class _CheckboxExampleState extends State<CheckboxExample> {
   @override
   void initState() {
     super.initState();
-    isChecked =
-        widget.initialChecked; // Initialize `isChecked` to the provided value
+    isChecked = widget.settings.catSelected.contains(widget.settings.categories[
+        widget.index]); // Initialize `isChecked` to the provided value
   }
 
   @override
@@ -128,12 +128,7 @@ class _CheckboxExampleState extends State<CheckboxExample> {
   }
 }
 
-class SettingsPage extends StatefulWidget {
-  @override
-  State<SettingsPage> createState() => _SettingsPageState();
-}
-
-class _SettingsPageState extends State<SettingsPage> {
+class SettingsPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final settings = context.watch<SettingsModel>();
@@ -166,9 +161,7 @@ class _SettingsPageState extends State<SettingsPage> {
               divisions: 20,
               label: '${_fsize.round()}',
               onChanged: (value) {
-                setState(() {
-                  _fsize = value;
-                });
+                _fsize = value;
               },
             ),
           ),
@@ -272,8 +265,7 @@ class SettingsModel with ChangeNotifier {
     "relig",
     "sci",
     "shit",
-    "socSci",
-    "saved"
+    "socSci"
   ];
   List<String> catSelected = ["allCats"];
 
@@ -376,7 +368,7 @@ class GeneratorPage extends StatefulWidget {
 
 class _GeneratorPageState extends State<GeneratorPage> {
   final _textController = TextEditingController();
-  dynamic questionStuff;
+  dynamic questionStuff = null;
   String questionText = "";
   String userInput = "";
   String _displayedText = "";
@@ -686,13 +678,11 @@ class FavoritesPage extends StatelessWidget {
               style: TextStyle(height: 3.0, fontSize: 20)),
         ),
         for (dynamic question in appState.favorites)
-          if (question != null) 
-            ListTile(
-              title: Text(question["answer_sanitized"]),
-              contentPadding: EdgeInsets.all(10),
-              subtitle: Text(sanitizeQuestion(question)),
-            ),
-          
+          ListTile(
+            title: Text(question["answer_sanitized"]),
+            contentPadding: EdgeInsets.all(10),
+            subtitle: Text(sanitizeQuestion(question)),
+          ),
       ],
     );
   }
