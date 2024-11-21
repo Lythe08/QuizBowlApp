@@ -237,6 +237,7 @@ class SettingsPage extends StatelessWidget {
           Divider(),
           ElevatedButton(
             onPressed: () {
+              Question.tossups = [];
               Question.loadJsonAsset(settings.getSelected());
             },
             child: Text("Update"),
