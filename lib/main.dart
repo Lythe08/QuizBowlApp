@@ -254,8 +254,8 @@ class SettingsModel with ChangeNotifier {
   bool _notificationsEnabled = true;
   final List<String> categories = [
     "allCats",
-    "currEv",
-    "finArts",
+    "curEv",
+    "fineArt",
     "geo",
     "hist",
     "lit",
@@ -264,8 +264,8 @@ class SettingsModel with ChangeNotifier {
     "philo",
     "relig",
     "sci",
-    "shit",
-    "socSci"
+    "socSci",
+    "trash"
   ];
   List<String> catSelected = ["allCats"];
 
